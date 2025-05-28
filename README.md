@@ -15,9 +15,15 @@ This project is licensed under a [**Custom Limited License**](./LICENSE) by [Pro
 
 ### Just Read!
 
+### Confirm!
+
 ### And Read!
 
+### Validate It!
+
 ### Read Again!
+
+### Update Us!
 
 ### And Read Again!
 
