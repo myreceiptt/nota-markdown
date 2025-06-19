@@ -1,4 +1,4 @@
-# 🎲 PAPAN NOTA: Perjalanan Digital Menuju Kesadaran
+# 🎲 NOTA BOARD GAME: Perjalanan Digital Menuju Kesadaran
 
 > *“Ini bukan soal menang. Ini soal mengenali siapa kamu saat semua sistem tidak lagi menyembunyikanmu.”*  
 > — Prof. NOTA
@@ -7,7 +7,7 @@
 
 ## ✨ Cerita & Filosofi
 
-**PAPAN NOTA** adalah board game edukatif-satiris yang membawa para pemain dalam perjalanan sosial digital — dari kebingungan menjadi kesadaran. Setiap pemain mewakili peran dalam ekosistem digital global dan harus menghadapi kondisi, membuat pilihan, dan memengaruhi pemain lain melalui jalur menuju **Puncak Kesadaran**.
+**NOTA BOARD GAME** adalah board game edukatif-satiris yang membawa para pemain dalam perjalanan sosial digital — dari kebingungan menjadi kesadaran. Setiap pemain mewakili peran dalam ekosistem digital global dan harus menghadapi kondisi, membuat pilihan, dan memengaruhi pemain lain melalui jalur menuju **Puncak Kesadaran**.
 
 Permainan ini bukan hanya alat permainan. Ia adalah kritik, simulasi, sekaligus cermin sosial bagi siapa pun yang pernah scroll, klik, atau menyembunyikan sesuatu dari internet.
 
