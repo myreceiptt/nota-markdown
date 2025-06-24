@@ -45,6 +45,8 @@ Kemitraan ini bertujuan mengintegrasikan sistem identitas sah Tilaka ke dalam ek
 - Sertifikasi kompetensi & partisipasi komunitas berbasis NFT.
 - **Web3 Government Interface**: jembatan antara ID kependudukan dengan wallet address.
 
+![Sebuah Ilustrasi Visual Sederhana](https://github.com/user-attachments/assets/77390e4e-bff2-489f-9731-a7fb5d706668)
+
 ---
 
 ## 4. Model Bisnis & Distribusi
