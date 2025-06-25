@@ -1,6 +1,6 @@
 
 ---
-title: "WHITEPAPER: NFT Claim System — Prof. NOTA Inc. Skateboards"  
+title: "NFT Claim System — Prof. NOTA Inc. Skateboards"  
 author: "Prof. NOTA Inc."  
 version: "v1.0"  
 date: "2025-06-24"  
