@@ -116,6 +116,64 @@ These simulations should be tracked via internal dashboard or analytics module.
 
 ---
 
+## 3. iBLOOMING Coin — Learn-to-Earn + Bitcoin-Linked Design
+
+### 🎯 Dual Utility Model
+
+In response to feedback from the Founders, iBLOOMING Coin will adopt a **dual-track design** to serve two user bases simultaneously:
+
+1. **Learn-to-Earn**  
+   Reward-based coin earned through educational participation (Phase 1–2).
+2. **Bitcoin-Linked Coin**  
+   A representation of Bitcoin ownership inside the iBLOOMING ecosystem, backed by treasury reserves (Phase 3+).
+
+---
+
+### ⚖️ Bitcoin-Linked Design Overview
+
+| Feature                    | Description |
+|----------------------------|-------------|
+| Treasury Mechanism         | iBLOOMING holds Bitcoin reserves (on-chain or off-chain) |
+| Token Minting              | Users receive iBLOOMING Coin as proof of BTC-backed value |
+| Entry Point for Beginners  | Non-crypto users can "buy Bitcoin" via fiat → receive iBLOOMING Coin |
+| DeFi Inspiration           | Similar to liquidity staking or wrapped BTC logic |
+| Transparency               | Optional proof-of-reserve module for public trust |
+
+---
+
+### 📱 User Journey Example
+
+```plaintext
+[1] User chooses to buy "Bitcoin" via iBLOOMING App (e.g., IDR 100,000)
+     ↓
+[2] App converts fiat → treasury BTC (custodial or via OTC)
+     ↓
+[3] User receives iBLOOMING Coin representing BTC value
+     ↓
+[4] Coin can be used to:
+    - Access educational content
+    - Participate in affiliate programs
+    - Hold or later redeem for BTC (if redemption supported)
+```
+
+### 🌍 Target User Groups
+
+| User Type | Motivation |
+|-----------|------------|
+| Non-Crypto Learners | Easy Bitcoin access, educational incentives |
+| Crypto-Native Users | Store BTC exposure + platform utility |
+| Affiliators (BLOO) | Use coin for access + earn revenue share |
+| International Users | Stable entry point into iBLOOMING’s Web3 ecosystem |
+
+### 🔒 Key Considerations
+
+- Ensure regulatory compliance in BTC conversion and coin issuance.
+- Evaluate whether the BTC-backed coin is custodial or non-custodial.
+- Consider optional KYC flows for fiat/BTC integration.
+- Prepare for Phase 2 token design that includes Bitcoin-pairing logic with real-time visibility and redemption path.
+
+> This structure will be discussed in full during the meeting on July 10–11. Implementation may be phased depending on legal, technical, and treasury readiness.
+
 ## 🌱 Vision Alignment
 
 This system supports iBLOOMING’s transition into a **Web3-native learning ecosystem** with:
