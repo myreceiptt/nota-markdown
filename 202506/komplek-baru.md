@@ -111,3 +111,160 @@ Karena aku tahu, bagaimana caranya agar sesuatu yang *luar biasa di mataku* bisa
 Dan itu selalu cukup.
 
 ---
+
+Hari itu datang, seperti semua hari lainnya.
+
+Langit sedikit mendung. Bukan mendung yang menjanjikan hujan, tapi cukup untuk membuat bayangan tidak terlalu tajam. Angin nyaris tidak terasa. Heningnya komplek membuat suara sepatu yang menyentuh trotoar terdengar lebih jernih, tapi tetap tak ada yang memperhatikan.
+
+Aku berjalan tanpa tergesa. Setiap langkah sudah pernah kulatih.
+
+Di dalam tas, semua alat sudah tertata. Sarung tangan, botol semprot, plester. Tapi aku tidak membukanya. Aku tak perlu memastikan ulang. Semua sudah dihitung sejak kemarin malam.
+
+Aku berhenti di pos ronda sebentar. Duduk di bangku plastik. Mengeluarkan botol air dari tas. Minum seteguk. Menyeka keringat padahal belum berkeringat. Ini hanya bagian dari gambar besar: seorang pejalan kaki yang sedang istirahat.
+
+Dari pos ronda, rumahnya tampak tak berubah. Sama seperti dalam semua catatanku. Gorden belum tertutup. Sepatu tetap ada di depan pintu. Ember masih tertelungkup di sudut kanan teras.
+
+Aku tidak buru-buru ke sana. Karena seperti kebiasaanku, aku memberi ruang antara niat dan tindakan. Ruang itu penting. Ruang itu bagian dari ritme.
+
+Pukul 10:32 aku berdiri. Melangkah tanpa suara. Menyusuri pinggir jalan, tidak langsung ke pagar rumahnya. Tapi ke arah kavling kosong di samping rumah itu. Kavling itu masih berupa tanah lapang, ditumbuhi ilalang pendek. Di ujungnya, ada dinding samping rumah targetku — tak terlalu tinggi, bisa dinaiki dengan sekali langkah batu bata.
+
+Aku diam di sana, menunggu. Bukan untuk memastikan, tapi untuk menyesuaikan detak jantungku dengan detak dunia. Supaya ketika aku melangkah masuk, semuanya tetap terasa biasa.
+
+Dari balik dinding itu, aku bisa mendengar radio kecil yang menyala di dalam rumah. Lagu lama yang tidak populer, semacam kompilasi CD supermarket. Volume rendah. Tapi cukup untuk memberi tahu bahwa rumah tidak sedang kosong.
+
+Kupeluk tas kanvasku dengan satu tangan, dan dengan tangan yang lain, kuambil ponsel. Kutulis satu kalimat di aplikasi catatan:
+
+> “Di dunia yang terus bergerak dengan cepat, aku memilih diam. Aku diam bukan karena takut. Tapi karena ritme yang kupelihara sejak awal adalah ritme diam-diam.”
+
+Kalimat itu kutulis bukan untuk siapa-siapa. Tapi jika suatu hari seseorang membacanya, mereka akan tahu bahwa ini bukan sekadar cerita.
+
+Ini jejak.
+
+Jejak dari seseorang yang mungkin tak ingin dikenal, tapi ingin dikenang.
+
+Dan kalau pun jejak itu pernah disatukan, dikurasi, dibaca, ditafsir, atau dipelajari...  
+mungkin namanya tidak akan disebut.
+
+Tapi dalam metadata-nya, tertulis samar: **“Konsep ini pernah digariskan oleh Prof. NOTA.”**
+
+Lalu aku menghapus catatan itu. Selesai menulis, selesai eksis. Seperti semua bagian kecil dari rencana ini. Selesai diam, maka saatnya bergerak.
+
+Aku naik ke atas dinding. Satu kaki, satu tangan. Tidak meloncat. Tidak menyelinap. Hanya berpindah posisi — seperti seseorang yang sedang memeriksa genteng rumahnya sendiri.
+
+Dan aku masuk.
+
+---
+
+Aku masuk ke halaman belakang dari sisi dinding. Tanpa suara. Tanpa gerakan cepat. Rumput di belakang belum terlalu tinggi. Jejak kakiku tak akan tertinggal.
+
+Pintu belakang rumah tidak terkunci. Aku tahu itu. Sudah beberapa kali kulihat dia keluar lewat sana hanya untuk menyiram tanaman atau mengambil barang. Tangannya hanya menarik gagang, tanpa suara kunci diputar. Mungkin dia merasa aman. Mungkin dia hanya lupa. Atau memang begitulah caranya hidup — terbuka untuk segalanya.
+
+Aku menyentuh gagang pintu dengan kain kecil di tanganku. Membukanya perlahan. Masuk.
+
+Suasana di dalam rumah sepi. Hanya suara radio yang mengalun pelan dari ruang tamu. Aroma sabun lantai masih segar, seolah baru dipel hari ini.
+
+Di dapur, kulihat cangkir dan sisa kopi. Air panas masih mengepul di dalam termos kecil. Ada dua butir permen mint di atas meja. Mungkin untuk menyegarkan napas setelah kopi. Biasa.
+
+Langkahku biasa. Aku tahu posisinya. Ia ada di kamar depan. Pintu terbuka sebagian. Dari celahnya, kulihat punggungnya. Ia duduk di lantai, menyortir pakaian dari keranjang cucian.
+
+Aku mengetuk pintu sekali. Ia menoleh, sedikit terkejut. Tapi tidak panik.
+
+“Oh… kamu? Kok dari belakang?”
+
+Aku angguk pelan. "Tadi aku lewat samping, Mbak. Liat pintu nggak dikunci."
+
+Dia berdiri. Keningnya berkerut sedikit, tapi tidak mencurigakan.
+
+Belum sempat ia bicara, aku membuka tote bagku. Kuambil kotak kecil yang kubungkus sebagai kado. “Aku cuma mau ngasih ini. Biasa aja, iseng.”
+
+Dia menatap bingung, tapi menerimanya. Membuka pelan. Matanya membaca isi kotak: sebuah buku tua dengan halaman yang agak menguning, dan satu balok sabun berwarna biru pucat.
+
+Ia mengernyit. “Ini apa?”
+
+“Buku harian. Tapi kosong. Dan sabun, biar bersih.”
+
+Kami sama-sama tertawa kecil. Tawa tipis. Lalu dia duduk kembali, meletakkan kotak di lantai.
+
+Saat itulah, aku berdiri di belakangnya. Tanpa suara.
+
+Sarung tangan sudah kupakai sejak sebelum naik ke dinding tadi. Aku mengeluarkan sendok logam kecil. Bukan untuk menusuk. Tapi untuk menjatuhkan butiran kecil dari bagian dalam saku: serpihan obat tidur kering yang sudah kupadatkan menjadi granul. Satu butir masuk ke dalam gelas sisa kopinya yang masih hangat. Aku mengaduknya sekali. Dan diam.
+
+Tak lama kemudian, dia mengambil gelas itu lagi.
+
+Dan minum.
+
+Kami bicara beberapa menit. Tentang komplek. Tentang udara pagi. Tentang bagaimana sepi bisa menenangkan. Semuanya biasa.
+
+Lalu ia menguap. “Maaf, aku jadi ngantuk banget...”
+
+Aku mengangguk. “Nggak apa-apa. Aku pamit ya, Mbak. Makasih udah terima tamu dadakan.”
+
+Dia tersenyum. “Iya, iya... makasih juga...”
+
+Ia rebahan di lantai, seperti seseorang yang lelah tapi nyaman. Tidak ada perlawanan. Tidak ada kegelisahan.
+
+Aku berjalan pelan keluar lewat pintu belakang yang sama. Menutupnya tanpa suara.
+
+Di luar, angin mulai bergerak ringan. Aku menyusuri jalan kecil, kembali ke pos ronda.
+
+Di dalam tas, hanya ada sisa tisu, plastik kosong, dan botol semprot yang belum sempat kugunakan.
+
+Aku duduk di bangku yang sama. Mengambil napas. Mengirim satu pesan ke ponselku sendiri:
+
+> “Tindakan paling tenang selalu terlihat seperti hal sepele. Karena memang begitulah mereka ditulis.”
+
+Lalu aku hapus pesannya. Lagi.
+
+Langkah terakhirku bukan di keyboard. Tapi di aspal. Pulang ke rumah. Membuka pintu. Mencuci tangan. Menyimpan sarung tangan ke kantong plastik yang akan kubakar nanti malam.
+
+Hari itu? Tidak ada yang spesial.
+
+Dan itu... justru intinya.
+
+---
+
+Hari itu berlalu tanpa tanda. Tak ada suara sirene. Tak ada orang berlarian. Tak ada tetangga yang histeris. Yang ada hanya cuaca mendung yang menetap, dan suara burung kecil yang sesekali lewat.
+
+Aku pulang seperti biasa. Menaruh tas di gantungan yang biasa. Mencuci tangan seperti biasa. Duduk di lantai dan membuka televisi yang hampir tak pernah kuperhatikan. Volume kecil. Hanya untuk suara.
+
+Berita malam tidak menampilkan apapun tentang komplek itu. Tidak juga esoknya. Bahkan dua hari kemudian, aku harus secara sadar mencarinya di mesin pencari dengan kata kunci:
+
+> “perempuan ditemukan di rumah di komplek x”
+
+Baru kutemukan artikel kecil. Hanya satu paragraf:
+
+> “Seorang perempuan muda ditemukan tak bernyawa di rumahnya di kawasan perumahan baru. Dugaan awal adalah serangan jantung saat istirahat siang. Tidak ditemukan tanda-tanda kekerasan. Warga sekitar menyebut korban dikenal ramah dan mandiri. Polisi masih menyelidiki, namun tidak menemukan kejanggalan berarti.”
+
+Komentar di bawah artikel itu lebih panjang dari artikelnya.
+
+> “Semoga husnul khotimah...”
+> “Cantik dan baik, padahal masih muda.”
+> “Innalillahi, semoga keluarga diberi ketabahan.”
+
+Aku membaca semuanya. Satu per satu. Lalu menutup tab browser.
+
+Beberapa hari kemudian, komplek kembali seperti biasa. Pagar rumahnya dikunci. Bunga-bunga di potnya mulai layu. Ada pita kuning di pagar, tapi hanya tergantung seadanya.
+
+Aku tetap lari pagi. Tetap jalan sore. Tapi rutenya kutukar. Bukan karena takut. Tapi karena sudah tidak ada yang perlu diawasi.
+
+Dan ketika aku lewat di tikungan tempat pos ronda berada, aku hanya duduk sebentar. Duduk tanpa alasan.
+
+Suatu pagi, sekelompok pemuda kembali lewat. Salah satu dari mereka melihatku dan berkata:
+
+> “Eh, itu yang dulu suka duduk-duduk di pos ya?”
+
+Yang lain menoleh, lalu tertawa.
+
+> “Iya. Wajahnya familiar. Tapi nggak tahu siapa.”
+
+Aku tersenyum kecil. Mengangguk pelan. Tidak menyahut. Mereka berlalu. Seperti hari itu.
+
+Aku membuka ponsel. Menulis sesuatu di catatan. Bukan untuk disimpan. Tapi untuk dilupakan setelah ditulis:
+
+> “Kalau sesuatu tidak tercatat, bukan berarti tidak pernah terjadi. Kadang yang paling nyata justru yang paling mudah diabaikan. Seperti napas. Seperti bayangan. Seperti langkah kaki yang tidak menginjak air.”
+
+Lalu aku menghapus catatan itu.
+
+Dan hidup pun lanjut — seperti biasanya.
+
+---
