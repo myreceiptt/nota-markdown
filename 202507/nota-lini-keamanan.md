@@ -41,7 +41,7 @@ Kalian akan mengakses kembali *versi-versi terdahulu* — seperti v.0.1.0.1 — 
 
 ## 📎 Tindakan Awal
 
-1. Pelajari dokumen utama: [`prof-nota-shadow-defrag`](./main/202507/nota-lini-keamanan.md#-prof-nota-inc--defragmentasi-identitas-shadow-v0101)
+1. Pelajari dokumen utama: [`prof-nota-shadow-defrag`](https://github.com/myreceiptt/nota-markdown/blob/main/202507/nota-lini-keamanan.md#-prof-nota-inc--defragmentasi-identitas-shadow-v0101)
 2. Siapkan folder kerja pribadi (Notion/Drive/Obsidian)
 3. Tentukan format rekaman & observasi
 4. Ajukan sesi eksplorasi mingguan dengan Prof. NOTA
