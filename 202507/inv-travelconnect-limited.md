@@ -39,13 +39,18 @@ Decentralized App (dApp) Development for TravelConnect Limited — lightweight b
 
 ### 💵 Payment Method:
 
-#### Bank Transfer
+#### Bank Transfer (to be confirmed)
 
-Bank Name: Bank Central Asia (BCA)  
-Account Number: 1302084453  
-Account Name: AFIETADI KURNIAWAN
+#### Crypto Wallet
 
-#### Crypto Wallet (to be confirmed)
+Blockchain: **Bitcoin**  
+Address (Taproot): **bc1p3kavj2zxcx3z5c2rwlpr45hjetjejxr9z40cpgs2d99d5asdljcs55yplr**
+
+Blockchain: **Ethereum, Optimism (OP Mainnet), Base, and Binance Smart Chain**  
+Address: **0xfF809a9B2085A7247Edd03e03Ed71df905C2AF32**
+
+Blockchain: **Solana**  
+Address: **5zWdwiYn3mX6vqcA32mp5EiKLap7maXuufnyhHRQKJXj**
 
 Due upon completion, or latest by **25 July 2025**.  
 Thank you for your trust in Prof. NOTA
