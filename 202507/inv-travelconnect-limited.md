@@ -39,7 +39,10 @@ Decentralized App (dApp) Development for TravelConnect Limited — lightweight b
 
 ### 💵 Payment Method:
 
-#### Bank Transfer (to be confirmed)
+#### Bank Transfer
+
+Bank Name: Bank Central Asia (BCA)  
+<img width="554" height="75" alt="moncroot-2025-07-19" src="https://github.com/user-attachments/assets/b5c5734b-e8bc-4c8d-80d5-d9fa094d8704" />
 
 #### Crypto Wallet
 
