@@ -1,6 +1,5 @@
 # 🧾 INVOICE  
-**Issued by:** Prof. NOTA Inc.  
-PT. Suaka Dunia Raja  
+**Issued by:** Prof. NOTA  
 Email: nota@endhonesa.com  
 Date: 19 July 2025  
 Invoice Number: NOTA-ZIM-0725
