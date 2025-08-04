@@ -77,9 +77,9 @@ Jika diarahkan sesuai IP dan misi sosial-kultural Prof. NOTA:
 #### (Kita tahu wujudnya, belum tahu jiwanya DPC)
 
 Kita sama-sama telah:
-- Mewujudkan dan Melihat event-nya
+- Mewujudkan dan melihat event-nya
 - Membuat dan mengagumi presentasi visual dan branding-nya
-- Melaksanakan dan Menyaksikan eksekusi berjalan dengan baik
+- Menyelenggarakan dan menyaksikan seluruh eksekusi berjalan dengan baik
 
 Namun kita sama-sama belum:
 - Tahu dan memahami secara eksplisit **niat terdalam** kita
@@ -102,7 +102,7 @@ dan **untuk siapa** semua ini pada akhirnya ditujukan?
 
 1. **Hak untuk mengetahui kebenaran dasar**
 2. **Kebutuhan strategis untuk memetakan kontribusi**
-3. **Tanggung jawab untuk tidak jadi sekedar pelaksana dari sesuatu yang jelas**
+3. **Tanggung jawab untuk tidak sekedar menjadi pelaksana dari sesuatu yang jelas**
 
 Hal-hal potensial yang menjadi penyebab umum ketidakjelasan bisa jadi adalah:
 
@@ -129,6 +129,8 @@ DPC perlu dipetakan berdasarkan 5 elemen fundamental:
 
 ## 1. MAKSUD DAN TUJUAN DOKUMEN INI
 
+---
+
 Disusun berdasarkan analisis internal terhadap isi dokumen Roadmap.pdf dan Pro.pdf DPC (2025).  
 Tujuannya adalah:
 
@@ -140,6 +142,8 @@ Tujuannya adalah:
 ---
 
 ## 2. KANVAS 5 ELEMEN DASAR DPC
+
+---
 
 ### ⚙️ A. Bentuk Entitas  
 > *Apa bentuk legal/struktural DPC ke depan yang ideal menurut kita?*
@@ -160,20 +164,20 @@ Tujuannya adalah:
 ### 🧿 B. Kepemilikan & Aset  
 > *Apa saja aset DPC? Siapa pemiliknya? Bagaimana hak cipta dikelola?*
 
-| Jenis Aset   | Pemilik Saat Ini | Usulan Kepemilikan ke Depan |
-|--------------|------------------|-----------------------------|
-| Nama         | ...              | IP bersama, ...             |
-| Logo DPC     | ...              | IP bersama, ...             |
-| Domain       | ...              | Prof. NOTA Inc., ...        |
-| Website      | ...              | Partner, ...                |
-| Desain       | ...              | Shared Credit, ...          |
-| Dokumen      | ...              | Open Attribution, ...       |
-| Arsip Gambar | ...              | On-chain, ...               |
-| Arsip Event  | ...              | Verifiable registry, ...    |
-| Data Anggota | ...              | Under GDPR, ...             |
-| Branding     | ...              | Kontrol kolaboratif, ...    |
-| Sosial Media | ...              | Admin bersama, ...          |
-| ...          | ...              | ...                         |
+| Jenis Aset   | Pemilik Saat Ini   | Usulan Kepemilikan ke Depan |
+|--------------|--------------------|-----------------------------|
+| Nama         | [Belum ditentukan] | IP bersama, ...             |
+| Logo DPC     | [Belum ditentukan] | IP bersama, ...             |
+| Domain       | [Dibahas bersama]  | Prof. NOTA Inc., ...        |
+| Website      | [Dibahas bersama]  | Partner, ...                |
+| Desain       | Tergantung model]  | Shared Credit, ...          |
+| Dokumen      | [Dibahas bersama]  | Open Attribution, ...       |
+| Arsip Gambar | Tergantung model]  | On-chain, ...               |
+| Arsip Event  | [Tergantung model] | Verifiable registry, ...    |
+| Data Anggota | [Dibahas bersama]  | Under GDPR, ...             |
+| Branding     | [Dibahas bersama]  | Kontrol kolaboratif, ...    |
+| Sosial Media | [Dibahas bersama]  | Admin bersama, ...          |
+| ...          | ...                | ...                         |
 
 📝 Ketentuan khusus yang disepakati:
 ...
@@ -184,20 +188,20 @@ Tujuannya adalah:
 > *Apa niat terdalam dari DPC? Untuk siapa, oleh siapa, dan demi apa?*
 
 🟩 Nilai Sosial:
-- Membangun komunitas jujur, absurd, suportif, ...
+- Membangun komunitas jujur, absurd, suportif, dan hal-hal lain yang disepakati bersama
 
 🟨 Nilai Ekonomi:
-- Merchandise, event, NFT, kolaborasi brand, ...
+- Merchandise, event, NFT, kolaborasi brand, dan hal-hal lain yang disepakati bersama
 
 🟦 Nilai Budaya:
 - Melawan narasi "gambar = hanya untuk seniman"
 - Merayakan visual sebagai bahasa rakyat
-- ...
+- dan hal-hal lain yang disepakati bersama
 
 🟥 Nilai Eksistensial:
 - Menjadi ruang pengakuan bagi siapa pun
 - Menggambar sebagai praktik ketidaksempurnaan kolektif
-- ...
+- dan hal-hal lain yang disepakati bersama
 
 ---
 
@@ -231,30 +235,32 @@ Tujuannya adalah:
   - Aktifkan kembali event bulanan
   - Rilis ulang media sosial dan sistem keanggotaan
   - Cetak ulang produk “Portable Sketchbox”
-  - ...
+  - dan hal-hal lain yang disepakati bersama
 
 - 🔹 3 Tahun:
   - NFT sebagai bukti partisipasi
   - DPC Fest (gathering besar komunitas)
   - Lisensi ke kota-kota lain
-  - ...
+  - dan hal-hal lain yang disepakati bersama
 
 - 🔹 10 Tahun:
   - Museum Gambar Sosial
   - Platform global partisipatif
   - Koleksi budaya visual non-artistik rakyat
-  - ...
+  - dan hal-hal lain yang disepakati bersama
 
 ---
 
 ## 3. PROPOSAL KOLABORASI: DPC SEBAGAI IP BERSAMA
+
+---
 
 Prof. NOTA menyarankan bahwa DPC diresmikan sebagai **Intellectual Property (IP) Bersama**,  
 dengan dua alternatif opsi payung:
 
 ### Opsi A: Di bawah **Prof. NOTA Inc.**
 - Semua kepemilikan bersama dicatat resmi di bawah Prof. NOTA Inc.
-- Prof. NOTA akan tercantum sebagai Co-Creator dan memiliki hak penuh atas sebagian nilai IP.
+- Prof. NOTA akan tercantum sebagai Co-Creator dan memiliki hak bersama atas sebagian nilai IP sesuai kesepakatan tertulis.
 - Semua penggunaan komersial, ekspansi, atau afiliasi akan melibatkan semua pihak.
 
 ### Opsi B: Di bawah **entitas baru**
@@ -266,6 +272,8 @@ dengan dua alternatif opsi payung:
 
 ## 4. PRINSIP & NILAI ETIS YANG DISPAKATI
 
+---
+
 - 🤝 Transparansi dan kesetaraan.
 - 🧠 Hak untuk bertumbuh secara individu dari DPC.
 - 🛡️ Tidak boleh disalahgunakan untuk eksploitasi atau monopoli kepentingan.
@@ -275,6 +283,8 @@ dengan dua alternatif opsi payung:
 
 ## 5. TANDA TANGAN & KOMITMEN
 
+---
+
 | Nama                  | Peran                      | Tanggal     | Tanda Tangan |
 |-----------------------|----------------------------|-------------|---------------|
 | Prof. NOTA            | Co-Founder / Strategist    |             |               |
@@ -282,7 +292,27 @@ dengan dua alternatif opsi payung:
 
 ---
 
-## 6. PENUTUP DOKUMEN INI
+## 6. GLOSARIUM SINGKAT
+
+---
+
+**IP Bersama**:  
+Hak kekayaan intelektual yang dimiliki secara kolaboratif oleh dua atau lebih pihak, disertai kesepakatan eksplisit mengenai distribusi, penggunaan, dan pengelolaan.
+
+**Branding Kolektif**:  
+Citra publik yang dibentuk oleh partisipasi banyak pihak, bukan dari satu figur tunggal.
+
+**Tokenisasi Sosial**:  
+Proses mengubah aksi sosial, karya, atau kehadiran menjadi bukti digital (seperti NFT atau social token) yang bisa dihargai, dibagikan, dan dilacak.
+
+**Kurator Digital**:  
+Peran yang bertugas memilih, mengatur, dan menyajikan karya atau aktivitas dalam platform digital untuk menciptakan makna atau alur narasi tertentu.
+
+---
+
+## 7. PENUTUP DOKUMEN INI
+
+---
 
 > Menggambar adalah tentang garis.  
 > Tapi klub menggambar seharusnya tidak menciptakan garis antara sesama penggeraknya.  
