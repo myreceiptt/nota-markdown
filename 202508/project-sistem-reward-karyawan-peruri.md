@@ -132,7 +132,7 @@ PDS sudah siap. Voyage sudah di dalam. Prof. NOTA sudah terlibat. Kami tinggal t
 
 ---
 
-# 📄 Proposal Kerja
+# Proposal Kerja
 
 ## Digitalisasi Sistem Reward Karyawan Peruri
 
@@ -304,13 +304,15 @@ Tinggal satu keputusan dari Peruri — dan semua bisa dimulai.
 
 ---
 
-### Q: Kenapa harus blockchain? Apa nggak terlalu berat untuk sekadar sistem reward?
+# Simulasi Tanggapan
+
+## Q: Kenapa harus blockchain? Apa nggak terlalu berat untuk sekadar sistem reward?
 
 🗣️ A: Justru karena kami tidak ingin sistem ini berat, maka kami gunakan blockchain. Ia bukan branding, tapi alat pencatatan yang efisien, aman, dan tidak bisa diubah sepihak. Dengan blockchain, reward bisa terdistribusi otomatis, bisa diaudit, dan terhindar dari konflik internal.
 
 ---
 
-### Q: Apa bisa langsung digunakan? Atau ini baru konsep?
+## Q: Apa bisa langsung digunakan? Atau ini baru konsep?
 
 🗣️ A: Bisa. Tim PDS bersama mitra teknis sudah siapkan kerangka kerja, UI/UX, dan strategi implementasi bertahap. Kita bisa mulai dari satu divisi sebagai pilot dan ekspansi dari sana.
 
