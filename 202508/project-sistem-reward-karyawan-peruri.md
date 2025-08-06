@@ -112,6 +112,8 @@ _Diajukan oleh PDS bersama mitra blockchain: Voyage & Prof. NOTA_
 
 ---
 
+# Narasi Pitch Singkat
+
 Hari ini kita tidak bicara soal sistem IT. Kita bicara soal sistem nilai.
 
 Sistem reward karyawan saat ini sudah tidak relevan dengan cara orang bekerja hari ini. Banyak kontribusi nyata tidak terlihat, tidak tercatat, bahkan belum sepenuhnya dihargai. Itulah kenapa kita butuh transformasi.
