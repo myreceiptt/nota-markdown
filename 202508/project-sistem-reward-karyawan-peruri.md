@@ -258,7 +258,7 @@ Untuk kebutuhan jangka panjang atau perluasan ke skala nasional / BUMN lain, bia
 
 ---
 
-**🧮 Ringkasan Tambahan Biaya Opsional:**
+## VI. Ringkasan Tambahan Anggaran
 
 | Komponen                         | Estimasi Biaya        |
 |----------------------------------|------------------------|
@@ -268,7 +268,7 @@ Untuk kebutuhan jangka panjang atau perluasan ke skala nasional / BUMN lain, bia
 
 ---
 
-## VI. Manfaat & Dampak
+## VII. Manfaat & Dampak
 
 ### 🎯 Manfaat Internal
 
@@ -290,7 +290,7 @@ Untuk kebutuhan jangka panjang atau perluasan ke skala nasional / BUMN lain, bia
 
 ---
 
-## VII. Penutup
+## VIII. Penutup
 
 Proposal ini bukan hanya tentang teknologi. Ini tentang nilai.
 PDS, Voyage, dan Prof. NOTA hadir untuk mentransformasikan sistem reward karyawan menjadi sesuatu yang hidup, dinamis, dan bermakna. Kami siap mengeksekusi.
