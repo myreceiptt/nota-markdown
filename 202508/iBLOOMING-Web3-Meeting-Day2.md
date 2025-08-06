@@ -11,7 +11,7 @@
 
 ## ☕ Morning Reflection and Informal Session
 
-The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the `iBLOOMING-Web3-Meeting-Day1.md` file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
+The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the [`iBLOOMING-Web3-Meeting-Day1.md`](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md) file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
 
 1. Validate the 4 execution pillars with all Founders  
 2. Assign responsible persons and timelines  
@@ -39,9 +39,9 @@ Prof. NOTA saw this moment as a key turning point:
 
 ---
 
-## 🗣 Yuku's Intervention (in Cantonese / Hongkong language)
+## 🗣 Yuku's Speaks (in Cantonese / Hong Kong language)
 
-After KK’s presentation, Yuku took the floor — presenting and questioning extensively in Hongkong/Cantonese. While the rest of the Founders were fluent, Prof. NOTA did not understand the language.
+After KK’s presentation, Yuku took the floor — presenting and questioning extensively in Hong Kong/Cantonese. While the rest of the Founders were fluent, Prof. NOTA did not understand the language.
 
 KK was then asked by Mr. Onggy to explain the core summary to Prof. NOTA in English.
 
@@ -53,12 +53,7 @@ KK was then asked by Mr. Onggy to explain the core summary to Prof. NOTA in Engl
 - BGC handles offline/physical products and affiliate expansion using fiat-based Purchase Credits and Sales Points
 - Affiliates receive content access, product discounts, and revenue-sharing from both companies
 
----
-
-## ❓ Yuku’s Strategic Questions
-
-Yuku’s line of inquiry — spoken mostly in Hongkong — focused on five major uncertainties, later translated and clarified:
-
+### ❓ Yuku’s Strategic Questions:
 1. **How to determine iBLOOMING Coin (iBC) price?**  
 2. **How to ensure a stable pairing ratio between iBC and BTC?**  
 3. **Can iBC become a core product instead of having to make digital/physical goods?**  
