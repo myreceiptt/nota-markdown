@@ -131,10 +131,10 @@ Move from vision to action. Identify:
 
 | Pillar             | SDM (Internal/External)                                                                  | Budget Est.          | Time Est.            | Status        | Notes                                                                                   |
 |--------------------|------------------------------------------------------------------------------------------|----------------------|----------------------|---------------|-----------------------------------------------------------------------------------------|
-| Web3 Login         | - Yuku (Mobile Dev)  <br> - 1 Web3 Engineer (ThirdWeb SDK)                               | ...       | 1–2 months           | Not started   | Start with mobile; use ThirdWeb Smart Wallet.                                           |
-| ALPHA Coin         | - Prof. NOTA (Design) <br> - Janet (Ops) <br> - 1 Dev                                    | ...        | 3 weeks setup        | In draft      | Non-tradable; internal analytics needed for saving/spending ratio.                      |
-| Tokenomics Dev     | - Prof. NOTA (Lead) <br> - Yuku (Data Analyst) <br> - 1 NFT Dev                          | ...        | 1–2 months           | Not started   | NFT Kolektibel used for spending simulation, avoiding loss of real revenue.             |
-| Coin Release       | - Prof. NOTA (Token Design) <br> - 1 Blockchain Dev <br> - 1 Ops/Legal                   | ...      | 2–3 months           | Not started   | Coin will serve multiple functions including staking and governance.                    |
+| Web3 Login         | - Mobile Dev  <br> - 1 Web3 Engineer                               | ...       | 1–2 months           | Not started   | Start with mobile; use ThirdWeb Smart Wallet.                                           |
+| ALPHA Coin         | - Prof. NOTA (Token Design) <br> - 1 Web3 Engineer <br> - 1 Ops                                    | ...        | 3 weeks setup        | In draft      | Non-tradable; internal analytics needed for saving/spending ratio.                      |
+| Tokenomics Dev     | - Prof. NOTA (Lead) <br> - KK for Data Source <br> - 1 Web3 Engineer                          | ...        | 1–2 months           | Not started   | NFT Kolektibel used for spending simulation, avoiding loss of real revenue.             |
+| Coin Release       | - Prof. NOTA (Token Design) <br> - 1 Web3 Engineer <br> - 1 Ops/Legal                   | ...      | 2–3 months           | Not started   | Coin will serve multiple functions including staking and governance.                    |
 
 > ⚠️ This matrix is a **simulation** based on current understanding. The final role assignment and timeline should be confirmed with the Founders based on real team capacity and rhythms.
 
