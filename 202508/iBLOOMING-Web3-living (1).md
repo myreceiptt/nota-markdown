@@ -1,64 +1,87 @@
-# iBLOOMING Web3 – Living Document
+# iBLOOMING Web3 – Living Guidance Document
 
-This is the synchronized operational document for the Web3 transformation of iBLOOMING & BGC. It summarizes insights, confirms milestones, and instructs concrete next steps after meetings on July 10 and 11, 2025.
+📍 *This document serves as the operational and strategic guide for the Web3 transformation of iBLOOMING & BGC, based on collective discussions held on July 10 & 11, 2025.*
+
+It is meant to be read, discussed, adjusted if needed, and ultimately agreed upon by all founders — then used as a living, evolving reference as execution proceeds.
+
+🧾 Source Meeting Notes:  
+- [Day 1: 10 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md)  
+- [Day 2: 11 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202508/iBLOOMING-Web3-Meeting-Day2.md)
 
 ---
 
-## 📌 CURRENT STATUS: Alpha Coin
+## 🔍 CORE CONTEXT
 
-**Alpha Coin is already in action** within BGC:
+For the past two years, iBLOOMING (Digital Product Platform) and BGC (Affiliate Marketing/MLM Structure) have been operating in parallel.
 
-- Purchase Credit = Value Token
-- Sales Point = Activity Token / Reward Point
-- Profit Sharing = Holding-Based Reward
-- Integration with iBLOOMING = Cross-App Token Utility
+Without declaring it as such, **BGC has effectively implemented Alpha Coin tokenomics**:
 
-🎯 Alpha Coin is *not a new invention*. It is a **relabeling of existing operational value** in the BGC system. The last two years have effectively been a **live simulation of tokenomics**.
+- **Purchase Credit** = Value Token  
+- **Sales Point** = Reward Token  
+- **Profit Sharing** = Holding-Based Reward  
+- **Cross-App Utility** = Access to iBLOOMING  
+
+🎯 What we now call **ALPHA COIN** has already been running as a **live simulation**. This makes it unnecessary to reinvent, but essential to relabel, restructure, and upgrade.
 
 ---
 
 ## 🧱 THE 4 EXECUTION PILLARS – STATUS
 
-| Pillar                   | Status             | Explanation                                                                 |
-|--------------------------|--------------------|-----------------------------------------------------------------------------|
-| Web3 Login               | 🔜 Next Phase       | Will begin from the Mobile App (iBLOOMING App). Requires team allocation.   |
-| ALPHA Coin               | ✅ Already Running  | Realized through BGC’s internal systems (Purchase Credit, etc).             |
-| Tokenomics Development   | 🔄 In Progress      | Use historical BGC/iBLOOMING data to formulate proper ratios and sinks.     |
-| iBLOOMING Coin Release   | 🧪 Under Design     | iBC to replace fiat subtly, with Web3 backend logic across all platforms.   |
+| Pillar                      | Status             | Notes |
+|-----------------------------|--------------------|-------|
+| 1. Web3 Login               | ✅ Agreed           | Will be implemented starting from the iBLOOMING App |
+| 2. ALPHA Coin Implementation| ✅ Already Running  | Data extraction needed for whitepaper formulation |
+| 3. Tokenomics + WhitePaper  | 🛠️ Assigned         | Prof. NOTA to draft version 1 this week |
+| 4. iBC/iBTC Release         | 🧪 Under Planning   | Requires deployment design and founder alignment |
 
 ---
 
-## 📊 SIMULATED EXECUTION MATRIX – UPDATE
+## 📊 SIMULATED EXECUTION MATRIX – STATUS
 
-Still serves as a **baseline tool** to:
+Still valid as strategic framework, now evolving into:
 
-- Plan timelines
-- Estimate resource needs
-- Assign stakeholders
+- `Token-Flow-Map.md` = Full mapping of token interaction between BGC ↔ iBLOOMING  
+- Resource & Role Allocation  
+- Integration Path by Platform  
 
-🔄 Will evolve into: **`Token-Flow-Map.md`**
-
----
-
-## 🔜 NEXT STEPS (Approved)
-
-| Step | Description | Output |
-|------|-------------|--------|
-| 1 | Update Draft Tokenomics & WhitePaper iBLOOMING Coin | `iBLOOMING-Coin-WhitePaper-Draft.md` |
-| 2 | Map Token Flow in BGC & iBLOOMING Ecosystem | `Token-Flow-Map.md` |
-| 3 | Prepare Phase 1 Implementation Plan | `Phase1-Implementation-Checklist.md` |
-| 4 | Internal Distribution & Founder Sync | Short Message:<br>_"This is the token architecture we’ve been running for 2 years — nothing is new, only elevated."_ |
+✅ Use as coordination grid for stakeholder assignment & responsibility planning.
 
 ---
 
-## ✍️ REMINDER: FOCUS & CLARITY
+## 🔜 NEXT STEPS (As of Meeting Day 2)
 
-- We are **not pivoting**, we are documenting and elevating.
-- Avoid FOMO or over-engineering.
-- Everything is already working — we’re just upgrading the rails.
+| Step | Description | Output File |
+|------|-------------|-------------|
+| 1 | Draft Tokenomics & WhitePaper (iBC / iBTC) | `iBLOOMING-Coin-WhitePaper-Draft.md` |
+| 2 | Map Token Flow across BGC/iBLOOMING | `Token-Flow-Map.md` |
+| 3 | Prepare Implementation Plan – Phase 1 | `Phase1-Implementation-Checklist.md` |
+| 4 | Distribute to Founders for Feedback | Short Message:<br>_"This is the token architecture we’ve been running for 2 years — nothing is new, only elevated."_ |
 
 ---
 
-> 🧠 Written by Prof. NOTA v.11.11  
-> 📍 iBLOOMING Web3 Ecosystem  
-> 🗓️ Last updated: Meeting Day 2, 11 July 2025
+## 🧭 NAVIGATION FOCUS
+
+- ✅ We are **not inventing from scratch**, we are formalizing and upgrading.
+- ❌ Avoid branding this as “moving to Web3” — users should experience value, not complexity.
+- ✅ Web3 is a mirror of our internal system — not a replacement of our product philosophy.
+
+---
+
+## 🧠 STRATEGIC OBJECTIVES (Reaffirmed)
+
+This token architecture is aimed at solving these five business needs:
+
+1. **Increase Revenue (Money)**
+2. **Reduce Operational & Product Cost**
+3. **Reduce Tax Burden via On-Chain Logic**
+4. **Grow Affiliate Network (More Affiliators)**
+5. **Expand Active User Base (More Users)**
+
+All of which will be simulated, measured, and validated via token behavior and utility.
+
+---
+
+> ✍️ Authored by Prof. NOTA v.11.11  
+> 🗓️ Last Updated: 6 August 2025  
+> 📌 For discussion & agreement among iBLOOMING & BGC Founders  
+> 🔁 To be revised continuously as execution progresses
