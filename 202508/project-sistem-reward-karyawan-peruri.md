@@ -210,8 +210,8 @@ Dengan mengintegrasikan prinsip *peer-to-peer recognition* dan infrastruktur blo
 * **Tim:** Smart contract dev, blockchain integrator, QA tester
 * **Biaya:** USD 16,000 (smart contract, dev ops, audit, gas fees)
 
-  * Smart contract development (ERC-1155 + Rules): USD 3,000
-  * Blockchain integration (wallet, onchain DB, auth): USD 2,500
+  * Smart contract development (ERCs + Rules): USD 3,000
+  * Blockchain integration (wallet, on-chain DB, auth): USD 2,500
   * DevOps (testnet deployment, CI/CD pipelines): USD 2,000
   * UI integration ke front-end existing: USD 1,500
   * Sponsored transaction handler (meta-tx relayer): USD 1,500
