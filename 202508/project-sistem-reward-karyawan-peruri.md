@@ -175,6 +175,11 @@ Dengan mengintegrasikan prinsip *peer-to-peer recognition* dan infrastruktur blo
 * **Tim:** Tim riset, HR Peruri, fasilitator Voyage
 * **Biaya:** USD 2,000 (riset, fasilitator, operasional)
 
+  * Honor fasilitator riset dan pemetaan kontribusi informal: USD 800
+  * Biaya survei internal & sesi wawancara (snack, dokumentasi, reward partisipan): USD 500
+  * Penyusunan laporan + matriks nilai (tools & admin): USD 400
+  * Operasional internal (transport, logistik, internal allowance): USD 300
+
 ### Fase 2: Prototipe Sistem Digital Internal (2 bulan)
 
 * **Tujuan:** Mendesain dan menguji sistem digital non-blockchain
@@ -185,6 +190,13 @@ Dengan mengintegrasikan prinsip *peer-to-peer recognition* dan infrastruktur blo
   * Uji coba terbatas pada 1 divisi
 * **Tim:** Tim developer, desainer Voyage, fasilitator Prof. NOTA
 * **Biaya:** USD 9,000 (pengembangan, testing, iterasi desain)
+
+  * UI/UX Design & Prototyping Tools (Figma, Notion, library): USD 1,000
+  * Front-end development (2 dev @ 1.5 bulan): USD 3,000
+  * Back-end (offchain DB + simple API): USD 1,500
+  * Uji coba dan iterasi desain: USD 1,000
+  * Fasilitator testing dan pelaporan evaluasi: USD 1,000
+  * Project coordination & documentation: USD 1,500
 
 ### Fase 3: Integrasi Blockchain (3 bulan)
 
@@ -198,6 +210,15 @@ Dengan mengintegrasikan prinsip *peer-to-peer recognition* dan infrastruktur blo
 * **Tim:** Smart contract dev, blockchain integrator, QA tester
 * **Biaya:** USD 16,000 (smart contract, dev ops, audit, gas fees)
 
+  * Smart contract development (ERC-1155 + Rules): USD 3,000
+  * Blockchain integration (wallet, onchain DB, auth): USD 2,500
+  * DevOps (testnet deployment, CI/CD pipelines): USD 2,000
+  * UI integration ke front-end existing: USD 1,500
+  * Sponsored transaction handler (meta-tx relayer): USD 1,500
+  * Internal audit keamanan sistem: USD 2,500
+  * Technical documentation & handover: USD 1,000
+  * Buffer biaya gas (test & deploy): USD 1,000
+
 ### Fase 4: Ekosistem Regeneratif (2 bulan)
 
 * **Tujuan:** Memperluas penggunaan reward untuk aktivitas produktif
@@ -208,6 +229,13 @@ Dengan mengintegrasikan prinsip *peer-to-peer recognition* dan infrastruktur blo
   * Peluncuran portal reward terbuka
 * **Tim:** Frontend & backend integrator, content strategist
 * **Biaya:** USD 7,000 (pengembangan, desain sistem, edukasi user)
+
+  * Pengembangan fitur penukaran poin (redeem, training access, badges): USD 2,000
+  * Sistem leaderboard & logika gamifikasi: USD 1,200
+  * Konten dan copywriting edukasi (internal + UI): USD 1,000
+  * Peluncuran portal reward & dokumentasi publik: USD 1,000
+  * Maintenance & optimalisasi akhir: USD 800
+  * Manajemen komunitas awal & feedback loop: USD 1,000
 
 ---
 
