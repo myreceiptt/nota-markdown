@@ -45,12 +45,14 @@ All of which will be simulated, measured, and validated via token behavior and u
 
 ## 🧱 THE 4 EXECUTION PILLARS – STATUS
 
-| Pillar                      | Status             | Notes |
-|-----------------------------|--------------------|-------|
-| 1. Web3 Login               | ✅ Agreed           | Will be implemented starting from the iBLOOMING App |
-| 2. ALPHA Coin Implementation| ✅ Already Running  | Data extraction needed for whitepaper formulation |
-| 3. Tokenomics + WhitePaper  | 🛠️ Assigned         | Prof. NOTA to draft version 1 this week |
-| 4. iBC/iBTC Release         | 🧪 Under Planning   | Requires deployment design and founder alignment |
+(Source → [Day 1: 4 Pillars Section](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-the-4-execution-pillars))
+
+| Pillar                             | Description                                                           | Status                     | Notes                                                         |
+|------------------------------------|-----------------------------------------------------------------------|----------------------------|---------------------------------------------------------------|
+| Web3 Login System                  | Enable a unified wallet login system across iBLOOMING & BGC.          | 🧪 Agreed & Under Planning | Will be implemented starting from phase 1.                    |
+| ALPHA Coin Layer                   | Analyze earning & spending based on real data.                        | ✅ Already Running         | Exist within the BGC system. Data extraction needed.          | 
+| Tokenomics + WhitePaper (iBC/iBTC) | Use ALPHA Coin behavior data to design a real token economy.          | 🛠️ Agreed & Assigned       | Draft in progress by Prof. NOTA. Presented this week.         |
+| iBC/iBTC Release & Utility         | Launch real token with reward + utility + BTC + governance functions. | 🧪 Agreed & Under Planning | Requires deployment design, map, plan, and founder alignment. |
 
 ---
 
