@@ -25,7 +25,7 @@ Without declaring it as such, **BGC has effectively implemented Alpha Coin token
 - **Profit Sharing** = Holding-Based Reward  
 - **Cross-App Utility** = Integration with iBLOOMING edu-products / Access to iBLOOMING  
 
-🎯 That makes it unnecessary to reinvent, but essential to relabel, restructure, and upgrade the value layer already running since 2023.
+🎯 This means we don’t need to recreate anything — only to reframe, extract insights, and elevate the value logic already active since 2023.
 
 ---
 
@@ -103,7 +103,7 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 - **Notes**:
   - Data from BGC and ALPHA Coin will inform value design and incentive flow.
   - No financial loss expected in simulation.  
-  - NFTs are used only as metaphorical spend objects for behavior modeling.
+  - NFTs are used only as symbolic spending tools, not as real assets, purely for modeling user behavior and decision patterns.
 
 ---
 
