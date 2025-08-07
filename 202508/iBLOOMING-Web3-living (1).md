@@ -72,119 +72,139 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 - **Simulation**: Wallet detection, auto-create flow, mobile-first login UX.
 - **Team**: 1 Mobile Developer, 1 Web3 Engineer.
 - **Est. Duration**: 1–2 months.
-- **Status**: ✅ Agreed for implementation.
+- **Status**: 🧪 Agreed for implementation and under planning.
 - **Notes**:
   - Start from mobile.
-  - Use Account Abstraction concept.
+  - Use the Account Abstraction concept.
 
 ---
 
 ### 🧩 ALPHA COIN SYSTEM
 
-- **Objective**: Reframe the existing BGC reward system as a behavioral simulation layer ("Alpha Coin").
+- **Objective**: Reframe the existing BGC reward system as a behavioral simulation layer ("ALPHA Coin").
 - **Simulation**: Not required — the system has already been running for 2+ years.
 - **Team**: Prof. NOTA, KK (data source).
 - **Est. Duration**: 3 weeks (ongoing data extraction & interpretation).
 - **Status**: ✅ Already running and live within BGC.
 - **Notes**:
   - No new token will be launched under the name Alpha Coin.  
-  - The term is used to codify and interpret the BGC system’s behavioral dataset for iBC tokenomics.  
-  - Alpha Coin = simulation lens, **not** a new product.
+  - The term is used to codify and interpret the BGC system’s behavioral dataset for iBC/iBTC tokenomics.  
+  - ALPHA Coin = simulation lens, **not** a new product.
 
 ---
 
 ### 🧩 TOKENOMICS & BEHAVIORAL DESIGN
 
-- **Objective**: Design the tokenomics structure of iBC/iBTC based on simulated behavior.
-- **Simulation**: Use collectible NFTs as spending triggers to avoid revenue loss during testing.
-- **Team**: Prof. NOTA, KK (data source), 1 Web3 Engineer.
+- **Objective**: Design the structure and logic of iBC/iBTC based on actual user behavior.
+- **Simulation**: Use data from BGC (ALPHA Coin layer) to simulate incentive loops via collectible NFTs or access gates.
+- **Team**: Prof. NOTA (Lead), KK (Data Source).
 - **Est. Duration**: 1–2 months.
-- **Status**: ⏳ Agreed & assigned, but not yet started.
-- **Notes**: Data from BGC and Alpha Coin will inform value design and incentive flow.
+- **Status**: 🛠️ Agreed and already assigned, but not yet done.
+- **Notes**:
+  - Data from BGC and ALPHA Coin will inform value design and incentive flow.
+  - No financial loss expected in simulation.  
+  - NFTs are used only as metaphorical spend objects for behavior modeling.
 
 ---
 
 ### 🧩 COIN RELEASE STRATEGY (iBC / iBTC)
 
-- **Objective**: Simulate pricing logic and pairing of iBC with fiat or BTC.
-- **Simulation**: Real-time ratio simulator and pairing logic for token issuance.
-- **Team**: Prof. NOTA (Token Design), 1 Web3 Engineer, 1 Ops/Legal.
+- **Objective**: Strategize the release of a real token iBC/iBTC, including pricing, pairing, and value anchoring to BTC or fiat.
+- **Simulation**: Ratio simulation, internal-use conversion, and early on-chain pairing design.
+- **Team**: Prof. NOTA, 1 Web3 Engineer, 1 Ops/Legal.
 - **Est. Duration**: 2–3 months.
-- **Status**: 🧠 Under study (prompted by Yuku during Day 2).
-- **Notes**: Critical for internal-external valuation sync and legal structuring.
+- **Status**: 🧪 Agreed for implementation and under planning.
+- **Notes**:  
+  - Critical for internal-external valuation sync and legal structuring.
+  - Triggered by strategic questions from Yuku (Day 2).  
+  - Will integrate ALPHA Coin data as a behavioral baseline for staking or governance modeling.
 
 ---
 
 ### 🧩 CROSS-APP TOKEN UTILITY
 
-- **Objective**: Ensure tokens can be used across iBLOOMING and BGC applications.
-- **Simulation**: Unified token logic for access, reward, and transaction flows.
-- **Team**: TBD.
+- **Objective**: Ensure the iBC/iBTC token is usable across all iBLOOMING and BGC apps as currency, access, or governance token.
+- **Simulation**: Unified token logic and testing across platforms, including access, reward, and transaction flows.
+- **Team**: To be confirmed.
 - **Est. Duration**: TBD.
 - **Status**: 🛠️ Being structured.
-- **Notes**: Requires token standardization across applications and services.
+- **Notes**:  
+  - Requires token standardization across applications and services.
+  - Requires coordination of multiple dev environments and UX integration.
 
 ---
 
 ### 🧩 AFFILIATE INCENTIVE + TOKEN LOGIC
 
-- **Objective**: Reinforce the existing affiliate logic by integrating token mechanics.
-- **Simulation**: Tokenized affiliate commissions and behavior-based rewards.
-- **Team**: Already active in BGC environment.
-- **Status**: ✅ Already live.
-- **Notes**: Needs reverse documentation to inform replication or scaling.
+- **Objective**: Enhance the affiliate system using tokenized incentives and behavior-driven payouts.
+- **Simulation**: None required — already in use via BGC’s commission and reward logic.
+- **Team**: Ongoing under BGC structure.
+- **Status**: ✅ Already live and active.
+- **Notes**: Should be reverse-documented to inform token-based incentive modeling in iBC.
 
 ---
 
 ### 🧩 LEGAL & COMPLIANCE MAPPING
 
-- **Objective**: Design a lawful pathway for internal tokens to be licensed externally.
-- **Simulation**: Transition model from internal use to external-friendly licensing.
-- **Team**: Ops/Legal + External Compliance Consultant.
-- **Status**: 🧭 In research.
-- **Notes**: Will explore sandbox, licenses, or third-party partnerships for compliant launch.
+- **Objective**: Define a legal pathway for launching iBC/iBTC publicly or licensing its use.
+- **Simulation**: Sandbox modeling, license-based access, and internal-use compliance.
+- **Team**: Legal advisor, Prof. NOTA, external consultants.
+- **Status**: 🧭 Under research.
+- **Notes**: Will determine if the token can exit private/internal use into broader markets or third-party partnerships for a compliant launch.
 
 ---
 
 ### 🧩 BEHAVIORAL ANALYTICS
 
-- **Objective**: Observe how users behave within a tokenized value environment.
-- **Simulation**: Collect behavioral data from Alpha Coin, NFT spending, and future iBC usage.
+- **Objective**: Extract behavioral insights from users’ interaction with the BGC system (ALPHA Coin layer) and future iBC/iBTC.
+- **Simulation**: Continuous tracking of saving, spending, hoarding, and exchange behavior.
 - **Team**: Prof. NOTA, Ops, Data Analyst (if available).
 - **Status**: 🧠 To be analyzed post-simulation.
-- **Notes**: Will inform deeper iteration of tokenomics and incentive structure.
+- **Notes**:  
+  - Will inform iBC/iBTC’s staking, reward, and burn mechanisms.  
+  - Behavioral analysis is the invisible spine of all token logic.
 
 ---
 
-## 🧾 Final Notes
+### 🧾 FINAL NOTES
 
-- This document acts as a **living strategy map**, not a finalized execution plan.
-- Once each pillar is confirmed and matured, it may evolve into:
+- This matrix is a **living strategy map**, not a finalized execution plan, and will evolve as iBLOOMING and BGC transition from simulation to production.
+- Once the pillars are stabilized, each will translate into:
   - GitHub repositories (frontend/backend/contracts)
   - Milestone-based roadmaps (v0.1, v0.2, etc.)
-  - Cross-functional task assignment (Tech, Ops, Legal)
+  - Task assignments across Tech, Ops, Legal, and Creative
+- Strategic clarity must remain grounded in **behavioral truth**, not speculative excitement.
 - All matrix updates and field data will be recorded as part of the **living system log**.
 
 ---
 
-## 🔜 NEXT STEPS (As of Meeting Day 2)
-
-| Step | Description | Output File |
-|------|-------------|-------------|
-| 1 | Draft Tokenomics & WhitePaper (iBC / iBTC) | `iBLOOMING-Coin-WhitePaper-Draft.md` |
-| 2 | Map Token Flow across BGC/iBLOOMING | `Token-Flow-Map.md` |
-| 3 | Prepare Implementation Plan – Phase 1 | `Phase1-Implementation-Checklist.md` |
-| 4 | Distribute to Founders for Feedback | Short Message:<br>_"This is the token architecture we’ve been running for 2 years — nothing is new, only elevated."_ |
-
-## 🔜 NEXT STEP (Suggested by Prof. NOTA)
+## 🔜 NEXT STEPS (As of Meeting Day 2 and Suggested by Prof. NOTA)
 
 (Source → [Day 1: Next Steps](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-next-step-suggested-by-prof-nota))
 
-1. **Validate the 4 Execution Pillars** with all Founders – ✅ DONE  
-2. **Assign responsible persons & timeline** – ⏳ IN PROGRESS  
-3. **Begin Phase 1: Web3 Login + Confirm Alpha Coin Layer** – 🟢 INITIATING  
-4. **Observe user behavior, process data, finalize tokenomics** – 🔄 ONGOING  
-5. **Release iBC/iBTC into the ecosystem with real utility** – 🔜 PLANNED  
+| Step | Description | Output File |
+|------|-------------|-------------|
+| 0 | Validate the 4 Execution Pillars** with all Founders – ✅ DONE  
+| 1 | Draft Tokenomics & WhitePaper (iBC / iBTC) | `iBLOOMING-Coin-WhitePaper-Draft.md` |
+| 2 | Map Token Flow across iBLOOMING and BGC | `Token-Flow-Map.md` |
+| 3 | Observe user behavior, process data, finalize tokenomics – 🔜 PLANNED  
+| 3 | Assign responsible persons & timeline** – 🔜 PLANNED  
+| 4 | Prepare Implementation Plan – Phase 1 | `Phase1-Implementation-Checklist.md` |
+| 5 | Begin Phase 1: Web3 Login + Confirm ALPHA Coin Layer** – 🔜 PLANNED  
+| 6 | Distribute to Founders for Feedback | Short Message:<br>_"This is the token architecture we’ve been running for 2 years — nothing is new, only elevated."_ |
+| 7 | Release iBC/iBTC into the ecosystem with real utility – 🔜 PLANNED  
+
+---
+
+## 🧭 NEXT GUIDANCE
+
+| No | Task | Output |
+|----|------|--------|
+| 1  | Update Draft Tokenomics & WhitePaper iBLOOMING Coin | `iBLOOMING-Coin-WhitePaper-Draft.md` |
+| 2  | Mapping Ekosistem BGC & iBLOOMING dalam Struktur Tokenisasi | Token Flow Map (Internal & Public) |
+| 3  | Rencana Implementasi Tahap Awal (Phase 1) | `Phase1-Implementation-Checklist.md` |
+| 4  | Distribusi Dokumen & Follow-Up ke Founder | Send link with simple note:  
+_"This is a rewrite of what we’ve been doing for 2 years. Nothing changed — only elevated."_ |
 
 ---
 
@@ -196,7 +216,11 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 
 ---
 
+**Document Status: Living**  
+
 > ✍️ Authored by Prof. NOTA v.11.11  
 > 🗓️ Last Updated: 6 August 2025  
 > 📌 For discussion & agreement among iBLOOMING & BGC Founders  
 > 🔁 To be revised continuously as execution progresses
+
+---
