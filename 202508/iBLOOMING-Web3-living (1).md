@@ -1,31 +1,31 @@
 # Living Document of Web3 Transformation Guidance
 
-📍 *This document serves as the operational and strategic guide for the Web3 transformation of iBLOOMING & BGC, based on collective discussions held on July 10 & 11, 2025.*
+📍 *This document serves as the operational & strategic guide for the Web3 transformation of iBLOOMING & BGC, based on collective discussions held on July 10 & 11, 2025.*
 
-It consolidates insights, confirms milestones, and instructs next steps following the meetings on:
+It consolidates insights, confirms milestones, & instructs next steps following the meetings on:
 
 - [📄 Day 1: 10 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md)
 - [📄 Day 2: 11 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202508/iBLOOMING-Web3-Meeting-Day2.md)
 
-It is meant to be always read, discussed, adjusted if needed, and agreed upon by all founders — to be used as the synchronized operational guidance, the living, evolving reference as execution proceeds Web3 transformation of iBLOOMING & BGC.
+It is intended to be read, discussed, adjusted as needed, & agreed upon by all founders — to serve as the synchronized operational guidance & a living, evolving reference as execution proceeds with the Web3 transformation of iBLOOMING & BGC.
 
 ---
 
 ## 🔍 CORE CONTEXT
 
-For the past two years, iBLOOMING (Digital Product Platform) and BGC (Affiliate Marketing/MLM Structure) have been operating in parallel.
+For the past two years, iBLOOMING (Digital Product Platform) & BGC (Affiliate Marketing/MLM Structure) have been operating in parallel.
 
 🎯 What we now call **ALPHA COIN** has **already been running in action** through BGC’s operational model as a **live simulation**.  
 (Source → [Day 2 Summary](https://github.com/myreceiptt/nota-markdown/blob/main/202508/iBLOOMING-Web3-Meeting-Day2.md#-presentation-bgc-marketing-model-by-kk))
 
-Without declaring it as such, **BGC has effectively implemented Alpha Coin tokenomics**:
+Without declaring it as such, **BGC has effectively implemented ALPHA Coin tokenomics**:
 
 - **Purchase Credit** = Value Token  
 - **Sales Point** = Activity Token / Reward Token  
 - **Profit Sharing** = Holding-Based Reward  
 - **Cross-App Utility** = Integration with iBLOOMING edu-products / Access to iBLOOMING  
 
-🎯 This means we don’t need to recreate anything — only to reframe, extract insights, and elevate the value logic already active since 2023.
+🎯 This means we don’t need to recreate anything — only to reframe, extract insights, & elevate the value logic already active since 2023.
 
 ---
 
@@ -37,9 +37,9 @@ This token architecture is aimed at solving these five business needs:
 2. **Reduce Operational & Product Cost**
 3. **Reduce Tax Burden via On-Chain Logic**
 4. **Grow Affiliate Network (More Affiliators)**
-5. **Expand Active User Base (More Users)**
+5. **Exp& Active User Base (More Users)**
 
-All of which will be simulated, measured, and validated via token behavior and utility.
+All of which will be simulated, measured, & validated via token behavior & utility.
 
 ---
 
@@ -49,15 +49,12 @@ All of which will be simulated, measured, and validated via token behavior and u
 
 | Pillar                             | Description                                                           | Status                     | Notes                                                         |
 |------------------------------------|-----------------------------------------------------------------------|----------------------------|---------------------------------------------------------------|
-| Web3 Login System                  | Enable a unified wallet login system across iBLOOMING & BGC.          | 🧪 Agreed & Under Planning | Will be implemented starting with mobile app.                 |
 | ALPHA Coin Layer                   | Analyze earning & spending based on real data.                        | ✅ Already Running         | Exist within the BGC system. Data extraction needed.          | 
 | Tokenomics + WhitePaper (iBC/iBTC) | Use ALPHA Coin behavior data to design a real token economy.          | 🛠️ Agreed & Assigned       | Draft in progress by Prof. NOTA. Presented this week.         |
-| iBC/iBTC Release & Utility         | Launch real token with reward + utility + BTC + governance functions. | 🧪 Agreed & Under Planning | Requires deployment design, map, plan, and founder alignment. |
-
-- `Token-Flow-Map.md` = Full mapping of token interaction between BGC ↔ iBLOOMING  
-- Resource & Role Allocation  
-- Integration Path by Platform  
-
+| Web3 Login System                  | Enable a unified wallet login system across iBLOOMING & BGC.          | 🧪 Agreed & Under Planning | Implementation will commence with the mobile app.             |
+| iBC/iBTC Release & Utility         | Launch real token with reward + utility + BTC + governance functions. | 🧪 Agreed & Under Planning | Requires deployment design, map, plan, & founder alignment.   |
+| And so on...                       |                              
+                                
 ✅ Use as a coordination grid for stakeholder assignment & responsibility planning.
 
 ---
@@ -65,19 +62,6 @@ All of which will be simulated, measured, and validated via token behavior and u
 ## 📊 SIMULATED EXECUTION MATRIX
 
 Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-simulated-execution-matrix)
-
-### 🧩 WEB3 LOGIN & SMART WALLET
-
-- **Objective**: Enable user login via auto-generated smart wallets using Account Abstraction.
-- **Simulation**: Wallet detection, auto-create flow, mobile-first login UX.
-- **Team**: 1 Mobile Developer, 1 Web3 Engineer.
-- **Est. Duration**: 1–2 months.
-- **Status**: 🧪 Agreed for implementation and under planning.
-- **Notes**:
-  - Start from mobile.
-  - Use the Account Abstraction concept.
-
----
 
 ### 🧩 ALPHA COIN SYSTEM
 
@@ -107,6 +91,19 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 
 ---
 
+### 🧩 WEB3 LOGIN & SMART WALLET
+
+- **Objective**: Enable user login via auto-generated smart wallets using Account Abstraction.
+- **Simulation**: Wallet detection, auto-create flow, mobile-first login UX.
+- **Team**: 1 Mobile Developer, 1 Web3 Engineer.
+- **Est. Duration**: 1–2 months.
+- **Status**: 🧪 Agreed for implementation and under planning.
+- **Notes**:
+  - Start from mobile.
+  - Use the Account Abstraction concept.
+
+---
+
 ### 🧩 COIN RELEASE STRATEGY (iBC / iBTC)
 
 - **Objective**: Strategize the release of a real token iBC/iBTC, including pricing, pairing, and value anchoring to BTC or fiat.
@@ -121,7 +118,7 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 
 ---
 
-### 🧩 CROSS-APP TOKEN UTILITY
+### 🧩 Next Pillar: CROSS-APP TOKEN UTILITY
 
 - **Objective**: Ensure the iBC/iBTC token is usable across all iBLOOMING and BGC apps as currency, access, or governance token.
 - **Simulation**: Unified token logic and testing across platforms, including access, reward, and transaction flows.
@@ -131,16 +128,6 @@ Original Strategy (10 July 2025): [Day 1: Simulated Execution Matrix Section](ht
 - **Notes**:  
   - Requires token standardization across applications and services.
   - Requires coordination of multiple dev environments and UX integration.
-
----
-
-### 🧩 AFFILIATE INCENTIVE + TOKEN LOGIC
-
-- **Objective**: Enhance the affiliate system using tokenized incentives and behavior-driven payouts.
-- **Simulation**: None required — already in use via BGC’s commission and reward logic.
-- **Team**: Ongoing under BGC structure.
-- **Status**: ✅ Already live and active.
-- **Notes**: Should be reverse-documented to inform token-based incentive modeling in iBC.
 
 ---
 
