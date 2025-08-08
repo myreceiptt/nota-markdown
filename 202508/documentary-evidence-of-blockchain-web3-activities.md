@@ -41,13 +41,14 @@ One of Zim Systems Limited’s developers, Prof. NOTA, holds an active on-chain 
 
 Source: [myreceipt.base.eth](https://www.base.org/name/myreceipt)
 
-<img width="891" height="823" alt="Screenshot 2025-08-08 at 18 38 25" src="https://github.com/user-attachments/assets/58f1b5c2-b473-4d73-b8ac-02ece348075b" />
+![On-Chain Score](https://github.com/user-attachments/assets/58f1b5c2-b473-4d73-b8ac-02ece348075b)
 
 ### **2. Gas Sponsorship Recognition from SuperChain Ecosystem via ThirdWeb**
 
-Prof. NOTA has also received Gas Sponsorship support from the SuperChain Ecosystem via ThirdWeb for active development across networks such as Base and Optimism. This support is typically granted to developers with a proven track record and credible technical reputation in the Web3 space.
+Prof. NOTA has also received Gas Sponsorship support from the SuperChain Ecosystem via ThirdWeb for active development across networks such as Base and Optimism. This support is typically granted to developers with a proven track record and a credible technical reputation in the Web3 space.
 
-Email confirmation screenshot to follow.
+![OP SuperChain Accelerator Grant](https://github.com/user-attachments/assets/9e9b8dc8-7f5f-492f-aed7-b9afdfe3d050)
+
 
 ---
 
