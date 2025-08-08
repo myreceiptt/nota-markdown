@@ -1,75 +1,81 @@
 # Blockchain & Web3.0 Activities of Zim Systems Limited
 
-**Date of Created:** 8 August 2025  
+**Date of Created:** 8 August 2025
 **Created By:** Prof. NOTA
 
 ---
 
 ## A. Web3 Implementation for Zim Systems Limited
 
-Zim Systems Limited telah mengadopsi integrasi Web3 melalui pengembangan platform digital yang menggabungkan:
+Zim Systems Limited has adopted Web3 integration through the development of a digital platform that combines:
 
-* On-Chain Login dengan Managed Account Factory smart contract.
-* PDF research content yang hanya dapat diakses melalui kepemilikan onchain account (smart account wallet)
+* On-Chain Login using a Managed Account Factory smart contract.
+* Access to research PDF content, gated through ownership of onchain smart accounts (smart account wallet).
 
-**Bukti:**
+**Proof:**
 
-* Web app aktif: [`research.zim-tech.com`](https://research.zim-tech.com/)
-* Repository code: [`Staging 2.4.47 by Zim Systems Limited`](https://github.com/myreceiptt/pabrikroti-master/releases/tag/v.2.4.47-zim)
+* Active web app: [`research.zim-tech.com`](https://research.zim-tech.com/)
+* Code repository: [`Staging 2.4.47 by Zim Systems Limited`](https://github.com/myreceiptt/pabrikroti-master/releases/tag/v.2.4.47-zim)
 
 ---
 
 ## B. Smart Contract Infrastructure Used by Zim Systems Limited
 
-Zim Systems Limited menggunakan Managed Account Factory smart contract yang:
+Zim Systems Limited utilizes a Managed Account Factory smart contract that:
 
-* Memiliki riwayat nyata dari pengguna Web3
-* Tersedia untuk diverifikasi melalui jaringan blockchain
+* Has a verified history of real-world Web3 users
+* Is available for public verification via blockchain network
 
-**Bukti:**
+**Proof:**
 
 * Smart Contract Address: [`0x186b1740d24bc028D220838796441441dc444f9A`](https://basescan.org/address/0x186b1740d24bc028D220838796441441dc444f9A#internaltx)
-* Daftar transaksi: [`0x186b1740d24bc028D220838796441441dc444f9A`](https://basescan.org/txsInternal?a=0x186b1740d24bc028D220838796441441dc444f9A)
+* Transaction list: [`0x186b1740d24bc028D220838796441441dc444f9A`](https://basescan.org/txsInternal?a=0x186b1740d24bc028D220838796441441dc444f9A)
 
 ---
 
 ## C. On-Chain Reputation of Developer
 
-### **1. On-Chain Score di Base Blockchain**
-Tim Developer Zim Systems Limited, salah satunya adalah Prof. NOTA, memiliki skor penggunaan onchain aktif di jaringan Base. Aktivitas ini meliputi deploy smart contract, klaim NFT, funding, dan interaksi lintas protokol. Skor dapat diverifikasi melalui situs pemeringkat atau explorer pihak ketiga.
+### **1. On-Chain Score on Base Blockchain**
+
+One of Zim Systems Limited’s developers, Prof. NOTA, holds an active on-chain usage score on the Base network. Activities include smart contract deployment, NFT claims, funding, and multi-protocol interactions. This score can be verified through public explorers or rating services.
 
 Source: [myreceipt.base.eth](https://www.base.org/name/myreceipt)
 
 <img width="891" height="823" alt="Screenshot 2025-08-08 at 18 38 25" src="https://github.com/user-attachments/assets/58f1b5c2-b473-4d73-b8ac-02ece348075b" />
 
 ### **2. Gas Sponsorship Recognition from SuperChain Ecosystem via ThirdWeb**
-Prof. NOTA juga merupakan penerima dukungan Gas Sponsorship dari SuperChain Ecosystem via ThirdWeb untuk pengembangan aktif di jaringan SuperChain (Base, Optimism, dsb). Dukungan ini diberikan kepada developer yang memiliki kontribusi teknikal dan reputasi kredibel dalam pengembangan produk Web3.
 
-Bukti screenshot email menyusul.
+Prof. NOTA has also received Gas Sponsorship support from the SuperChain Ecosystem via ThirdWeb for active development across networks such as Base and Optimism. This support is typically granted to developers with a proven track record and credible technical reputation in the Web3 space.
+
+Email confirmation screenshot to follow.
 
 ---
 
 ## D. Public Web3 Participation of Developer
 
-Prof. NOTA juga secara aktif terlibat sebagai narasumber, edukator, dan keynote speaker dalam berbagai kegiatan dan forum Web3, baik yang diselenggarakan secara publik maupun internal komunitas.
+Prof. NOTA is actively involved as a speaker, educator, and keynote contributor in various Web3 events and community-based forums, both public and private.
 
-Keterlibatan ini menunjukkan bahwa platform dan sistem yang dibangun, dalam hal ini Zim Systems Ltd., memiliki dasar teknikal yang diakui oleh komunitas Web3 di Indonesia dan Asia Tenggara.
+Such involvement indicates that platforms and systems built — including those by Zim Systems Ltd. — are grounded in technically acknowledged best practices within the Web3 community in Indonesia and Southeast Asia.
 
-**Dokumentasi partisipasi:**
+**Documentation of participation:**
 
-### Web3 On Campus by IDNFT X Several Campus in Indonesia
-* Tanggal: Since 2023 till Now
-* Peran: Keynote / Panel / Workshop
-* Poster atau publikasi: [On UNESA University](https://www.instagram.com/p/C3xElzZPhOJ/?img_index=4)
-* After movie atau video dokumentasi: [On Petra University](https://www.instagram.com/reel/Crs7d24gNeD/)
-<img width="1342" height="820" alt="Screenshot 2025-08-08 at 18 44 40" src="https://github.com/user-attachments/assets/b53bff2e-82b9-491c-8922-622bf0891a78" />
+### Web3 On Campus by IDNFT X Several Campuses in Indonesia
+
+* Date: Since 2023 till Now
+* Role: Keynote / Panel / Workshop
+* Poster or publication: [On UNESA University](https://www.instagram.com/p/C3xElzZPhOJ/?img_index=4)
+* After-movie or event video: [On Petra University](https://www.instagram.com/reel/Crs7d24gNeD/)
+
+  <img width="1342" height="820" alt="Screenshot 2025-08-08 at 18 44 40" src="https://github.com/user-attachments/assets/b53bff2e-82b9-491c-8922-622bf0891a78" />
 
 ### Pintu Road to Ethereum DevCon
-* Tanggal: Desember 2023
-* Peran: Keynote / Panel 
-* Poster atau publikasi: [On PINTU.CO.ID](https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum)
-* Poster atau publikasi: [On ISTTS.AC.ID](https://istts.ac.id/berita/VX5qRJDqvx-Halo_Ethereum)
-<img width="1356" height="820" alt="Screenshot 2025-08-08 at 19 03 24" src="https://github.com/user-attachments/assets/ec7e3077-99af-424d-bc08-624f3bfc0698" />
+
+* Date: December 2023
+* Role: Keynote / Panel
+* Poster or publication: [On PINTU.CO.ID](https://pintu.co.id/news/61828-pintu-sponsori-event-halo-ethereum)
+* Poster or publication: [On ISTTS.AC.ID](https://istts.ac.id/berita/VX5qRJDqvx-Halo_Ethereum)
+
+  <img width="1356" height="820" alt="Screenshot 2025-08-08 at 19 03 24" src="https://github.com/user-attachments/assets/ec7e3077-99af-424d-bc08-624f3bfc0698" />
 
 ---
 
@@ -81,5 +87,3 @@ All statements above can be verified on-chain or through linked repositories. Th
 
 Sincerely,
 **Prof. NOTA**
-
-
