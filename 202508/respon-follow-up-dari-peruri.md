@@ -35,7 +35,7 @@ Apa plus minusnya private chain dan public chain?
 Spek server untuk transaksi piloting 500 karyawan — Peruri akan pakai VM sendiri, dan PDS akan menjadi 2nd validator.
 
 **Jawaban:**  
-**Minimal requirement per node validator:**
+**Contoh minimal requirement per node validator:**
 - CPU: 4 vCPU
 - RAM: 8 GB
 - Storage: 200 GB SSD
