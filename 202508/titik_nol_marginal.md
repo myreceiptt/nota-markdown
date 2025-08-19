@@ -3,7 +3,7 @@
 ## Abstrak
 Tulisan ini menawarkan kerangka filsafat sosial yang disebut **titik nol marginal**: gagasan bahwa setiap individu, sebagaimana atom, pada dasarnya hidup dalam keadaan kurang dan lebih, kosong dan penuh, 0 dan 1. Marginalitas tidak dilihat sebagai aib, melainkan kodrat semesta yang memungkinkan lahirnya ikatan sosial. Dengan memadukan teori marginalisasi dalam sosiologi, atomisme sosial, konsep *marginal man*, dan intersectionality, paper ini menjelaskan bahwa dominasi maupun marginalisasi hanyalah variasi dari hukum kosmik universal. Studi kasus gerakan LGBTQ+ menunjukkan bagaimana perlawanan terhadap marginalisasi bisa berisiko menciptakan dominasi baru jika lupa pada titik nol. Metodologi penelitian bersifat kualitatif-filosofis, dengan pendekatan hermeneutika konseptual dan analogi ilmiah. Kesimpulan utama: setiap manusia adalah titik nol, dan etika titik nol dapat menjadi dasar etis-politik untuk melampaui siklus dominasi-marginalisasi.
 
-### Unsur Poem — Seduce the Public, ala Prof. NOTA
+### Puisi Unsur — Prof. NOTA
 ```
 Di balik nama dan bendera,
 semua kita hanyalah atom yang mencari ikatan.
