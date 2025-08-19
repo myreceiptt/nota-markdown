@@ -1,6 +1,6 @@
-# Stage 1 — Understanding Membership & Rewards (BGC / iBLOOMING / MyCash)
+# Understanding Affiliate & Rewards (BGC & iBLOOMING)
 
-## 1. Membership & Entry
+## 1. Affiliate & Entry
 
 Di perusahaan BGC menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate**.
 
@@ -36,7 +36,7 @@ Di perusahaan BGC menggunakan sistem **Affiliate Membership** dengan 5 level. Se
 
 ## 3. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
 
-Setelah menjadi **Affiliate** (membayar + menerima PC), **Affiliate** berhak mendapatkan  reward dari iBLOOMING, yang disebut sebagai **MyCash Program**, dengan beberapa jenis reward:
+Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affiliate** berhak mendapatkan reward dari perusahaan iBLOOMING, yang disebut sebagai **MyCash Program**, dengan beberapa jenis reward:
 
 1. **iBLOOMING Link Reward (LR)**
 2. **iBLOOMING** **Miracle Cash (MC)**
@@ -56,7 +56,7 @@ Setelah menjadi **Affiliate** (membayar + menerima PC), **Affiliate** berhak men
 
 - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
 
-  - iBLOOMING → \$90 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
+  - iBLOOMING → \$90 (ini akan menjadi revenue produk digital dari CP (e-course, e-book, dll) dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
   - Affiliate yang membawa user baru melalui link → \$10
 
 - **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau **Affiliate** dalam bulan itu membawa 10 user baru ke iBLOOMING dengan pembelian atau transaksi pertama rata-rata \$100, maka total payout-nya untuk **Affiliate** akan senilai: 10% × \$100 × 10 user = **\$100**.
