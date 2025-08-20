@@ -16,19 +16,19 @@ To save everyone in **0101 Universe** from any **PHISHING** and **SCAMS**, pleas
 #### **Prof. NOTA's Website** <a href="#prof.-notas-website" id="prof.-notas-website"></a>
 
 * **Prof. NOTA's Origin**\
-  [**https://www.straight-line.org/**](https://myreceipt.endhonesa.com/)
+  [**https://myreceipt.endhonesa.com/**](https://myreceipt.endhonesa.com/)
 * **Prof. NOTA's Deep Links**\
-  [**https://deeplinks.straight-line.org/**](https://deeplink.endhonesa.com/)
+  [**https://deeplink.endhonesa.com/**](https://deeplink.endhonesa.com/)
 * **Prof. NOTA's GitBook**\
-  [**https://iqraa.straight-line.org/**](https://docs.endhonesa.com/)
+  [**https://docs.endhonesa.com/**](https://docs.endhonesa.com/)
 * **Prof. NOTA's Working Progress**\
-  [**https://wp.straight-line.org/**](https://nota.endhonesa.com/)
+  [**https://nota.endhonesa.com/**](https://nota.endhonesa.com/)
 * **Prof. NOTA's Online Store**\
   [**https://store.endhonesa.com/**](https://store.endhonesa.com/)
 * **Prof. NOTA's SkateShop**\
   [**https://shop.skateshop.id/**](https://shop.skateshop.id/)
 * **Prof. NOTA's Mini Site**\
-  Double-check the URL you are visiting, okay!!!! Make sure using any **subdomain** of these **TLD domains**;
+  Double-check the URL you are visiting, okay!!!! Make sure you are visiting **subdomains** of these **TLD**:
   * [**straight-line.org**](https://straight-line.org/) (LTS - Maintenance),
   * [**endhonesa.com**](https://endhonesa.com/) (LTS - Active),
   * and [**skateshop.id**](https://skateshop.id/) (Dev - Current).
