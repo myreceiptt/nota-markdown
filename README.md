@@ -14,12 +14,12 @@ coverY: 0
 
 This project is licensed under a **Custom Limited License** by [Prof. NOTA & Prof. NOTA Inc.](https://nota.endhonesa.com/).
 
-* 🏛️ [English (UK)](licenses/LICENSE_en-GB.md)
-* 🇮🇩 [Bahasa Indonesia](licenses/LICENSE_ID.md)
-* 🇺🇿 [Oʻzbekcha](licenses/LICENSE_uz-Latn.md)
-* 🇭🇰 [Cantonese – Hong Kong](licenses/LICENSE_yue-Hant-HK.md)
-* 🇲🇾 [Bahasa Malaysia](licenses/LICENSE_ms-MY.md)
-* 🇦🇪 [العربية – الإمارات](licenses/LICENSE_ar-AE.md)
+* 🏛️ [English (UK)](license-oioi/LICENSE_en-GB.md)
+* 🇮🇩 [Bahasa Indonesia](license-oioi/LICENSE_ID.md)
+* 🇺🇿 [Oʻzbekcha](license-oioi/LICENSE_uz-Latn.md)
+* 🇭🇰 [Cantonese – Hong Kong](license-oioi/LICENSE_yue-Hant-HK.md)
+* 🇲🇾 [Bahasa Malaysia](license-oioi/LICENSE_ms-MY.md)
+* 🇦🇪 [العربية – الإمارات](license-oioi/LICENSE_ar-AE.md)
 
 > 📩 For permission or inquiries, contact: [nota@endhonesa.com](mailto:nota@endhonesa.com)
 
