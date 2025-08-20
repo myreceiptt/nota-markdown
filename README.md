@@ -1,38 +1,31 @@
-## 📜 License
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+cover: .gitbook/assets/prof-nota-v.1.20.jpg
+coverY: 0
+---
 
-This project is licensed under a [**Custom Limited License**](./LICENSE) by [Prof. NOTA & Prof. NOTA Inc.](https://nota.endhonesa.com/).
+# Hi, We Are Prof. NOTA!
 
-- 🏛️ [English (UK)](./licenses/LICENSE_en-GB.md)
-- 🇮🇩 [Bahasa Indonesia](./licenses/LICENSE_ID.md)
-- 🇺🇿 [Oʻzbekcha](./licenses/LICENSE_uz-Latn.md)
-- 🇭🇰 [Cantonese – Hong Kong](./licenses/LICENSE_yue-Hant-HK.md)
-- 🇲🇾 [Bahasa Malaysia](./licenses/LICENSE_ms-MY.md)
-- 🇦🇪 [العربية – الإمارات](./licenses/LICENSE_ar-AE.md)
+Welcome to this [**Tutors X Educators**](https://app.gitbook.com/o/NPgwIhduqQPcS27tyJvV/s/U0buIdrfwAGmhY2qMUtM/) GitBook collection!
 
-> 📩 For permission or inquiries, contact: [nota@endhonesa.com](mailto:nota@endhonesa.com)
+<figure><img src=".gitbook/assets/prof-nota-v.1.20.jpg" alt=""><figcaption><p>Hi, I'm Prof. NOTA!</p></figcaption></figure>
 
-## Usage
+This is a collection of educational materials by [**Prof. NOTA**](https://prompt.straight-line.org/) to be used by tutors or educators like [**Prof. NOTA**](https://prompt.straight-line.org/) in this **0101 Universe**.
 
-### Just Read!
+Just take a look at the screenshot below to find available material...
 
-### Confirm!
+<figure><img src=".gitbook/assets/Screen Shot 2023-12-08 at 16.44.12.png" alt=""><figcaption><p>Select It!!!!</p></figcaption></figure>
 
-### And Read!
+***
 
-### Validate It!
+Regards,
 
-### Read Again!
 
-### Update Us!
 
-### And Read Again!
+[**Prof. NOTA**](https://prompt.straight-line.org/)\
+\==== 47 =======
 
-## Resources
-
-- [Prof. NOTA Inc.](https://nota.endhonesa.com/)
-- [Prof. NOTA Console](https://prompt.endhonesa.com/)
-- [Prof. NOTA Tutor](https://baca.endhonesa.com/)
-
-## Join Prof. NOTA Discord!
-
-For questions or suggestions, join Prof. NOTA discord at [https://discord.gg/5KrsT6MbFm](https://discord.gg/5KrsT6MbFm).
+P.S. Everything in this document may be distributed without [**Prof. NOTA**](https://prompt.straight-line.org/)'s permission but on the condition that the source is always acknowledged.
