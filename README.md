@@ -11,7 +11,7 @@ coverY: 0
 
 ## 📜 License
 
-This project is licensed under a [**Custom Limited License**](https://github.com/myreceiptt/nota-markdown/blob/main/LICENSE) by [Prof. NOTA & Prof. NOTA Inc.](https://nota.endhonesa.com/).
+This project is licensed under a **Custom Limited License** by [Prof. NOTA & Prof. NOTA Inc.](https://nota.endhonesa.com/).
 
 - 🏛️ [English (UK)](./licenses/LICENSE_en-GB.md)
 - 🇮🇩 [Bahasa Indonesia](./licenses/LICENSE_ID.md)
