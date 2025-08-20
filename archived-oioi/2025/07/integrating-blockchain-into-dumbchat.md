@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # 🧠 Strategic Ideas Integrating Blockchain into DUMBCHAT  
 ## By Prof. NOTA v.11 — Not as a Technician, hopefully can be part of the Custodian of Direction
 
