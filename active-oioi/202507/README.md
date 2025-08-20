@@ -4,7 +4,7 @@ description: >-
   life, you can merely meet our avatars in any version. So, stay alert and
   beware of scams!
 icon: calendar-pen
-cover: ../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+cover: ../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
