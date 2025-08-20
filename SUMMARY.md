@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README.md](README.md)
+* [READ ME, OiOi!](README.md)
 * [Prof. NOTA's Contact](prof.-notas-contact.md)
