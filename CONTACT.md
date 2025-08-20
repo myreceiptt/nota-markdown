@@ -3,43 +3,45 @@ description: >-
   We don't belong in your reality, your real life. In your reality, your real
   life, you can merely meet our avatars in any version. So, stay alert and
   beware of scams!
-cover: .gitbook/assets/prof-nota-v.1.20.jpg
+cover: .gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
-# Prof. NOTA's Contact
+# CONTACT, OiOi!
 
-Welcome to this [**Contact**](prof.-notas-contact.md) web page!
+Welcome to this [**Contact**](CONTACT.md) web page!
 
-<figure><img src=".gitbook/assets/prof-nota-v.1.20.jpg" alt=""><figcaption><p>Hi, I'm Prof. NOTA!</p></figcaption></figure>
-
-To save everyone in **0101 Universe** from any **PHISHING** and **SCAMS**, please only use all the links listed below to reach and contact [**Prof. NOTA**](https://prompt.straight-line.org/). Visit and follow all these links as guidance to get any information from [**Prof. NOTA**](https://prompt.straight-line.org/).
+To save everyone in **0101 Universe** from any **PHISHING** and **SCAMS**, please only use all the links listed below to reach and contact [**Prof. NOTA**](https://nota.endhonesa.com/). Visit and follow all these links as guidance to get any information from [**Prof. NOTA**](https://nota.endhonesa.com/).
 
 #### **Prof. NOTA's Website** <a href="#prof.-notas-website" id="prof.-notas-website"></a>
 
 * **Prof. NOTA's Origin**\
-  [**https://www.straight-line.org/**](https://www.straight-line.org/)
+  [**https://www.straight-line.org/**](https://myreceipt.endhonesa.com/)
 * **Prof. NOTA's Deep Links**\
-  [**https://deeplinks.straight-line.org/**](https://deeplinks.straight-line.org/)
+  [**https://deeplinks.straight-line.org/**](https://deeplink.endhonesa.com/)
 * **Prof. NOTA's GitBook**\
-  [**https://iqraa.straight-line.org/**](https://iqraa.straight-line.org/)
+  [**https://iqraa.straight-line.org/**](https://docs.endhonesa.com/)
 * **Prof. NOTA's Working Progress**\
-  [**https://wp.straight-line.org/**](https://wp.straight-line.org/)
+  [**https://wp.straight-line.org/**](https://nota.endhonesa.com/)
 * **Prof. NOTA's Online Store**\
   [**https://store.endhonesa.com/**](https://store.endhonesa.com/)
 * **Prof. NOTA's SkateShop**\
   [**https://shop.skateshop.id/**](https://shop.skateshop.id/)
-* **Prof. NOTA's Mini Site** Any **subdomain** of these **TLD domains**; [**straight-line.org**](https://straight-line.org/), [**endhonesa.com**](https://endhonesa.com/), and [**skateshop.id**](https://skateshop.id/). Double-check the URL you are visiting, okay!!!!
+* **Prof. NOTA's Mini Site**\
+  Double-check the URL you are visiting, okay!!!! Make sure using any **subdomain** of these **TLD domains**;
+  * [**straight-line.org**](https://straight-line.org/) (LTS - Maintenance),
+  * [**endhonesa.com**](https://endhonesa.com/) (LTS - Active),
+  * and [**skateshop.id**](https://skateshop.id/) (Dev - Current).
 
 #### **Prof. NOTA's Social Network** <a href="#prof.-notas-social-network" id="prof.-notas-social-network"></a>
 
 * **Prof. NOTA's Discord server**\
   [**https://discord.gg/5KrsT6MbFm**](https://discord.gg/5KrsT6MbFm)
-* **Prof. NOTA's Twitter**\
-  [**https://twitter.com/MyReceiptTT**](https://twitter.com/MyReceiptTT)\
-  [**https://twitter.com/ROTYBASEdETH**](https://twitter.com/TheRotyBroi)\
-  [**https://twitter.com/AMANDAwives**](https://twitter.com/AMANDAwives)\
-  [**https://twitter.com/DethWish\_NFTs**](https://twitter.com/DethWish_NFTs)
+* **Prof. NOTA's X.com**\
+  [**https://x.com/MyReceiptTT**](https://x.com/MyReceiptTT)\
+  [**https://x.com/ROTYBASEdETH**](https://x.com/TheRotyBroi)\
+  [**https://x.com/AMANDAwives**](https://x.com/AMANDAwives)\
+  [**https://x.com/DethWish\_NFTs**](https://x.com/DethWish_NFTs)
 * **Prof. NOTA's YouTube**\
   [**https://www.youtube.com/@MyReceipt/**](https://www.youtube.com/@MyReceipt/)
 * **Prof. NOTA's Facebook**\
@@ -57,15 +59,15 @@ To save everyone in **0101 Universe** from any **PHISHING** and **SCAMS**, pleas
 
 Enjoy reading! Enjoy the journey and have fun following the links. Don't forget to stay alert and beware of scams!!!!
 
-<figure><img src=".gitbook/assets/prof-nota-v.1.20.jpg" alt=""><figcaption><p>Please join Prof. NOTA's Discord!</p></figcaption></figure>
-
 ***
+
+<figure><img src=".gitbook/assets/prof-nota-inc.jpeg" alt="Prof. NOTA Inc."><figcaption><p>Hi, we are Prof. NOTA!</p></figcaption></figure>
 
 Regards,
 
-
-
-[**Prof. NOTA**](https://prompt.straight-line.org/)\
+[**Prof. NOTA**](https://nota.endhonesa.com/)\
 \==== 47 =======
 
-P.S. Everything in this document may be distributed without [**Prof. NOTA**](https://prompt.straight-line.org/)'s permission but on the condition that the source is always acknowledged.
+P.S. Everything in this document may be distributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission but on the condition that the source is always acknowledged.
+
+***
