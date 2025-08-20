@@ -1,4 +1,4 @@
-# 📘 ROADMAP PROF. NOTA  
+# 📘 NOTA PEDOMAN HIDUP  
 ### _Dokumentasi Internal Tim_
 
 Secara umum, "nota" adalah catatan tertulis yang digunakan untuk berbagai keperluan, tergantung konteksnya. Beberapa makna umum:  
