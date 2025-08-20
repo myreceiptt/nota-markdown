@@ -7,7 +7,7 @@ cover: .gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
-# NOTA's MARKDOWN, OiOi!
+# READ ME, OiOi!
 
 ## 📜 License
 
