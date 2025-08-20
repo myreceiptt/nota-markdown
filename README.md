@@ -3,6 +3,7 @@ description: >-
   We don't belong in your reality, your real life. In your reality, your real
   life, you can merely meet our avatars in any version. So, stay alert and
   beware of scams!
+icon: book-open-reader
 cover: .gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
@@ -13,12 +14,12 @@ coverY: 0
 
 This project is licensed under a **Custom Limited License** by [Prof. NOTA & Prof. NOTA Inc.](https://nota.endhonesa.com/).
 
-- 🏛️ [English (UK)](./licenses/LICENSE_en-GB.md)
-- 🇮🇩 [Bahasa Indonesia](./licenses/LICENSE_ID.md)
-- 🇺🇿 [Oʻzbekcha](./licenses/LICENSE_uz-Latn.md)
-- 🇭🇰 [Cantonese – Hong Kong](./licenses/LICENSE_yue-Hant-HK.md)
-- 🇲🇾 [Bahasa Malaysia](./licenses/LICENSE_ms-MY.md)
-- 🇦🇪 [العربية – الإمارات](./licenses/LICENSE_ar-AE.md)
+* 🏛️ [English (UK)](licenses/LICENSE_en-GB.md)
+* 🇮🇩 [Bahasa Indonesia](licenses/LICENSE_ID.md)
+* 🇺🇿 [Oʻzbekcha](licenses/LICENSE_uz-Latn.md)
+* 🇭🇰 [Cantonese – Hong Kong](licenses/LICENSE_yue-Hant-HK.md)
+* 🇲🇾 [Bahasa Malaysia](licenses/LICENSE_ms-MY.md)
+* 🇦🇪 [العربية – الإمارات](licenses/LICENSE_ar-AE.md)
 
 > 📩 For permission or inquiries, contact: [nota@endhonesa.com](mailto:nota@endhonesa.com)
 
@@ -40,9 +41,9 @@ This project is licensed under a **Custom Limited License** by [Prof. NOTA & Pro
 
 ## Resources
 
-- [Prof. NOTA Inc.](https://nota.endhonesa.com/)
-- [Prof. NOTA Console](https://prompt.endhonesa.com/)
-- [Prof. NOTA Tutor](https://baca.endhonesa.com/)
+* [Prof. NOTA Inc.](https://nota.endhonesa.com/)
+* [Prof. NOTA Console](https://prompt.endhonesa.com/)
+* [Prof. NOTA Tutor](https://baca.endhonesa.com/)
 
 ## Join Prof. NOTA Discord!
 
