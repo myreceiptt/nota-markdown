@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 ## 🌐 MeMoRa: AI-Powered NFT Marketplace
 
 **MeMoRa** adalah marketplace NFT generasi baru yang mengintegrasikan kecerdasan buatan (AI) untuk meningkatkan pengalaman pengguna, akurasi harga, deteksi penipuan, dan rekomendasi yang dipersonalisasi. MeMoRa dibangun di atas infrastruktur blockchain dan didukung oleh decentralized AI agents.
