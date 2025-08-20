@@ -18,7 +18,7 @@
     * [202509](active-oioi/2025/09/README.md)
     * [202510](active-oioi/2025/10/README.md)
     * [202511](active-oioi/2025/11/README.md)
-    * [202512](active-oioi/202512/README.md)
+    * [202512](active-oioi/2025/12/README.md)
 * [ARCHIVED, OiOi!](archived-oioi/README.md)
   * [2025](archived-oioi/2025/README.md)
     * [202505](archived-oioi/2025/05/README.md)
