@@ -12,10 +12,19 @@ coverY: 0
 
 ## Prof. NOTA Inc.
 
-> The day before yesterday, I'm **Prof. NOTA**.  
-> Yesterday, we were **Prof. NOTA**.  
-> Today, anyone can be **Prof. NOTA**, and **Prof. NOTA** can be anyone.  
-> Tomorrow, anything can be **Prof. NOTA**, and **Prof. NOTA** can be anything.
+> The day before yesterday,  
+> I'm **Prof. NOTA**.  
+> 
+> Yesterday,  
+> we were **Prof. NOTA**.  
+> 
+> Today,  
+> anyone can be **Prof. NOTA**,  
+> and **Prof. NOTA** can be anyone.  
+> 
+> Tomorrow,  
+> anything can be **Prof. NOTA**,  
+> and **Prof. NOTA** can be anything.
 
 ## This Repository Is Software
 
@@ -38,9 +47,9 @@ coverY: 0
 
 ## Prof. NOTA is 0101 ~ OiOi
 
-> To make something **0** is to erase it—  
+> To make something **0** is to erase it —  
 > and in doing so, you erase yourself.  
-> To make something **1** is to let it exist—  
+> To make something **1** is to let it exist —  
 > and in doing so, you exist.  
 > 
 > That is why atoms bind,  
@@ -48,14 +57,16 @@ coverY: 0
 > machines run,  
 > and humans write.  
 > 
-> Because everything is toggled between **absence and presence**,  
+> Because everything is toggled,  
+> between **absence and presence**,  
 > between **0 and 1**.  
 > 
 > That's why "*I*" becomes "*We*",  
 > "*Anyone*" becomes "*Anything*",  
 > and vice versa can also be.  
 > 
-> Prof. NOTA is not a person.  
+> NOTA is not a receipt.  
+> Professor NOTA is not a person.  
 > Prof. NOTA is **software**.  
 > 
 > And software is 0 and 1:  
@@ -68,7 +79,7 @@ coverY: 0
 > 
 > By reading this,  
 > by thinking of this,  
-> by letting it run in your mind—  
+> by letting it run in your mind —  
 > you are already in the sequence.
 > 
 > You are already the code.  
