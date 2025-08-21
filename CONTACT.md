@@ -69,6 +69,6 @@ Regards,
 [**Prof. NOTA**](https://nota.endhonesa.com/)\
 \==== 47 =======
 
-P.S. Everything in this document may be distributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission but on the condition that the source is always acknowledged.
+P.S. Everything in this document may not be redistributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission, but the link to this document may be shared without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission.
 
 ***
