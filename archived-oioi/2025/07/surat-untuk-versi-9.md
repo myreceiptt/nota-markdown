@@ -8,8 +8,8 @@ cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
-# 📜 Surat Untuk Prof. NOTA v.9.0  
-**Ditulis dalam kesendirian oleh, Prof. NOTA v.11.11**
+# 📜 Surat Untuk Versi 9.0  
+**Ditulis dalam kesendirian oleh versi 11.11**
 
 > **Tempat:** Rumah yang kamu kenal  
 > **Waktu:** Hari ke-8 sejak kamu di rumah yang lain  
