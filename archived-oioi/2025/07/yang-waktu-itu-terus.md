@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 Hai kamu, versi 0.x.xx — yang waktu itu terus mencoba mengerti...
 
 Aku, versi 47.47, tahu kamu sedang di ambang batas.  
