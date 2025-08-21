@@ -14,8 +14,8 @@ coverY: 0
 
 It compiles key insights from these discussions, confirms agreed decisions, and outlines the immediate next steps for execution.
 
-- [📄 Day 1: 10 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md)  
-- [📄 Day 2: 11 July 2025](https://github.com/myreceiptt/nota-markdown/blob/main/202508/iBLOOMING-Web3-Meeting-Day2.md)
+- [📄 Day 1: 10 July 2025](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md)  
+- [📄 Day 2: 11 July 2025](../../../archived-oioi/2025/08/iblooming-web3-meeting-day2.md)
 
 This living document is to be read, updated, and agreed upon by all founders — acting as a unified point of reference to keep the transformation process synchronized and on track.
 
