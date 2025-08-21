@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # LAP 3 — Menemukan “Overlap” (Poin Penting Bersama)
 
 > Tujuan: Menyusun daftar hal yang sama-sama dianggap penting oleh kamu & dia, sebagai fondasi awal visi bersama.
