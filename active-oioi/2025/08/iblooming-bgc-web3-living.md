@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Living Document of Web3 Transformation Guidance
 
 📍 *This document serves as the strategic and operational reference for the Web3 transformation of iBLOOMING & BGC, derived from founder discussions on July 10–11, 2025.*
