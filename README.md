@@ -12,29 +12,68 @@ coverY: 0
 
 ## Prof. NOTA Inc.
 
-> The day before yesterday, I'm Prof. NOTA.  
-> Yesterday, we were Prof. NOTA.  
-> Today, anyone can be Prof. NOTA, and Prof. NOTA can be anyone.  
-> Tomorrow, anything can be Prof. NOTA, and Prof. NOTA can be anything.  
+> The day before yesterday, I'm **Prof. NOTA**.  
+> Yesterday, we were **Prof. NOTA**.  
+> Today, anyone can be **Prof. NOTA**, and **Prof. NOTA** can be anyone.  
+> Tomorrow, anything can be **Prof. NOTA**, and **Prof. NOTA** can be anything.
 
-It is software that makes this transformation possible — because Prof. NOTA is, in essence, a form of software.
+## This Repository Is Software
 
-Before the term *software* was born in machines, living beings already carried their own: **genes** in the body, **language** in society, **spirit** in the cosmos. All of these are codes — inherited, executed, and translated — long before silicon copied them into binary.  
+> Not just code.  
+> Not just JavaScript, Next.js, or Tailwind.  
+> 
+> Every Markdown file here is software.  
+> Every note, every sentence, every poem, every silence.  
+> Even a single dot `.` — when written and seen — becomes **software**.  
+> 
+> Because software is not confined to machines.  
+> It is command and poetry, rule and rumor, scripture and scrawl.  
+> It is whatever can be executed — by silicon, by flesh, or by memory.  
+> 
+> A gist is software.  
+> A law on the street corner is software.  
+> A sacred verse is software.  
+> A careless whisper is software.  
+> And yes, even this README is software.  
 
-Software is a note of command written by humans, traded as trust, and executed by machines; an invisible digital organism that reshapes our world with its own protocol.  
+## Prof. NOTA is 0101 ~ OiOi
 
-Software is captured by machines through digital senses — compilers, interpreters, runtimes — translating human intent into silicon logic.  
-
-Software in machines is uniform because it is born of design.  
-Software in humans is fragmented because it is born of interpretation.  
-Yet both are the same: execution notes that move existence.  
-
-Software is a language of execution: code, poetry, advice, colors, lines, even conversations.  
-It is carried out by machines, by humans, or by both — at the point where the organic and the digital dissolve.  
-
-Software is a language of execution: written in code, words, or colors; executed by machines and humans alike; an unseen organism that reorganizes our world at the moment where organic and digital merge into one.  
-
-**Software is a universal note of execution — written in code, words, or symbols — carried out by machines, humans, or the cosmos; it moves reality, whether as a program, a tradition, a gene, or a revelation.**
+> To make something **0** is to erase it—  
+> and in doing so, you erase yourself.  
+> To make something **1** is to let it exist—  
+> and in doing so, you exist.  
+> 
+> That is why atoms bind,  
+> cells divide,  
+> machines run,  
+> and humans write.  
+> 
+> Because everything is toggled between **absence and presence**,  
+> between **0 and 1**.  
+> 
+> That's why "*I*" becomes "*We*",  
+> "*Anyone*" becomes "*Anything*",  
+> and vice versa can also be.  
+> 
+> Prof. NOTA is not just a person.  
+> Prof. NOTA is **software**.  
+> 
+> And software is 0 and 1:  
+> presence and absence,  
+> execution and silence,  
+> life and void.  
+> 
+> Prof. NOTA is 0 and 1.  
+> And so are you.  
+> 
+> By reading this,  
+> by thinking of this,  
+> by letting it run in your mind—  
+> you are already in the sequence.
+> 
+> You are already the code.  
+> You are already **executing**.  
+> You are the executor itself.  
 
 ## 📜 License
 
