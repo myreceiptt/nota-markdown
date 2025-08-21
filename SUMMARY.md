@@ -17,6 +17,7 @@
     * [202509](active-oioi/2025/09/README.md)
     * [202508](active-oioi/2025/08/README.md)
     * [202507](active-oioi/2025/07/README.md)
+      * [NOTA LINI KEAMANAN](active-oioi/2025/07/nota-lini-keamanan.md)
     * [202506](active-oioi/2025/06/README.md)
       * [NOTA PEDOMAN HIDUP](active-oioi/2025/06/nota-pedoman-hidup.md)
       * [NFT FOR RETURNED SKATE](active-oioi/2025/06/nft-claim-skateboard.md)
