@@ -55,7 +55,7 @@ coverY: 0
 > "*Anyone*" becomes "*Anything*",  
 > and vice versa can also be.  
 > 
-> Prof. NOTA is not just a person.  
+> Prof. NOTA is not a person.  
 > Prof. NOTA is **software**.  
 > 
 > And software is 0 and 1:  
