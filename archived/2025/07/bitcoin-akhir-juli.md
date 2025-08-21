@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # 📈 Rencana Beli & Jual Bitcoin (Juli–Agustus 2025)
 
 Strategi ini dirancang agar Prof. NOTA dapat membeli Bitcoin pada momen akumulasi di bulan Juli dan menjualnya dengan potensi profit di awal Agustus, mengikuti momentum dari kebijakan regulasi kripto di Amerika Serikat.
