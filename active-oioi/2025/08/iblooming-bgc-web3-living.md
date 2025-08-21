@@ -30,7 +30,7 @@ This living document is to be read, updated, and agreed upon by all founders —
 
 Since 2023, **iBLOOMING** and **BGC** have operated in parallel — iBLOOMING as a digital product platform, and BGC as an affiliate reward engine. This parallel operation forms the foundation of what is now defined as **ALPHA Coin**.
 
-🎯 **ALPHA Coin** has already been active through BGC’s operational model as a real-world business simulation. (Source → [Day 2 Summary](https://github.com/myreceiptt/nota-markdown/blob/main/202508/iBLOOMING-Web3-Meeting-Day2.md#-presentation-bgc-marketing-model-by-kk))
+🎯 **ALPHA Coin** has already been active through BGC’s operational model as a real-world business simulation. (Source → [Day 2 Summary](../../../archived-oioi/2025/08/iblooming-web3-meeting-day2.md#-presentation-bgc-marketing-model-by-kk))
 
 Without explicitly naming it, BGC has effectively implemented **ALPHA Coin tokenomics** through the following existing mechanics:
 
@@ -59,7 +59,7 @@ Each objective will be simulated, measured, and validated through actual token b
 
 ## 🧱 THE EXECUTION PILLARS – PROGRESS
 
-These are the four validated **core execution pillars** agreed upon by all founders, serving as the foundation for the Web3 transformation of iBLOOMING & BGC. (Source → [Day 1: 4 Pillars Section](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-the-4-execution-pillars))
+These are the four validated **core execution pillars** agreed upon by all founders, serving as the foundation for the Web3 transformation of iBLOOMING & BGC. (Source → [Day 1: 4 Pillars Section](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-the-4-execution-pillars))
 
 **Progress Legend**: ✅ Live | 🛠 In Progress | 🧪 Planned
 
@@ -76,7 +76,7 @@ These are the four validated **core execution pillars** agreed upon by all found
 
 ## 📊 THE EXECUTION MATRIX – CYCLE
 
-(Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-simulated-execution-matrix))
+(Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-simulated-execution-matrix))
 
 **How to Read:**
 - **Progress** → Combines lifecycle stage (`Live`, `Simulation`, `Planning`, `TBD`, `Post-Sim`) with current execution status (`✅ Running`, `🛠 In Progress`, `🧪 Planned`, `🧭 Pending`, `🧠 Not Started`).
@@ -111,7 +111,7 @@ Once the pillars are stabilized:
 
 ## 🔜 NEXT STEPS (As of Meeting Day 2 – Suggested by Prof. NOTA)
 
-(Original Source – 10 July 2025: [Day 1: Next Steps](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md#-next-step-suggested-by-prof-nota))
+(Original Source – 10 July 2025: [Day 1: Next Steps](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-next-step-suggested-by-prof-nota))
 
 **Status Legend**: ✅ Done | 🛠 In Progress | 🧪 Planned | 🧭 TBD
 
