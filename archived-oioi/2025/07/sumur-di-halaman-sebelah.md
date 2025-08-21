@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Sumur di Halaman Sebelah
 
 Aku tinggal di sebuah rumah kost dua lantai, menghadap jalan kecil di tengah permukiman padat tapi belum sepenuhnya ramai. Rumah itu bukan baru, tapi juga bukan tua. Cat dinding luarnya mulai memudar, dan pagar besinya kadang berderit jika dibuka terlalu cepat. Di teras depan, ada bangku panjang dari kayu, agak lapuk, dan satu tatakan kayu kecil di sisi dinding yang biasa dipakai menaruh benda-benda rumah tangga seperti palu, obeng, atau paku-paku kecil dalam kaleng.
