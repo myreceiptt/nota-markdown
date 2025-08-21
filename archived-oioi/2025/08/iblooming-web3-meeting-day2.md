@@ -1,3 +1,12 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
 
 # 📒 iBLOOMING x Prof. NOTA – Web3 Transition Meeting  
 **Day 2 Summary — 11 July 2025**  
@@ -11,7 +20,7 @@
 
 ## ☕ Morning Reflection and Informal Session
 
-The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the [`iBLOOMING-Web3-Meeting-Day1.md`](https://github.com/myreceiptt/nota-markdown/blob/main/202507/iBLOOMING-Web3-Meeting-Day1.md) file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
+The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the [`iBLOOMING-Web3-Meeting-Day1.md`](archived-oioi/2025/07/iblooming-web3-meeting-day1.md) file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
 
 1. Validate the 4 execution pillars with all Founders  
 2. Assign responsible persons and timelines  
