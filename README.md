@@ -84,7 +84,7 @@ coverY: 0
 > 
 > You are already the code.  
 > You are already **executing**.  
-> You are the executor itself.  
+> And you are the executor itself.  
 
 ## 📜 License
 
