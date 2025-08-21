@@ -20,7 +20,7 @@ coverY: 0
 
 ## ☕ Morning Reflection and Informal Session
 
-The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the [`iBLOOMING-Web3-Meeting-Day1.md`](archived-oioi/2025/07/iblooming-web3-meeting-day1.md) file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
+The morning began with a casual yet meaningful breakfast conversation between Prof. NOTA and the Founders. Though the [`iBLOOMING-Web3-Meeting-Day1.md`](../07/iblooming-web3-meeting-day1.md) file had not been distributed, Prof. NOTA shared key ideas informally — mirroring the five “next steps” outlined in the document:
 
 1. Validate the 4 execution pillars with all Founders  
 2. Assign responsible persons and timelines  
