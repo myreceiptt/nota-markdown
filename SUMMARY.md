@@ -16,6 +16,7 @@
     * [202510](active-oioi/2025/10/README.md)
     * [202509](active-oioi/2025/09/README.md)
     * [202508](active-oioi/2025/08/README.md)
+      * [NOTA DIGITAL ASSETS COMMERCIALIZATION](active-oioi/2025/08/prof_nota_digital_asset_guidance.md)
       * [CERITA TENTANG KESENDIRIAN](active-oioi/2025/08/cerita-tentang-kesendirian.md)
       * [UNDERSTANDING BGC X IBLOOMING REWARDS](active-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
       * [BGC X IBLOOMING WEB3 LIVING DOC](active-oioi/2025/08/iblooming-bgc-web3-living.md)
