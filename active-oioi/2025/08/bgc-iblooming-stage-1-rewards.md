@@ -97,13 +97,81 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ### 3.3 GiM Referral Reward (GRR)
 
-➡️ **Belum diuraikan.**
+- **Definisi:** Reward untuk **Affiliate** yang berhasil mereferensikan **user baru** untuk sign up **GiM** melalui link **Affiliate**. Reward ini berjenjang dan ada dua macam jenjang reward.
+
+- **Besaran:**
+
+  - Individual Referral: $3 untuk tier 1 (First-Tier Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $0.2 dan si B akan mendapatkan $0.8 serta si C sendiri akan mendapatkan $3 ketika si C membawa user baru untuk sign up **GiM**.
+  - Organization Referral: $3 untuk tier 1 (First-Tier not Affiliate but the Organization), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya sign up **GiM**, akan mendapatkan $0.2 dan si B akan mendapatkan $0.8 serta the Organization sendiri akan mendapatkan $3 dari setiap sign-up **GiM** yang dilakukan oleh user-nya the Organization.
+
+- **Revenue Split**:
+
+  - $3 untuk tier 1 (First-Tier Affiliate or the Organization)
+  - $0.8 untuk tier 2 (Second-Tier Affiliate)
+  - $0.2 untuk tier 3 (Third-Tier Affiliate)
+  - $1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
+  - $1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
+  - Sisanya untuk **iBLOOMIN**
+
+- **Payout Frequency:** Dibagikan bulanan, secara keseluruhan. Misalnya, kalau **Affiliate** atau **the Organization** dalam bulan itu memiliki 100 user yang sign up **GiM**, maka total GRR yang di dapatkan tier 1 (First-Tier Affiliate atau the Organization) adalah: $3 x 100 user = **$300**, lalu tier 2 (Second-Tier Affiliate) adalah: $0.8 x 100 user = **$80**, dan tier 3 (Third-Tier Affiliate) adalah: $0.2 x 100 user = **$20**.
 
 ---
 
 ### 3.4 iMATRIX Referral Reward (iRR)
 
-➡️ **Belum diuraikan.**
+- **Definisi:** Reward untuk **Affiliate** yang mereferensikan **user** untuk subscribe **iMATRIX** (produk berlangganan). Reward ini dihitung sesuai jenis subscribe yang dipilih user, yaitu Foundation, Pro, dan Expert. Selain itu reward ini berjenjang dan ada dua macam jenjang reward.
+
+- **Besaran:**
+
+  - Individual Referral:
+    - Foundation: $0.6 untuk tier 1 (First-Tier Affiliate), $0.25 untuk tier 2 (Second-Tier Affiliate), dan $0.1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $0.1 dan si B akan mendapatkan $0.25 serta si C sendiri akan mendapatkan $0.6 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Foundation.
+    - Pro: $5 untuk tier 1 (First-Tier Affiliate), $2.5 untuk tier 2 (Second-Tier Affiliate), dan $1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $1 dan si B akan mendapatkan $2.5 serta si C sendiri akan mendapatkan $5 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Pro.
+    - Expert: $12 untuk tier 1 (First-Tier Affiliate), $5 untuk tier 2 (Second-Tier Affiliate), dan $2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $2 dan si B akan mendapatkan $5 serta si C sendiri akan mendapatkan $12 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Expert.
+  
+  - Organization Referral:
+    - Foundation: $0.6 untuk tier 1 (First-Tier not Affiliate but the Organization), $0.25 untuk tier 2 (Second-Tier Affiliate), dan $0.1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Foundation, akan mendapatkan $0.1 dan si B akan mendapatkan $0.25 serta the Organization sendiri akan mendapatkan $0.6 dari setiap subscribe **iMATRIX** jenis Foundation yang dilakukan oleh user-nya the Organization.
+    - Pro: $5 untuk tier 1 (First-Tier not Affiliate but the Organization), $2.5 untuk tier 2 (Second-Tier Affiliate), dan $1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Pro, akan mendapatkan $1 dan si B akan mendapatkan $2.5 serta the Organization sendiri akan mendapatkan $5 dari setiap subscribe **iMATRIX** jenis Pro yang dilakukan oleh user-nya the Organization.
+    - Expert: $12 untuk tier 1 (First-Tier not Affiliate but the Organization), $5 untuk tier 2 (Second-Tier Affiliate), dan $2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Expert, akan mendapatkan $2 dan si B akan mendapatkan $5 the Organization sendiri akan mendapatkan $12 dari setiap subscribe **iMATRIX** jenis Expert yang dilakukan oleh user-nya the Organization.
+
+- **Revenue Split**:
+  - Foundation:
+    - $0.6 untuk tier 1 (First-Tier Affiliate or the Organization)
+    - $0.25 untuk tier 2 (Second-Tier Affiliate)
+    - $0.1 untuk tier 3 (Third-Tier Affiliate)
+    - $0.1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
+    - $0.3 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
+    - Sisanya untuk **iBLOOMIN**
+  - Pro:
+    - $5 untuk tier 1 (First-Tier Affiliate or the Organization)
+    - $2.5 untuk tier 2 (Second-Tier Affiliate)
+    - $1 untuk tier 3 (Third-Tier Affiliate)
+    - $1.5 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
+    - $2 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
+    - Sisanya untuk **iBLOOMIN**
+  - Expert:
+    - $12 untuk tier 1 (First-Tier Affiliate or the Organization)
+    - $5 untuk tier 2 (Second-Tier Affiliate)
+    - $2 untuk tier 3 (Third-Tier Affiliate)
+    - $3 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
+    - $5 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
+    - Sisanya untuk **iBLOOMIN**
+
+- **Payout Frequency:** Dibagikan bulanan, secara keseluruhan. Misalnya, kalau **Affiliate** atau **the Organization** dalam bulan itu subscriber **iMATRIX** ada 250 jenis Foundation, 150 jenis Pro, dan 100 jenis Expert, maka:
+  - total iRR yang didapatkan tier 1 (First-Tier Affiliate atau the Organization) adalah:
+    - Foundation: $0.6 x 250 subscriber = **$150**,
+    - Pro: $5 x 150 subscriber = **$750**
+    - Expert: $12 x 100 subscriber = **$1200**
+    - Total = $150 + $750 + $1200 = $2100
+  - total iRR yang didapatkan tier 2 (Second-Tier Affiliate) adalah:
+    - Foundation: $0.25 x 250 subscriber = **$62.5**,
+    - Pro: $2.5 x 150 subscriber = **$375**
+    - Expert: $5 x 100 subscriber = **$500**
+    - Total = $62.5 + $375 + $500 = $937.5
+  - total iRR yang didapatkan tier 3 (Third-Tier Affiliate) adalah:
+    - Foundation: $0.1 x 250 subscriber = **$25**,
+    - Pro: $1 x 150 subscriber = **$150**
+    - Expert: $2 x 100 subscriber = **$200**
+    - Total = $25 + $150 + $200 = $375
 
 ---
 
