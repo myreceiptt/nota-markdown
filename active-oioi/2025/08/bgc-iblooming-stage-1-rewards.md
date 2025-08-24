@@ -35,18 +35,18 @@ Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membershi
 - **Rasio:** 100 PC = \$1 USD (fix, tidak berubah atau volatile).
 - **Fungsi:**
   - Menjadi bukti bahwa BGC menjual produk fisik (syarat legalitas MLM).
-  - Karena sudah menerima PC, maka perusahaan **tidak berkewajiban mengembalikan uang fiat yang sudah dibayarkan **************************Affiliate************************** kepada BGC**.
+  - Karena sudah menerima PC, maka perusahaan **tidak berkewajiban mengembalikan uang fiat yang sudah dibayarkan **Affiliate** kepada BGC**.
 
 ➡️ **Catatan Tambahan:**
 
 - Di perusahaan **BGC**, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan PC. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
-- Di perusahaan **iBLOOMING**, produk digital dari konten CP (e-course, e-book, dll), sign up GiM, dan subscription iMATRIX **tidak dapat dibeli dan dibayar dengan PC** tapi hanya bisa dibeli dan dibayar menggunakan uang fiat.
+- Di perusahaan **iBLOOMING**, produk digital dari konten Channel Provider (CP), sign up GiM, dan subscription iMATRIX **tidak dapat dibeli dan dibayar dengan PC** tapi hanya bisa dibeli dan dibayar menggunakan uang fiat.
 
 ---
 
 ## 3. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
 
-Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affiliate** berhak mendapatkan reward dari perusahaan iBLOOMING, yang disebut sebagai **MyCash Program**, dengan beberapa jenis reward:
+Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affiliate** berhak mendapatkan  reward dari iBLOOMING, yang disebut sebagai **MyCash Program**, dengan beberapa jenis reward:
 
 1. **iBLOOMING Link Reward (LR)**
 2. **iBLOOMING** **Miracle Cash (MC)**
@@ -60,13 +60,13 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ### 3.1 Link Reward (LR)
 
-- **Definisi:** Reward untuk **Affiliate** yang membawa user baru ke iBLOOMING melalui link **Affiliate** dan user baru tersebut membeli produk digital dari konten Channel Provider (CP) untuk pertama kalinya.
+- **Definisi:** Reward untuk **Affiliate** yang membawa user baru ke iBLOOMING melalui link **Affiliate** dan user baru tersebut membeli produk digital dari konten CP (e-course, e-book, dll) untuk pertama kalinya.
 
 - **Besaran:** 10% dari nilai pembelian atau transaksi pertama user baru iBLOOMING yang menggunakan link **Affiliate**.
 
 - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
 
-  - iBLOOMING → \$90 (ini akan menjadi revenue produk digital dari konten CP (e-course, e-book, dll) dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
+  - iBLOOMING → \$90 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
   - Affiliate yang membawa user baru melalui link → \$10
 
 - **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau **Affiliate** dalam bulan itu membawa 10 user baru ke iBLOOMING dengan pembelian atau transaksi pertama rata-rata \$100, maka total payout-nya untuk **Affiliate** akan senilai: 10% × \$100 × 10 user = **\$100**.
@@ -75,7 +75,7 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ### 3.2 Miracle Cash (MC)
 
-- **Definisi:** Reward untuk **Affiliate** yang sudah berhasil membawa user baru ke iBLOOMING melalui link **Affiliate** dan user baru tersebut membeli produk digital dari konten CP (e-course, e-book, dll) untuk kedua kalinya hingga ke sebelas kalinya.
+- **Definisi:** Reward untuk **Affiliate** yang sudah berhasil membawa user baru ke iBLOOMING melalui link **Affiliate** dan user baru tersebut membeli produk digital dari konten CP (e-course, e-book, dll) untuk yang kedua kalinya hingga ke sebelas kalinya.
 
 - **Besaran:** 1% dari nilai masing-masing 10 pembelian atau transaksi user di iBLOOMING setelah pembelian atau transaksi pertamanya, yaitu pembelian atau transaksi kedua hingga ke sebelas.
 
@@ -84,11 +84,11 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
   - Jika seorang user yang dibawa oleh **Affiliate** melakukan pembelian atau transaksi kedua senilai \$100:
     - iBLOOMING → \$99 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
     - Affiliate → \$1 (1% × \$100)
-  - Jika user yang sama melakukan 10 pembelian atau transaksi lanjutan (masing-masing senilai \$100):
-    - iBLOOMING → \$990 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
+  - Jika user yang sama melakukan hingga 10 pembelian atau transaksi lanjutan (masing-masing senilai \$100):
+    - iBLOOMING → \$990 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
     - Affiliate → \$10 (1% × \$100 × 10 transaksi)
   - Jika ada 10 user baru yang semuanya melakukan 10 pembelian atau transaksi lanjutan (masing-masing senilai \$100):
-    - iBLOOMING → \$9,900 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
+    - iBLOOMING → \$9,900 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
     - Affiliate → \$100 (1% × \$100 × 10 user × 10 transaksi)
 
 - **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau **Affiliate** dalam bulan itu memiliki 10 user yang sudah berhasil dibawa ke iBLOOMING dan user tersebut membeli produk digital dari konten CP (e-course, e-book, dll) untuk kedua kalinya hingga ke sebelas kalinya, bahkan lebih. Lalu rata-rata pembelian atau transaksinya adalah \$100, maka total Miracle Cash yang diterima **Affiliate** adalah: 1% × \$100 × 10 user × 10 transaksi = **\$100**.
@@ -97,81 +97,100 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ### 3.3 GiM Referral Reward (GRR)
 
-- **Definisi:** Reward untuk **Affiliate** yang berhasil mereferensikan **user baru** untuk sign up **GiM** melalui link **Affiliate**. Reward ini berjenjang dan ada dua macam jenjang reward.
+- **Definisi:** Reward untuk **Affiliate** yang berhasil mereferensikan **user baru** untuk sign up **GiM** melalui link **Affiliate**. Reward ini **berjenjang** dan ada **dua macam jalur** (Individual dan Organization).
 
 - **Besaran:**
 
-  - Individual Referral: $3 untuk tier 1 (First-Tier Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $0.2 dan si B akan mendapatkan $0.8 serta si C sendiri akan mendapatkan $3 ketika si C membawa user baru untuk sign up **GiM**.
-  - Organization Referral: $3 untuk tier 1 (First-Tier not Affiliate but the Organization), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya sign up **GiM**, akan mendapatkan $0.2 dan si B akan mendapatkan $0.8 serta the Organization sendiri akan mendapatkan $3 dari setiap sign-up **GiM** yang dilakukan oleh user-nya the Organization.
+  - **Individual Referral:** $3 untuk tier 1 (First-Tier Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate).  
+    **Contoh:** Si **A** adalah Affiliate yang sebelumnya telah merekrut si **B** menjadi Affiliate, dan **B** berhasil merekrut si **C** menjadi Affiliate. Ketika **C** membawa user baru untuk sign up **GiM**, maka payout per sign-up adalah: **C = $3**, **B = $0.8**, **A = $0.2**.
 
-- **Revenue Split**:
+  - **Organization Referral:** $3 untuk tier 1 (**First-Tier** adalah **Organization** yang direferensikan oleh Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate).  
+    **Contoh:** Si **A** (Affiliate) telah merekrut si **B** (Affiliate), lalu **B** berhasil mereferensikan sebuah **Organization** (mis. sekolah/komunitas). Ketika **user** milik Organization tersebut sign up **GiM**, maka payout per sign-up adalah: **Organization = $3**, **B = $0.8**, **A = $0.2**.
 
-  - $3 untuk tier 1 (First-Tier Affiliate or the Organization)
-  - $0.8 untuk tier 2 (Second-Tier Affiliate)
-  - $0.2 untuk tier 3 (Third-Tier Affiliate)
-  - $1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
-  - $1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
-  - Sisanya untuk **iBLOOMIN**
+- **Revenue Split per Sign-Up GiM:**
 
-- **Payout Frequency:** Dibagikan bulanan, secara keseluruhan. Misalnya, kalau **Affiliate** atau **the Organization** dalam bulan itu memiliki 100 user yang sign up **GiM**, maka total GRR yang di dapatkan tier 1 (First-Tier Affiliate atau the Organization) adalah: $3 x 100 user = **$300**, lalu tier 2 (Second-Tier Affiliate) adalah: $0.8 x 100 user = **$80**, dan tier 3 (Third-Tier Affiliate) adalah: $0.2 x 100 user = **$20**.
+  - **$3** untuk **tier 1** (First-Tier Affiliate **atau** First-Tier **Organization**)
+  - **$0.8** untuk **tier 2** (Second-Tier Affiliate)
+  - **$0.2** untuk **tier 3** (Third-Tier Affiliate)
+  - **$1** dikumpulkan untuk **Global Profit Sharing (GPS)**
+  - **$1** dikumpulkan untuk **Global Movement Pool (GMP)**
+  - **Sisanya** untuk **iBLOOMING**
+
+- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan.  
+  **Contoh:** Jika **Affiliate** atau **Organization** dalam bulan berjalan memiliki **100 user** yang sign up **GiM**, maka total GRR:
+  - **Tier 1** (First-Tier Affiliate/Organization): $3 × 100 = **$300**
+  - **Tier 2** (Second-Tier Affiliate): $0.8 × 100 = **$80**
+  - **Tier 3** (Third-Tier Affiliate): $0.2 × 100 = **$20**
 
 ---
 
 ### 3.4 iMATRIX Referral Reward (iRR)
 
-- **Definisi:** Reward untuk **Affiliate** yang mereferensikan **user** untuk subscribe **iMATRIX** (produk berlangganan). Reward ini dihitung sesuai jenis subscribe yang dipilih user, yaitu Foundation, Pro, dan Expert. Selain itu reward ini berjenjang dan ada dua macam jenjang reward.
+- **Definisi:** Reward untuk **Affiliate** yang mereferensikan **user** untuk berlangganan (**subscribe to**) **iMATRIX** (produk berlangganan). Reward dihitung sesuai **jenis paket** yang dipilih user (**Foundation, Pro, Expert**) dan **berjenjang tiga tier**. Skema ini berlaku untuk dua jalur: **Individual Referral** dan **Organization Referral**.
 
 - **Besaran:**
 
-  - Individual Referral:
-    - Foundation: $0.6 untuk tier 1 (First-Tier Affiliate), $0.25 untuk tier 2 (Second-Tier Affiliate), dan $0.1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $0.1 dan si B akan mendapatkan $0.25 serta si C sendiri akan mendapatkan $0.6 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Foundation.
-    - Pro: $5 untuk tier 1 (First-Tier Affiliate), $2.5 untuk tier 2 (Second-Tier Affiliate), dan $1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $1 dan si B akan mendapatkan $2.5 serta si C sendiri akan mendapatkan $5 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Pro.
-    - Expert: $12 untuk tier 1 (First-Tier Affiliate), $5 untuk tier 2 (Second-Tier Affiliate), dan $2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa si C menjadi seorang Affiliate, akan mendapatkan $2 dan si B akan mendapatkan $5 serta si C sendiri akan mendapatkan $12 ketika si C membawa user baru untuk subscribe **iMATRIX** yang jenis Expert.
-  
-  - Organization Referral:
-    - Foundation: $0.6 untuk tier 1 (First-Tier not Affiliate but the Organization), $0.25 untuk tier 2 (Second-Tier Affiliate), dan $0.1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Foundation, akan mendapatkan $0.1 dan si B akan mendapatkan $0.25 serta the Organization sendiri akan mendapatkan $0.6 dari setiap subscribe **iMATRIX** jenis Foundation yang dilakukan oleh user-nya the Organization.
-    - Pro: $5 untuk tier 1 (First-Tier not Affiliate but the Organization), $2.5 untuk tier 2 (Second-Tier Affiliate), dan $1 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Pro, akan mendapatkan $1 dan si B akan mendapatkan $2.5 serta the Organization sendiri akan mendapatkan $5 dari setiap subscribe **iMATRIX** jenis Pro yang dilakukan oleh user-nya the Organization.
-    - Expert: $12 untuk tier 1 (First-Tier not Affiliate but the Organization), $5 untuk tier 2 (Second-Tier Affiliate), dan $2 untuk tier 3 (Third-Tier Affiliate). Misalnya si A, seorang Affiliate yang sebelumnya telah membawa si B menjadi seorang Affiliate dan si B berhasil membawa sebuah Organization yang user-nya subscribe **iMatrix** jenis Expert, akan mendapatkan $2 dan si B akan mendapatkan $5 the Organization sendiri akan mendapatkan $12 dari setiap subscribe **iMATRIX** jenis Expert yang dilakukan oleh user-nya the Organization.
+  **A) Individual Referral**
+  - **Foundation:** $0.6 (Tier 1 / First-Tier Affiliate), $0.25 (Tier 2), $0.1 (Tier 3).  
+    *Contoh:* **A** merekrut **B** sebagai Affiliate, **B** merekrut **C** sebagai Affiliate. Ketika **C** membawa user yang berlangganan **Foundation**, payout per subscription: **C = $0.6**, **B = $0.25**, **A = $0.1**.
+  - **Pro:** $5 (Tier 1), $2.5 (Tier 2), $1 (Tier 3).  
+    *Contoh:* Skema sama → **Tier 1 (C) = $5**, **Tier 2 (B) = $2.5**, **Tier 3 (A) = $1** per subscription **Pro**.
+  - **Expert:** $12 (Tier 1), $5 (Tier 2), $2 (Tier 3).  
+    *Contoh:* Skema sama → **Tier 1 (C) = $12**, **Tier 2 (B) = $5**, **Tier 3 (A) = $2** per subscription **Expert**.
 
-- **Revenue Split**:
-  - Foundation:
-    - $0.6 untuk tier 1 (First-Tier Affiliate or the Organization)
-    - $0.25 untuk tier 2 (Second-Tier Affiliate)
-    - $0.1 untuk tier 3 (Third-Tier Affiliate)
-    - $0.1 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
-    - $0.3 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
-    - Sisanya untuk **iBLOOMIN**
-  - Pro:
-    - $5 untuk tier 1 (First-Tier Affiliate or the Organization)
-    - $2.5 untuk tier 2 (Second-Tier Affiliate)
-    - $1 untuk tier 3 (Third-Tier Affiliate)
-    - $1.5 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
-    - $2 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
-    - Sisanya untuk **iBLOOMIN**
-  - Expert:
-    - $12 untuk tier 1 (First-Tier Affiliate or the Organization)
-    - $5 untuk tier 2 (Second-Tier Affiliate)
-    - $2 untuk tier 3 (Third-Tier Affiliate)
-    - $3 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Profit Sharing (GPS)
-    - $5 untuk dikumpulkan lalu dibagi sesuai pengaturan Global Movement Pool (GMP)
-    - Sisanya untuk **iBLOOMIN**
+  **B) Organization Referral**
+  - **Foundation:** $0.6 (Tier 1 = **Organization**), $0.25 (Tier 2 Affiliate), $0.1 (Tier 3 Affiliate).  
+    *Contoh:* **A** (Affiliate) merekrut **B** (Affiliate); **B** mereferensikan sebuah **Organization**. Ketika **user** milik Organization berlangganan **Foundation**, payout: **Organization = $0.6**, **B = $0.25**, **A = $0.1** per subscription.
+  - **Pro:** $5 (Tier 1 = Organization), $2.5 (Tier 2 Affiliate), $1 (Tier 3 Affiliate).  
+    *Contoh:* Payout per subscription **Pro**: **Organization = $5**, **B = $2.5**, **A = $1**.
+  - **Expert:** $12 (Tier 1 = Organization), $5 (Tier 2 Affiliate), $2 (Tier 3 Affiliate).  
+    *Contoh:* Payout per subscription **Expert**: **Organization = $12**, **B = $5**, **A = $2**.
 
-- **Payout Frequency:** Dibagikan bulanan, secara keseluruhan. Misalnya, kalau **Affiliate** atau **the Organization** dalam bulan itu subscriber **iMATRIX** ada 250 jenis Foundation, 150 jenis Pro, dan 100 jenis Expert, maka:
-  - total iRR yang didapatkan tier 1 (First-Tier Affiliate atau the Organization) adalah:
-    - Foundation: $0.6 x 250 subscriber = **$150**,
-    - Pro: $5 x 150 subscriber = **$750**
-    - Expert: $12 x 100 subscriber = **$1200**
-    - Total = $150 + $750 + $1200 = $2100
-  - total iRR yang didapatkan tier 2 (Second-Tier Affiliate) adalah:
-    - Foundation: $0.25 x 250 subscriber = **$62.5**,
-    - Pro: $2.5 x 150 subscriber = **$375**
-    - Expert: $5 x 100 subscriber = **$500**
-    - Total = $62.5 + $375 + $500 = $937.5
-  - total iRR yang didapatkan tier 3 (Third-Tier Affiliate) adalah:
-    - Foundation: $0.1 x 250 subscriber = **$25**,
-    - Pro: $1 x 150 subscriber = **$150**
-    - Expert: $2 x 100 subscriber = **$200**
-    - Total = $25 + $150 + $200 = $375
+- **Revenue Split per Subscription (tambahan alokasi GPS & GMP):**
+
+  **Foundation**
+  - **$0.6** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+  - **$0.25** → Tier 2 (Second-Tier Affiliate)  
+  - **$0.1** → Tier 3 (Third-Tier Affiliate)  
+  - **$0.1** → dikumpulkan untuk **Global Profit Sharing (GPS)**  
+  - **$0.3** → dikumpulkan untuk **Global Movement Pool (GMP)**  
+  - **Sisanya** → **iBLOOMING**
+
+  **Pro**
+  - **$5** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+  - **$2.5** → Tier 2 (Second-Tier Affiliate)  
+  - **$1** → Tier 3 (Third-Tier Affiliate)  
+  - **$1.5** → dikumpulkan untuk **GPS**  
+  - **$2** → dikumpulkan untuk **GMP**  
+  - **Sisanya** → **iBLOOMING**
+
+  **Expert**
+  - **$12** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+  - **$5** → Tier 2 (Second-Tier Affiliate)  
+  - **$2** → Tier 3 (Third-Tier Affiliate)  
+  - **$3** → dikumpulkan untuk **GPS**  
+  - **$5** → dikumpulkan untuk **GMP**  
+  - **Sisanya** → **iBLOOMING**
+
+> *Catatan:* Angka-angka di atas adalah **nominal tetap per subscription event** dan **terpisah** dari kontribusi ke **GPS** (hindari double counting dengan GPS; iRR adalah insentif referral langsung, sedangkan alokasi GPS adalah pool terpisah yang dibagikan 6 bulanan).
+
+- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan.  
+  **Contoh akumulasi bulanan:** Jika dalam 1 bulan terdapat **250 subscriber Foundation**, **150 Pro**, **100 Expert**, maka payout iRR:
+  - **Tier 1 (First-Tier Affiliate/Organization):**  
+    - Foundation: $0.6 × 250 = **$150**  
+    - Pro: $5 × 150 = **$750**  
+    - Expert: $12 × 100 = **$1,200**  
+    - **Total Tier 1 = $150 + $750 + $1,200 = $2,100**
+  - **Tier 2 (Second-Tier Affiliate):**  
+    - Foundation: $0.25 × 250 = **$62.5**  
+    - Pro: $2.5 × 150 = **$375**  
+    - Expert: $5 × 100 = **$500**  
+    - **Total Tier 2 = $62.5 + $375 + $500 = $937.5**
+  - **Tier 3 (Third-Tier Affiliate):**  
+    - Foundation: $0.1 × 250 = **$25**  
+    - Pro: $1 × 150 = **$150**  
+    - Expert: $2 × 100 = **$200**  
+    - **Total Tier 3 = $25 + $150 + $200 = $375**
 
 ---
 
@@ -214,7 +233,7 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
   1. **15% dari revenue produk digital dari konten CP** (e-course, e-book, dll).
 
      - **Contoh Hitungan** (Revenue \$100):
-       - Channel Provider (CP) → \$70
+       - Channel Provide (CP) → \$70
        - **Masuk GPS** → \$15
        - iBLOOMING (tahun pertama) → \$10
        - Affiliate yang membawa CP (tahun pertama) → \$5
@@ -252,16 +271,41 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ---
 
-### 3.7 Global Movement Pool
+### 3.7 Global Movement Pool (GMP)
 
-➡️ **Belum diuraikan.**
+> **Template — to be filled**
+
+- **Definisi:** Pool insentif global berbasis **pertumbuhan & aktivitas jaringan** (movement) lintas ekosistem iBLOOMING/BGC, dibagikan ke affiliate yang memenuhi **kriteria performa** tertentu.
+- **Tujuan:** Menghadiahi kontribusi yang mendorong **pertumbuhan sehat**: akuisisi user/CP berkualitas, retensi, omzet berulang, dan kepatuhan.
+- **Sumber Pool (tentatif, isi bila sudah disepakati):**
+  - Persentase dari net revenue gabungan? (TBD)
+  - Alokasi tetap per periode? (TBD)
+  - Komponen variabel (mis. milestone global)? (TBD)
+- **Eligibility & Bobot (tentatif):**
+  - Syarat minimum (mis. omzet referral ≥ T, churn ≤ C, kepatuhan KYC/AML, dsb.).
+  - **Bobot kontribusi** per dimensi (contoh placeholder):
+    - Akuisisi user baru berkualitas → w₁
+    - Penjualan CP (omzet) → w₂
+    - Retensi (pembelian ulang) → w₃
+    - Aktivasi cross-app (GiM/iMATRIX) → w₄
+- **Formula Umum (placeholder):**
+  - `Skor_Affiliate = w₁·A + w₂·B + w₃·R + w₄·X`
+  - `Porsi_Affiliate = Skor_Affiliate / (Σ Skor seluruh eligible)`
+  - `Payout_Affiliate = Porsi_Affiliate × (Total GMP Pool)`
+- **Contoh Hitungan (isi setelah bobot & ambang ditetapkan):**
+  - Misal Total GMP = **$2,000,000**. Tiga affiliate eligible punya skor (120, 80, 50) → total 250.
+  - Porsi = (120/250, 80/250, 50/250) → payout = ($960k, $640k, $400k).
+- **Payout Frequency:** Per kuartal/semester (tentukan; jika ingin beda dari GPS, tulis jelas).
+- **Data yang Dibutuhkan:**
+  - Pipeline & log aktivitas (akuisisi, omzet, retensi, aktivasi), kepatuhan.
+  - Aturan audit & anti-fraud (bot, self-deal, circular trading).
 
 ---
 
 ## 4. MyCash Program Berdasarkan **Sales Point (SP)**
 
 - **Definisi:** SP adalah bobot/ukuran untuk menghitung reward dan distribusi bonus. Masih belum jelas apakah SP hanya berlaku di BGC, di iBLOOMING, atau keduanya.
-- **Nilai Fix:** 1 SP = \$1 (setara).
+- **Nilai Fix:** 1 SP = $1 (setara).
 - **Bobot SP per Level:**
   - Pathfinder → 70 SP
   - Voyager → 350 SP
@@ -271,3 +315,4 @@ Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affil
 
 ➡️ Detail mekanisme perolehan & distribusi SP akan diurai di **Tahap 2**.
 
+---
