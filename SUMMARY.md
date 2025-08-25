@@ -38,6 +38,8 @@
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
     * [202508](archived-oioi/2025/08/README.md)
+      * [PERURI CONNECT SPEC V1](archived-oioi/2025/08/peruri_connect_spec_v1.md)
+      * [PERURI CONNECT PLAN](archived-oioi/2025/08/peruri_connect_plan.md)
       * [TITIK NOL MARGINAL](archived-oioi/2025/08/titik_nol_marginal.md)
       * [RECEIPT WEB3 2025/07-08](archived-oioi/2025/08/public-receipt-web3-2025-0708.md)
       * [WEB3 ACTIVITIES OF ZYM SYSTEMS](archived-oioi/2025/08/documentary-evidence-of-blockchain-web3-activities.md)
