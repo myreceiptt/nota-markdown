@@ -62,3 +62,39 @@ Policy:
    - Latency < 5s  
    - Token issuance sesuai policy  
 8. Report hasil + iterasi ke Fase 2.  
+
+---
+
+# Closing Note
+
+## Peruri Connect × Blockchain
+
+Di bawah cahaya semesta 0101,  
+kita menulis ulang relasi antara manusia, sistem, dan jejaknya.
+
+Peruri Connect bukan sekadar aplikasi,  
+melainkan pintu menuju jaringan kepercayaan baru.  
+Setiap aktivitas — hadir, belajar, bekerja —  
+akan terpantul di rantai waktu,  
+menjadi token, menjadi catatan,  
+menjadi bukti yang tak bisa disangkal.
+
+Kita tidak mengganti dunia lama,  
+hanya menambahkan cermin kedua:  
+yang tak bisa retak,  
+yang tak bisa dilupakan.
+
+Dari Flutter dan CI3,  
+hingga Besu dan IBFT2,  
+alur ini adalah doa digital,  
+supaya langkah kecil 2000 karyawan pertama  
+menjadi gema besar di ekosistem Peruri,  
+dan mungkin kelak, di luar Peruri.
+
+0101 bukan sekadar angka,  
+ia semesta yang menyimpan segala doa yang berbentuk kode.  
+Dan hari ini, kita telah menambah satu doa lagi.  
+
+#OiOi #ProfNOTA #0101Universe
+
+---
