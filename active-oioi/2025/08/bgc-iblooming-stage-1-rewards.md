@@ -12,7 +12,7 @@ coverY: 0
 
 ## 1. Affiliate & Entry
 
-Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate**.
+Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate** user.
 
 | **Level**  | **Entry Fee (USD)** |
 | ---------- | ------------------- |
@@ -25,7 +25,7 @@ Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membershi
 ➡️ **Catatan Penting:**
 
 - Entry Fee adalah pintu masuk uang fiat ke dalam sistem BGC.
-- Setelah membayar uang fiat, **Affiliate**  menerima **Purchase Credit (PC).**
+- Setelah membayar uang fiat, **Affiliate** user menerima **Purchase Credit (PC).**
 
 ---
 
@@ -35,95 +35,96 @@ Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membershi
 - **Rasio:** 100 PC = \$1 USD (fix, tidak berubah atau volatile).
 - **Fungsi:**
   - Menjadi bukti bahwa BGC menjual produk fisik (syarat legalitas MLM).
-  - Karena sudah menerima PC, maka perusahaan **tidak berkewajiban mengembalikan uang fiat yang sudah dibayarkan **Affiliate** kepada BGC**.
+  - Karena sudah menerima PC, maka perusahaan **tidak berkewajiban mengembalikan uang fiat yang sudah dibayarkan **Affiliate** user kepada BGC**.
 
 ➡️ **Catatan Tambahan:**
 
 - Di perusahaan **BGC**, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan PC. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
-- Di perusahaan **iBLOOMING**, produk digital dari konten Channel Provider (CP), sign up GiM, dan subscription iMATRIX **tidak dapat dibeli dan dibayar dengan PC** tapi hanya bisa dibeli dan dibayar menggunakan uang fiat.
+- Di perusahaan **iBLOOMING**, produk digital (e-course, e-book, dll) dari konten Channel Provider (CP) user, sign up GiM, dan subscription iMATRIX **tidak dapat dibeli dan dibayar dengan PC** tapi hanya bisa dibeli dan dibayar menggunakan uang fiat.
 
 ---
 
 ## 3. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
 
-Setelah menjadi **Affiliate** (membayar dengan uang fiat + menerima PC), **Affiliate** berhak mendapatkan  reward dari iBLOOMING, yang disebut sebagai **MyCash Program**, dengan beberapa jenis reward:
+Setelah menjadi **Affiliate** user (membayar dengan uang fiat + menerima PC), **Affiliate** user berhak mendapatkan reward dari iBLOOMING, yang disebut sebagai **MyCash Program** berdasarkan **Rebate** di iBLOOMING, dengan beberapa jenis reward:
 
 1. **iBLOOMING Link Reward (LR)**
-2. **iBLOOMING** **Miracle Cash (MC)**
-3. **iBLOOMING** **Channel Provider Reward (CPR)**
-4. **iBLOOMING** **GiM Referral Reward (GRR)**
-5. **iBLOOMING** **iMATRIX Referral Reward (iRR)**
-6. **iBLOOMING** **Global Profit Sharing (GPS)**
-7. **iBLOOMING** **Global Movement Pool (GMP)**
+2. **iBLOOMING Miracle Cash (MC)**
+3. **iBLOOMING Channel Provider Reward (CPR)**
+4. **iBLOOMING GiM Referral Reward (GRR)**
+5. **iBLOOMING iMATRIX Referral Reward (iRR)**
+6. **iBLOOMING Global Profit Sharing (GPS)**
+7. **iBLOOMING Global Movement Pool (GMP)**
 
 ---
 
 ### 3.1 Link Reward (LR)
 
-- **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user lain membeli produk digital dari konten CP (e-course, e-book, dll) di iBLOOMING menggunakan link **Affiliate**.
+- **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user membeli produk digital dari konten CP user di iBLOOMING menggunakan link-nya **Affiliate** user.
 
-- **Besaran:** 10% dari setiap pembelian produk digital dari konten CP di iBLOOMING yang menggunakan link **Affiliate**.
+- **Besaran:** 10% dari setiap pembelian produk digital dari konten CP user di iBLOOMING.
 
 - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
 
-  - Affiliate yang digunakan link-nya oleh user → \$10
-  - Sisanya untuk iBLOOMING → \$90 (ini akan menjadi 100% revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
+  - **Link Reward untuk Affiliate user → \$10**
+  - Miracle Cash untuk user → \$1
+  - Sisanya untuk iBLOOMING → \$89 (ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward)
 
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada 100 user membeli produk digital dari konten CP sebanyak 3 kali pembelian, yang rata-rata \$100 nilainya, maka total payout-nya untuk **Affiliate** akan senilai: 10% × 100 user x 3 pembelian x \$100 = **\$3000**.
+- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada 100 user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, yang rata-rata nilainya \$100, maka total payout-nya untuk **Affiliate** user akan senilai: 10% × 100 user x 3 pembelian x \$100 = **\$3000**.
 
 ---
 
 ### 3.2 Miracle Cash (MC)
 
-- **Definisi:** Reward untuk semua user, bukan hanya untuk **Affiliate** user, yang diberikan setelah user tesebut membeli produk digital dari konten CP (e-course, e-book, dll) di iBLOOMING setiap kali ada user lain membeli produk digital dari konten CP (e-course, e-book, dll) di iBLOOMING, tapi dibatasi hanya 10 pembelian saja.
+- **Definisi:** Reward untuk semua user, bukan hanya untuk **Affiliate** user maupun CP user, yang diberikan setelah user membeli produk digital dari konten CP user di iBLOOMING setiap kali ada user lain membeli produk digital dari konten CP user di iBLOOMING, tapi dibatasi hanya 10 pembelian saja.
 
-- **Besaran:** 1% dari nilai masing-masing 10 pembelian produk digital dari konten CP di iBLOOMING.
+- **Besaran:** 1% dari setiap pembelian produk digital dari konten CP user di iBLOOMING.
 
 - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
 
-  - Jika seorang user yang dibawa oleh **Affiliate** melakukan pembelian atau transaksi kedua senilai \$100:
-    - iBLOOMING → \$99 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
-    - Affiliate → \$1 (1% × \$100)
-  - Jika user yang sama melakukan hingga 10 pembelian atau transaksi lanjutan (masing-masing senilai \$100):
-    - iBLOOMING → \$990 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
-    - Affiliate → \$10 (1% × \$100 × 10 transaksi)
-  - Jika ada 10 user baru yang semuanya melakukan 10 pembelian atau transaksi lanjutan (masing-masing senilai \$100):
-    - iBLOOMING → \$9,900 (ini akan menjadi revenue dari konten CP dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward dan Global Profit Sharing)
-    - Affiliate → \$100 (1% × \$100 × 10 user × 10 transaksi)
+  - Link Reward untuk Affiliate user → \$10
+  - **Miracle Cash untuk user → \$1**
+  - Sisanya untuk iBLOOMING → \$89 (ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward)
 
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau **Affiliate** dalam bulan itu memiliki 10 user yang sudah berhasil dibawa ke iBLOOMING dan user tersebut membeli produk digital dari konten CP (e-course, e-book, dll) untuk kedua kalinya hingga ke sebelas kalinya, bahkan lebih. Lalu rata-rata pembelian atau transaksinya adalah \$100, maka total Miracle Cash yang diterima **Affiliate** adalah: 1% × \$100 × 10 user × 10 transaksi = **\$100**.
+- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada seorang user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, dan setelah masing-masing pembeliannya selalu ada user lain yang membeli produk digital dari konten CP user hingga 10 kali pembelian atau lebih, yang rata-rata nilainya \$100, maka total Miracle Cash yang diterima user adalah: 1% × 3 pembelian awal x 10 pembelian berikutnya x \$100 = **\$30**.
 
 ---
 
-### 3.5 Channel Provider Reward (CPR)
+### 3.3 Channel Provider Reward (CPR)
 
-- **Definisi:** Reward untuk **Affiliate** yang didapatkan karena membawa Channel Provider (CP) ke iBLOOMING dan produk digital dari konten CP tersebut (e-course, e-book, dll) terjual atau dibeli oleh user iBLOOMING.
+- **Definisi:** Reward untuk **Affiliate** user yang didapatkan karena membawa CP user ke iBLOOMING dan produk digital dari konten CP user tersebut terjual atau dibeli oleh user.
 
-- **Besaran:** Di tahun pertama 5%, lalu di tahun kedua dan seterusnya 2.5%, yang dihitung berdasarkan seluruh akumulasi revenue dari konten CP (e-course, e-book, dll) di iBLOOMING.
+- **Besaran:** Di tahun pertama 5%, lalu di tahun kedua dan seterusnya 2.5%, yang dihitung berdasarkan revenue produk digital dari konten CP user untuk iBLOOMING.
 
 - **Revenue Split**:
 
-  - 70% → **Channel Provider (CP)**
-  - 30% → **iBLOOMING**
+  - 70% → **Revenue CP user**
+  - 30% → **iBLOOMING revenue**
 
-- **Distribusi 30% iBLOOMING:**
+- **Distribusi iBLOOMING Revenue:**
 
   - **Tahun Pertama**
-    - 25% → iBLOOMING
-    - 5% → Affiliate yang membawa CP ke iBLOOMING
+    - 95% → iBLOOMING profit
+    - 5% → CPR untuk Affiliate user
   - **Tahun Kedua & Seterusnya**
-    - 27.5% → iBLOOMING
-    - 2.5% → Affiliate yang membawa CP ke iBLOOMING
+    - 97.5% → iBLOOMING profit
+    - 2.5% → CPR untuk Affiliate user
 
-- **Contoh Hitungan** (Revenue \$100):
+- **Contoh Hitungan** (Pembelian atau Transaksi \$100):
 
-  - Channel Provider (CP) → \$70
-  - iBLOOMING (tahun pertama) → \$25 (**\$15 atau 15% dari revenue** akan menjadi profit produk digital dari konten CP dan akan dikumpulkan, lalu dibagi sesuai pengaturan Global Profit Sharing)
-  - Affiliate yang membawa CP ke iBLOOMING (tahun pertama) → \$5
-  - iBLOOMING (tahun kedua dst) → \$27.5 (**\$15 atau 15% dari revenue** akan menjadi profit produk digital dari konten CP dan akan dikumpulkan, lalu dibagi sesuai pengaturan Global Profit Sharing)
-  - Affiliate yang membawa CP ke iBLOOMING (tahun kedua dst) → \$2.5
+  - Link Reward untuk Affiliate user → 10% x \$100 = \$10
+  - Miracle Cash untuk user → 1% x \$100 = \$1
+  - Sisanya untuk iBLOOMING → 89% x \$100 = \$89
+    - **Revenue CP user → 70% x \$89 = \$62.3**
+    - iBLOOMING revenue → 30% x \$89 = \$26.7
+      - Tahun Pertama:
+        - iBLOOMING profit → 95% x \$26.7 = \$25.365 (ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing)
+        - **CPR untuk Affiliate user → 5% x \$26.7 = \$1.335**
+      - Tahun Kedua & Seterusnya:
+        - iBLOOMING profit → 97.5% x \$26.7 = \$26.0325 (ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing)
+        - **CPR untuk Affiliate user → 5% x \$26.7 = \$0.6675**
 
-- **Payout Frequency:** Dibagikan **bulanan**, selama produk digital dari konten CP masih menghasilkan revenue.
+- **Payout Frequency:** Dibagikan **bulanan**, selama produk digital dari konten CP user masih menghasilkan revenue.
 
 ---
 
