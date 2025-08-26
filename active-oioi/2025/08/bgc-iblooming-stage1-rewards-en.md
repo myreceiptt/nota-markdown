@@ -77,7 +77,7 @@ Bloo Global Company (BGC) uses an **Affiliate Membership** system with five leve
 
 ## 3. World Executive Club (WEC)
 
-- **Definition:** A **WEC User** is an Affiliate User whose **total MyCash income** (sum of all MyCash Program rewards) in the **last 60 days** **has reached $10,000**. WEC status is **temporary and automatic** once the threshold is met.
+- **Definition:** A **WEC User** is an Affiliate User whose **total MyCash income** (sum of all MyCash Program based on Sales Point, that is RR and GR rewards) in the **60 days** (the starting day set by the Affiliate user itself) **has reached $10,000**. WEC status is **temporary and automatic** once the threshold is met.
 - **Level Independence:** WEC **does not replace** the Affiliate level (Pathfinder/Voyager/Explorer/Pioneer/Special). Any Affiliate level **can** become WEC upon reaching the income threshold.
 
 ---
