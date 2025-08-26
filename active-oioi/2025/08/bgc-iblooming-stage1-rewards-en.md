@@ -100,9 +100,9 @@ Once a user is in the BGC & iBLOOMING ecosystem, they may receive **Rewards Prog
 
 Rewards include:
 
-1. **iBLOOMING Link Reward (LR)**
-2. **iBLOOMING Miracle Cash (MC)**
-3. **iBLOOMING Channel Provider Reward (CPR)**
+1. **iBLOOMING Channel Provider Reward (CPR)**
+2. **iBLOOMING Link Reward (LR)**
+3. **iBLOOMING Miracle Cash (MC)**
 4. **iBLOOMING GiM Referral Reward (GRR)**
 5. **iBLOOMING iMATRIX Referral Reward (iRR)**
 6. **iBLOOMING Global Profit Sharing (GPS)**
@@ -141,6 +141,8 @@ If, in a month, 100 users each make **3** purchases averaging **$100**, the Affi
 If a user makes **3 purchases** in a month and, after each purchase, there are **10** subsequent purchases by others, each averaging **$100**, then the buyer’s total **MC** is: `1% × 3 self-purchases × 10 subsequent purchases × $100 = $30`.
 
 ---
+
+
 
 ### 5.3 GiM Referral Reward (GRR)
 
