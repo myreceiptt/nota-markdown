@@ -88,7 +88,7 @@ At iBLOOMING, besides GiM sign-up and iMATRIX subscriptions, digital products in
 
 A **CP User** is an individual/organization recruited by an Affiliate User to supply content sold as digital products on iBLOOMING (e-courses, e-books, etc.).
 
-A CP User can become **Executive CP** if, at payout time, their **total MyCash income** in the last 60 days **has reached $10,000**. Executive CP status is **temporary and automatic** when the threshold is reached.
+A CP User can become **Executive CP** if, at payout time, their **total MyCash income** (sum of all MyCash Program based on Rebate in Blooming) in their best 60 days **has reached $10,000**. Executive CP status is **permanent** when the threshold is reached in their best 60 days.
 
 ➡️ **Important:** All iBLOOMING products are **fiat-only**. PC cannot be used to purchase iBLOOMING products.
 
