@@ -301,7 +301,7 @@ Reward yang diberikan ada beberapa jenis, yaitu:
 
 - **Definisi:** **GPS** adalah kumpulan profit dari **iBLOOMING** (termasuk profit produk digital dari konten CP user, sign up GiM, dan subscription iMATRIX) yang akan dibagikan kepada **Affiliate** user level atas. **GPS** berasal dari tiga sumber profit utama:
 
-  1. **15% dari profit produk digital dari konten CP user**.
+  - **15% dari profit produk digital dari konten CP user**.
      - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
        - Link Reward untuk Affiliate user → 10% x \$100 = \$10
        - Miracle Cash untuk user → 1% x \$100 = \$1
@@ -318,8 +318,8 @@ Reward yang diberikan ada beberapa jenis, yaitu:
               - **Global Profit Sharing → 15% x \$26.0325 = \$3.904875**
             - CPR untuk Affiliate user → 5% x \$26.7 = \$0.6675
 
-  2. **\$1 dari setiap user sign up GiM** (langsung masuk GPS, nilai ini fix).
-  3. **\$0.1, \$1.5, dan \$3 dari setiap user subscription iMATRIX** (langsung masuk GPS, sesuai jenis subscription, nilai ini fix).
+  - **\$1 dari setiap user sign up GiM** (langsung masuk GPS, nilai ini fix).
+  - **\$0.1, \$1.5, dan \$3 dari setiap user subscription iMATRIX** (langsung masuk GPS, sesuai jenis subscription, nilai ini fix).
 
 - **Payout Frequency:** Dibagikan setiap **6 bulan sekali** (berbeda dengan LR, MC, CPR, GRR, dan iRR yang dibagikan bulanan).
 - **Eligible Level:** Hanya 3 level teratas dari **Affiliate** user, yaitu Explorer user, Pioneer user, dan Special user.
