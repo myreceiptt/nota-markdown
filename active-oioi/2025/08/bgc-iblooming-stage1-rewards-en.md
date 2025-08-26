@@ -179,33 +179,45 @@ If a user makes **3 purchases** in a month and, after each purchase, there are *
 
 ---
 
-### 5.3 GiM Referral Reward (GRR)
+### 5.4 GiM Referral Reward (GRR)
 
-- **Definition:** Paid to **Affiliates** who refer **new users** to **sign up for GiM** via the Affiliate’s link. This is **tiered** and has **two paths** (Individual and Organization).
-
-**WEC (Third-Tier) Definition**  
-**WEC = World Executive Club**, a pool of Affiliates whose **MyCash total income** has reached **$10,000 within 60 days**.  
-In **Third-Tier** for GRR, the **$0.2 per sign-up** is **not** paid to a single upline; it goes to the **WEC Pool** and is **split equally among all WEC members**.
+- **Definition:** A reward for **Affiliate** users paid whenever a user **signs up for GiM** using the Affiliate’s link. This reward is **tiered** and has **two pathways** (Individual and Organization).
 
 - **Rates:**
-  - **Individual Referral:** **$3** to Tier 1 (First-Tier Affiliate), **$0.8** to Tier 2 (Second-Tier Affiliate), and **$0.2 to WEC (Third-Tier Pool)**.  
-    *Example:* **A** recruits **B** (Affiliate), **B** recruits **C** (Affiliate). When **C** brings a new GiM sign-up, the payout per sign-up is: **C = $3**, **B = $0.8**, **WEC Pool = $0.2** (then shared equally among WEC; **A** does **not** get the $0.2 directly).
-  - **Organization Referral:** **$3** to Tier 1 (**Organization** referred by the Affiliate), **$0.8** to Tier 2 (Second-Tier Affiliate), and **$0.2 to WEC (Third-Tier Pool)**.  
-    *Example:* **A** (Affiliate) recruits **B** (Affiliate), and **B** refers an **Organization** (e.g., a school/community). When the org’s user signs up for GiM: **Organization = $3**, **B = $0.8**, **WEC Pool = $0.2** (equally shared among all WEC members).
+  - **Individual Referral:**
+    - $3 for Tier 1 (First-Tier Affiliate),
+    - $0.8 for Tier 2 (Second-Tier Affiliate),
+    - and **$0.2 for the WEC User Pool (Third-Tier Pool)**.
+    - *Example:*
+      - **A** (Affiliate) recruits **B** (Affiliate), then **B** recruits **C** (Affiliate).
+      - When **C** brings a user who signs up for **GiM**, the payout per GiM sign-up is:
+        - **$3 → C**,
+        - **$0.8 → B**,
+        - **$0.2 → WEC User Pool**, which is then **split equally** among all WEC users, including **A** if **A** holds WEC status at that time.
+
+  - **Organization Referral:**
+    - $3 for Tier 1 (**First-Tier** is the **Organization** referred by the Affiliate),
+    - $0.8 for Tier 2 (Second-Tier Affiliate),
+    - and **$0.2 for the WEC User Pool (Third-Tier Pool)**.
+    - *Example:*
+      - **A** (Affiliate) recruits **B** (Affiliate), then **B** refers an **Organization** (e.g., a school/community).
+      - When the Organization’s user signs up for **GiM**, the payout per GiM sign-up is:
+        - **$3 → Organization**,
+        - **$0.8 → B**,
+        - **$0.2 → WEC User Pool**, which is then **split equally** among all WEC users at that time.
 
 - **Revenue Split per GiM Sign-Up:**
-  - **$3** → **Tier 1** (First-Tier Affiliate **or** First-Tier **Organization**)  
-  - **$0.8** → **Tier 2** (Second-Tier Affiliate)  
-  - **$0.2** → **WEC Pool** (Third-Tier; split equally among WEC members)  
-  - **$1** → **Global Profit Sharing (GPS)**  
-  - **$1** → **Global Movement Pool (GMP)**  
-  - **Remainder** → **iBLOOMING**
+  - **$3** → **Tier 1** (First-Tier Affiliate **or** First-Tier **Organization**)
+  - **$0.8** → **Tier 2** (Second-Tier Affiliate)
+  - **$0.2** → **WEC User Pool** (**Third-Tier Pool**, split equally among all WEC users)
+  - **$1** → accumulated for **Global Profit Sharing (GPS)**
+  - **$1** → accumulated for **Global Movement Pool (GMP)**
+  - **Remainder** → **iBLOOMING revenue**
 
-**Payout Frequency:** **Monthly (aggregate).**  
-**Example:** For **100** GiM sign-ups in a month:  
-- **Tier 1** (Affiliate/Organization): `100 × $3 = $300`  
-- **Tier 2** (Affiliate): `100 × $0.8 = $80`  
-- **WEC Pool** (Tier 3): `100 × $0.2 = $20` → if there are **50** WEC members, each gets **$0.40**
+**Payout Frequency:** Paid **monthly** on an aggregate basis. For example, if there are **100 GiM sign-ups** in the month, total GRR payouts are:
+- **Tier 1** (Affiliate/Organization): $3 × 100 sign-ups = **$300**
+- **Tier 2** (Affiliate): $0.8 × 100 sign-ups = **$80**
+- **Tier 3** (WEC User Pool): $0.2 × 100 sign-ups = **$20** → then **split equally** among **all WEC users** (e.g., if there are 50 WEC users → **$0.40** each)
 
 ---
 
