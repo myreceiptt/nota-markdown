@@ -119,12 +119,12 @@ Rewards include:
 - CP user revenue → 70% → $70
 - **iBLOOMING revenue** → 30% → $30
   - **Link Reward to Affiliate User → $3**  
-  - Miracle Cash to the buyer → $0.03  
+  - Miracle Cash to the buyer → $0.3  
   - Remaining to iBLOOMING → $26.7  
     (This makes up 100% of the product revenue that will be aggregated, then distributed under the Channel Provider Reward rules.)
 
 **Payout Frequency:** **Monthly (aggregate).**  
-If, in a month, 100 users each make **3** purchases averaging **$100**, the Affiliate’s total LR is: `10% × 100 users × 3 purchases × $30 = $3,000`.
+If, in a month, 100 users each make **3** purchases averaging **$100**, the Affiliate’s total LR is: `10% × 100 users × 3 purchases × (30% x $100) = $900`.
 
 ---
 
