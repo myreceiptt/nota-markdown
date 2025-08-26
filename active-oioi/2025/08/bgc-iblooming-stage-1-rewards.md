@@ -220,75 +220,84 @@ Reward yang diberikan ada beberapa jenis, yaitu:
 
 ### 5.5 iMATRIX Referral Reward (iRR)
 
-- **Definisi:** Reward untuk **Affiliate** yang mereferensikan **user** untuk berlangganan (**subscribe to**) **iMATRIX** (produk berlangganan). Reward dihitung sesuai **jenis paket** yang dipilih user (**Foundation, Pro, Expert**) dan **berjenjang tiga tier**. Skema ini berlaku untuk dua jalur: **Individual Referral** dan **Organization Referral**.
-
+- **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user subscribe **iMATRIX** menggunakan link-nya **Affiliate** user. Reward ini selain dihitung sesuai **jenis subscription** yang dipilih user (**Foundation, Pro, Expert**), reward ini **berjenjang** dan ada **dua macam jalur** (Individual dan Organization).
 - **Besaran:**
 
-  **A) Individual Referral**
-  - **Foundation:** $0.6 (Tier 1 / First-Tier Affiliate), $0.25 (Tier 2), $0.1 (Tier 3).  
-    *Contoh:* **A** merekrut **B** sebagai Affiliate, **B** merekrut **C** sebagai Affiliate. Ketika **C** membawa user yang berlangganan **Foundation**, payout per subscription: **C = $0.6**, **B = $0.25**, **A = $0.1**.
-  - **Pro:** $5 (Tier 1), $2.5 (Tier 2), $1 (Tier 3).  
-    *Contoh:* Skema sama → **Tier 1 (C) = $5**, **Tier 2 (B) = $2.5**, **Tier 3 (A) = $1** per subscription **Pro**.
-  - **Expert:** $12 (Tier 1), $5 (Tier 2), $2 (Tier 3).  
-    *Contoh:* Skema sama → **Tier 1 (C) = $12**, **Tier 2 (B) = $5**, **Tier 3 (A) = $2** per subscription **Expert**.
+**A) Individual Referral**
+- **Foundation:** $0.6 (Tier 1 Affiliate), $0.25 (Tier 2 Affiliate), **$0.1 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - **A** (Affiliate) merekrut **B** (Affiliate), lalu **B** merekrut **C** (Affiliate).
+  - Ketika **C** membawa user yang subscribe **Foundation**, payout per subscription:
+    - **C = $0.6**, **B = $0.25**, dan **WEC user pool = $0.1** (dibagi rata ke seluruh WEC user saat itu).
+- **Pro:** $5 (Tier 1), $2.5 (Tier 2), **$1 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - Skema sama → **Tier 1 (C) = $5**, **Tier 2 (B) = $2.5**, **WEC user pool = $1** per subscription **Pro**.
+- **Expert:** $12 (Tier 1), $5 (Tier 2), **$2 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - Skema sama → **Tier 1 (C) = $12**, **Tier 2 (B) = $5**, **WEC user pool = $2** per subscription **Expert**.
 
-  **B) Organization Referral**
-  - **Foundation:** $0.6 (Tier 1 = **Organization**), $0.25 (Tier 2 Affiliate), $0.1 (Tier 3 Affiliate).  
-    *Contoh:* **A** (Affiliate) merekrut **B** (Affiliate); **B** mereferensikan sebuah **Organization**. Ketika **user** milik Organization berlangganan **Foundation**, payout: **Organization = $0.6**, **B = $0.25**, **A = $0.1** per subscription.
-  - **Pro:** $5 (Tier 1 = Organization), $2.5 (Tier 2 Affiliate), $1 (Tier 3 Affiliate).  
-    *Contoh:* Payout per subscription **Pro**: **Organization = $5**, **B = $2.5**, **A = $1**.
-  - **Expert:** $12 (Tier 1 = Organization), $5 (Tier 2 Affiliate), $2 (Tier 3 Affiliate).  
-    *Contoh:* Payout per subscription **Expert**: **Organization = $12**, **B = $5**, **A = $2**.
+**B) Organization Referral**
+- **Foundation:** $0.6 (Tier 1 **Organization**), $0.25 (Tier 2 Affiliate), **$0.1 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - **A** (Affiliate) merekrut **B** (Affiliate); lalu **B** mereferensikan sebuah **Organization**.
+  - Ketika **user** milik Organization subscribe **Foundation**, payout:
+    - **Organization = $0.6**, **B = $0.25**, dan **WEC user pool = $0.1** (dibagi rata ke seluruh WEC user saat itu).
+- **Pro:** $5 (Tier 1 Organization), $2.5 (Tier 2 Affiliate), **$1 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - Payout per subscription **Pro**: **Organization = $5**, **B = $2.5**, **WEC user pool = $1**.
+- **Expert:** $12 (Tier 1 Organization), $5 (Tier 2 Affiliate), **$2 (Tier 3 → WEC user pool)**.  
+  *Contoh:*
+  - Payout per subscription **Expert**: **Organization = $12**, **B = $5**, **WEC user pool = $2**.
 
 - **Revenue Split per Subscription (tambahan alokasi GPS & GMP):**
 
-  **Foundation**
-  - **$0.6** → Tier 1 (First-Tier Affiliate **atau** Organization)  
-  - **$0.25** → Tier 2 (Second-Tier Affiliate)  
-  - **$0.1** → Tier 3 (Third-Tier Affiliate)  
-  - **$0.1** → dikumpulkan untuk **Global Profit Sharing (GPS)**  
-  - **$0.3** → dikumpulkan untuk **Global Movement Pool (GMP)**  
-  - **Sisanya** → **iBLOOMING**
+**Foundation**
+- **$0.6** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+- **$0.25** → Tier 2 (Second-Tier Affiliate)  
+- **$0.1** → **WEC user pool (Tier 3, dibagi rata ke seluruh WEC user saat itu)**  
+- **$0.1** → dikumpulkan untuk **Global Profit Sharing (GPS)**  
+- **$0.3** → dikumpulkan untuk **Global Movement Pool (GMP)**  
+- **Sisanya** → **iBLOOMING**
 
-  **Pro**
-  - **$5** → Tier 1 (First-Tier Affiliate **atau** Organization)  
-  - **$2.5** → Tier 2 (Second-Tier Affiliate)  
-  - **$1** → Tier 3 (Third-Tier Affiliate)  
-  - **$1.5** → dikumpulkan untuk **GPS**  
-  - **$2** → dikumpulkan untuk **GMP**  
-  - **Sisanya** → **iBLOOMING**
+**Pro**
+- **$5** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+- **$2.5** → Tier 2 (Second-Tier Affiliate)  
+- **$1** → **WEC user pool (Tier 3, dibagi rata ke seluruh WEC user saat itu)**  
+- **$1.5** → dikumpulkan untuk **GPS**  
+- **$2** → dikumpulkan untuk **GMP**  
+- **Sisanya** → **iBLOOMING**
 
-  **Expert**
-  - **$12** → Tier 1 (First-Tier Affiliate **atau** Organization)  
-  - **$5** → Tier 2 (Second-Tier Affiliate)  
-  - **$2** → Tier 3 (Third-Tier Affiliate)  
-  - **$3** → dikumpulkan untuk **GPS**  
-  - **$5** → dikumpulkan untuk **GMP**  
-  - **Sisanya** → **iBLOOMING**
+**Expert**
+- **$12** → Tier 1 (First-Tier Affiliate **atau** Organization)  
+- **$5** → Tier 2 (Second-Tier Affiliate)  
+- **$2** → **WEC user pool (Tier 3, dibagi rata ke seluruh WEC user saat itu)**  
+- **$3** → dikumpulkan untuk **GPS**  
+- **$5** → dikumpulkan untuk **GMP**  
+- **Sisanya** → **iBLOOMING**
 
-> *Catatan:* Angka-angka di atas adalah **nominal tetap per subscription event** dan **terpisah** dari kontribusi ke **GPS** (hindari double counting dengan GPS; iRR adalah insentif referral langsung, sedangkan alokasi GPS adalah pool terpisah yang dibagikan 6 bulanan).
+> *Catatan:* Angka-angka di atas adalah **nominal tetap per subscription event** dan **terpisah** dari kontribusi ke **GPS** (hindari double counting; iRR adalah insentif referral langsung, sedangkan alokasi GPS adalah pool terpisah yang dibagikan 6 bulanan).
 
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan.  
-  **Contoh akumulasi bulanan:** Jika dalam 1 bulan terdapat **250 subscriber Foundation**, **150 Pro**, **100 Expert**, maka payout iRR:
-  - **Tier 1 (First-Tier Affiliate/Organization):**  
-    - Foundation: $0.6 × 250 = **$150**  
-    - Pro: $5 × 150 = **$750**  
-    - Expert: $12 × 100 = **$1,200**  
-    - **Total Tier 1 = $150 + $750 + $1,200 = $2,100**
-  - **Tier 2 (Second-Tier Affiliate):**  
-    - Foundation: $0.25 × 250 = **$62.5**  
-    - Pro: $2.5 × 150 = **$375**  
-    - Expert: $5 × 100 = **$500**  
-    - **Total Tier 2 = $62.5 + $375 + $500 = $937.5**
-  - **Tier 3 (Third-Tier Affiliate):**  
-    - Foundation: $0.1 × 250 = **$25**  
-    - Pro: $1 × 150 = **$150**  
-    - Expert: $2 × 100 = **$200**  
-    - **Total Tier 3 = $25 + $150 + $200 = $375**
+**Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan.  
+**Contoh akumulasi bulanan:** Jika dalam 1 bulan terdapat **250 subscriber Foundation**, **150 Pro**, **100 Expert**, maka payout iRR:
+- **Tier 1 (First-Tier Affiliate/Organization):**
+  - Foundation: $0.6 × 250 = **$150**
+  - Pro: $5 × 150 = **$750**
+  - Expert: $12 × 100 = **$1,200**
+  - **Total Tier 1 = $150 + $750 + $1,200 = $2,100**
+- **Tier 2 (Second-Tier Affiliate):**
+  - Foundation: $0.25 × 250 = **$62.5**
+  - Pro: $2.5 × 150 = **$375**
+  - Expert: $5 × 100 = **$500**
+  - **Total Tier 2 = $62.5 + $375 + $500 = $937.5**
+- **WEC user pool (Tier 3):**
+  - Foundation: $0.1 × 250 = **$25**
+  - Pro: $1 × 150 = **$150**
+  - Expert: $2 × 100 = **$200**
+  - **Total WEC user pool = $25 + $150 + $200 = $375** → kemudian **dibagi rata** kepada **seluruh WEC user saat itu**.
 
 ---
 
-### 3.6 Global Profit Sharing (GPS)
+### 5.6 Global Profit Sharing (GPS)
 
 - **Definisi:** **GPS** adalah kumpulan profit dari **iBLOOMING** (termasuk profit produk digital dari konten CP, sign up GiM, dan subscription iMATRIX) yang akan dibagikan kepada **Affiliate**  level atas. **GPS** berasal dari tiga sumber  profit utama:
 
@@ -333,7 +342,7 @@ Reward yang diberikan ada beberapa jenis, yaitu:
 
 ---
 
-### 3.7 Global Movement Pool (GMP)
+### 5.7 Global Movement Pool (GMP)
 
 > **Template — to be filled**
 
