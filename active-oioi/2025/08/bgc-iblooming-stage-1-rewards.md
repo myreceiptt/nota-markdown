@@ -16,108 +16,126 @@ Di ekosistem BGC & iBLOOMING yang disebut user adalah semua yang bertransaksi, b
 
 Berikut ini jenis dan macamnya user di ekosistem BGC & iBLOOMING:
 
-- User:
-  - General User
-    - Can be a CP User
-      - Can be an Executive CP User
-  - Affiliate User
-    - Pathfinder User
-      - Can be a WEC user
-      - Can be a CP User
-        - Can be an Executive CP User
-    - Voyager User
-      - Can be a WEC user
-      - Can be a CP User
-        - Can be an Executive CP User
-    - Explorer User
-      - Can be a WEC user
-      - Can be a CP User
-        - Can be an Executive CP User
-    - Pioneer User
-      - Can be a WEC user
-      - Can be a CP User
-        - Can be an Executive CP User
-    - Special User
-      - Can be a WEC user
-      - Can be a CP User
-        - Can be an Executive CP User
+| Base Type       | Subtype       | Channel Provider (CP) | Executive CP | WEC User |
+|-----------------|---------------|-----------------------|--------------|----------|
+| General User    | —             | ✓                     | ✓            | ✗        |
+| Affiliate User  | Pathfinder    | ✓                     | ✓            | ✗        |
+| Affiliate User  | Voyager       | ✓                     | ✓            | ✗        |
+| Affiliate User  | Explorer      | ✓                     | ✓            | ✗        |
+| Affiliate User  | Pioneer       | ✓                     | ✓            | ✓        |
+| Affiliate User  | Special       | ✓                     | ✓            | ✓        |
 
-Catatan: Sementara ini jenis dan macamnya user di atas akan bisa berubah seiring dokumen ini disusun dengan mengurai keruwetan di dokumen PPTX dan DOCX.
+**Legend:** ✓ = can / yes, ✗ = can't / no
 
 ---
 
 ## 1. Affiliate & Entry
 
-Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate** user.
+Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate User**.
 
-| **Level**       | **Entry Fee (USD)** |
-| --------------- | ------------------- |
-| Pathfinder user | $100                |
-| Voyager user    | $500                |
-| Explorer user   | $1,590              |
-| Pioneer user    | $2,650              |
-| Special user    | $10,600             |
+| **Level**  | **Entry Fee (USD)** |
+| ---------- | ------------------- |
+| Pathfinder | $100                |
+| Voyager    | $500                |
+| Explorer   | $1,590              |
+| Pioneer    | $2,650              |
+| Special    | $10,600             |
 
 ➡️ **Catatan Penting:**
 - Entry Fee adalah pintu masuk uang fiat ke dalam sistem BGC.
-- Setelah membayar uang fiat, **Affiliate** user menerima **Purchase Credit.**
+- Setelah membayar uang fiat, **Affiliate User** menerima **Purchase Credit.**
 
 ---
 
 ## 2. Purchase Credit (PC)
 
-- **Definisi:** Purchase Credit bukan hanya sebagai ganti uang fiat yang sudah dibayarkan, tetapi juga sebagai bukti **Affiliate Membership** sekaligus sebagai nilai credit untuk membeli produk fisik di **BGC**. Bisa disebut semacam currency internal untuk membeli **produk fisik** di BGC.
-- **Rasio:** 100 PC = $1 USD (fix, tidak berubah atau volatile).
-- **Fungsi:**
+- Definisi: **Purchase Credit** bukan hanya sebagai ganti uang fiat yang sudah dibayarkan, tetapi juga sebagai bukti **Affiliate Membership** sekaligus sebagai nilai credit untuk membeli produk fisik di BGC. Bisa disebut semacam currency internal untuk membeli produk fisik di BGC.
+- Rasio: **100 PC = $1 USD** (fix, tidak berubah atau volatile).
+- Fungsi:
   - Menjadi bukti bahwa BGC menjual produk fisik (syarat legalitas MLM).
-  - Karena sudah menerima Purchase Credit, maka perusahaan **tidak berkewajiban mengembalikan uang fiat** yang sudah dibayarkan oleh **Affiliate User** kepada BGC.
+  - Karena sudah menerima **Purchase Credit**, maka perusahaan **tidak berkewajiban mengembalikan uang fiat** yang sudah dibayarkan oleh **Affiliate User** kepada BGC.
 
 ➡️ **Catatan Tambahan:**
-- Di perusahaan **BGC**, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan Purchase Credit. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
+- Di perusahaan BGC, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan **Purchase Credit**. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
 
 ---
 
 ## 3. World Executive Club (WEC)
 
-- **Definisi:** **WEC** user adalah **status** bagi Affiliate user jika pada saat pembagian reward akumulasi **total income**-nya (akumulasi seluruh reward di **MyCash Program**) selama 60 hari terakhir **telah mencapai $10.000**. Status WEC **bersifat sementara dan otomatis** saat ambang tercapai.
-- **Independensi Level:** WEC **tidak menggantikan** level Affiliate (Pathfinder/Voyager/Explorer/Pioneer/Special). Affiliate user pada level apa pun **dapat** menjadi WEC user bila memenuhi ambang **total income**.
+- Definisi: **WEC User** adalah status bagi **Affiliate User**, yang levelnya **Pioneer** dan **Special**, yang akumulasi total income-nya berdasarkan **Sales Points** di BGC, yaitu **Referral (RR)** dan **Generation Reward (GR)**, dalam 60 hari (starting date set by the **Affiliate User** itself), telah mencapai $10.000. Status **WEC User** bersifat permanen saat ambang tercapai dalam 60 hari yang sudah ditentukan.
+- Independensi Level: **WEC User** tidak menggantikan level **Affiliate User (Pioneer/Special)**.
 
 ---
 
 ## 4. Channel Provider (CP)
 
-Di perusahaan iBLOOMING, selain sign up GiM, dan subscription iMATRIX, produk yang disediakan adalah produk digital dari konten CP user.
+Di perusahaan iBLOOMING, selain sign up GiM, dan subscription iMATRIX, produk yang disediakan adalah produk digital dari **Channel Provider (CP)** atau **CP User**, yaitu e-course, e-book, dll.
 
-CP user adalah individu atau organisasi yang direkrut oleh Affiliate user untuk menyediakan konten yang dijadikan sebagai produk digital di iBLOOMING, yaitu e-course, e-book, dll.
+**CP User** bisa individu atau organisasi yang direkrut oleh **Affiliate User** dan mampu menyediakan konten sebagai produk digital di iBLOOMING.
 
-CP user bisa mendapatkan status Executive CP jika pada saat pembagian reward akumulasi total income-nya (akumulasi seluruh reward di MyCash Program) selama 60 hari terakhir telah mencapai $10.000. Status Executive CP bersifat sementara dan otomatis saat ambang tercapai.
+**CP User** bisa mendapatkan status **Executive CP** jika akumulasi total income-nya berdasarkan **Rebates** di iBLOOMING, dalam 60 hari terbaik mereka, telah mencapai $10.000. Status **Executive CP** bersifat permanen saat ambang tercapai dalam 60 hari yang sudah ditentukan.
 
-➡️ **Catatan Penting:** Semua produk yang disediakan iBLOOMING hanya bisa dibeli dan dibayar oleh user dengan uang fiat (USD). Bahkan Purchase Credit pun juga tidak bisa digunakan untuk membeli dan membayar produk yang disediakan iBLOOMING.
+➡️ Catatan Penting: Semua produk yang disediakan iBLOOMING hanya bisa dibeli dan dibayar dengan uang fiat (USD). Bahkan **Purchase Credit (PC)** pun juga tidak bisa digunakan untuk membeli dan membayar produk yang disediakan iBLOOMING.
 
 ---
 
-## 5. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
+## 5. Rewards Berdasarkan **Rebates** di Perusahaan iBLOOMING
 
-Setelah menjadi user di ekosistem BGC & iBLOOMING, user berhak mendapatkan reward dari iBLOOMING, yang disebut sebagai **MyCash Program berdasarkan Rebate**.
+Reward yang bisa didapatkan ada beberapa jenis, yaitu:
 
-Reward yang diberikan ada beberapa jenis, yaitu:
+1. iBLOOMING **Link Reward (LR)**
+2. iBLOOMING **Miracle Cash (MC)**
+3. iBLOOMING **Channel Provider Reward (CPR)**
+4. iBLOOMING **GiM Referral Reward (GRR)**
+5. iBLOOMING **iMATRIX Referral Reward (iRR)**
+6. iBLOOMING **Global Profit Sharing (GPS)**
+7. iBLOOMING **Global Movement Pool (GMP)**
+8. iBLOOMING **Global Executive Committee (GEC)**
 
-1. **iBLOOMING Link Reward (LR)**
-2. **iBLOOMING Miracle Cash (MC)**
-3. **iBLOOMING Channel Provider Reward (CPR)**
-4. **iBLOOMING GiM Referral Reward (GRR)**
-5. **iBLOOMING iMATRIX Referral Reward (iRR)**
-6. **iBLOOMING Global Profit Sharing (GPS)**
-7. **iBLOOMING Global Movement Pool (GMP)**
+Revenue Split untuk produk digital dari **CP User**:
+
+- Pembelian atau transaksi $100:
+  - 70% → **CP User** Revenue → 70% x $100 = $70
+  - 30% → iBLOOMING Revenue → 30% x $100 = $30
+    - $30 → 100% iBLOOMING Revenue:
+      - 10% → **Link Reward** untuk **Affiliate User** → 10% x $30 = $3
+      - 1% → **Miracle Cash** untuk **General User** → 1% x $30 = $0.3
+      - **Channel Provider Reward (CPR)**:
+        - 5% → **CPR** untuk **Affiliate User** di tahun pertama → 5% x $30 = $1.5
+        - 2.5% → **CPR** untuk **Affiliate User** di tahun kedua dan seterusnya → 2.5% x $30 = $0.75
+      - 15% → **Global Profit Sharing (GPS)** → 15% x $30 = $4.5
+      - Remainder → iBLOOMING Profit:
+        - 69% → iBLOOMING Profit di tahun pertama → 69% x $30 = $20.7
+        - 71.5% → iBLOOMING Profit di tahun kedua dan seterusnya → 10% x $30 = $21.45
+
+Revenue Distribution untuk sign up GiM:
+
+- Each GiM Sign Up:
+  - $4 → **GiM Referral Reward (GRR)**:
+    - $3 → First-Tier
+    - $0.8 → Second-Tier
+    - $0.2 → Third-Tier
+  - $1 → **Global Profit Sharing (GPS)**
+  - $1 → **Global Movement Pool (GMP)**
+  - $0.2 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
+
+Revenue Distribution untuk subscription iMATRIX:
+
+- Each Foundation Subscription:
+  - $x → **iMATRIX Referral Reward (iRR)**:
+  - $0.2 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
 
 ---
 
 ### 5.1 Link Reward (LR)
 
-- **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user membeli produk digital dari konten CP user di iBLOOMING menggunakan link-nya **Affiliate** user.
-- **Besaran:** 10% dari setiap pembelian produk digital dari konten CP user di iBLOOMING.
+- Definisi: Reward yang didapatkan **Affiliate User** setiap kali ada user membeli produk digital dari **CP User** melalui link afiliasinya.
+- Besaran: 10% dari **iBLOOMING Revenue** di setiap pembelian produk digital dari **CP User**.
 
-**Contoh Hitungan** (Pembelian atau Transaksi $100):
+
+Contoh Hitungan (Pembelian atau Transaksi $100):
 - **Link Reward untuk Affiliate user → $10**
 - Miracle Cash untuk user → $1
 - Sisanya untuk iBLOOMING → $89  
@@ -146,7 +164,7 @@ Reward yang diberikan ada beberapa jenis, yaitu:
 
 ### 5.3 Channel Provider Reward (CPR)
 
-- **Definisi:** Reward untuk **Affiliate** user yang diberikan karena membawa CP user ke iBLOOMING dan produk digital dari konten CP user tersebut terjual atau dibeli oleh user.
+- Definisi: Reward untuk **Affiliate** user yang diberikan karena membawa CP user ke iBLOOMING dan produk digital dari konten CP user tersebut terjual atau dibeli oleh user.
 - **Besaran:** Di tahun pertama 5%, lalu di tahun kedua dan seterusnya 2.5%, yang dihitung berdasarkan revenue split produk digital dari konten CP user untuk iBLOOMING.
 - **Revenue Split**:
   - 70% → **CP user Revenue**
