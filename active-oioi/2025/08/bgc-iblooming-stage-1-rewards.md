@@ -299,38 +299,40 @@ Reward yang diberikan ada beberapa jenis, yaitu:
 
 ### 5.6 Global Profit Sharing (GPS)
 
-- **Definisi:** **GPS** adalah kumpulan profit dari **iBLOOMING** (termasuk profit produk digital dari konten CP, sign up GiM, dan subscription iMATRIX) yang akan dibagikan kepada **Affiliate**  level atas. **GPS** berasal dari tiga sumber  profit utama:
+- **Definisi:** **GPS** adalah kumpulan profit dari **iBLOOMING** (termasuk profit produk digital dari konten CP user, sign up GiM, dan subscription iMATRIX) yang akan dibagikan kepada **Affiliate** user level atas. **GPS** berasal dari tiga sumber profit utama:
 
-  1. **15% dari revenue produk digital dari konten CP** (e-course, e-book, dll).
-
-     - **Contoh Hitungan** (Revenue \$100):
-       - Channel Provide (CP) → \$70
-       - **Masuk GPS** → \$15
-       - iBLOOMING (tahun pertama) → \$10
-       - Affiliate yang membawa CP (tahun pertama) → \$5
-       - iBLOOMING (tahun kedua dst) → \$12.5
-       - Affiliate yang membawa CP (tahun kedua dst) → \$2.5
+  1. **15% dari profit produk digital dari konten CP user**.
+     - **Contoh Hitungan** (Pembelian atau Transaksi \$100):
+       - Link Reward untuk Affiliate user → 10% x \$100 = \$10
+       - Miracle Cash untuk user → 1% x \$100 = \$1
+       - Sisanya untuk iBLOOMING → 89% x \$100 = \$89
+       - Revenue split:
+        - CP user Revenue → 70% x \$89 = \$62.3
+        - iBLOOMING revenue → 30% x \$89 = \$26.7
+          - Tahun Pertama:
+            - **iBLOOMING profit → 95% x \$26.7 = \$25.365**
+              - **Global Profit Sharing → 15% x \$25.365 = \$3.80475**
+            - CPR untuk Affiliate user → 5% x \$26.7 = \$1.335
+          - Tahun Kedua & Seterusnya:
+            - **iBLOOMING profit → 97.5% x \$26.7 = \$26.0325**
+              - **Global Profit Sharing → 15% x \$26.0325 = \$3.904875**
+            - CPR untuk Affiliate user → 5% x \$26.7 = \$0.6675
 
   2. **\$1 dari setiap user sign up GiM** (langsung masuk GPS, nilai ini fix).
-
   3. **\$0.1, \$1.5, dan \$3 dari setiap user subscription iMATRIX** (langsung masuk GPS, sesuai jenis subscription, nilai ini fix).
 
-- **Payout Frequency:** Dibagikan setiap **6 bulan sekali** (berbeda dengan LR, MC, GRR, iRR, dan CPR yang dibagikan bulanan).
-
-- **Eligible Level:** Hanya 3 level teratas dari **Affiliate**, yaitu Explorer, Pioneer, dan Special.
-
-  - Explorer → 2 Share
-  - Pioneer → 3 Share
-  - Special → 15 Share
-
+- **Payout Frequency:** Dibagikan setiap **6 bulan sekali** (berbeda dengan LR, MC, CPR, GRR, dan iRR yang dibagikan bulanan).
+- **Eligible Level:** Hanya 3 level teratas dari **Affiliate** user, yaitu Explorer user, Pioneer user, dan Special user.
+  - Explorer user → 2 Share
+  - Pioneer user → 3 Share
+  - Special user → 15 Share
 - **Contoh Perhitungan (6 Bulanan):**
-
-  - Jumlah **Affiliate**  level atas saat pembagian GPS: 550 Explorer, 300 Pioneer, dan 200 Special.
+  - Jumlah **Affiliate** user level atas saat pembagian GPS: 550 Explorer, 300 Pioneer, dan 200 Special.
   - Total Share = (550 × 2) + (300 × 3) + (200 × 15) = **5000 Share**.
   - GPS Pool:
-    - Profit produk digital dari konten CP di iBLOOMING = \$10 juta
-    - Profit sign up GiM di iBLOOMING = \$15 juta
-    - Profit subscription iMATRIX di iBLOOMING = \$25 juta
+    - Profit produk digital dari konten CP user = \$10 juta
+    - Profit sign up GiM = \$15 juta
+    - Profit subscription iMATRIX = \$25 juta
     - **Total GPS = \$50 juta**
   - Nilai per Share = \$50 juta ÷ 5000 = **\$10,000**
   - Estimasi Reward:
@@ -338,7 +340,7 @@ Reward yang diberikan ada beberapa jenis, yaitu:
     - Pioneer = 3 × \$10,000 = **\$30,000**
     - Special = 15 × \$10,000 = **\$150,000**
 
-➡️ **Kesimpulan:** GPS adalah reward skala besar lintas produk iBLOOMING, yaitu produk digital dari konten CP, sign up GiM, dan subscription iMATRIX, yang diberikan khusus untuk **Affiliate** level Explorer, Pioneer, dan Special, dengan payout **6 bulanan**.
+➡️ **Kesimpulan:** GPS adalah reward skala besar lintas produk iBLOOMING, yaitu produk digital dari konten CP user, sign up GiM, dan subscription iMATRIX, yang diberikan khusus untuk **Affiliate** user level Explorer, Pioneer, dan Special, dengan payout **6 bulanan**.
 
 ---
 
