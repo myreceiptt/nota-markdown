@@ -94,9 +94,9 @@ A CP User can become **Executive CP** if, at payout time, their **total Rewards 
 
 ---
 
-## 5. MyCash Program Based on **Rebate** (at iBLOOMING)
+## 5. Reward Program Based on **Rebate** in iBLOOMING
 
-Once a user is in the BGC & iBLOOMING ecosystem, they may receive **MyCash (rebate-based) rewards** from iBLOOMING.
+Once a user is in the BGC & iBLOOMING ecosystem, they may receive **Rewards Program (rebate-based)** from iBLOOMING.
 
 Rewards include:
 
