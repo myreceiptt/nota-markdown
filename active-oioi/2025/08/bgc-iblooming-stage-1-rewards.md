@@ -10,43 +10,97 @@ coverY: 0
 
 # Understanding Affiliate & Rewards (BGC & iBLOOMING)
 
+## 0. Users in BGC & iBLOOMING
+
+Di ekosistem BGC & iBLOOMING yang disebut user adalah semua yang bertransaksi, baik itu membeli sekali, berlangganan, ataupun sekedar sign up, dan menggunakan serta mendapatkan manfaat dari keberlangsungan bisnis BGC & iBLOOMING. User bisa seorang individu atau sebuah organisasi.
+
+Berikut ini jenis dan macamnya user di ekosistem BGC & iBLOOMING:
+
+- User:
+  - General User
+    - Can be a CP User
+      - Can be an Executive CP User
+  - Affiliate User
+    - Pathfinder User
+      - Can be a WEC user
+      - Can be a CP User
+        - Can be an Executive CP User
+    - Voyager User
+      - Can be a WEC user
+      - Can be a CP User
+        - Can be an Executive CP User
+    - Explorer User
+      - Can be a WEC user
+      - Can be a CP User
+        - Can be an Executive CP User
+    - Pioneer User
+      - Can be a WEC user
+      - Can be a CP User
+        - Can be an Executive CP User
+    - Special User
+      - Can be a WEC user
+      - Can be a CP User
+        - Can be an Executive CP User
+
+Catatan: Sementara ini jenis dan macamnya user di atas akan bisa berubah seiring dokumen ini disusun dengan mengurai keruwetan di dokumen PPTX dan DOCX.
+
+---
+
 ## 1. Affiliate & Entry
 
 Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membership** dengan 5 level. Setiap level **Affiliate** hanya bisa dibeli dan dibayar dengan uang fiat (USD). Setelah dibeli dan dibayar dengan uang fiat, maka resmi bergabung sebagai **Affiliate** user.
 
-| **Level**  | **Entry Fee (USD)** |
-| ---------- | ------------------- |
-| Pathfinder | \$100               |
-| Voyager    | \$500               |
-| Explorer   | \$1,590             |
-| Pioneer    | \$2,650             |
-| Special    | \$10,600            |
+| **Level**       | **Entry Fee (USD)** |
+| --------------- | ------------------- |
+| Pathfinder user | $100                |
+| Voyager user    | $500                |
+| Explorer user   | $1,590              |
+| Pioneer user    | $2,650              |
+| Special user    | $10,600             |
 
 ➡️ **Catatan Penting:**
-
 - Entry Fee adalah pintu masuk uang fiat ke dalam sistem BGC.
-- Setelah membayar uang fiat, **Affiliate** user menerima **Purchase Credit (PC).**
+- Setelah membayar uang fiat, **Affiliate** user menerima **Purchase Credit.**
 
 ---
 
 ## 2. Purchase Credit (PC)
 
 - **Definisi:** Purchase Credit bukan hanya sebagai ganti uang fiat yang sudah dibayarkan, tetapi juga sebagai bukti **Affiliate Membership** sekaligus sebagai nilai credit untuk membeli produk fisik di **BGC**. Bisa disebut semacam currency internal untuk membeli **produk fisik** di BGC.
-- **Rasio:** 100 PC = \$1 USD (fix, tidak berubah atau volatile).
+- **Rasio:** 100 PC = $1 USD (fix, tidak berubah atau volatile).
 - **Fungsi:**
   - Menjadi bukti bahwa BGC menjual produk fisik (syarat legalitas MLM).
-  - Karena sudah menerima PC, maka perusahaan **tidak berkewajiban mengembalikan uang fiat yang sudah dibayarkan **Affiliate** user kepada BGC**.
+  - Karena sudah menerima Purchase Credit, maka perusahaan **tidak berkewajiban mengembalikan uang fiat** yang sudah dibayarkan oleh **Affiliate User** kepada BGC.
 
 ➡️ **Catatan Tambahan:**
-
-- Di perusahaan **BGC**, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan PC. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
-- Di perusahaan **iBLOOMING**, produk digital (e-course, e-book, dll) dari konten Channel Provider (CP) user, sign up GiM, dan subscription iMATRIX **tidak dapat dibeli dan dibayar dengan PC** tapi hanya bisa dibeli dan dibayar menggunakan uang fiat.
+- Di perusahaan **BGC**, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan Purchase Credit. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
 
 ---
 
-## 3. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
+## 3. World Executive Club (WEC)
 
-Setelah menjadi **Affiliate** user (membayar dengan uang fiat + menerima PC), **Affiliate** user berhak mendapatkan reward dari iBLOOMING, yang disebut sebagai **MyCash Program** berdasarkan **Rebate** di iBLOOMING, dengan beberapa jenis reward:
+- **Definisi:** **WEC** user adalah **status** bagi Affiliate user jika pada saat pembagian reward akumulasi **total income**-nya (akumulasi seluruh reward di **MyCash Program**) selama 60 hari terakhir **telah mencapai $10.000**. Status WEC **bersifat sementara dan otomatis** saat ambang tercapai.
+- **Independensi Level:** WEC **tidak menggantikan** level Affiliate (Pathfinder/Voyager/Explorer/Pioneer/Special). Affiliate user pada level apa pun **dapat** menjadi WEC user bila memenuhi ambang **total income**.
+
+---
+
+## 4. Channel Provider (CP)
+
+Di perusahaan iBLOOMING, selain sign up GiM, dan subscription iMATRIX, produk yang disediakan adalah produk digital dari konten CP user.
+
+CP user adalah individu atau organisasi yang direkrut oleh Affiliate user untuk menyediakan konten yang dijadikan sebagai produk digital di iBLOOMING, yaitu e-course, e-book, dll.
+
+CP user bisa mendapatkan status Executive CP jika pada saat pembagian reward akumulasi total income-nya (akumulasi seluruh reward di MyCash Program) selama 60 hari terakhir telah mencapai $10.000. Status Executive CP bersifat sementara dan otomatis saat ambang tercapai.
+
+➡️ **Catatan Penting:** Semua produk yang disediakan iBLOOMING hanya bisa dibeli dan dibayar oleh user dengan uang fiat (USD). Bahkan Purchase Credit pun juga tidak bisa digunakan untuk membeli dan membayar produk yang disediakan iBLOOMING.
+
+---
+
+## 5. MyCash Program Berdasarkan **Rebate** di Perusahaan iBLOOMING
+
+Setelah menjadi user di ekosistem BGC & iBLOOMING, user berhak mendapatkan reward dari iBLOOMING, yang disebut sebagai **MyCash Program berdasarkan Rebate**.
+
+Reward yang diberikan ada beberapa jenis, yaitu:
 
 1. **iBLOOMING Link Reward (LR)**
 2. **iBLOOMING Miracle Cash (MC)**
@@ -58,106 +112,113 @@ Setelah menjadi **Affiliate** user (membayar dengan uang fiat + menerima PC), **
 
 ---
 
-### 3.1 Link Reward (LR)
+### 5.1 Link Reward (LR)
 
 - **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user membeli produk digital dari konten CP user di iBLOOMING menggunakan link-nya **Affiliate** user.
-
 - **Besaran:** 10% dari setiap pembelian produk digital dari konten CP user di iBLOOMING.
 
-- **Contoh Hitungan** (Pembelian atau Transaksi \$100):
+**Contoh Hitungan** (Pembelian atau Transaksi $100):
+- **Link Reward untuk Affiliate user → $10**
+- Miracle Cash untuk user → $1
+- Sisanya untuk iBLOOMING → $89  
+  Ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward.
 
-  - **Link Reward untuk Affiliate user → \$10**
-  - Miracle Cash untuk user → \$1
-  - Sisanya untuk iBLOOMING → \$89 (ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward)
+**Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada 100 user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, yang rata-rata nilainya $100, maka total payout-nya untuk **Affiliate** user akan senilai: 10% × 100 user × 3 pembelian × $100 = **$3,000**.
 
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada 100 user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, yang rata-rata nilainya \$100, maka total payout-nya untuk **Affiliate** user akan senilai: 10% × 100 user x 3 pembelian x \$100 = **\$3000**.
+- **Catatan:** Prof. NOTA perlu memastikan apakah reward ini untuk Affiliate user saja atau untuk semua user.
 
 ---
 
-### 3.2 Miracle Cash (MC)
+### 5.2 Miracle Cash (MC)
 
-- **Definisi:** Reward untuk semua user, bukan hanya untuk **Affiliate** user maupun CP user, yang diberikan setelah user membeli produk digital dari konten CP user di iBLOOMING setiap kali ada user lain membeli produk digital dari konten CP user di iBLOOMING, tapi dibatasi hanya 10 pembelian saja.
-
+- **Definisi:** Reward untuk semua user, bukan hanya untuk **Affiliate** user maupun CP user, yang diberikan setelah user membeli produk digital dari konten CP user di iBLOOMING, setiap kali ada user lain membeli produk digital dari konten CP user di iBLOOMING, tapi dibatasi hanya sampai 10 pembelian saja.
 - **Besaran:** 1% dari setiap pembelian produk digital dari konten CP user di iBLOOMING.
 
-- **Contoh Hitungan** (Pembelian atau Transaksi \$100):
+**Contoh Hitungan** (Pembelian atau Transaksi $100):
+- Link Reward untuk Affiliate user → $10
+- **Miracle Cash untuk user → $1**
+- Sisanya untuk iBLOOMING → $89  
+  Ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward.
 
-  - Link Reward untuk Affiliate user → \$10
-  - **Miracle Cash untuk user → \$1**
-  - Sisanya untuk iBLOOMING → \$89 (ini akan menjadi 100% revenue produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Channel Provider Reward)
-
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada seorang user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, dan setelah masing-masing pembeliannya selalu ada user lain yang membeli produk digital dari konten CP user hingga 10 kali pembelian atau lebih, yang rata-rata nilainya \$100, maka total Miracle Cash yang diterima user adalah: 1% × 3 pembelian awal x 10 pembelian berikutnya x \$100 = **\$30**.
+**Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, kalau dalam bulan itu ada seorang user membeli produk digital dari konten CP user sebanyak 3 kali pembelian, dan setelah masing-masing pembeliannya selalu ada user lain yang membeli produk digital dari konten CP user hingga 10 kali pembelian atau lebih, yang rata-rata nilainya $100, maka total Miracle Cash yang diterima seorang user tersebut adalah: 1% × 3 pembelian sendiri × 10 pembelian user lain × $100 = **$30**.
 
 ---
 
-### 3.3 Channel Provider Reward (CPR)
+### 5.3 Channel Provider Reward (CPR)
 
-- **Definisi:** Reward untuk **Affiliate** user yang didapatkan karena membawa CP user ke iBLOOMING dan produk digital dari konten CP user tersebut terjual atau dibeli oleh user.
-
-- **Besaran:** Di tahun pertama 5%, lalu di tahun kedua dan seterusnya 2.5%, yang dihitung berdasarkan revenue produk digital dari konten CP user untuk iBLOOMING.
-
+- **Definisi:** Reward untuk **Affiliate** user yang diberikan karena membawa CP user ke iBLOOMING dan produk digital dari konten CP user tersebut terjual atau dibeli oleh user.
+- **Besaran:** Di tahun pertama 5%, lalu di tahun kedua dan seterusnya 2.5%, yang dihitung berdasarkan revenue split produk digital dari konten CP user untuk iBLOOMING.
 - **Revenue Split**:
-
-  - 70% → **Revenue CP user**
+  - 70% → **CP user Revenue**
   - 30% → **iBLOOMING revenue**
-
 - **Distribusi iBLOOMING Revenue:**
-
   - **Tahun Pertama**
-    - 95% → iBLOOMING profit
-    - 5% → CPR untuk Affiliate user
+    - 95% → **iBLOOMING profit**
+    - 5% → **CPR untuk Affiliate user**
   - **Tahun Kedua & Seterusnya**
-    - 97.5% → iBLOOMING profit
-    - 2.5% → CPR untuk Affiliate user
+    - 97.5% → **iBLOOMING profit**
+    - 2.5% → **CPR untuk Affiliate user**
 
-- **Contoh Hitungan** (Pembelian atau Transaksi \$100):
-
-  - Link Reward untuk Affiliate user → 10% x \$100 = \$10
-  - Miracle Cash untuk user → 1% x \$100 = \$1
-  - Sisanya untuk iBLOOMING → 89% x \$100 = \$89
-    - **Revenue CP user → 70% x \$89 = \$62.3**
+**Contoh Hitungan** (Pembelian atau Transaksi \$100):
+- Link Reward untuk Affiliate user → 10% x \$100 = \$10
+- Miracle Cash untuk user → 1% x \$100 = \$1
+- Sisanya untuk iBLOOMING → 89% x \$100 = \$89
+  - Revenue split:
+    - **CP user Revenue → 70% x \$89 = \$62.3**
     - iBLOOMING revenue → 30% x \$89 = \$26.7
       - Tahun Pertama:
-        - iBLOOMING profit → 95% x \$26.7 = \$25.365 (ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing)
+        - iBLOOMING profit → 95% x \$26.7 = \$25.365  
+          Ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing.
         - **CPR untuk Affiliate user → 5% x \$26.7 = \$1.335**
       - Tahun Kedua & Seterusnya:
-        - iBLOOMING profit → 97.5% x \$26.7 = \$26.0325 (ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing)
+        - iBLOOMING profit → 97.5% x \$26.7 = \$26.0325  
+          Ini akan menjadi 100% profit produk digital dari konten CP user dan akan diakumulasikan, lalu dibagi atau didistribusikan sesuai pengaturan Global Profit Sharing.
         - **CPR untuk Affiliate user → 5% x \$26.7 = \$0.6675**
 
 - **Payout Frequency:** Dibagikan **bulanan**, selama produk digital dari konten CP user masih menghasilkan revenue.
 
 ---
 
-### 3.3 GiM Referral Reward (GRR)
+### 5.4 GiM Referral Reward (GRR)
 
-- **Definisi:** Reward untuk **Affiliate** yang berhasil mereferensikan **user baru** untuk sign up **GiM** melalui link **Affiliate**. Reward ini **berjenjang** dan ada **dua macam jalur** (Individual dan Organization).
-
+- **Definisi:** Reward untuk **Affiliate** user yang diberikan setiap kali ada user sign up **GiM** menggunakan link-nya **Affiliate** user. Reward ini **berjenjang** dan ada **dua macam jalur** (Individual dan Organization).
 - **Besaran:**
+  - **Individual Referral:**
+    - $3 untuk tier 1 (First-Tier Affiliate),
+    - $0.8 untuk tier 2 (Second-Tier Affiliate),
+    - dan **$0.2 untuk WEC user pool (Third-Tier Pool)**.
+    - *Contoh:*
+      - **A** (Affiliate) merekrut **B** (Affiliate), lalu **B** merekrut **C** (Affiliate).
+      - Ketika **C** membawa user yang sign up **GiM**, payout per sign up **GiM**:
+        - **$3 → C**,
+        - **$0.8 → B**,
+        - **$0.2 → WEC user pool**, yang kemudian **WEC user pool dibagi rata** ke seluruh WEC user, termasuk **A**, jika **A** adalah WEC user, saat itu.
+  - **Organization Referral:**
+    - $3 untuk tier 1 (**First-Tier** adalah **Organization** yang direferensikan oleh Affiliate user),
+    - $0.8 untuk tier 2 (Second-Tier Affiliate),
+    - dan **$0.2 untuk WEC user pool (Third-Tier Pool)**.
+    - *Contoh:*
+      - **A** (Affiliate) merekrut **B** (Affiliate), lalu **B** mereferensikan sebuah **Organization** (mis. sekolah/komunitas).
+      - Ketika **user** milik Organization sign up **GiM**, payout per sign up **GiM**:
+        - **$3 → Organization**,
+        - **$0.8 → B**,
+        - **$0.2 → WEC user pool**, yang kemudian **WEC user pool dibagi rata** ke seluruh WEC user saat itu.
+- **Revenue Split per Sign Up GiM:**
+  - **$3** → **tier 1** (First-Tier Affiliate **atau** First-Tier **Organization**)
+  - **$0.8** → **tier 2** (Second-Tier Affiliate)
+  - **$0.2** → **WEC user pool** (**Third-Tier Pool**, dibagi rata ke seluruh anggota WEC user)
+  - **$1** → dikumpulkan untuk **Global Profit Sharing (GPS)**
+  - **$1** → dikumpulkan untuk **Global Movement Pool (GMP)**
+  - **Sisanya** → **iBLOOMING revenue**
 
-  - **Individual Referral:** $3 untuk tier 1 (First-Tier Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate).  
-    **Contoh:** Si **A** adalah Affiliate yang sebelumnya telah merekrut si **B** menjadi Affiliate, dan **B** berhasil merekrut si **C** menjadi Affiliate. Ketika **C** membawa user baru untuk sign up **GiM**, maka payout per sign-up adalah: **C = $3**, **B = $0.8**, **A = $0.2**.
-
-  - **Organization Referral:** $3 untuk tier 1 (**First-Tier** adalah **Organization** yang direferensikan oleh Affiliate), $0.8 untuk tier 2 (Second-Tier Affiliate), dan $0.2 untuk tier 3 (Third-Tier Affiliate).  
-    **Contoh:** Si **A** (Affiliate) telah merekrut si **B** (Affiliate), lalu **B** berhasil mereferensikan sebuah **Organization** (mis. sekolah/komunitas). Ketika **user** milik Organization tersebut sign up **GiM**, maka payout per sign-up adalah: **Organization = $3**, **B = $0.8**, **A = $0.2**.
-
-- **Revenue Split per Sign-Up GiM:**
-
-  - **$3** untuk **tier 1** (First-Tier Affiliate **atau** First-Tier **Organization**)
-  - **$0.8** untuk **tier 2** (Second-Tier Affiliate)
-  - **$0.2** untuk **tier 3** (Third-Tier Affiliate)
-  - **$1** dikumpulkan untuk **Global Profit Sharing (GPS)**
-  - **$1** dikumpulkan untuk **Global Movement Pool (GMP)**
-  - **Sisanya** untuk **iBLOOMING**
-
-- **Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan.  
-  **Contoh:** Jika **Affiliate** atau **Organization** dalam bulan berjalan memiliki **100 user** yang sign up **GiM**, maka total GRR:
-  - **Tier 1** (First-Tier Affiliate/Organization): $3 × 100 = **$300**
-  - **Tier 2** (Second-Tier Affiliate): $0.8 × 100 = **$80**
-  - **Tier 3** (Third-Tier Affiliate): $0.2 × 100 = **$20**
+**Payout Frequency:** Dibagikan **bulanan**, secara keseluruhan. Misalnya, jika dalam bulan itu ada **100 sign up GiM**, maka total payout GRR:
+- **Tier 1** (Affiliate/Organization): $3 × 100 sign up = **$300**
+- **Tier 2** (Affiliate): $0.8 × 100 sign up = **$80**
+- **Tier 3** (WEC User Pool): $0.2 × 100 sign up = **$20** → kemudian **dibagi rata** kepada **seluruh WEC user** (misal ada 50 WEC user → masing-masing **$0.40**)
 
 ---
 
-### 3.4 iMATRIX Referral Reward (iRR)
+### 5.5 iMATRIX Referral Reward (iRR)
 
 - **Definisi:** Reward untuk **Affiliate** yang mereferensikan **user** untuk berlangganan (**subscribe to**) **iMATRIX** (produk berlangganan). Reward dihitung sesuai **jenis paket** yang dipilih user (**Foundation, Pro, Expert**) dan **berjenjang tiga tier**. Skema ini berlaku untuk dua jalur: **Individual Referral** dan **Organization Referral**.
 
