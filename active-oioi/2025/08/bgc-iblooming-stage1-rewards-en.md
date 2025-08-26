@@ -51,9 +51,9 @@ Bloo Global Company (BGC) uses an **Affiliate Membership** system with five leve
 |------------------|---------------------|
 | Pathfinder User  | $100                |
 | Voyager User     | $500                |
-| Explorer User    | $1,590              |
-| Pioneer User     | $2,650              |
-| Special User     | $10,600             |
+| Explorer User    | $1,725              |
+| Pioneer User     | $2,875              |
+| Special User     | $11,500             |
 
 ➡️ **Important:**
 - The Entry Fee is the fiat on-ramp into the BGC system.
