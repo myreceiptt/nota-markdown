@@ -212,6 +212,7 @@ If a user makes **3 purchases** in a month and, after each purchase, there are *
   - **$0.2** → **WEC User Pool** (**Third-Tier Pool**, split equally among all WEC users)
   - **$1** → accumulated for **Global Profit Sharing (GPS)**
   - **$1** → accumulated for **Global Movement Pool (GMP)**
+  - **$0.2** → accumulated for **Global Executive Committee (GEC)**
   - **Remainder** → **iBLOOMING revenue**
 
 **Payout Frequency:** Paid **monthly** on an aggregate basis. For example, if there are **100 GiM sign-ups** in the month, total GRR payouts are:
