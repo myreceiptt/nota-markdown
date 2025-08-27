@@ -100,7 +100,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
     - The $30 (100% iBLOOMING Revenue) is then allocated as:
       - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
-      - 1% → **Miracle Cash** for the **General User** → 1% × $30 = **$0.3**
+      - 1% → **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
       - **Channel Provider Reward (CPR):**
         - 5% → **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
         - 2.5% → **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
@@ -158,32 +158,28 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 ### 5.1 Link Reward (LR)
 
 - Definition: Paid to an **Affiliate User** whenever a user buys a **CP User**'s digital product on iBLOOMING using the **Affiliate User**’s link.
-- Rate: 10% of iBLOOMING Revenue of each CP User's digital product purchase.
+- Rate: 10% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
+- Example (For a $100 purchase/transaction):
+  - 70% → **CP User** Revenue → 70% × $100 = **$70**
+  - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
+    - The $30 (100% iBLOOMING Revenue) is then allocated as:
+      - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
 
-**Example** (For a $100 purchase/transaction):
-- 70% → **CP User** Revenue → 70% × $100 = **$70**
-- 30% → iBLOOMING Revenue → 30% × $100 = **$30**
-  - The $30 (100% iBLOOMING Revenue) is then allocated as:
-    - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
-
-**Payout Frequency:** **Monthly (aggregate).**  
-If, in a month, 100 users each make 3 purchases averaging $100, the **Affiliate User**’s total **Link Reward** is: `100 users × 3 purchases × $100 x 30% x 10% = $900`.
+Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 purchases averaging $100, the **Affiliate User**’s total **Link Reward** is: `100 users × 3 purchases × $100 x 30% x 10% = $900`.
 
 ---
 
 ### 5.2 Miracle Cash (MC)
 
-- **Definition:** Paid to **any buyer** (not limited to Affiliates or CPs). After a user buys a CP digital product on iBLOOMING, they receive **MC** **each time another user** buys a CP digital product—**capped at 10 subsequent purchases**.
-- **Rate:** **1%** of each CP digital product purchase.
+- Definition: Paid to **users** (not limited to **Affiliate Users** or **CP Users**). After a **user** buys a **CP User**'s digital product on iBLOOMING, they receive **Miracle Cash** each time another **user** buys a **CP User**'s digital product—capped at 10 subsequent purchases.
+- Rate: 1% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
+- Example (For a $100 purchase/transaction):
+  - 70% → **CP User** Revenue → 70% × $100 = **$70**
+  - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
+    - The $30 (100% iBLOOMING Revenue) is then allocated as:
+      - 1% → **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
 
-**Example** (Transaction $100):
-- Link Reward to Affiliate User → $10  
-- **Miracle Cash to the buyer → $1**  
-- Remainder to iBLOOMING → $89  
-  (Aggregated and later split per Channel Provider Reward.)
-
-**Payout Frequency:** **Monthly (aggregate).**  
-If a user makes **3 purchases** in a month and, after each purchase, there are **10** subsequent purchases by others, each averaging **$100**, then the buyer’s total **MC** is: `1% × 3 self-purchases × 10 subsequent purchases × $100 = $30`.
+Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases and, after each purchase, there are 10 subsequent purchases by others, each averaging $100, then the **user** total **Miracle Cash** is: `3 self-purchases × 10 subsequent purchases × $100 x 30% x 1% = $9`.
 
 ---
 
