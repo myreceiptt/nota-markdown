@@ -12,101 +12,146 @@ coverY: 0
 
 ## 0. Users in BGC & iBLOOMING
 
-In the BGC & iBLOOMING ecosystem, a **user** is anyone who transacts (one-off purchase, subscription, or sign-up) and uses or benefits from BGC & iBLOOMING services. A user can be an individual or an organization.
+In the BGC & iBLOOMING ecosystem, a **user** is anyone who transacts—whether a one-time purchase, a subscription, or simply a sign-up—and uses or benefits from the ongoing operations of BGC & iBLOOMING. A **user** can be an individual or an organization.
 
-User types in the ecosystem:
+Below are the user types within the BGC & iBLOOMING ecosystem:
 
-- User:
-  - **General User**
-    - Can be a **CP User**
-      - Can be an **Executive CP User**
-  - **Affiliate User**
-    - **Pathfinder User**
-      - Can be a **CP User**
-        - Can be an **Executive CP User**
-    - **Voyager User**
-      - Can be a **CP User**
-        - Can be an **Executive CP User**
-    - **Explorer User**
-      - Can be a **CP User**
-        - Can be an **Executive CP User**
-    - **Pioneer User**
-      - Can be a **WEC User**
-      - Can be a **CP User**
-        - Can be an **Executive CP User**
-    - **Special User**
-      - Can be a **WEC User**
-      - Can be a **CP User**
-        - Can be an **Executive CP User**
+| Base Type       | Subtype       | Channel Provider (CP) | Executive CP | WEC User |
+|-----------------|---------------|-----------------------|--------------|----------|
+| General User    | —             | ✓                     | ✓            | ✗        |
+| Affiliate User  | Pathfinder    | ✓                     | ✓            | ✗        |
+| Affiliate User  | Voyager       | ✓                     | ✓            | ✗        |
+| Affiliate User  | Explorer      | ✓                     | ✓            | ✗        |
+| Affiliate User  | Pioneer       | ✓                     | ✓            | ✓        |
+| Affiliate User  | Special       | ✓                     | ✓            | ✓        |
 
-*Note:* This taxonomy may evolve as we continue disentangling the PPTX and DOCX specifications.
+**Legend:** ✓ = can / yes, ✗ = can't / no
 
 ---
 
 ## 1. Affiliate & Entry
 
-Bloo Global Company (BGC) uses an **Affiliate Membership** system with five levels. Each **Affiliate** level is purchased **with fiat (USD)**. After payment, the user officially becomes an **Affiliate User**.
+Bloo Global Company (BGC) uses an **Affiliate Membership** system with 5 levels. Each **Affiliate** level can only be purchased and paid for with fiat (USD). After purchasing and paying with fiat, the **user** officially becomes an **Affiliate User**.
 
-| **Level**        | **Entry Fee (USD)** |
-|------------------|---------------------|
-| Pathfinder User  | $100                |
-| Voyager User     | $500                |
-| Explorer User    | $1,725              |
-| Pioneer User     | $2,875              |
-| Special User     | $11,500             |
+| **Level**  | **Entry Fee (USD)** |
+| ---------- | ------------------- |
+| Pathfinder | $100                |
+| Voyager    | $500                |
+| Explorer   | $1,590              |
+| Pioneer    | $2,650              |
+| Special    | $10,600             |
 
-➡️ **Important:**
-- The Entry Fee is the fiat on-ramp into the BGC system.
-- After paying fiat, the **Affiliate User** receives **Purchase Credit (PC).**
+➡️ **Important Notes:**
+- The **Entry Fee** is the fiat on-ramp into the BGC system.
+- After paying with fiat, the **Affiliate User** receives **Purchase Credit.**
 
 ---
 
 ## 2. Purchase Credit (PC)
 
-- **Definition:** Purchase Credit is not only the counterpart of fiat paid, but also the evidence of **Affiliate Membership** and a credit balance to buy **physical products** at **BGC**—functioning like an internal currency **for physical goods**.
-- **Ratio:** **100 PC = $1 USD** (fixed, non-volatile).
-- **Functions:**
-  - Satisfies MLM legal requirements that BGC sells physical products.
-  - Because PC is issued, BGC **has no obligation to refund** the fiat paid by the **Affiliate User**.
+- Definition: **Purchase Credit** is not only the counterpart of the fiat paid, but also proof of **Affiliate Membership** as well as a credit balance to buy physical products at BGC. It functions like an internal currency for purchasing physical products at BGC.
+- Ratio: **100 PC = $1 USD** (fixed, non-volatile).
+- Functions:
+  - Serves as evidence that BGC sells physical products (MLM legal requirement).
+  - Because the **Affiliate User** has received Purchase Credit, the company **has no obligation to refund** the fiat paid to BGC.
 
-➡️ **Additional Notes:**
-- At **BGC**, **Affiliate Membership cannot be purchased with PC**; entry must be paid in fiat. In short: fiat in → PC credited → physical product out → PC debited.
-- At **iBLOOMING**, digital products (CP content), GiM sign-ups, and iMATRIX subscriptions **cannot be purchased with PC**—they are **fiat-only**.
+➡️ Additional Notes:
+- At BGC, **Affiliate Membership** cannot be purchased/paid using **Purchase Credit**. **Affiliate Membership** can only be purchased/paid with fiat. In short, within BGC: fiat in → **PC** increases → physical product out → **PC** decreases.
 
 ---
 
 ## 3. World Executive Club (WEC)
 
-- **Definition:** A **WEC User** is an Affiliate User whose **total MyCash income** (sum of all MyCash Program based on Sales Point, that is RR and GR rewards) in the **60 days** (the starting day set by the Affiliate user itself) **has reached $10,000**. WEC status is **permanent** once the threshold is met within the 60 days.
-- **Level Independence:** WEC **does not replace** the Affiliate level (Pioneer/Special).
+- Definition: A **WEC User** is a status for **Affiliate Users** whose level is **Pioneer** or **Special**, whose accumulated total income based on **Sales Points** in BGC—namely **Referral (RR)** and **Generation Reward (GR)**—within 60 days (starting date set by the **Affiliate User**), has reached $10,000. **WEC User** status is permanent once the threshold is reached within the specified 60 days.
+- Level Independence: **WEC User** does not replace the **Affiliate User** level **(Pioneer/Special)**.
 
 ---
 
 ## 4. Channel Provider (CP)
 
-At iBLOOMING, besides GiM sign-up and iMATRIX subscriptions, digital products include **content from CP Users** (e-courses, e-books, etc.).
+At iBLOOMING, besides GiM sign-ups and iMATRIX subscriptions, the products offered are digital products (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
 
-A **CP User** is an individual/organization recruited by an Affiliate User to supply content sold as digital products on iBLOOMING (e-courses, e-books, etc.).
+A **CP User** can be an individual or an organization recruited by an **Affiliate User** to supply content sold as digital products on iBLOOMING.
 
-A CP User can become **Executive CP** if, at payout time, their **total Rewards income** (sum of all Rewards Program based on Rebate in iBlooming) in their best 60 days **has reached $10,000**. Executive CP status is **permanent** when the threshold is reached in their best 60 days.
+A **CP User** can obtain **Executive CP** status if their accumulated total income based on Rebates at iBLOOMING, within their 60 consecutive days, has reached $10,000. **Executive CP** status is permanent once the threshold is reached within the specified 60 days.
 
-➡️ **Important:** All iBLOOMING products are **fiat-only**. PC cannot be used to purchase iBLOOMING products.
+➡️ Additional Notes:
+- All products offered by iBLOOMING can only be purchased and paid for with fiat (USD). **Purchase Credit (PC)** cannot be used to purchase/pay for iBLOOMING products.
 
 ---
 
-## 5. Reward Program Based on **Rebate** in iBLOOMING
+## 5. Rewards Based on **Rebates** at iBLOOMING
 
-Once a user is in the BGC & iBLOOMING ecosystem, they may receive **Rewards Program (rebate-based)** from iBLOOMING.
+### Rewards available include:
 
-Rewards include:
+1. iBLOOMING **Link Reward (LR)**
+2. iBLOOMING **Miracle Cash (MC)**
+3. iBLOOMING **Channel Provider Reward (CPR)**
+4. iBLOOMING **GiM Referral Reward (GRR)**
+5. iBLOOMING **iMATRIX Referral Reward (iRR)**
+6. iBLOOMING **Global Profit Sharing (GPS)**
+7. iBLOOMING **Global Movement Pool (GMP)**
+8. iBLOOMING **Global Executive Committee (GEC)**
 
-1. **iBLOOMING Link Reward (LR)**
-2. **iBLOOMING Miracle Cash (MC)**
-3. **iBLOOMING Channel Provider Reward (CPR)**
-4. **iBLOOMING GiM Referral Reward (GRR)**
-5. **iBLOOMING iMATRIX Referral Reward (iRR)**
-6. **iBLOOMING Global Profit Sharing (GPS)**
-7. **iBLOOMING Global Movement Pool (GMP)**
+### Revenue Split for digital products from a **CP User**:
+
+- For a $100 purchase/transaction:
+  - 70% → **CP User** Revenue → 70% × $100 = **$70**
+  - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
+    - The $30 (100% iBLOOMING Revenue) is then allocated as:
+      - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
+      - 1% → **Miracle Cash** for the **General User** → 1% × $30 = **$0.3**
+      - **Channel Provider Reward (CPR):**
+        - 5% → **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
+        - 2.5% → **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
+      - 15% → **Global Profit Sharing (GPS)** → 15% × $30 = **$4.5**
+      - Remainder → iBLOOMING Profit:
+        - 69% → iBLOOMING Profit in the first year → 69% × $30 = **$20.7**
+        - 71.5% → iBLOOMING Profit in the second year and beyond → 10% × $30 = **$21.45**
+
+### Revenue Distribution for GiM sign-ups:
+
+- For each GiM sign-up:
+  - $4 → **GiM Referral Reward (GRR)**:
+    - $3 → First-Tier
+    - $0.8 → Second-Tier
+    - $0.2 → Third-Tier
+  - $1 → **Global Profit Sharing (GPS)**
+  - $1 → **Global Movement Pool (GMP)**
+  - $0.2 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
+
+### Revenue Distribution for iMATRIX subscriptions:
+
+- For each Foundation iMATRIX subscription:
+  - $0.95 → **iMATRIX Referral Reward (iRR)**:
+    - $0.6 → First-Tier
+    - $0.25 → Second-Tier
+    - $0.1 → Third-Tier
+  - $0.1 → **Global Profit Sharing (GPS)**
+  - $0.3 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
+
+- For each Pro iMATRIX subscription:
+  - $8.5 → **iMATRIX Referral Reward (iRR)**:
+    - $5 → First-Tier
+    - $2.5 → Second-Tier
+    - $1 → Third-Tier
+  - $1.5 → **Global Profit Sharing (GPS)**
+  - $2 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
+  - Remainder → **iBLOOMING Profit**
+
+- For each Expert iMATRIX subscription:
+  - $19 → **iMATRIX Referral Reward (iRR)**:
+    - $12 → First-Tier
+    - $5 → Second-Tier
+    - $2 → Third-Tier
+  - $3 → **Global Profit Sharing (GPS)**
+  - $5 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
+  - Remainder → **iBLOOMING Profit**
 
 ---
 
