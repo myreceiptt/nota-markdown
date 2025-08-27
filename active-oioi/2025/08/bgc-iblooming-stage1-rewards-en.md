@@ -157,19 +157,17 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 
 ### 5.1 Link Reward (LR)
 
-- **Definition:** Paid to an **Affiliate User** whenever a user buys a CP digital product on iBLOOMING **using the Affiliate’s link**.
-- **Rate:** **10%** of each CP digital product purchase.
+- Definition: Paid to an **Affiliate User** whenever a user buys a **CP User**'s digital product on iBLOOMING using the **Affiliate User**’s link.
+- Rate: 10% of iBLOOMING Revenue of each CP User's digital product purchase.
 
-**Example** (Transaction $100):
-- CP user revenue → 70% → $70
-- **iBLOOMING revenue** → 30% → $30
-  - **Link Reward to Affiliate User → $3**  
-  - Miracle Cash to the buyer → $0.3  
-  - Remaining to iBLOOMING → $26.7  
-    (This makes up 100% of the product revenue that will be aggregated, then distributed under the Channel Provider Reward rules.)
+**Example** (For a $100 purchase/transaction):
+- 70% → **CP User** Revenue → 70% × $100 = **$70**
+- 30% → iBLOOMING Revenue → 30% × $100 = **$30**
+  - The $30 (100% iBLOOMING Revenue) is then allocated as:
+    - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
 
 **Payout Frequency:** **Monthly (aggregate).**  
-If, in a month, 100 users each make **3** purchases averaging **$100**, the Affiliate’s total LR is: `10% × 100 users × 3 purchases × (30% x $100) = $900`.
+If, in a month, 100 users each make 3 purchases averaging $100, the **Affiliate User**’s total **Link Reward** is: `100 users × 3 purchases × $100 x 30% x 10% = $900`.
 
 ---
 
