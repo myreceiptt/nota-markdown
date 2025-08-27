@@ -41,7 +41,7 @@ Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membershi
 | Pioneer    | $2,650              |
 | Special    | $10,600             |
 
-➡️ **Catatan Penting:**
+➡️ Catatan Penting:
 - Entry Fee adalah pintu masuk uang fiat ke dalam sistem BGC.
 - Setelah membayar uang fiat, **Affiliate User** menerima **Purchase Credit.**
 
@@ -55,7 +55,7 @@ Di perusahaan Bloo Global Company (BGC) menggunakan sistem **Affiliate Membershi
   - Menjadi bukti bahwa BGC menjual produk fisik (syarat legalitas MLM).
   - Karena sudah menerima **Purchase Credit**, maka perusahaan **tidak berkewajiban mengembalikan uang fiat** yang sudah dibayarkan oleh **Affiliate User** kepada BGC.
 
-➡️ **Catatan Tambahan:**
+➡️ Catatan Tambahan:
 - Di perusahaan BGC, **Affiliate Membership** tidak bisa dibeli dan dibayar menggunakan **Purchase Credit**. **Affiliate Membership** hanya bisa dibeli dan dibayar dengan uang fiat. Sederhananya, di dalam BGC: uang fiat masuk → PC bertambah → produk fisik keluar → PC berkurang.
 
 ---
@@ -75,13 +75,14 @@ Di perusahaan iBLOOMING, selain sign up GiM, dan subscription iMATRIX, produk ya
 
 **CP User** bisa mendapatkan status **Executive CP** jika akumulasi total income-nya berdasarkan **Rebates** di iBLOOMING, dalam 60 hari terbaik mereka, telah mencapai $10.000. Status **Executive CP** bersifat permanen saat ambang tercapai dalam 60 hari yang sudah ditentukan.
 
-➡️ Catatan Penting: Semua produk yang disediakan iBLOOMING hanya bisa dibeli dan dibayar dengan uang fiat (USD). Bahkan **Purchase Credit (PC)** pun juga tidak bisa digunakan untuk membeli dan membayar produk yang disediakan iBLOOMING.
+➡️ Catatan Tambahan:
+- Semua produk yang disediakan iBLOOMING hanya bisa dibeli dan dibayar dengan uang fiat (USD). Bahkan **Purchase Credit (PC)** pun juga tidak bisa digunakan untuk membeli dan membayar produk yang disediakan iBLOOMING.
 
 ---
 
 ## 5. Rewards Berdasarkan **Rebates** di Perusahaan iBLOOMING
 
-Reward yang bisa didapatkan ada beberapa jenis, yaitu:
+### Reward yang bisa didapatkan ada beberapa jenis, yaitu:
 
 1. iBLOOMING **Link Reward (LR)**
 2. iBLOOMING **Miracle Cash (MC)**
@@ -92,7 +93,7 @@ Reward yang bisa didapatkan ada beberapa jenis, yaitu:
 7. iBLOOMING **Global Movement Pool (GMP)**
 8. iBLOOMING **Global Executive Committee (GEC)**
 
-Revenue Split untuk produk digital dari **CP User**:
+### Revenue Split untuk produk digital dari **CP User**:
 
 - Pembelian atau transaksi $100:
   - 70% → **CP User** Revenue → 70% x $100 = $70
@@ -108,7 +109,7 @@ Revenue Split untuk produk digital dari **CP User**:
         - 69% → iBLOOMING Profit di tahun pertama → 69% x $30 = $20.7
         - 71.5% → iBLOOMING Profit di tahun kedua dan seterusnya → 10% x $30 = $21.45
 
-Revenue Distribution untuk sign up GiM:
+### Revenue Distribution untuk sign up GiM:
 
 - Each GiM Sign Up:
   - $4 → **GiM Referral Reward (GRR)**:
@@ -120,11 +121,36 @@ Revenue Distribution untuk sign up GiM:
   - $0.2 → **Global Executive Committee (GEC)**
   - Remainder → iBLOOMING Profit
 
-Revenue Distribution untuk subscription iMATRIX:
+### Revenue Distribution untuk subscription iMATRIX:
 
-- Each Foundation Subscription:
-  - $x → **iMATRIX Referral Reward (iRR)**:
-  - $0.2 → **Global Executive Committee (GEC)**
+- Each Foundation iMATRIX Subscription:
+  - $0.95 → **iMATRIX Referral Reward (iRR)**:
+    - $0.6 → First-Tier
+    - $0.25 → Second-Tier
+    - $0.1 → Third-Tier
+  - $0.1 → **Global Profit Sharing (GPS)**
+  - $0.3 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
+
+- Each Pro iMATRIX Subscription:
+  - $8.5 → **iMATRIX Referral Reward (iRR)**:
+    - $5 → First-Tier
+    - $2.5 → Second-Tier
+    - $1 → Third-Tier
+  - $1.5 → **Global Profit Sharing (GPS)**
+  - $2 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
+  - Remainder → iBLOOMING Profit
+
+- Each Expert iMATRIX Subscription:
+  - $19 → **iMATRIX Referral Reward (iRR)**:
+    - $12 → First-Tier
+    - $5 → Second-Tier
+    - $2 → Third-Tier
+  - $3 → **Global Profit Sharing (GPS)**
+  - $5 → **Global Movement Pool (GMP)**
+  - $0 → **Global Executive Committee (GEC)**
   - Remainder → iBLOOMING Profit
 
 ---
@@ -132,8 +158,7 @@ Revenue Distribution untuk subscription iMATRIX:
 ### 5.1 Link Reward (LR)
 
 - Definisi: Reward yang didapatkan **Affiliate User** setiap kali ada user membeli produk digital dari **CP User** melalui link afiliasinya.
-- Besaran: 10% dari **iBLOOMING Revenue** di setiap pembelian produk digital dari **CP User**.
-
+- Besaran: 10% dari iBLOOMING Revenue di setiap pembelian produk digital dari **CP User**.
 
 Contoh Hitungan (Pembelian atau Transaksi $100):
 - **Link Reward untuk Affiliate user → $10**
