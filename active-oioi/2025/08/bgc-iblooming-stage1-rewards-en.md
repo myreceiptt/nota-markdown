@@ -185,36 +185,17 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ### 5.3 Channel Provider Reward (CPR)
 
-- **Definition:** A reward for an **Affiliate** user who brings a **CP user** into iBLOOMING when the CP user’s digital content is sold/purchased by users.
-- **Rate:** **5% in the first year**, then **2.5% from the second year onward**, calculated from iBLOOMING’s share of the revenue split for the CP user’s digital content.
-- **Revenue Split:**
-  - 70% → **CP user revenue**
-  - 30% → **iBLOOMING revenue**
-- **Distribution of iBLOOMING Revenue:**
-  - **Year 1**
-    - 95% → **iBLOOMING profit**
-    - 5% → **CPR for the Affiliate user**
-  - **Year 2 & beyond**
-    - 97.5% → **iBLOOMING profit**
-    - 2.5% → **CPR for the Affiliate user**
+- Definition: A reward for an **Affiliate User** who brings a **CP User** into iBLOOMING when the **CP User**’s digital product is sold/purchased by **users**.
+- Rate: 5% of iBLOOMING Revenue in the first year, then 2.5% in the second year and beyond.
+- Example (For a $100 purchase/transaction):
+  - 70% → **CP User** Revenue → 70% × $100 = **$70**
+  - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
+    - The $30 (100% iBLOOMING Revenue) is then allocated as:
+      - **Channel Provider Reward (CPR):**
+        - 5% → **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
+        - 2.5% → **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
 
-**Example** (Purchase/Transaction of $100):
-- Link Reward to the Affiliate user → 10% × $100 = **$10**
-- Miracle Cash to the buyer → 1% × $100 = **$1**
-- Remainder to iBLOOMING’s split base → 89% × $100 = **$89**
-  - Revenue split on the $89:
-    - **CP user revenue → 70% × $89 = $62.30**
-    - **iBLOOMING revenue → 30% × $89 = $26.70**
-      - **Year 1:**
-        - iBLOOMING profit → 95% × $26.70 = **$25.365**  
-          This amount counts as **100% of the CP digital product profit** and will be accumulated, then distributed according to **Global Profit Sharing** rules.
-        - **CPR for the Affiliate user → 5% × $26.70 = $1.335**
-      - **Year 2 & beyond:**
-        - iBLOOMING profit → 97.5% × $26.70 = **$26.0325**  
-          This amount counts as **100% of the CP digital product profit** and will be accumulated, then distributed according to **Global Profit Sharing** rules.
-        - **CPR for the Affiliate user → 2.5% × $26.70 = $0.6675**
-
-- **Payout Frequency:** **Monthly**, as long as the CP user’s digital content continues generating revenue.
+- Payout Frequency: Monthly (aggregate), as long as the **CP User**’s digital product continues generating revenue.
 
 ---
 
