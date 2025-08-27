@@ -67,7 +67,22 @@ Bloo Global Company (BGC) uses an **Affiliate Membership** system with 5 levels.
 
 ---
 
-## 4. Channel Provider (CP)
+## 4. Rewards Based on Sales Points (SP) at BGC
+
+- **Definition:** SP is a weight/unit used to compute rewards and bonus distribution. It remains unclear whether SP applies only to BGC, to iBLOOMING, or to both.
+- **Fixed Value:** **1 SP = $1** (equivalent).
+- **SP Weight by Level:**
+  - Pathfinder → **70 SP**
+  - Voyager → **350 SP**
+  - Explorer → **1,081 SP**
+  - Pioneer → **1,802 SP**
+  - Special → **7,210 SP**
+
+➡️ Detailed SP acquisition & distribution mechanics will be elaborated in **Phase 2**.
+
+---
+
+## 5. Channel Provider (CP)
 
 At iBLOOMING, besides GiM sign-ups and iMATRIX subscriptions, the products offered are digital products (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
 
@@ -80,7 +95,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 
 ---
 
-## 5. Rewards Based on **Rebates** at iBLOOMING
+## 6. Rewards Based on **Rebates** at iBLOOMING
 
 ### Rewards available include:
 
@@ -155,7 +170,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 
 ---
 
-### 5.1 Link Reward (LR)
+### 6.1 Link Reward (LR)
 
 - Definition: Paid to an **Affiliate User** whenever a user buys a **CP User**'s digital product on iBLOOMING using the **Affiliate User**’s link.
 - Rate: 10% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
@@ -169,7 +184,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 pur
 
 ---
 
-### 5.2 Miracle Cash (MC)
+### 6.2 Miracle Cash (MC)
 
 - Definition: Paid to **users** (not limited to **Affiliate Users** or **CP Users**). After a **user** buys a **CP User**'s digital product on iBLOOMING, they receive **Miracle Cash** each time another **user** buys a **CP User**'s digital product—capped at 10 subsequent purchases.
 - Rate: 1% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
@@ -183,7 +198,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ---
 
-### 5.3 Channel Provider Reward (CPR)
+### 6.3 Channel Provider Reward (CPR)
 
 - Definition: Paid to an **Affiliate User** who brings a **CP User** into iBLOOMING, when the **CP User**’s digital product is sold/purchased by **users**.
 - Rate: 5% of iBLOOMING Revenue in the first year, then 2.5% in the second year and beyond.
@@ -199,7 +214,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ---
 
-### 5.4 GiM Referral Reward (GRR)
+### 6.4 GiM Referral Reward (GRR)
 
 - Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the Affiliate’s link. The reward is tiered with two pathways: Individual and Organization.
 - Rates (per sign-up, same totals for both pathways):
@@ -214,30 +229,7 @@ Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month
 
 ---
 
-### 5.4 GiM Referral Reward (GRR)
-
-- Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the **Affiliate User**’s link. This reward is tiered and has two pathways (Individual and Organization).  
-  *Note:* **WEC User**'s Pool (Tier-3) = a pool shared equally by all **WEC Users** at the payout time.
-
-- Rates:
-  - Individual Referral:  
-    - **$3** for Tier 1 (First-Tier Affiliate)  
-    - **$0.8** for Tier 2 (Second-Tier Affiliate)  
-    - **$0.2** for the **WEC User**'s Pool** (Third-Tier)
-  - Organization Referral:  
-    - **$3** for Tier 1 (the **Organization** referred by the **Affiliate User**)  
-    - **$0.8** for Tier 2 (Second-Tier Affiliate)  
-    - **$0.2** for the **WEC User**'s Pool (Third-Tier)
-
-Payout Frequency: Monthly (aggregate).  
-Example: If there are **100 GiM sign-ups** in a month:  
-- **Tier 1** (Affiliate/Organization): `100 × $3 = $300`  
-- **Tier 2** (Affiliate): `100 × $0.8 = $80`  
-- **WEC User Pool (Tier 3):** `100 × $0.2 = $20` → if there are **50 WEC users**, each receives **$20 ÷ 50 = $0.40**.
-
----
-
-### 5.4 iMATRIX Referral Reward (iRR)
+### 6.5 iMATRIX Referral Reward (iRR)
 
 - **Definition:** Paid to **Affiliates** who refer **users** to **subscribe to iMATRIX** (a subscription product). Payout depends on the chosen plan (**Foundation, Pro, Expert**) and is **three-tiered**. Applies to **Individual** and **Organization** referral paths.
 
@@ -309,35 +301,7 @@ Example: If there are **100 GiM sign-ups** in a month:
 
 ---
 
-### 5.5 Channel Provider Reward (CPR)
-
-- **Definition:** Paid to **Affiliates** who recruit **CPs** into iBLOOMING when the CP’s digital content (e-courses, e-books, etc.) generates revenue.
-- **Rate:** **5% in Year 1**, then **2.5% from Year 2 onward**, calculated on **total CP content revenue**.
-
-- **Base Revenue Split (per sale):**  
-  - **70%** → **Channel Provider (CP)**  
-  - **30%** → **iBLOOMING**
-
-- **Distribution of iBLOOMING’s 30%:**
-  - **Year 1**
-    - **25%** → iBLOOMING
-    - **5%** → Affiliate who recruited the CP
-  - **Year 2+**
-    - **27.5%** → iBLOOMING
-    - **2.5%** → Affiliate who recruited the CP
-
-**Example** (Revenue $100):
-- CP → **$70**  
-- iBLOOMING (Year 1) → **$25** (**$15** of which is the 15% **GPS** contribution from CP product revenue)  
-- Affiliate who recruited CP (Year 1) → **$5**  
-- iBLOOMING (Year 2+) → **$27.5** (**$15** goes to **GPS**)  
-- Affiliate who recruited CP (Year 2+) → **$2.5**
-
-**Payout Frequency:** **Monthly**, as long as the CP content generates revenue.
-
----
-
-### 5.6 Global Profit Sharing (GPS)
+### 6.6 Global Profit Sharing (GPS)
 
 - **Definition:** **GPS** is a profit pool from **iBLOOMING** (including CP digital product profit, GiM sign-ups, and iMATRIX subscriptions) distributed to **top Affiliate levels**. It has **three sources**:
 
@@ -378,7 +342,7 @@ Example: If there are **100 GiM sign-ups** in a month:
 
 ---
 
-### 5.7 Global Movement Pool (GMP)
+### 6.7 Global Movement Pool (GMP)
 
 > **Template — to be finalized**
 
@@ -406,20 +370,5 @@ Example: If there are **100 GiM sign-ups** in a month:
 - **Data Needed:**
   - Pipelines & activity logs (acquisition, revenue, retention, activation), compliance checks.
   - Anti-fraud rules (bots, self-deals, circular trading).
-
----
-
-## 6. MyCash Program Based on **Sales Point (SP)**
-
-- **Definition:** SP is a weight/unit used to compute rewards and bonus distribution. It remains unclear whether SP applies only to BGC, to iBLOOMING, or to both.
-- **Fixed Value:** **1 SP = $1** (equivalent).
-- **SP Weight by Level:**
-  - Pathfinder → **70 SP**
-  - Voyager → **350 SP**
-  - Explorer → **1,081 SP**
-  - Pioneer → **1,802 SP**
-  - Special → **7,210 SP**
-
-➡️ Detailed SP acquisition & distribution mechanics will be elaborated in **Phase 2**.
 
 ---
