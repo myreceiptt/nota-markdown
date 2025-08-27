@@ -31,7 +31,7 @@ Below are the user types within the BGC & iBLOOMING ecosystem:
 
 ## 1. Affiliate & Entry
 
-Bloo Global Company (BGC) uses an **Affiliate Membership** system with 5 levels. Each **Affiliate** level can only be purchased and paid for with fiat (USD). After purchasing and paying with fiat, the **user** officially becomes an **Affiliate User**.
+Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 levels. Each **Affiliate** level can only be purchased and paid for with fiat (USD). After purchasing and paying with fiat, the **user** officially becomes an **Affiliate User**.
 
 | **Level**  | **Entry Fee (USD)** |
 | ---------- | ------------------- |
@@ -69,14 +69,34 @@ Bloo Global Company (BGC) uses an **Affiliate Membership** system with 5 levels.
 
 ## 4. Rewards Based on Sales Points (SP) at BGC
 
-- **Definition:** SP is a weight/unit used to compute rewards and bonus distribution. It remains unclear whether SP applies only to BGC, to iBLOOMING, or to both.
-- **Fixed Value:** **1 SP = $1** (equivalent).
-- **SP Weight by Level:**
-  - Pathfinder → **70 SP**
-  - Voyager → **350 SP**
-  - Explorer → **1,081 SP**
-  - Pioneer → **1,802 SP**
-  - Special → **7,210 SP**
+### What are Sales Points (SP)?
+
+**Sales Points (SP)** are: ...
+
+Fixed Value: **1 SP = $1** (equivalent).
+
+### Rewards available include:
+
+1. BGC **Life Time Scholar**
+2. BGC **Referral (RR)**
+3. BGC **Generation Rewards (GR)**
+4. BGC **Global Pool Sales Points (GPSP)**
+5. BGC **Miracle Cash (MC)**
+6. BGC **WEC Global Pool**
+
+### Sales Points Generated
+
+- **Life Time Scholar**
+  - **Pathfinder User** → 70 SP
+  - **Voyager User** → 350 SP
+  - **Explorer User** → 1,081 SP
+  - **Pioneer User** → 1,802 SP
+  - **Special User** → 7,210 SP
+- **Referral (RR)** → 15% x 2 x **Life Time Scholar**
+- **Generation Rewards (GR)** → 18% x **Life Time Scholar**
+- **Global Pool Sales Points (GPSP)** → 15%
+- **Miracle Cash (MC)** → 0.1% x 
+
 
 ➡️ Detailed SP acquisition & distribution mechanics will be elaborated in **Phase 2**.
 
@@ -84,7 +104,7 @@ Bloo Global Company (BGC) uses an **Affiliate Membership** system with 5 levels.
 
 ## 5. Channel Provider (CP)
 
-At iBLOOMING, besides GiM sign-ups and iMATRIX subscriptions, the products offered are digital products (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
+At iBLOOMING, besides GiM sign-ups and iMATRIX subscriptions, the products offered are digital (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
 
 A **CP User** can be an individual or an organization recruited by an **Affiliate User** to supply content sold as digital products on iBLOOMING.
 
@@ -317,7 +337,7 @@ Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month
   2. **$1 from each GiM sign-up** (fixed, goes directly to GPS).
   3. **$0.1, $1.5, and $3 from each iMATRIX subscription** (fixed, by plan, goes directly to GPS).
 
-- **Payout Frequency:** **Every 6 months** (unlike LR, MC, GRR, iRR, CPR which are monthly).
+- **Payout Frequency:** **Every 6 months** (unlike LR, MC, GRR, iRR, CPR, which are monthly).
 
 - **Eligible Levels:** **Explorer, Pioneer, Special** only.  
   - Explorer → **2 Shares**  
