@@ -101,11 +101,22 @@ Fixed Value: **1 SP = $1** (equivalent).
 ➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
 
 ## 4.1 Life Time Scholar
+...
+
 ## 4.2 Referral (RR)
+...
+
 ## 4.3 Generation Rewards (GR)
+...
+
 ## 4.4 Miracle Cash (MC)
+...
+
 ## 4.5 Global Pool Sales Points (GPSP)
+...
+
 ## 4.6 WEC Global Pool
+...
 
 ---
 
