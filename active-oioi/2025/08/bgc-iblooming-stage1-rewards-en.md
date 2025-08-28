@@ -319,24 +319,23 @@ Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **1
 
 ### 6.7 Global Movement Pool (GMP)
 
-- **Definition:** **GMP** is a monthly activity pool sourced **only** from **GiM** sign-ups and **iMATRIX** subscriptions, distributed to **all WEC Users** and **Executive CP**.
+- Definition: **GMP** is a monthly activity pool sourced only from GiM sign-ups and iMATRIX subscriptions, distributed to all **WEC Users** and **Executive CP**.
 
-- **Sources (fixed per event):**
-  1) **$1** from **each GiM sign-up** (goes directly to GMP).  
-  2) **$0.30 / $2.00 / $5.00** from **each iMATRIX subscription** (**Foundation / Pro / Expert**, respectively; goes directly to GMP).
+- Sources (fixed per event):
+  1) **$1** from each GiM sign-up (goes directly to **GMP**).  
+  2) **$0.30 / $2.00 / $5.00** from each iMATRIX subscription (**Foundation / Pro / Expert**, respectively; goes directly to **GMP**).
 
-- **Eligible Recipients:** **All WEC Users and Executive CP** present at the **monthly payout snapshot**.  
-  - **Distribution rule:** **Equal split per recipient** (unless a different weighting is formally adopted later).
+- Eligible Recipients: All **WEC Users** and **Executive CP** present at the monthly payout snapshot.  
+  - Distribution rule: Equal split per recipient (unless a different weighting is formally adopted later).
 
-- **Payout Frequency:** **Monthly** (aggregated).  
-  **Illustrative distribution:**
-  - Monthly activity: **1,000 GiM sign-ups**, **600 Foundation**, **300 Pro**, **100 Expert** iMATRIX subscriptions  
-  - **GMP pool total:**  
+- Payout Frequency: Monthly (aggregated). Illustrative distribution:
+  - Monthly activity: **1,000** GiM sign-ups, **600 Foundation**, **300 Pro**, **100 Expert** iMATRIX subscriptions  
+  - **GMP** pool total:  
     `($1 × 1,000) + ($0.30 × 600) + ($2.00 × 300) + ($5.00 × 100)`  
     `= 1,000 + 180 + 600 + 500 = **$2,280**`
   - Eligible headcount at snapshot: **120 WEC Users** + **30 Executive CP** = **150** recipients  
-  - **Payout per recipient:** `$2,280 ÷ 150 = **$15.20**`
+  - Payout per recipient: `$2,280 ÷ 150 = **$15.20**`
 
-➡️ **Conclusion:** GMP is a **monthly**, activity-driven pool (GiM + iMATRIX) paid **equally** to the current set of **WEC Users** and **Executive CP** at the payout snapshot.
+➡️ Conclusion: **GMP** is a monthly, activity-driven pool (GiM + iMATRIX) paid equally to the current set of **WEC Users** and **Executive CP** at the payout snapshot.
 
 ---
