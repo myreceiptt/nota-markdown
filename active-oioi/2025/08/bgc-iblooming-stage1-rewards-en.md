@@ -53,7 +53,7 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 lev
 - Ratio: **100 PC = $1 USD** (fixed, non-volatile).
 - Functions:
   - Serves as evidence that BGC sells physical products (MLM legal requirement).
-  - Because the **Affiliate User** has received Purchase Credit, the company **has no obligation to refund** the fiat paid to BGC.
+  - Because the **Affiliate User** has received **Purchase Credit**, the company **has no obligation to refund** the fiat paid to BGC.
 
 ➡️ Additional Notes:
 - At BGC, **Affiliate Membership** cannot be purchased/paid using **Purchase Credit**. **Affiliate Membership** can only be purchased/paid with fiat. In short, within BGC: fiat in → **PC** increases → physical product out → **PC** decreases.
