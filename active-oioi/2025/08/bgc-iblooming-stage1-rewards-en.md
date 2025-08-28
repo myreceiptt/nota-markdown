@@ -236,159 +236,92 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ### 6.4 GiM Referral Reward (GRR)
 
-- Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the Affiliate’s link. The reward is tiered with two pathways: Individual and Organization.
+- Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization.
 - Rates (per sign-up, same totals for both pathways):
   - Individual Referral: **$3** → First-Tier **Affiliate User**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User**'s Pool (Third-Tier).
   - Organization Referral: **$3** → First-Tier **Organization**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User**'s Pool (Third-Tier).
 - **WEC User**'s Pool (Third-Tier) Note: **WEC User** = World Executive Club. The $0.2 Third-Tier amount does not go to a single upline; it is paid into the **WEC User**'s Pool and split equally among all **WEC Users** at payout time.
 
 Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month (from any mix of Individual/Organization referrals), the **GRR** then:
-- Tier 1 (**Affiliate User**/**Organization**): `100 × $3 = $300`
-- Tier 2 (**Affiliate User**): `100 × $0.8 = $80`
-- Tier 3 (**WEC User**'s Pool): `100 × $0.2 = $20` → split equally among all **WEC Users** (e.g., 50 **WEC Users** → $0.40 each)
+- Tier 1 (**Affiliate User**/**Organization**): `$3 x 100 = $300`
+- Tier 2 (**Affiliate User**): `$0.8 x 100 = $80`
+- Tier 3 (**WEC User**'s Pool): `$0.2 x 100 = $20` → split equally among all **WEC Users** (e.g., 50 **WEC Users** → $0.40 each)
 
 ---
 
-### 6.5 iMATRIX Referral Reward (iRR)
+### 5.4 iMATRIX Referral Reward (iRR)
 
-- **Definition:** Paid to **Affiliates** who refer **users** to **subscribe to iMATRIX** (a subscription product). Payout depends on the chosen plan (**Foundation, Pro, Expert**) and is **three-tiered**. Applies to **Individual** and **Organization** referral paths.
+- Definition: Paid to an **Affiliate User** whenever a **user** subscribes to iMATRIX via the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization, based on the subscription types.
+- Rates (per subscription; same totals for both pathways):
+  - **Foundation:** **$0.60** → Tier 1; **$0.25** → Tier 2; **$0.10** → **WEC User**'s Pool (Tier 3)
+  - **Pro:** **$5.00** → Tier 1; **$2.50** → Tier 2; **$1.00** → WEC User**'s Pool (Tier 3)
+  - **Expert:** **$12.00** → Tier 1; **$5.00** → Tier 2; **$2.00** → WEC User**'s Pool (Tier 3)
+- **WEC User**'s Pool (Tier-3) Note: **WEC User** = World Executive Club. The Tier-3 amount does not go to a single upline; it is paid into the **WEC User**'s Pool and split equally among all **WEC Users** at payout time.
 
-> **WEC (Tier 3) Note**  
-> **WEC = World Executive Club** (MyCash total income ≥ $10,000 within 60 days).  
-> Tier-3 amounts **do not** go to a single upline; they go into the **WEC Pool** to be **split equally** among WEC members.
-
-- **Rates:**
-
-**A) Individual Referral**
-- **Foundation:** **$0.6** (Tier 1), **$0.25** (Tier 2), **$0.1** (Tier 3 → WEC Pool).  
-  *Example:* **A** → **B** → **C** (Affiliates). If **C** brings a Foundation subscriber: **C = $0.6**, **B = $0.25**, **WEC Pool = $0.1**.
-- **Pro:** **$5** (Tier 1), **$2.5** (Tier 2), **$1** (Tier 3 → WEC Pool).  
-- **Expert:** **$12** (Tier 1), **$5** (Tier 2), **$2** (Tier 3 → WEC Pool).
-
-**B) Organization Referral**
-- **Foundation:** **$0.6** (Tier 1 = Organization), **$0.25** (Tier 2 Affiliate), **$0.1** (Tier 3 → WEC Pool).  
-- **Pro:** **$5** (Tier 1 = Organization), **$2.5** (Tier 2 Affiliate), **$1** (Tier 3 → WEC Pool).  
-- **Expert:** **$12** (Tier 1 = Organization), **$5** (Tier 2 Affiliate), **$2** (Tier 3 → WEC Pool).
-
-- **Revenue Split per Subscription (additional GPS & GMP allocation):**
-
-**Foundation**
-- **$0.6** → Tier 1 (First-Tier Affiliate **or** Organization)  
-- **$0.25** → Tier 2 (Second-Tier Affiliate)  
-- **$0.1** → **WEC Pool (Tier 3)**  
-- **$0.1** → **GPS**  
-- **$0.3** → **GMP**  
-- **Remainder** → **iBLOOMING**
-
-**Pro**
-- **$5** → Tier 1 (First-Tier Affiliate **or** Organization)  
-- **$2.5** → Tier 2 (Second-Tier Affiliate)  
-- **$1** → **WEC Pool (Tier 3)**  
-- **$1.5** → **GPS**  
-- **$2** → **GMP**  
-- **Remainder** → **iBLOOMING**
-
-**Expert**
-- **$12** → Tier 1 (First-Tier Affiliate **or** Organization)  
-- **$5** → Tier 2 (Second-Tier Affiliate)  
-- **$2** → **WEC Pool (Tier 3)**  
-- **$3** → **GPS**  
-- **$5** → **GMP**  
-- **Remainder** → **iBLOOMING**
-
-> *Note:* These are **fixed nominal amounts per subscription event**, **separate** from GPS contributions (avoid double counting). iRR is a direct referral incentive; GPS is a pooled distribution paid every six months.
-
-**Payout Frequency:** **Monthly (aggregate).**  
-**Example (monthly totals):** If in one month there are **250 Foundation**, **150 Pro**, and **100 Expert** subscribers:
-
-- **Tier 1 (Affiliate/Organization):**  
-  - Foundation: `250 × $0.6 = $150`  
-  - Pro: `150 × $5 = $750`  
-  - Expert: `100 × $12 = $1,200`  
-  - **Total Tier 1 = $2,100**
-
-- **Tier 2 (Affiliate):**  
-  - Foundation: `250 × $0.25 = $62.50`  
-  - Pro: `150 × $2.5 = $375`  
-  - Expert: `100 × $5 = $500`  
-  - **Total Tier 2 = $937.50**
-
-- **WEC Pool (Tier 3):**  
-  - Foundation: `250 × $0.1 = $25`  
-  - Pro: `150 × $1 = $150`  
-  - Expert: `100 × $2 = $200`  
-  - **Total WEC Pool = $375** → split equally among all WEC members.
+Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **150 Pro**, and **100 Expert** subscriptions (from any mix of Individual/Organization referrals), then the **iRR** totals are:
+- Tier 1 (**Affiliate User**/**Organization**): `($0.60 × 250) + ($5.00 × 150) + ($12.00 × 100) = $150 + $750 + $1,200 = $2,100`
+- Tier 2 (**Affiliate User**): `($0.25 × 250) + ($2.50 × 150) + ($5.00 × 100) = $62.50 + $375 + $500 = $937.50`
+- Tier 3 (**WEC User**'s Pool): `($0.10 × 250) + ($1.00 × 150) + ($2.00 × 100) = $25 + $150 + $200 = $375` → split equally among all **WEC Users**
 
 ---
 
 ### 6.6 Global Profit Sharing (GPS)
 
-- **Definition:** **GPS** is a profit pool from **iBLOOMING** (including CP digital product profit, GiM sign-ups, and iMATRIX subscriptions) distributed to **top Affiliate levels**. It has **three sources**:
+- Definition: **GPS** is a profit pool from iBLOOMING—including profit sourced from **CP User** digital product sales, GiM sign-ups, and iMATRIX subscriptions—distributed to top-level **Affiliate Users** (**Explorer**, **Pioneer**, **Special**). GPS has three profit sources:
 
-  1. **15% of CP digital product revenue** (e-courses, e-books, etc.).  
-     **Example** (Revenue $100):  
-     - CP → $70  
-     - **Into GPS** → **$15**  
-     - iBLOOMING (Year 1) → $10  
-     - CP recruiter (Year 1) → $5  
-     - iBLOOMING (Year 2+) → $12.5  
-     - CP recruiter (Year 2+) → $2.5
+  1) 15% of iBLOOMING revenue from each **CP User** digital product purchase.  
+     - Example (for a $100 purchase):  
+       - 70% → **CP User** revenue = **$70**  
+       - 30% → iBLOOMING revenue = **$30**  
+       - From this $30, 15% → **GPS** = **$4.50**
+  
+  2) **$1** from each GiM sign-up (fixed; goes directly to GPS).  
+  3) **$0.10, $1.50, or $3.00** from each iMATRIX subscription (fixed by plan; goes directly to **GPS**).
 
-  2. **$1 from each GiM sign-up** (fixed, goes directly to GPS).
-  3. **$0.1, $1.5, and $3 from each iMATRIX subscription** (fixed, by plan, goes directly to GPS).
+- Eligible Levels: **Explorer, Pioneer, Special** only.  
+  - **Explorer** → **2 shares**  
+  - **Pioneer** → **3 shares**  
+  - **Special** → **15 shares**
 
-- **Payout Frequency:** **Every 6 months** (unlike LR, MC, GRR, iRR, CPR, which are monthly).
+- Payout Frequency: Every 6 months (unlike **LR, MC, GRR, iRR, CPR**, which are monthly).  
+  - Illustrative distribution:
+    - Eligible Affiliates at payout: **550 Explorer**, **300 Pioneer**, **200 Special**  
+      - Total shares = (550 × 2) + (300 × 3) + (200 × 15) = **5,000**
+    - **GPS** pool (semiannual):  
+      - From **CP User** digital products = **$10M**  
+      - From GiM sign-ups = **$15M**  
+      - From iMATRIX subscriptions = **$25M**  
+      - Total **GPS** = $50M
+    - Value per share = $50M ÷ 5,000 = **$10,000**
+    - Estimated rewards:  
+      - **Explorer** = 2 × $10,000 = **$20,000**  
+      - **Pioneer** = 3 × $10,000 = **$30,000**  
+      - **Special** = 15 × $10,000 = **$150,000**
 
-- **Eligible Levels:** **Explorer, Pioneer, Special** only.  
-  - Explorer → **2 Shares**  
-  - Pioneer → **3 Shares**  
-  - Special → **15 Shares**
-
-**Example (semiannual distribution):**
-- Eligible Affiliates at payout: **550 Explorer**, **300 Pioneer**, **200 Special**  
-- **Total Shares** = `(550 × 2) + (300 × 3) + (200 × 15) = 5,000`  
-- **GPS Pool:**  
-  - CP product profit = **$10M**  
-  - GiM sign-up profit = **$15M**  
-  - iMATRIX subscription profit = **$25M**  
-  - **Total GPS = $50M**  
-- **Value per Share** = `$50M ÷ 5,000 = $10,000`  
-- **Estimated Rewards:**  
-  - Explorer = `2 × $10,000 = $20,000`  
-  - Pioneer = `3 × $10,000 = $30,000`  
-  - Special = `15 × $10,000 = $150,000`
-
-➡️ **Conclusion:** GPS is a large-scale, cross-product pool (CP content, GiM, iMATRIX) distributed **semiannually** to Explorer, Pioneer, and Special.
+➡️ Conclusion: **GPS** is a large-scale, cross-product profit pool (**CP User** digital products, GiM, iMATRIX) distributed semiannually to **Explorer**, **Pioneer**, and **Special**.
 
 ---
 
 ### 6.7 Global Movement Pool (GMP)
 
-> **Template — to be finalized**
+- **Definition:** **GMP** is a monthly activity pool sourced **only** from **GiM** sign-ups and **iMATRIX** subscriptions, distributed to **all WEC Users** and **Executive CP**.
 
-- **Definition:** A global incentive pool based on **network growth & activity** across iBLOOMING/BGC, paid to Affiliates who meet defined **performance criteria**.
-- **Objective:** Reward **healthy growth**: qualified user/CP acquisition, retention, recurring revenue, and compliance.
-- **Pool Sources (tentative):**
-  - Percentage of combined net revenue? (TBD)
-  - Fixed allocation per period? (TBD)
-  - Variable component (e.g., global milestones)? (TBD)
-- **Eligibility & Weights (tentative):**
-  - Minimum thresholds (e.g., referral revenue ≥ T, churn ≤ C, KYC/AML compliance, etc.).
-  - **Contribution weights** per dimension (placeholders):
-    - Qualified new user acquisition → w₁
-    - CP sales (GMV) → w₂
-    - Retention (repeat purchases) → w₃
-    - Cross-app activation (GiM/iMATRIX) → w₄
-- **Generic Formula (placeholder):**
-  - `AffiliateScore = w₁·A + w₂·B + w₃·R + w₄·X`
-  - `AffiliateShare = AffiliateScore / (Σ Scores of all eligible)`
-  - `AffiliatePayout = AffiliateShare × (Total GMP Pool)`
-- **Example (after weights/thresholds set):**
-  - Suppose Total GMP = **$2,000,000**. Three eligible Affiliates have scores (120, 80, 50) → total **250**.
-  - Shares = (120/250, 80/250, 50/250) → payouts = **$960k, $640k, $400k**.
-- **Payout Frequency:** Quarterly/Semiannual (to be decided; state clearly if different from GPS).
-- **Data Needed:**
-  - Pipelines & activity logs (acquisition, revenue, retention, activation), compliance checks.
-  - Anti-fraud rules (bots, self-deals, circular trading).
+- **Sources (fixed per event):**
+  1) **$1** from **each GiM sign-up** (goes directly to GMP).  
+  2) **$0.30 / $2.00 / $5.00** from **each iMATRIX subscription** (**Foundation / Pro / Expert**, respectively; goes directly to GMP).
+
+- **Eligible Recipients:** **All WEC Users and Executive CP** present at the **monthly payout snapshot**.  
+  - **Distribution rule:** **Equal split per recipient** (unless a different weighting is formally adopted later).
+
+- **Payout Frequency:** **Monthly** (aggregated).  
+  **Illustrative distribution:**
+  - Monthly activity: **1,000 GiM sign-ups**, **600 Foundation**, **300 Pro**, **100 Expert** iMATRIX subscriptions  
+  - **GMP pool total:**  
+    `($1 × 1,000) + ($0.30 × 600) + ($2.00 × 300) + ($5.00 × 100)`  
+    `= 1,000 + 180 + 600 + 500 = **$2,280**`
+  - Eligible headcount at snapshot: **120 WEC Users** + **30 Executive CP** = **150** recipients  
+  - **Payout per recipient:** `$2,280 ÷ 150 = **$15.20**`
+
+➡️ **Conclusion:** GMP is a **monthly**, activity-driven pool (GiM + iMATRIX) paid **equally** to the current set of **WEC Users** and **Executive CP** at the payout snapshot.
 
 ---
