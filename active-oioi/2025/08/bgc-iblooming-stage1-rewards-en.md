@@ -256,14 +256,14 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 - Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization.
 - Rates (per sign-up, same totals for both pathways):
-  - Individual Referral: **$3** → First-Tier **Affiliate User**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User**'s Pool (Third-Tier).
-  - Organization Referral: **$3** → First-Tier **Organization**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User**'s Pool (Third-Tier).
-- **WEC User**'s Pool (Third-Tier) Note: **WEC User** = World Executive Club. The $0.2 Third-Tier amount does not go to a single upline; it is paid into the **WEC User**'s Pool and split equally among all **WEC Users** at payout time.
+  - Individual Referral: **$3** → First-Tier **Affiliate User**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User** Pool (Third-Tier).
+  - Organization Referral: **$3** → First-Tier **Organization**; **$0.8** → Second-Tier **Affiliate User**; **$0.2** → **WEC User** Pool (Third-Tier).
+- **WEC User** Pool (Third-Tier) Note: **WEC User** = World Executive Club. The $0.2 Third-Tier amount does not go to a single upline; it is paid into the **WEC User** Pool and split equally among all **WEC Users** at payout time.
 
 Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month (from any mix of Individual/Organization referrals), the **GRR** then:
 - Tier 1 (**Affiliate User**/**Organization**): `$3 x 100 = $300`
 - Tier 2 (**Affiliate User**): `$0.8 x 100 = $80`
-- Tier 3 (**WEC User**'s Pool): `$0.2 x 100 = $20` → split equally among all **WEC Users** (e.g., 50 **WEC Users** → $0.40 each)
+- Tier 3 (**WEC User** Pool): `$0.2 x 100 = $20` → split equally among all **WEC Users** (e.g., 50 **WEC Users** → $0.40 each)
 
 ---
 
@@ -271,15 +271,15 @@ Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month
 
 - Definition: Paid to an **Affiliate User** whenever a **user** subscribes to iMATRIX via the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization, based on the subscription types.
 - Rates (per subscription; same totals for both pathways):
-  - **Foundation:** **$0.60** → Tier 1; **$0.25** → Tier 2; **$0.10** → **WEC User**'s Pool (Tier 3)
-  - **Pro:** **$5.00** → Tier 1; **$2.50** → Tier 2; **$1.00** → WEC User**'s Pool (Tier 3)
-  - **Expert:** **$12.00** → Tier 1; **$5.00** → Tier 2; **$2.00** → WEC User**'s Pool (Tier 3)
-- **WEC User**'s Pool (Tier-3) Note: **WEC User** = World Executive Club. The Tier-3 amount does not go to a single upline; it is paid into the **WEC User**'s Pool and split equally among all **WEC Users** at payout time.
+  - **Foundation:** **$0.60** → Tier 1; **$0.25** → Tier 2; **$0.10** → **WEC User** Pool (Tier 3)
+  - **Pro:** **$5.00** → Tier 1; **$2.50** → Tier 2; **$1.00** → **WEC User** Pool (Tier 3)
+  - **Expert:** **$12.00** → Tier 1; **$5.00** → Tier 2; **$2.00** → WEC User** Pool (Tier 3)
+- **WEC User** Pool (Tier-3) Note: **WEC User** = World Executive Club. The Tier-3 amount does not go to a single upline; it is paid into the **WEC User** Pool and split equally among all **WEC Users** at payout time.
 
 Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **150 Pro**, and **100 Expert** subscriptions (from any mix of Individual/Organization referrals), then the **iRR** totals are:
 - Tier 1 (**Affiliate User**/**Organization**): `($0.60 × 250) + ($5.00 × 150) + ($12.00 × 100) = $150 + $750 + $1,200 = $2,100`
 - Tier 2 (**Affiliate User**): `($0.25 × 250) + ($2.50 × 150) + ($5.00 × 100) = $62.50 + $375 + $500 = $937.50`
-- Tier 3 (**WEC User**'s Pool): `($0.10 × 250) + ($1.00 × 150) + ($2.00 × 100) = $25 + $150 + $200 = $375` → split equally among all **WEC Users**
+- Tier 3 (**WEC User** Pool): `($0.10 × 250) + ($1.00 × 150) + ($2.00 × 100) = $25 + $150 + $200 = $375` → split equally among all **WEC Users**
 
 ---
 
