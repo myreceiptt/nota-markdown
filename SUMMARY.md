@@ -38,6 +38,7 @@
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
     * [202508](archived-oioi/2025/08/README.md)
+      * [ZTOR & BEAMCO FEEDBACK](archived-oioi/2025/08/ztor-beamco-feedback.md)
       * [PERURI CONNECT SPEC V1](archived-oioi/2025/08/peruri_connect_spec_v1.md)
       * [PERURI CONNECT PLAN](archived-oioi/2025/08/peruri_connect_plan.md)
       * [TITIK NOL MARGINAL](archived-oioi/2025/08/titik_nol_marginal.md)
