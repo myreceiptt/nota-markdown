@@ -94,11 +94,18 @@ Fixed Value: **1 SP = $1** (equivalent).
   - **Special User** → 7,210 SP
 - **Referral (RR)** → 15% x 2 x **Life Time Scholar**
 - **Generation Rewards (GR)** → 18% x **Life Time Scholar**
-- **Global Pool Sales Points (GPSP)** → 15%
-- **Miracle Cash (MC)** → 0.1% x 
+- **Miracle Cash (MC)** → 0.1% x **Life Time Scholar**
+- **Global Pool Sales Points (GPSP)** → 15% x **Life Time Scholar**
+- **WEC Global Pool** → 3% x **Life Time Scholar**
 
+➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
 
-➡️ Detailed SP acquisition & distribution mechanics will be elaborated in **Phase 2**.
+## 4.1 Life Time Scholar
+## 4.2 Referral (RR)
+## 4.3 Generation Rewards (GR)
+## 4.4 Miracle Cash (MC)
+## 4.5 Global Pool Sales Points (GPSP)
+## 4.6 WEC Global Pool
 
 ---
 
