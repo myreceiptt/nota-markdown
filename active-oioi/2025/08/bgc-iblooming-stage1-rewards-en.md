@@ -273,7 +273,7 @@ Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month
 - Rates (per subscription; same totals for both pathways):
   - **Foundation:** **$0.60** → Tier 1; **$0.25** → Tier 2; **$0.10** → **WEC User** Pool (Tier 3)
   - **Pro:** **$5.00** → Tier 1; **$2.50** → Tier 2; **$1.00** → **WEC User** Pool (Tier 3)
-  - **Expert:** **$12.00** → Tier 1; **$5.00** → Tier 2; **$2.00** → WEC User** Pool (Tier 3)
+  - **Expert:** **$12.00** → Tier 1; **$5.00** → Tier 2; **$2.00** → **WEC User** Pool (Tier 3)
 - **WEC User** Pool (Tier-3) Note: **WEC User** = World Executive Club. The Tier-3 amount does not go to a single upline; it is paid into the **WEC User** Pool and split equally among all **WEC Users** at payout time.
 
 Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **150 Pro**, and **100 Expert** subscriptions (from any mix of Individual/Organization referrals), then the **iRR** totals are:
