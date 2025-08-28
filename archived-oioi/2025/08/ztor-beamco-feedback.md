@@ -1,8 +1,19 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Ztor × Beamco — Early Feedback, Guardrails, and a Safe Pilot Path
 
 **From:** Prof. NOTA  
 **To:** Yuku  
 **Subject:** Ztor × Beamco — Early Feedback, Guardrails, and a Safe Pilot Path
+**Date:** August 28, 2025
 
 Hi Yuku,
 
@@ -33,7 +44,7 @@ Below are my comments, grouped for speed and clarity.
 ## Safe migration path (from today’s apps to Web3)
 - **Phase 0 (Map):** Document current PPV, commerce, payouts, and influencer attribution; define “source of truth” for revenue.  
 - **Phase 1 (Foundations):** Embedded wallets, key recovery, KYC where needed. Emit **on-chain receipts** for revenue attestations (subgraph/indexing).  
-- **Phase 2 (Utility Token):** Launch token as **utility/voucher**. Enable access gating, allowlists, discounts, limited community voting. Keep **Points** off-chain; allow **Points → token** (one-way) with guardrails.  
+- **Phase 2 (Utility Token):** Launch token as **utility/voucher**. Enable access gating, allowlists, discounts, and limited community voting. Keep **Points** off-chain; allow **Points → token** (one-way) with guardrails.  
 - **Phase 3 (Policy Online):** Turn on **buyback+burn** under a published policy; publish monthly **Buyback Reports** (addresses, hashes, amounts, KPI basis).  
 - **Phase 4 (Partner Rails):** Add **merchant/rights-holder settlement** rules (hold token or auto-settle to USDC/fiat on a schedule). Users remain on-token end-to-end.
 
@@ -72,9 +83,11 @@ Below are my comments, grouped for speed and clarity.
 ---
 
 ## Engagement model
-I’m happy to provide high-level critique at this stage. Detailed tokenomics, architecture, policy design, and the pilot spec are **paid engagements** with clear milestones and deliverables. Also, any implementation work credits will list **Prof. NOTA Inc.** as vendor/partner (not as in-house staff).
+I’m happy to provide a high-level critique at this stage. Detailed tokenomics, architecture, policy design, and the pilot spec are **paid engagements** with clear milestones and deliverables. Also, any implementation work credits will list **Prof. NOTA** — our friend in playing, learning, and working in this **0101 Universe**, credits phrasing is public-facing; the legal agreement will define the actual status—independent vendor/partner, in-house staff, or otherwise—with clear, formal documentation. 
 
 If this direction resonates, I can share a one-pager Scope of Work with timeline, outputs, and fees for the pilot.
 
 Best,  
 **Prof. NOTA**
+
+---
