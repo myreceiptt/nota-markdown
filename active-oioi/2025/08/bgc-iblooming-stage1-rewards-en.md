@@ -215,8 +215,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 - Example (For a $100 purchase/transaction):
   - 70% → **CP User** Revenue → 70% × $100 = **$70**
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
-    - The $30 (100% iBLOOMING Revenue) is then allocated as:
-      - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
+    - From this $30 (100% iBLOOMING Revenue), 10% is allocated as **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
 
 Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 purchases averaging $100, the **Affiliate User**’s total **Link Reward** is: `100 users × 3 purchases × $100 x 30% x 10% = $900`.
 
@@ -229,8 +228,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 pur
 - Example (For a $100 purchase/transaction):
   - 70% → **CP User** Revenue → 70% × $100 = **$70**
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
-    - The $30 (100% iBLOOMING Revenue) is then allocated as:
-      - 1% → **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
+    - From this $30 (100% iBLOOMING Revenue), 1% is allocated as **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
 
 Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases and, after each purchase, there are 10 subsequent purchases by others, each averaging $100, then the **user** total **Miracle Cash** is: `3 self-purchases × 10 subsequent purchases × $100 x 30% x 1% = $9`.
 
@@ -243,10 +241,9 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 - Example (For a $100 purchase/transaction):
   - 70% → **CP User** Revenue → 70% × $100 = **$70**
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
-    - The $30 (100% iBLOOMING Revenue) is then allocated as:
-      - **Channel Provider Reward (CPR):**
-        - 5% → **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
-        - 2.5% → **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
+    - From this $30 (100% iBLOOMING Revenue);
+        - 5% is allocated as **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
+        - 2.5% is allocated as **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
 
 - Payout Frequency: Monthly (aggregate), as long as the **CP User**’s digital product continues generating revenue.
 
