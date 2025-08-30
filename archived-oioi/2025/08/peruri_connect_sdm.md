@@ -1,9 +1,19 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Uraian SDM — Peruri Connect × Blockchain
 
 Dokumen ini menguraikan peran, fungsi, dan scope kerja setiap SDM yang dibutuhkan dalam implementasi **Peruri Connect × Blockchain (Hybrid, Tokenized, Interop)**.  
 Setiap role diplotkan dengan bagian relevan di dokumen:  
-- 📄 **peruri_connect_plan.md** (Rencana Teknis, 2000 user)  
-- 📄 **peruri_connect_spec_v1.md** (Spec Eksekusi v1).  
+- 📄 [**peruri_connect_plan.md**](archived-oioi/2025/08/peruri_connect_plan.md) (Rencana Teknis, 2000 user)  
+- 📄 [**peruri_connect_spec_v1.md**](archived-oioi/2025/08/peruri_connect_spec_v1.md) (Spec Eksekusi v1).  
 
 ---
 
@@ -200,3 +210,5 @@ Setiap role diplotkan dengan bagian relevan di dokumen:
 ## ✅ Kesimpulan
 Komposisi SDM yang dirinci di atas **langsung diturunkan dari dokumen plan dan spec**.  
 Dengan ini, setiap role jelas posisinya, scope kerja, dan keterhubungan dengan milestone implementasi Peruri Connect × Blockchain.
+
+---
