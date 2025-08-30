@@ -38,6 +38,7 @@
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
     * [202508](archived-oioi/2025/08/README.md)
+      * [URAIAN SDM PERURI CONNECT WEB3](archived-oioi/2025/08/peruri_connect_sdm.md)
       * [0101 PARLIAMENT BLUEPRINT](archived-oioi/2025/08/0101-parliament-blueprint.md)
       * [ZTOR & BEAMCO FEEDBACK](archived-oioi/2025/08/ztor-beamco-feedback.md)
       * [UNDERSTANDING BGC X IBLOOMING REWARDS](active-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
