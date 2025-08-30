@@ -12,8 +12,8 @@ coverY: 0
 
 Dokumen ini menguraikan peran, fungsi, dan scope kerja setiap SDM yang dibutuhkan dalam implementasi **Peruri Connect × Blockchain (Hybrid, Tokenized, Interop)**.  
 Setiap role diplotkan dengan bagian relevan di dokumen:  
-- 📄 [**peruri_connect_plan.md**](archived-oioi/2025/08/peruri_connect_plan.md) (Rencana Teknis, 2000 user)  
-- 📄 [**peruri_connect_spec_v1.md**](archived-oioi/2025/08/peruri_connect_spec_v1.md) (Spec Eksekusi v1).  
+- 📄 [**peruri_connect_plan.md**](../../../archived-oioi/2025/08/peruri_connect_plan.md) (Rencana Teknis, 2000 user)  
+- 📄 [**peruri_connect_spec_v1.md**](../../../archived-oioi/2025/08/peruri_connect_spec_v1.md) (Spec Eksekusi v1).  
 
 ---
 
