@@ -90,7 +90,7 @@ Policy:
 | 4337/AA Engineer             | Opsional (lanjut)      | Implementasi smart account, paymaster, gasless UX |
 | Public Chain Integration Eng.| Opsional (lanjut)      | Anchor hash ke Base/OP/Ethereum untuk notarization publik |
 
-Uraian peran, fungsi, dan scope kerja setiap SDM yang dibutuhkan dalam implementasi **Peruri Connect × Blockchain (Hybrid, Tokenized, Interop)**: [Uraian SDM — Peruri Connect × Blockchain](archived-oioi/2025/08/peruri_connect_sdm.md)
+Uraian peran, fungsi, dan scope kerja setiap SDM yang dibutuhkan dalam implementasi **Peruri Connect × Blockchain (Hybrid, Tokenized, Interop)**: [Uraian SDM — Peruri Connect × Blockchain](/2025/08/peruri_connect_sdm.md)
 
 ---
 
