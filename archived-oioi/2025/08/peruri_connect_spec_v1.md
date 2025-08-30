@@ -67,8 +67,6 @@ Policy:
 
 ## 6: Tim & SDM
 
-# Tim Kerja — Peruri Connect × Blockchain
-
 | **Role**                    | **Tim**                | **Tugas Utama** |
 |------------------------------|------------------------|-----------------|
 | Flutter Developer            | Peruri Connect         | Integrasi UI/UX untuk wallet, token, badge di mobile app |
