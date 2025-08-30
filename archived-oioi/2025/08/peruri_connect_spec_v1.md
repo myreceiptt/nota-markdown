@@ -76,18 +76,18 @@ Policy:
 | QA/Tester (Mobile)           | Peruri Connect         | Uji integrasi end-to-end di aplikasi Flutter |
 | UI/UX Designer               | Peruri Connect         | Desain tampilan wallet, token, badge sesuai identitas Peruri |
 | DevOps/Infra Support         | Peruri Connect         | CI/CD mobile app & API deployment |
-
+|------------------------------|------------------------|-----------------|
 | Blockchain Protocol Engineer | PDS + Voyage           | Setup & maintain Hyperledger Besu + IBFT2, validator/tx node |
 | Smart Contract Developer     | PDS + Voyage           | Buat & audit kontrak PTKN (ERC20), PBADGE (ERC1155), PLOG |
 | Integration Engineer (BAS)   | PDS + Voyage           | Bangun Blockchain Adapter Service & Mirror Worker, integrasi CI3 |
 | Security/Infra Engineer      | PDS + Voyage           | Setup HSM/KMS, mTLS, audit log, backup & observability |
 | QA/Tester (Blockchain)       | PDS + Voyage           | Uji policy issuance (attendance→token, training→badge), simulasi failover |
-
+|------------------------------|------------------------|-----------------|
 | Solution Architect (Hybrid)  | Joint                  | Pastikan blueprint App ↔ CI3 ↔ BAS ↔ Chain berjalan |
 | Product/Project Manager      | Joint                  | Jaga timeline, komunikasi lintas tim, milestone deliverables |
 | Compliance & Legal Specialist| Joint                  | Review token usage & regulasi, dokumentasi untuk otoritas/BUMN |
 | Training & Adoption Specialist| Joint                 | Sosialisasi ke karyawan pilot, buat panduan penggunaan wallet/badge |
-
+|------------------------------|------------------------|-----------------|
 | Data Analyst (On/Off-chain)  | Opsional (lanjut)      | Analisis pola aktivitas → insight loyalty & performance |
 | 4337/AA Engineer             | Opsional (lanjut)      | Implementasi smart account, paymaster, gasless UX |
 | Public Chain Integration Eng.| Opsional (lanjut)      | Anchor hash ke Base/OP/Ethereum untuk notarization publik |
