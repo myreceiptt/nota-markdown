@@ -295,3 +295,18 @@ coverY: 0
 4. Backend mengirim transaksi ke **Blockchain (Besu)** → **finality** < 5 detik.  
 5. Penerima melihat saldo bertambah; event muncul di **Riwayat** & **Dashboard**.
 
+---
+
+References:
+- [Kajian Transformasi Sistem Reward Digital](project-sistem-reward-karyawan-peruri.md#kajian-transformasi-sistem-reward-digital)
+- [Ringkasan Eksekutif](project-sistem-reward-karyawan-peruri.md#ringkasan-eksekutif)
+- [Narasi Pitch Singkat](project-sistem-reward-karyawan-peruri.md#narasi-pitch-singkat)
+- [Proposal Kerja](project-sistem-reward-karyawan-peruri.md#proposal-kerja)
+- [Simulasi Tanggapan](project-sistem-reward-karyawan-peruri.md#simulasi-tanggapan)
+- [Tanggapan & Jawaban Pertanyaan Follow-Up dari Peruri](respon-follow-up-dari-peruri.md)
+- [Rencana Teknis Pengerjaan](peruri_connect_plan.md)
+- [Peruri Connect Spec Eksekusi v1](peruri_connect_spec_v1.md)
+- [Uraian SDM - Peruri Connect X Blockchain](peruri_connect_sdm.md)
+- [Proposal Peruri Connect X Blockchain - EN](peruri_connect_x_blockchain_proposal_template.md)
+
+---
