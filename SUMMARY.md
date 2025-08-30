@@ -38,6 +38,7 @@
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
     * [202508](archived-oioi/2025/08/README.md)
+      * [0101 PARLIAMENT BLUEPRINT](archived-oioi/2025/08/0101-parliament-blueprint.md)
       * [ZTOR & BEAMCO FEEDBACK](archived-oioi/2025/08/ztor-beamco-feedback.md)
       * [UNDERSTANDING BGC X IBLOOMING REWARDS](active-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
       * [PERURI CONNECT SPEC V1](archived-oioi/2025/08/peruri_connect_spec_v1.md)
