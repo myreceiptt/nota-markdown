@@ -28,9 +28,9 @@ The group moved into a dedicated meeting room prepared for this focused session.
 
 ## 🧩 Presentation by Prof. NOTA: Web3 Integration Draft
 
-Prof. NOTA was invited to begin the meeting by presenting and narrating the **Web3 Integration Draft** that had been previously shared.
+Prof. NOTA was invited to begin the meeting by presenting and narrating the **[Web3 Integration Draft](../../../archived-oioi/2025/07/iblooming-web3-draft.md)** that had been previously shared.
 
-Rather than reading the document line by line, Prof. NOTA focused on storytelling and real-world examples to bring the proposed components to life.
+Rather than reading the document line by line, using this **[cue card or note card](../../../archived-oioi/2025/07/iblooming-web3-pitch-simulation.md)**, Prof. NOTA focused on storytelling and real-world examples to bring the proposed components to life.
 
 ---
 
