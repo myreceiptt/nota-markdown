@@ -38,6 +38,7 @@
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
     * [202508](archived-oioi/2025/08/README.md)
+      * [RECEIPT SK8BOARDING 2025/07-08](archived-oioi/2025/08/monthly_public_receipt_skateboarding.md)
       * [PROPOSAL PERURI CONNECT WEB3 - ID](archived-oioi/2025/08/proposal_peruri_connect_blockchain_id.md)
       * [PROPOSAL PERURI CONNECT WEB3 - EN](archived-oioi/2025/08/peruri_connect_x_blockchain_proposal_template.md)
       * [URAIAN SDM PERURI CONNECT WEB3](archived-oioi/2025/08/peruri_connect_sdm.md)
