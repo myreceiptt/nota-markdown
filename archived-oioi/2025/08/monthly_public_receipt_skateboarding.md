@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # 🛹 The Monthly Public Receipt — Skateboarding (Juli–Agustus 2025)
 
 Skateboarding, bulan ini, terasa seperti sebuah *blockchain hidup*.  
@@ -77,3 +87,5 @@ Bagi Prof. NOTA, skateboarding bulan ini adalah **receipt publik**:
 - “Pontianak Skateboarding Day” – Kalbarnews  
 - “FO Slipi Skatepark profile” – Observer ID  
 - “CODE.STRT event Serpong” – Thesmedia ID  
+
+---
