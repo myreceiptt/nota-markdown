@@ -14,8 +14,12 @@ coverY: 0
 
 It compiles key insights from these discussions, confirms agreed decisions, and outlines the immediate next steps for execution.
 
-- [📄 Day 1: 10 July 2025](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md)  
+- [📄 Day 1: 10 July 2025](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md)
+  - [Prof. NOTA Pitch](../../../archived-oioi/2025/07/iblooming-web3-pitch-simulation.md),
+  - and [Present WEB3 DRAFT](../../../archived-oioi/2025/07/iblooming-web3-draft.md)  
 - [📄 Day 2: 11 July 2025](../../../archived-oioi/2025/08/iblooming-web3-meeting-day2.md)
+  - [Drafting Living Document](../../../archived-oioi/2025/08/iblooming-web3-living.md),
+  - and [Drafting Understanding BGC X iBLOOMING Rewards](../../../archived-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
 
 This living document is to be read, updated, and agreed upon by all founders — acting as a unified point of reference to keep the transformation process synchronized and on track.
 
@@ -40,6 +44,7 @@ Without explicitly naming it, BGC has effectively implemented **ALPHA Coin token
 - **Cross-App Utility** = Integration with iBLOOMING edu-products / gated access to iBLOOMING  
 
 🎯 This means the transformation does not start from scratch — it reframes, extracts insights, and elevates proven value logic that has been active since 2023.
+🎯 All details about the model formulation can be read in this document: [Understanding BGC X iBLOOMING Rewards](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en)
 
 ---
 
@@ -167,3 +172,4 @@ Once the pillars are stabilized:
 🔁 To be updated as dependencies shift or new constraints appear.
 
 ---
+
