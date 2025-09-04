@@ -89,9 +89,9 @@ Fixed Value: **1 SP = $1** (equivalent).
 - **Life Time Scholar**
   - **Pathfinder User** → 70 SP
   - **Voyager User** → 350 SP
-  - **Explorer User** → 1,081 SP
-  - **Pioneer User** → 1,802 SP
-  - **Special User** → 7,210 SP
+  - **Explorer User** → 1,207 SP
+  - **Pioneer User** → 2,012 SP
+  - **Special User** → 8,050 SP
 - **Referral (RR)** → 15% x 2 x **Life Time Scholar**
 - **Generation Rewards (GR)** → 18% x **Life Time Scholar**
 - **Miracle Cash (MC)** → 0.1% x **Life Time Scholar**
