@@ -185,7 +185,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
     - $0.1 → Third-Tier
   - $0.1 → **Global Profit Sharing (GPS)**
   - $0.3 → **Global Movement Pool (GMP)**
-  - $0 → **Global Executive Committee (GEC)**
+  - $0.05 → **Global Executive Committee (GEC)**
   - Remainder → iBLOOMING Profit
 
 - For each Pro iMATRIX subscription:
@@ -195,7 +195,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
     - $1 → Third-Tier
   - $1.5 → **Global Profit Sharing (GPS)**
   - $2 → **Global Movement Pool (GMP)**
-  - $0 → **Global Executive Committee (GEC)**
+  - $0.4 → **Global Executive Committee (GEC)**
   - Remainder → **iBLOOMING Profit**
 
 - For each Expert iMATRIX subscription:
@@ -205,7 +205,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
     - $2 → Third-Tier
   - $3 → **Global Profit Sharing (GPS)**
   - $5 → **Global Movement Pool (GMP)**
-  - $0 → **Global Executive Committee (GEC)**
+  - $1 → **Global Executive Committee (GEC)**
   - Remainder → **iBLOOMING Profit**
 
 ---
