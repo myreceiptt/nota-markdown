@@ -162,7 +162,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
       - 15% → **Global Profit Sharing (GPS)** → 15% × $30 = **$4.5**
       - Remainder → iBLOOMING Profit:
         - 69% → iBLOOMING Profit in the first year → 69% × $30 = **$20.7**
-        - 71.5% → iBLOOMING Profit in the second year and beyond → 10% × $30 = **$21.45**
+        - 71.5% → iBLOOMING Profit in the second year and beyond → 71.5% × $30 = **$21.45**
 
 ### Revenue Distribution for GiM sign-ups:
 
