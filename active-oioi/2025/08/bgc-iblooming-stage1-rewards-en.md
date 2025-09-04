@@ -92,7 +92,8 @@ Fixed Value: **1 SP = $1** (equivalent).
   - **Explorer User** → 1,207 SP
   - **Pioneer User** → 2,012 SP
   - **Special User** → 8,050 SP
-- **Referral (RR)** → 15% x **Life Time Scholar**
+- **Referral Rewards (RR)**
+  - 1st Tier → 15% x **Life Time Scholar**
 - **Generation Rewards (GR)**
   - 2nd Tier → 15% x **Life Time Scholar**
   - 3rd Tier → 18% x **Life Time Scholar**
