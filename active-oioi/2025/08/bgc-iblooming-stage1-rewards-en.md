@@ -86,6 +86,39 @@ Fixed Value: **1 SP = $1** (equivalent).
 
 ### Sales Points Generated
 
+## Sales Points Generated
+
+### A) Life Time Scholar (LTS) — by Affiliate Level
+
+| Affiliate Level | Life Time Scholar (SP) |
+|-----------------|------------------------|
+| Pathfinder      | 70                     |
+| Voyager         | 350                    |
+| Explorer        | 1,207                  |
+| Pioneer         | 2,012                  |
+| Special         | 8,050                  |
+
+### B) Referral & Generation SP — per New Join (A)
+
+> Scenario:  
+> **Today:** B brings **A** to join (A is the new join).  
+> **Yesterday:** C brought **B**.  
+> **Two days ago:** D brought **C**.  
+> Rewards: **B = Referral (Tier 1)**, **C = Generation (Tier 2)**, **D = Generation (Tier 3)**.
+
+| A’s Join Level | A’s LTS (SP) | **B (Tier 1)** | **C (Tier 2)** | **D (Tier 3)** |
+|----------------|--------------|----------------|----------------|----------------|
+| Pathfinder     | 70           | 10% → **7.00** | 0% → **0.00**  | 0% → **0.00**  |
+| Voyager        | 350          | 10% → **35.00**| 13% → **45.50**| 16% → **56.00**|
+| Explorer       | 1,207        | 12% → **144.84**| 14% → **168.98**| 17% → **205.19**|
+| Pioneer        | 2,012        | 15% → **301.80**| 15% → **301.80**| 18% → **362.16**|
+| Special        | 8,050        | 15% → **1,207.50**| 15% → **1,207.50**| 18% → **1,449.00**|
+
+**Notes**
+- Percentages apply to **A’s LTS** for the level A joined.  
+- Displayed SP are rounded to **2 decimal places** for consistency.
+
+
 - **Life Time Scholar**
   - **Pathfinder User** → 70 SP
   - **Voyager User** → 350 SP
