@@ -44,7 +44,7 @@ Without explicitly naming it, BGC has effectively implemented **ALPHA Coin token
 - **Cross-App Utility** = Integration with iBLOOMING edu-products / gated access to iBLOOMING  
 
 🎯 This means the transformation does not start from scratch — it reframes, extracts insights, and elevates proven value logic that has been active since 2023.
-🎯 All details about the model formulation can be read in this document: [Understanding BGC X iBLOOMING Rewards](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en)
+🎯 All details about the model formulation can be read in this document: [Understanding BGC X iBLOOMING Rewards](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en.md)
 
 ---
 
