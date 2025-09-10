@@ -45,7 +45,7 @@
       * [URAIAN SDM PERURI CONNECT WEB3](archived-oioi/2025/08/peruri_connect_sdm.md)
       * [0101 PARLIAMENT BLUEPRINT](archived-oioi/2025/08/0101-parliament-blueprint.md)
       * [ZTOR & BEAMCO FEEDBACK](archived-oioi/2025/08/ztor-beamco-feedback.md)
-      * [DRAFT UNDERSTANDING BGC X IBLOOMING REWARDS](active-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
+      * [DRAFT UNDERSTANDING BGC X IBLOOMING REWARDS](archived-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
       * [PERURI CONNECT SPEC V1](archived-oioi/2025/08/peruri_connect_spec_v1.md)
       * [PERURI CONNECT PLAN](archived-oioi/2025/08/peruri_connect_plan.md)
       * [TITIK NOL MARGINAL](archived-oioi/2025/08/titik_nol_marginal.md)
