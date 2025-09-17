@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # 🧾 The Monthly Public Receipt — **Sosial–Politik Indonesia**  
 *(Periode: 19 Juli – 19 Agustus 2025 · Outlook: September 2025)*
 
