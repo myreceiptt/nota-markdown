@@ -71,7 +71,7 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 lev
 
 ### What are Sales Points (SP)?
 
-**Sales Points (SP)** are: ...
+**Sales Points (SP)** are given to **Affiliate Users** to measure the amount of reward that the **Affiliate User** will receive.
 
 Fixed Value: **1 SP = $1** (equivalent).
 
@@ -84,29 +84,33 @@ Fixed Value: **1 SP = $1** (equivalent).
 5. BGC **Miracle Cash (MC)**
 6. BGC **WEC Global Pool**
 
+➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
+
 ### Sales Points Generated
 
-## Sales Points Generated
+#### A) Life Time Scholar (LTS) — by Affiliate Level
 
-### A) Life Time Scholar (LTS) — by Affiliate Level
+> Scenario:
+> **Today:** **U** join as **Affiliate User**.
+> Rewards: **U** will get a **Life Time Scholar (LTS)** according to the level joined.
 
-| Affiliate Level | Life Time Scholar (SP) |
-|-----------------|------------------------|
-| Pathfinder      | 70                     |
-| Voyager         | 350                    |
-| Explorer        | 1,207                  |
-| Pioneer         | 2,012                  |
-| Special         | 8,050                  |
+| Affiliate Level | Life Time Scholar (SP) | When Given      |
+|-----------------|------------------------|-----------------|
+| Pathfinder      | 70                     | When User Join  |
+| Voyager         | 350                    | When User Join  |
+| Explorer        | 1,207                  | When User Join  |
+| Pioneer         | 2,012                  | When User Join  |
+| Special         | 8,050                  | When User Join  |
 
-### B) Referral & Generation SP — per New Join (A)
+#### B) Referral & Generation SP — per New Join (U)
 
 > Scenario:  
-> **Today:** B brings **A** to join (A is the new join).  
-> **Yesterday:** C brought **B**.  
-> **Two days ago:** D brought **C**.  
-> Rewards: **B = Referral (Tier 1)**, **C = Generation (Tier 2)**, **D = Generation (Tier 3)**.
+> **Today:** X brings **U** to join (U is the new join).  
+> **Yesterday:** Y brought **X**.  
+> **Two days ago:** Z brought **Y**.  
+> Rewards: **X = Referral (Tier 1)**, **Y = Generation (Tier 2)**, **Z = Generation (Tier 3)**.
 
-| A’s Join Level | A’s LTS (SP) | **B (Tier 1)** | **C (Tier 2)** | **D (Tier 3)** |
+| U’s Join Level | U’s LTS (SP) | **X (Tier 1)** | **Y (Tier 2)** | **Z (Tier 3)** |
 |----------------|--------------|----------------|----------------|----------------|
 | Pathfinder     | 70           | 10% → **7.00** | 0% → **0.00**  | 0% → **0.00**  |
 | Voyager        | 350          | 10% → **35.00**| 13% → **45.50**| 16% → **56.00**|
@@ -115,43 +119,39 @@ Fixed Value: **1 SP = $1** (equivalent).
 | Special        | 8,050        | 15% → **1,207.50**| 15% → **1,207.50**| 18% → **1,449.00**|
 
 **Notes**
-- Percentages apply to **A’s LTS** for the level A joined.  
+- Percentages apply to **U’s LTS** according to the level U joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
+#### C) Miracle Cash (MC)
 
-- **Life Time Scholar**
-  - **Pathfinder User** → 70 SP
-  - **Voyager User** → 350 SP
-  - **Explorer User** → 1,207 SP
-  - **Pioneer User** → 2,012 SP
-  - **Special User** → 8,050 SP
-- **Referral Rewards (RR)**
-  - 1st Tier → 15% x **Life Time Scholar**
-- **Generation Rewards (GR)**
-  - 2nd Tier → 15% x **Life Time Scholar**
-  - 3rd Tier → 18% x **Life Time Scholar**
-- **Miracle Cash (MC)** → 0.1% x **Life Time Scholar**
-- **Global Pool Sales Points (GPSP)** → 15% x **Life Time Scholar**
-- **WEC Global Pool** → 3% x **Life Time Scholar**
+> Scenario:  
+> **Today:** **U** join as **Affiliate User** at time 07:47 PM.
+> Rewards: After **U** joins, **U** will get **Miracle Cash** every time a new user joins as an **Affiliate User**, but only up to 10 new users.
 
-➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
+| New User       | Join Time           | Join Level | LTS (SP) for New User | Miracle Cash (MC) for User **U** |
+|----------------|---------------------|------------|-----------------------|-----------------------------|
+| New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70                    | 0                 |
+| New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70                    | 0.1% → **0.07**   |
+| New User +2    | 2025/08/20 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**   |
+| New User +3    | 2025/08/21 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**   |
+| New User +4    | 2025/08/22 07:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**   |
+| New User +5    | 2025/08/23 11:11 AM | Special    | 8,050                 | 0.1% → **8.05**   |
+| New User +6    | 2025/08/23 01:01 PM | Special    | 8,050                 | 0.1% → **8.05**   |
+| New User +7    | 2025/08/24 10:10 AM | Special    | 8,050                 | 0.1% → **8.05**   |
+| New User +8    | 2025/08/24 04:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**   |
+| New User +9    | 2025/08/24 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**   |
+| New User +10   | 2025/08/25 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**   |
+| New User +11   | 2025/08/26 07:47 PM | Pathfinder | 70                    | 0                 |
+| New User +12   | 2025/08/27 10:10 AM | Pathfinder | 70                    | 0                 |
 
-## 4.1 Life Time Scholar
+**Notes**
+- Percentages apply to **LTS** based on the level of new users who joined.
+- Displayed SP are rounded to **2 decimal places** for consistency.
+
+#### D) Global Pool Sales Points (GPSP)
 ...
 
-## 4.2 Referral (RR)
-...
-
-## 4.3 Generation Rewards (GR)
-...
-
-## 4.4 Miracle Cash (MC)
-...
-
-## 4.5 Global Pool Sales Points (GPSP)
-...
-
-## 4.6 WEC Global Pool
+#### E) WEC Global Pool
 ...
 
 ---
