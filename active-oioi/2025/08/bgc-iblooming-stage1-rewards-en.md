@@ -84,7 +84,7 @@ Fixed Value: **1 SP = $1** (equivalent).
 5. BGC **Miracle Cash (MC)**
 6. BGC **WEC Global Pool**
 
-➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
+➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following chapter.
 
 ## 5. Sales Points Generated
 
@@ -125,7 +125,7 @@ Fixed Value: **1 SP = $1** (equivalent).
 ### 5.3 Miracle Cash (MC) - per Month (on the 15th of the following month)
 
 > Scenario:  
-> **Today:** **U** join as **Affiliate User** at time 07:47 PM.
+> **Today:** **U** join as **Affiliate User** at time 07:47 PM.  
 > Rewards: After **U** joins, **U** will get **Miracle Cash** every time a new user joins as an **Affiliate User**, but only up to 10 new users.
 
 | New User       | Join Time           | Join Level | LTS (SP) for New User | Miracle Cash (MC) for User **U** |
@@ -145,13 +145,13 @@ Fixed Value: **1 SP = $1** (equivalent).
 | New User +12   | 2025/08/31 10:10 AM | Pathfinder | 70                    | 0                                |
 
 **Notes**
-- Percentages apply to **LTS** based on the level of new users who joined.
+- Percentages apply to **LTS** based on the level of new users who joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
 ### 5.4 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
 
-> Scenario:
-> **Today:** **U** join as **Affiliate User**.
+> Scenario:  
+> **Today:** **U** join as **Affiliate User**.  
 > Rewards: After **U** joins, 15% of the **U** user's **LTS** will be collected in the **Global Pool Sales Points (GPSP)**.
 
 | U’s Join Level | U’s LTS (SP) | Global Pool Sales Points (GPSP) |
@@ -163,14 +163,14 @@ Fixed Value: **1 SP = $1** (equivalent).
 | Special        | 8,050        | 15% → **1,207.50**              |
 
 **Notes**
-- Percentages apply to **LTS** based on the level of new users who joined.
-- Displayed SP are rounded to **2 decimal places** for consistency.
-- **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.
+- Percentages apply to **LTS** based on the level of new users who joined.  
+- Displayed SP are rounded to **2 decimal places** for consistency.  
+- **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.  
   
 ### 5.5 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
 
-> Scenario:
-> **Today:** **U** join as **Affiliate User**.
+> Scenario:  
+> **Today:** **U** join as **Affiliate User**.  
 > Rewards: After **U** joins, 3% of the **U** user's **LTS** will be collected in the **WEC Global Pool**.
 
 | U’s Join Level | U’s LTS (SP) | WEC Global Pool |
@@ -182,13 +182,13 @@ Fixed Value: **1 SP = $1** (equivalent).
 | Special        | 8,050        | 3% → **241.50** |
 
 **Notes**
-- Percentages apply to **LTS** based on the level of new users who joined.
-- Displayed SP are rounded to **2 decimal places** for consistency.
+- Percentages apply to **LTS** based on the level of new users who joined.  
+- Displayed SP are rounded to **2 decimal places** for consistency.  
 - **WEC Global Pool** will be distributed only to among **WEC Users**.
 
 ---
 
-## 5. Channel Provider (CP)
+## 6. Channel Provider (CP)
 
 At iBLOOMING, besides GiM sign-ups and iMATRIX subscriptions, the products offered are digital (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
 
@@ -201,7 +201,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 
 ---
 
-## 6. Rewards Based on **Rebates** at iBLOOMING
+## 7. Rewards Based on **Rebates** at iBLOOMING
 
 ### Rewards available include:
 
@@ -276,7 +276,7 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
 
 ---
 
-### 6.1 Link Reward (LR)
+### 7.1 Link Reward (LR)
 
 - Definition: Paid to an **Affiliate User** whenever a user buys a **CP User**'s digital product on iBLOOMING using the **Affiliate User**’s link.
 - Rate: 10% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
@@ -289,7 +289,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 pur
 
 ---
 
-### 6.2 Miracle Cash (MC)
+### 7.2 Miracle Cash (MC)
 
 - Definition: Paid to **users** (not limited to **Affiliate Users** or **CP Users**). After a **user** buys a **CP User**'s digital product on iBLOOMING, they receive **Miracle Cash** each time another **user** buys a **CP User**'s digital product—capped at 10 subsequent purchases.
 - Rate: 1% of iBLOOMING Revenue of each **CP User**'s digital product purchase.
@@ -302,7 +302,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ---
 
-### 6.3 Channel Provider Reward (CPR)
+### 7.3 Channel Provider Reward (CPR)
 
 - Definition: Paid to an **Affiliate User** who brings a **CP User** into iBLOOMING, when the **CP User**’s digital product is sold/purchased by **users**.
 - Rate: 5% of iBLOOMING Revenue in the first year, then 2.5% in the second year and beyond.
@@ -317,7 +317,7 @@ Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases 
 
 ---
 
-### 6.4 GiM Referral Reward (GRR)
+### 7.4 GiM Referral Reward (GRR)
 
 - Definition: Paid to an **Affiliate User** whenever a **user** signs up for GiM using the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization.
 - Rates (per sign-up, same totals for both pathways):
@@ -332,7 +332,7 @@ Payout Frequency: Monthly (aggregated). If there are 100 GiM sign-ups in a month
 
 ---
 
-### 5.4 iMATRIX Referral Reward (iRR)
+### 7.5 iMATRIX Referral Reward (iRR)
 
 - Definition: Paid to an **Affiliate User** whenever a **user** subscribes to iMATRIX via the **Affiliate User**’s link. The reward is tiered with two pathways: Individual and Organization, based on the subscription types.
 - Rates (per subscription; same totals for both pathways):
@@ -348,7 +348,7 @@ Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **1
 
 ---
 
-### 6.6 Global Profit Sharing (GPS)
+### 7.6 Global Profit Sharing (GPS)
 
 - Definition: **GPS** is a profit pool from iBLOOMING—including profit sourced from **CP User** digital product sales, GiM sign-ups, and iMATRIX subscriptions—distributed to top-level **Affiliate Users** (**Explorer**, **Pioneer**, **Special**). GPS has three profit sources:
 
@@ -385,7 +385,7 @@ Payout Frequency: Monthly (aggregated). If the month has **250 Foundation**, **1
 
 ---
 
-### 6.7 Global Movement Pool (GMP)
+### 7.7 Global Movement Pool (GMP)
 
 - Definition: **GMP** is a monthly activity pool sourced only from GiM sign-ups and iMATRIX subscriptions, distributed to all **WEC Users** and **Executive CP**.
 
