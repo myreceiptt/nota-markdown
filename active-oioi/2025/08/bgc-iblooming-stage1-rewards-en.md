@@ -86,9 +86,9 @@ Fixed Value: **1 SP = $1** (equivalent).
 
 ➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following sub-chapters.
 
-### Sales Points Generated
+## 5. Sales Points Generated
 
-#### A) Life Time Scholar (LTS) — by Affiliate Level
+### 5.1 Life Time Scholar (LTS) — by Affiliate Level
 
 > Scenario:
 > **Today:** **U** join as **Affiliate User**.
@@ -102,10 +102,10 @@ Fixed Value: **1 SP = $1** (equivalent).
 | Pioneer         | 2,012                  | When User Join  |
 | Special         | 8,050                  | When User Join  |
 
-#### B) Referral & Generation SP — per New Join (U)
+### 5.2 Referral & Generation SP — per New Join (U)
 
 > Scenario:  
-> **Today:** X brings **U** to join (U is the new join).  
+> **Today:** X brings **U** to join (**U** is the new join).  
 > **Yesterday:** Y brought **X**.  
 > **Two days ago:** Z brought **Y**.  
 > Rewards: **X = Referral (Tier 1)**, **Y = Generation (Tier 2)**, **Z = Generation (Tier 3)**.
@@ -122,37 +122,69 @@ Fixed Value: **1 SP = $1** (equivalent).
 - Percentages apply to **U’s LTS** according to the level U joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
-#### C) Miracle Cash (MC)
+### 5.3 Miracle Cash (MC) - per Month (on the 15th of the following month)
 
 > Scenario:  
 > **Today:** **U** join as **Affiliate User** at time 07:47 PM.
 > Rewards: After **U** joins, **U** will get **Miracle Cash** every time a new user joins as an **Affiliate User**, but only up to 10 new users.
 
 | New User       | Join Time           | Join Level | LTS (SP) for New User | Miracle Cash (MC) for User **U** |
-|----------------|---------------------|------------|-----------------------|-----------------------------|
-| New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70                    | 0                 |
-| New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70                    | 0.1% → **0.07**   |
-| New User +2    | 2025/08/20 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**   |
-| New User +3    | 2025/08/21 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**   |
-| New User +4    | 2025/08/22 07:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**   |
-| New User +5    | 2025/08/23 11:11 AM | Special    | 8,050                 | 0.1% → **8.05**   |
-| New User +6    | 2025/08/23 01:01 PM | Special    | 8,050                 | 0.1% → **8.05**   |
-| New User +7    | 2025/08/24 10:10 AM | Special    | 8,050                 | 0.1% → **8.05**   |
-| New User +8    | 2025/08/24 04:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**   |
-| New User +9    | 2025/08/24 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**   |
-| New User +10   | 2025/08/25 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**   |
-| New User +11   | 2025/08/26 07:47 PM | Pathfinder | 70                    | 0                 |
-| New User +12   | 2025/08/27 10:10 AM | Pathfinder | 70                    | 0                 |
+|----------------|---------------------|------------|-----------------------|----------------------------------|
+| New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70                    | 0                                |
+| New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70                    | 0.1% → **0.07**                  |
+| New User +2    | 2025/08/21 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**                  |
+| New User +3    | 2025/08/22 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**                  |
+| New User +4    | 2025/08/23 07:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**                  |
+| New User +5    | 2025/08/24 11:11 AM | Special    | 8,050                 | 0.1% → **8.05**                  |
+| New User +6    | 2025/08/25 01:01 PM | Special    | 8,050                 | 0.1% → **8.05**                  |
+| New User +7    | 2025/08/26 10:10 AM | Special    | 8,050                 | 0.1% → **8.05**                  |
+| New User +8    | 2025/08/27 04:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**                  |
+| New User +9    | 2025/08/28 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**                  |
+| New User +10   | 2025/08/29 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**                  |
+| New User +11   | 2025/08/30 07:47 PM | Pathfinder | 70                    | 0                                |
+| New User +12   | 2025/08/31 10:10 AM | Pathfinder | 70                    | 0                                |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
-#### D) Global Pool Sales Points (GPSP)
-...
+### 5.4 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
 
-#### E) WEC Global Pool
-...
+> Scenario:
+> **Today:** **U** join as **Affiliate User**.
+> Rewards: After **U** joins, 15% of the **U** user's **LTS** will be collected in the **Global Pool Sales Points (GPSP)**.
+
+| U’s Join Level | U’s LTS (SP) | Global Pool Sales Points (GPSP) |
+|----------------|--------------|---------------------------------|
+| Pathfinder     | 70           | 15% → **10.50**                 |
+| Voyager        | 350          | 15% → **52.50**                 |
+| Explorer       | 1,207        | 15% → **181.05**                |
+| Pioneer        | 2,012        | 15% → **301.80**                |
+| Special        | 8,050        | 15% → **1,207.50**              |
+
+**Notes**
+- Percentages apply to **LTS** based on the level of new users who joined.
+- Displayed SP are rounded to **2 decimal places** for consistency.
+- **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.
+  
+### 5.5 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
+
+> Scenario:
+> **Today:** **U** join as **Affiliate User**.
+> Rewards: After **U** joins, 3% of the **U** user's **LTS** will be collected in the **WEC Global Pool**.
+
+| U’s Join Level | U’s LTS (SP) | WEC Global Pool |
+|----------------|--------------|-----------------|
+| Pathfinder     | 70           | 3% → **2.10**   |
+| Voyager        | 350          | 3% → **10.50**  |
+| Explorer       | 1,207        | 3% → **36.21**  |
+| Pioneer        | 2,012        | 3% → **60.36**  |
+| Special        | 8,050        | 3% → **241.50** |
+
+**Notes**
+- Percentages apply to **LTS** based on the level of new users who joined.
+- Displayed SP are rounded to **2 decimal places** for consistency.
+- **WEC Global Pool** will be distributed only to among **WEC Users**.
 
 ---
 
