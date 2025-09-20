@@ -289,7 +289,7 @@ If unclear or no commitment shown:
 Only escalate to Prof. NOTA when:  
 - Scope, budget, and timeline are confirmed.  
 - Agreement or cash flow is already in motion.  
-- External party has demonstrated seriousness.  
+- The external party has demonstrated seriousness.  
 
 ---
 
@@ -298,7 +298,7 @@ Only escalate to Prof. NOTA when:
 #### **1. Friendly-but-Firm**
 > Thank you for reaching out 🙏.  
 > At this stage, Prof. NOTA’s time is reserved for structured collaborations with clear value exchange.  
-> If you have a specific proposal (scope, timeline, budget), please share, and our team will review it.  
+> If you have a specific proposal (scope, timeline, budget), please share it, and our team will review it.  
 
 ---
 
@@ -337,7 +337,7 @@ Only escalate to Prof. NOTA when:
  ┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
  │ Friendly /      │ │ Requesting      │ │ Potential but   │
  │ Social          │ │ Ideas / Drafts  │ │ Unclear Offers  │
- │ ("Ngopi, etc")  │ │ (POC, Demo)     │ │ ("Brainstorm")  │
+ │ ("Ngopi, etc.") │ │ (POC, Demo)     │ │ ("Brainstorm")  │
  └────────┬────────┘ └────────┬────────┘ └────────┬────────┘
           │                   │                   │
  ┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
@@ -348,16 +348,16 @@ Only escalate to Prof. NOTA when:
           │                   │                   │
           └─────────┬─────────┴─────────┬─────────┘
                     │                   │
-              ┌─────▼───────────────────▼─────────┐
-              │       Clarity Achieved?           │
-              └───────────┬───────────┬───────────┘
-                          │           │
-                   Yes ───▼           ▼── No
-                ┌────────────┐   ┌─────────────┐
-                │ Escalate   │   │ Politely    │
-                │ to Prof.   │   │ Decline /   │
-                │ NOTA       │   │ Stop Comm.  │
-                └────────────┘   └─────────────┘
+              ┌─────▼───────────────────▼─────┐
+              │       Clarity Achieved?       │
+              └─────────┬───────────┬─────────┘
+                        │           │
+                 Yes ───▼           ▼── No
+               ┌────────────┐   ┌────────────┐
+               │ Escalate   │   │ Politely   │
+               │ to Prof.   │   │ Decline /  │
+               │ NOTA       │   │ Stop Comm. │
+               └────────────┘   └────────────┘
 ```
 
 ---
@@ -387,7 +387,7 @@ This letter outlines an initial offer for engagement, subject to further discuss
 ---
 
 ## Scope of Engagement (Draft)  
-- [Brief description of services, e.g. Web3 consultation, prototype, IP licensing]  
+- [Brief description of services, e.g., Web3 consultation, prototype, IP licensing]  
 - Timeline: [Estimated duration]  
 - Deliverables: [Outputs to be expected]  
 
@@ -414,16 +414,17 @@ If this offer aligns with your expectations, we may proceed to a formal agreemen
 # MEMORANDUM OF UNDERSTANDING (MoU)  
 
 **Between**  
-**Prof. NOTA Inc. (PT. Suaka Dunia Raja)** — hereinafter "Prof. NOTA"  
-and  
-**[Partner/Client Name]** — hereinafter "the Partner"  
+**Prof. NOTA Inc. (PT. Suaka Dunia Raja)**  
+— hereinafter "Prof. NOTA"  
+and **[Partner/Client Name]**  
+— hereinafter "the Partner"  
 
 **Date:** [Insert Date]  
 
 ---
 
 ## Purpose  
-This MoU expresses the intention of both parties to collaborate in the field of [general scope, e.g. digital identity, blockchain ecosystem, cultural IP].  
+This MoU expresses the intention of both parties to collaborate in the field of [general scope, e.g., digital identity, blockchain ecosystem, cultural IP].  
 
 ---
 
@@ -435,12 +436,12 @@ This MoU expresses the intention of both parties to collaborate in the field of 
 ---
 
 ## Non-Binding Clause  
-This MoU is not legally binding, except where explicitly stated otherwise (e.g. confidentiality).  
+This MoU is not legally binding, except where explicitly stated otherwise (e.g., confidentiality).  
 
 ---
 
 ## Duration  
-This MoU shall remain valid until [date / event], unless replaced by a formal Contract.  
+This MoU shall remain valid until [date/event], unless replaced by a formal Contract.  
 
 ---
 
@@ -460,9 +461,10 @@ For [Partner/Client]
 
 This Agreement is made on [Date] between:  
 
-**Prof. NOTA Inc. (PT. Suaka Dunia Raja)**, hereinafter "Prof. NOTA"  
-and  
-**[Partner/Client Name]**, hereinafter "the Partner".  
+**Prof. NOTA Inc. (PT. Suaka Dunia Raja)**,  
+hereinafter "Prof. NOTA"  
+and **[Partner/Client Name]**,  
+hereinafter "the Partner".  
 
 ---
 
@@ -489,7 +491,7 @@ All communication shall go through Prof. NOTA’s appointed Firewall Manager/Ava
 ---
 
 ## 4. Confidentiality  
-Both parties agree to maintain confidentiality of discussions and outputs.  
+Both parties agree to maintain the confidentiality of discussions and outputs.  
 
 ---
 
@@ -535,10 +537,10 @@ For [Partner/Client]
 ---
 
 ## Description of Services
-| Item | Description | Amount |
-|------|-------------|--------|
-| 1    | [Service / Milestone] | [IDR/USD Amount] |
-| 2    | [Optional additional service] | [Amount] |
+| Item | Description                   | Amount           |
+|------|-------------------------------|------------------|
+| 1    | [Service / Milestone]         | [IDR/USD Amount] |
+| 2    | [Optional additional service] | [Amount]         |
 
 **Subtotal:** [Amount]  
 **Tax (if any):** [Amount]  
@@ -550,7 +552,7 @@ For [Partner/Client]
 - Payment Method: [Bank Transfer / Crypto Wallet / Other]  
 - Account Details: [Insert details]  
 - Payment Schedule:  
-  - [X%] Down Payment — due upon signing Agreement  
+  - [X%] Down Payment — due upon signing the Agreement  
   - [X%] Progress Payment — due upon milestone completion  
   - [X%] Final Payment — due upon delivery  
 
@@ -567,38 +569,84 @@ Prof. NOTA Inc. (PT. Suaka Dunia Raja)
 Below is the decision flow to select **Offer → MoU → Contract → Invoice**.  
 Use this as a quick guide for avatars (Firewall Manager, etc.).
 
-### 7.1 ASCII Flow
+### 7.1 ASCII Flow #1
 
 ```text
-                     ┌────────────────────────┐
-                     │ New Opportunity Arises │
-                     └───────────┬────────────┘
-                                 │
-                ┌────────────────┼────────────────┐
-                │                                 │
-   ┌────────────▼────────────┐         ┌──────────▼─────────────┐
-   │ Needs Only Initial Idea │         │ Parties Ready to Commit│
-   │ or Indicative Value     │         │ but Details Not Final  │
-   └────────────┬────────────┘         └──────────┬─────────────┘
-                │                                 │
-        ┌───────▼────────┐                ┌───────▼──────────┐
-        │ Proposal/Offer │                │ MoU (Intentions) │
-        └───────┬────────┘                └───────┬──────────┘
-                │                                 │
-                └───────────────┬─────────────────┘
-                                │
-                        ┌───────▼───────────┐
-                        │ Contract/Agreement│
-                        │ (Binding & Legal) │
-                        └─────────┬─────────┘
-                                  │
-                         ┌────────▼────────┐
-                         │ Work Execution  │
-                         └────────┬────────┘
-                                  │
-                          ┌───────▼───────┐
-                          │ Invoice Issue │
-                          └───────────────┘
+                  ┌─────────────────────────┐
+                  │ New Opportunity Arises  │
+                  └────────────┬────────────┘
+                               │
+              ┌────────────────┴────────────────┐
+              │                                 │
+ ┌────────────▼────────────┐       ┌────────────▼────────────┐
+ │ Needs Only Initial Idea │       │ Parties Ready to Commit │
+ │ or Indicative Value     │       │ but Details Not Final   │
+ └────────────┬────────────┘       └────────────┬────────────┘
+              │                                 │
+    ┌─────────▼─────────┐             ┌─────────▼─────────┐
+    │ Proposal/Offer    │             │ MoU (Intentions)  │
+    └────────┬──────────┘             └─────────┬─────────┘
+             │                                  │
+             └─────────────────┬────────────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │ Contract/Agreement  │
+                    │ (Binding & Legal)   │
+                    └──────────┬──────────┘
+                               │
+                      ┌────────▼────────┐
+                      │ Work Execution  │
+                      └────────┬────────┘
+                               │
+                       ┌───────▼───────┐
+                       │ Invoice Issue │
+                       └───────────────┘
+```
+
+---
+
+### 7.2 ASCII Flow #2
+
+```text
+        ┌───────────────────────────┐
+        │ A new opportunity arrives │
+        │ (message/meeting req.)    │
+        └─────────────┬─────────────┘
+                      │
+          ┌───────────▼───────────┐
+          │ Scope/budget/timeline │
+          │ clear & agreed?       │
+          └─┬─────────▲─────────┬─┘
+            │         │         │
+     Yes ───│         │         │── No
+      ┌─────▼─────┐   │   ┌─────▼─────────────────────────┐
+      │ CONTRACT  |   │   │ Intent to collaborate exists  │
+      │ (binding) |   │   │ but details need refinement?  │
+      └─────┬─────┘   │   └─────┬─────────▲─────────┬─────┘
+            │         │         │         │         │
+            │         │   Yes ──│         │         │── No
+            │        ┌┴─────────▼┐        │        ┌▼────────────────────────┐
+            │        │ MoU       |        │        │ Needs Only Initial Idea │
+            │        │ (intent)  |        │        │ or Indicative Value     │
+            │        └───────────┘        │        └┬───────────────────────┬┘
+            │                             │         │                       │
+            │                             │         │── Yes            No ──│
+            │                            ┌┴─────────▼──┐          ┌─────────▼──┐
+            │                            │ PROPOSAL /  │          │ Politely   │
+            │                            │ OFFER (non- │          │ Decline /  │
+            │                            │ binding)    │          │ Stop Comm. │
+            │                            └─────────────┘          └────────────┘
+  ┌─────────▼─────────┐
+  │ WORK STARTS       │
+  │ (per milestones)  │
+  └─────────┬─────────┘
+            │
+ ┌──────────▼──────────┐
+ │ BILLING / INVOICE   │
+ │ DP/milestone/final/ │
+ │ installments        │
+ └─────────────────────┘
+
 ```
 
 ---
