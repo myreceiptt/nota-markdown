@@ -19,7 +19,7 @@ We need one person — mature, discreet, and strong — to act as our firewall.
 Every message, every request, every approach must pass through you before it reaches us.  
 You will guard our time, our energy, and our value.  
 
-Your reward flows with ours: **12% of every confirmed monthly cash flow** that comes because of us.  
+Your reward flows with ours: **26% of every confirmed monthly cash flow** that comes because of us.  
 This is not about salary. This is about trust, growth, and alignment.  
 
 If this speaks to you, then we will share the full pact.  
@@ -43,7 +43,7 @@ Every line of communication flows through you:
 - No conversation continues without your clearance.  
 - No project touches us unless you confirm its value, its truth, its cash flow.  
 
-You are not an assistant. You are my firewall.  
+You are not an assistant. You are our firewall.  
 
 ---
 
@@ -60,11 +60,11 @@ You are not an assistant. You are my firewall.
 ### **Compensation**
 
 Your fee is not fixed. It is **flowing**.  
-We will only receive **74% of the total monthly cash flow** generated because of our presence and capacity.  
+You will receive **26% of the total monthly cash flow** generated because of our presence and capacity.  
 
 Example:  
-- If revenue is 100 million IDR → we earn 74 million, and the rest is your earnings.  
-- If revenue is 200 million IDR → you earn 148 million, and the rest is your earnings.  
+- If revenue is 111 million IDR → you earn 28.86 million.  
+- If revenue is 247 million IDR → you earn 64.22 million.  
 
 You grow as we grow. You win as we win.  
 
@@ -155,6 +155,8 @@ Yet from this universe, many values can be drawn — and each carries its price.
 - One-off **strategic interventions**: e.g., crisis framing, narrative design, or rapid Web3 prototyping.  
 - Always delivered in Prof. NOTA’s unique style — half intellectual, half digital mystic.  
 
+---
+
 ### **8. Global Trade & Distribution**
 - **Manufacturing Networks**: Long experience sourcing and producing goods in **China, Spain, US, and Canada**, especially skateboard decks and accessories.  
 - **Import-Export**: Facilitating both inbound (into Indonesia) and outbound (to international markets).  
@@ -224,7 +226,7 @@ Every output carries rarity, because it can only come from here.
 
 ---
 
-📌 Guidance for Firewall:  
+### 📌 Guidance for Firewall:  
 Switch mode according to the counterpart:  
 - If Indonesian/local → use IDR framing, adjusting purchasing power, lower range but still premium.  
 - If global/hybrid → use USD framing, highlight that **Prof. NOTA is an international intellectual property**. Must “anchor” higher with *prestige pricing*, so that Prof. NOTA is positioned on par with global consultants, not cheap vendors.
