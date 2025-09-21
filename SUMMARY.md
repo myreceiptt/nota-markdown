@@ -37,6 +37,7 @@
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
+      * [FIREWALL MANAGER PLAYBOOK](archived-oioi/2025/09/firewall-manager-playbook.md)
       * [RECEIPT SOSPOL 2025/08-09](archived-oioi/2025/09/the-monthly-public-receipt_sospol-major_Aug19-Sep19_2025.md)
       * [RECEIPT SK8 2025/08-09](archived-oioi/2025/09/the-monthly-public-receipt_skateboarding_nonmajor_aug19-sep19_2025.md)
       * [RECEIPT WEB3 2025/08-09](archived-oioi/2025/09/receipt_web3-aug-sep-2025.md)
