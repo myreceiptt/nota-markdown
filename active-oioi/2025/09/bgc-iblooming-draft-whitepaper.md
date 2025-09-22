@@ -177,4 +177,158 @@ For each objective, track leading indicators:
 
 ---
 
+## 🛣️ Roadmap
 
+This roadmap follows the **Execution Matrix** and **Next Steps** already defined in the Living Document. Each phase lists the **objective**, **workstreams**, **milestones / exit criteria**, **deliverables**, **dependencies**, and the **document sections to update** when the phase is completed.
+
+> Durations are indicative and derive from the Execution Matrix.
+
+---
+
+### Phase 0 — Pillar Validation ✅
+- **Objective**: Confirm the four execution pillars as the foundation.
+- **Workstreams**: Founder alignment.
+- **Milestones / Exit Criteria**: All founders ACK; pillars locked for Phase 1 planning.
+- **Deliverables**: —  
+- **Dependencies**: —  
+- **Update Doc When Done**:  
+  - _Next Steps_ → Step 0 = **Done**  
+  - _Execution Pillars – Progress_ (no change needed unless roles changed)
+
+---
+
+### Phase 1 — Design (Tokenomics & System Mapping)  *(~1–2 months for Tokenomics; 2–4 weeks for Flow; 2–4 weeks for Analytics)*
+
+**1.1 Tokenomics & WhitePaper (iBC/iBTC)**  
+- **Objective**: Produce draft whitepaper grounded in ALPHA Coin behavior (PC/SP).  
+- **Workstreams**: Supply/pools, bridge rules, staking/tiers, sinks, treasury, compliance routing.  
+- **Milestones / Exit Criteria**: Draft complete; open issues clearly listed.  
+- **Deliverables**: `iBLOOMING-Coin-WhitePaper-Draft.md`  
+- **Dependencies**: Phase 0  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Tokenomics & WhitePaper = **Complete/Live**  
+  - _Next Steps_ → Step 1 = **Done**  
+  - _Current Execution Focus_ → remove/roll forward
+
+**1.2 Token Flow Map (Internal & Public)**  
+- **Objective**: Canonical flow from earn→hold→spend→stake→convert (BGC ↔ iBLOOMING).  
+- **Workstreams**: Internal map + redacted public map.  
+- **Milestones / Exit Criteria**: Flow aligns with Tokenomics; edge-cases documented.  
+- **Deliverables**: `Token-Flow-Map.md` (Internal/Public)  
+- **Dependencies**: 1.1  
+- **Update Doc When Done**:  
+  - _Next Steps_ → Step 2 = **Done**  
+  - _Execution Matrix_ → add note under Tokenomics referencing final flow
+
+**1.3 Behavioral Analytics (Pre-Release)**  
+- **Objective**: Validate assumptions with ALPHA data; stress-test reward/stake/burn.  
+- **Workstreams**: Scenario tests, parameter sensitivity, abuse checks.  
+- **Milestones / Exit Criteria**: Recommendations accepted by founders; parameter table updated.  
+- **Deliverables**: `Behavioral-Analytics-Report.md`  
+- **Dependencies**: 1.1 (can run partially in parallel), 1.2 for flow alignment  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Behavioral Analytics (Pre-Release) = **Complete**  
+  - _Next Steps_ → Step 3 = **Done**  
+  - _Tokenomics_ → update **Parameters Table** excerpt
+
+---
+
+### Phase 2 — Readiness & Planning  *(~1–3 weeks sequencing)*
+
+**2.1 Owner & Timeline Assignment**  
+- **Objective**: Assign accountable owners & due dates per pillar/sub-pillar.  
+- **Milestones / Exit Criteria**: Each work item has Owner + Due + Dependencies.  
+- **Deliverables**: `Pillar-Owner-Assignment.md`  
+- **Dependencies**: 1.2–1.3  
+- **Update Doc When Done**:  
+  - _Next Steps_ → Step 4 = **Done**  
+  - _Execution Pillars – Progress_ → Owner(s) updated if changed
+
+**2.2 Phase 1 Implementation Plan**  
+- **Objective**: Technical, operational, and legal readiness checklist.  
+- **Milestones / Exit Criteria**: All “Start Gates” green (env, data pipeline, QA, legal checks).  
+- **Deliverables**: `Phase1-Implementation-Checklist.md`  
+- **Dependencies**: 2.1  
+- **Update Doc When Done**:  
+  - _Next Steps_ → Step 5 = **Done**  
+  - _Execution Matrix_ → Web3 Login & Smart Wallet notes: “Phase 1 ready”
+
+---
+
+### Phase 3 — Phase 1 Execution (Web3 Login + ALPHA Data Pipeline)  *(~1–2 months)*
+
+- **Objective**: Activate **Web3 Login / Smart Wallet** (AA, auto-create, detection) and confirm **ALPHA Coin data pipeline** end-to-end.  
+- **Workstreams**: Mobile-first wallet, API/data extraction, dashboards, UAT.  
+- **Milestones / Exit Criteria**: Wallet live (MVP), data pipeline verifiable, UAT passed, no P0 bugs.  
+- **Deliverables**: PRs/commits, deployment notes, change log.  
+- **Dependencies**: 2.2  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Web3 Login & Smart Wallet = **Complete**  
+  - _Next Steps_ → Step 6 = **Done**  
+  - _Current Execution Focus_ → move to founder circulation & release prep
+
+---
+
+### Phase 4 — Founder Circulation & Release  *(1–2 weeks for circulation; 2–3 months for release window)*
+
+**4.1 Founder Circulation**  
+- **Objective**: Collect final feedback using the approved message template & guardrails.  
+- **Milestones / Exit Criteria**: ACK from all founders; change list integrated.  
+- **Deliverables**: circulation note + consolidated feedback  
+- **Dependencies**: 3  
+- **Update Doc When Done**:  
+  - _Next Steps_ → Step 7 = **Done**
+
+**4.2 Release iBC/iBTC (Utility On)**  
+- **Objective**: Deploy token + minimum viable utility (spend, stake, internal convert).  
+- **Milestones / Exit Criteria**: Deployment complete; release notes signed; monitors green.  
+- **Deliverables**: deployment package + release notes  
+- **Dependencies**: 4.1, legal readiness  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Release iBC/iBTC & Utility = **Complete**  
+  - _Next Steps_ → Step 8 = **Done**
+
+---
+
+### Phase 5 — Post-Release Operations (Continuous)
+
+**5.1 Behavioral Analytics (Ongoing)**  
+- **Objective**: Monitor health; iterate parameters (rates, caps, cooldowns, pool weights).  
+- **Milestones / Exit Criteria**: KPI thresholds stable; interventions documented.  
+- **Deliverables**: periodic analytics logs & adjustment memos  
+- **Dependencies**: 4.2  
+- **Update Doc (Recurring)**:  
+  - _Execution Matrix_ → update “Behavioral Analytics (Ongoing)” notes  
+  - _Strategic Objectives_ → append KPI outcomes as they materialize
+
+---
+
+### Track A — Cross-App Token Utility (TBD → Plan → Execute)
+
+- **Objective**: Standardize UX/dev and enable iBC utility across iBLOOMING & BGC apps.  
+- **Milestones / Exit Criteria**: Standards approved; ≥1 cross-app integration live.  
+- **Deliverables**: `Cross-App-Token-Utility-Map.md`, integration PRs  
+- **Dependencies**: 4.2 (can kick off planning earlier)  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Cross-App Token Utility status progressed
+
+---
+
+### Track B — Legal & Compliance Mapping (TBD → Plan → Execute)
+
+- **Objective**: Define compliant paths (jurisdictions, licensing/partnerships).  
+- **Milestones / Exit Criteria**: Chosen legal route approved by founders.  
+- **Deliverables**: `Legal-Compliance-Mapping.md` + action list  
+- **Dependencies**: 2.2 (planning), informs 4.2  
+- **Update Doc When Done**:  
+  - _Execution Matrix_ → Legal & Compliance Mapping status progressed
+
+---
+
+### Governance of Parameters
+
+- **Single Source**: `Tokenomics-Parameters.md` (rates, caps, tiers, eligibility).  
+- **Change Control**: proposals → founder approval → versioned update → rollout note.  
+- **Audit Trail**: every change logged and linked from the Living Document.
+
+---
