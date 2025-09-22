@@ -61,46 +61,118 @@ We do not invent a new economy from scratch. We **reframe and elevate** the exis
 
 ## 🔧 Tokenomics
 
-> This section translates the proven **PC/SP mechanics** into a clear issuance and utility model for **iBC/iBTC**.  
-> PC (Purchase Credit) and SP (Sales Point) remain as **internal data & rights**, acting as weights to “mine/distribute” iBC/iBTC to users.
+### 1) Units & Roles (ALPHA Coin Simulation)
 
-### 1) Token Definition & Roles
-- **Token Name/Symbol**: **iBC/iBTC** *(final naming TBD)*  
-- **Nature**: Single ecosystem token for **access, spend, and staking** across **BGC** & **iBLOOMING**.  
-- **Internal Rights**:  
-  - **PC (Purchase Credit)** = value contribution measure.  
-  - **SP (Sales Point)** = activity/reward rights measure.  
-- **Principle**: Users **do not convert** PC/SP into iBC/iBTC 1:1. Instead, **PC/SP act as mining weights** used to calculate **periodic iBC/iBTC emissions**.
+We keep two instruments **functionally distinct** yet governed under one policy plane (**ALPHA Coin Simulation**):
 
-### 2) Supply & Emissions
-- **Initial Supply**: **[TBD]** (e.g., genesis allocation for ops/team/community with vesting).  
-- **Emission Epoch**: **[TBD cadence]** (e.g., weekly).  
-- **Total Emission per Epoch**: \(E(t)\) with **[TBD decay]** (e.g., linear decay/halving).  
-- **User Emission Formula**:
-  \[
-  \text{iBC}_{\text{user},t}
-  = E(t)\times \Big(
-      w_{PC}\cdot \frac{PC_{\text{user},t}}{\sum PC_t}
-    + w_{SP}\cdot \frac{SP_{\text{user},t}}{\sum SP_t}
-    \Big)
-  \]
-  - **Weights**: \(w_{PC}, w_{SP}\) **[TBD split]** (e.g., 60/40).  
-  - **Normalization**: \(\sum PC_t, \sum SP_t\) dihitung per-epoch (snapshot dengan aturan anti-manipulasi).  
-  - **Guards**: per-user cap **[TBD]**, **cooldown [TBD]**, **exclusion/slashing** untuk fraud/abuse.
+- **Purchase Credit (PC) — Value Unit**
+  - **Role**: Internal value unit / settlement credit; proof of physical-product sale (BGC).
+  - **Ratio**: **100 PC = $1 USD** (fixed, non-volatile).
+  - **Lifecycle**: Minted on fiat entry (Affiliate join / product purchase); **decreases** on redemption/fulfillment.
+  - **Purpose**: Legal clarity, accounting, and as value rail inside the ecosystem.
 
-### 3) Distribution Pools (High-Level)
-- **User Distribution (Emissions)**: **[TBD]%** — mengikuti formula PC/SP di atas.  
-- **Growth & Campaigns**: **[TBD]%** — referral boosts, creator incentive, seasonal quests.  
-- **Ops/Community Reserve**: **[TBD]%** — reliquidity for sinks, promo, contingency.  
-- **Team/Foundation (Vested)**: **[TBD]%** — vesting **[TBD schedule]**, cliff **[TBD]**.  
+- **Sales Point (SP) — Reward Rights**
+  - **Role**: Measured reward entitlement from defined programs (LTS, Referral, Generation, MC, CPR, GRR, iRR, GPS, GMP, GEC — per Rewards Doc).
+  - **Valuation**: **1 SP ≈ $1 (equivalent for computation)** — used to calculate rights, not a tradeable price.
+  - **Lifecycle**: Earned from activity; settles via the **Conversion Bridge** (below).
 
-> Catatan: porsi & vesting diputuskan di Level Founder; perubahan dicatat di changelog parameter.
+> **Policy Plane**: PC = **value**, SP = **rights**. Both are governed by one ruleset (ALPHA), then operationalized on-chain as **iBC/iBTC**.
 
-### 4) Utilities & Sinks (On-Platform)
-- **Access / Gated Features**: premium courses, tools, content passes.  
-- **Spend**: discounts, bundles, subscriptions, service fees.  
-- **Stake (Tiered Benefits)**:  
-  - **Tiers [TBD]** → fee rebates, redemption priority, referral multipliers, exclusive access.  
-  - **Unstake rules [TBD]** → cooldown/penalty.  
-- **Sinks**: **[TBD mix]** antara **burn**, **sink-to-treasury**, atau **recycle-to-rewards**.  
-  - Contoh: **burn_rate [TBD]%** pada setiap spend; atau **_**
+---
+
+### 2) Conversion Bridge (PC/SP → Outcomes)
+
+A codified **settlement bridge** maps PC/SP into clear user outcomes **without leaving the ecosystem**:
+
+- **Spend (Utility)** — Use inside iBLOOMING/BGC: courses, services, access passes, bundles.
+- **Stake (Tiers/Yield)** — Lock for time-bound benefits (tiers, fee rebates, pool participation).
+- **Convert (Internal)** — SP → PC or SP/PC → **iBC** at policy rates; optional pairing to **iBTC/BTC** where approved.
+- **Defer (Hold)** — Keep rights/value inside for future action.
+
+**Guardrails** (parameters table maintained by Ops/Tokenomics):
+- Rate bands, daily caps, cooldown windows, anti-abuse checks, KYC/AML limits, and program-specific eligibility.
+
+---
+
+### 3) Earn Mechanics (from Rewards Doc)
+
+SP is earned from **defined programs** (see Rewards Doc for full formulas and examples):
+1. **Life Time Scholar (LTS)** — base SP on Affiliate join level.  
+2. **Referral / Generation** — multi-tier percentages of a new join’s LTS.  
+3. **Miracle Cash (MC)** — periodic activity-based SP.  
+4. **Channel Provider Reward (CPR)** — share for CP Users from digital product revenue splits.  
+5. **GiM / iMATRIX Referrals (GRR / iRR)** — subscription-driven SP.  
+6. **Global Pools (GPS, GMP, GEC/WEC)** — aggregated distributions (monthly/quarterly) to eligible cohorts.
+
+> **Canonical valuations** (for computation, per Rewards Doc):  
+> – **PC**: 100 PC = $1 USD (fixed).  
+> – **SP**: 1 SP = $1 equivalent (for reward math; not a price quote).
+
+---
+
+### 4) Utility Sinks (On-Platform Multipliers)
+
+To **recirculate value** and reduce leakage to fiat:
+- **Access & Gating**: course tiers, certification, events, priority support.
+- **Bundles & Upgrades**: cross-app product packs; discount tiers.
+- **Creator/Partner Alignment**: rev-share pools for content creators/CP to drive iBLOOMING usage.
+- **Fee Reductions**: trading/spread/processing fee rebates when paying with PC/iBC inside.
+
+---
+
+### 5) Staking & Tiers
+
+**Objective**: Turn rights into **long-term engagement**.
+- **Lock Options**: e.g., 30/90/180-day locks with escalating benefits.  
+- **Benefits**: higher pool weights (GPS/GMP), fee rebates, early-access gates, creator boosts.  
+- **WEC Alignment**: WEC status (from LTS thresholds) can act as a **multiplier** or **eligibility gate** for staking yields and governance proposals.
+
+> **Note**: Exact lock durations, weights, and multipliers are tracked in a **Parameters Table** (Ops/Tokenomics).
+
+---
+
+### 6) Supply, Pools, & Treasury
+
+- **PC Supply**: elastic; minted against fiat entries/redemptions; burns on physical fulfillment or designated sinks.  
+- **SP Issuance**: purely **rule-based** from program formulas in Rewards Doc (no speculative issuance).  
+- **iBC (Utility Token)**: on-chain representation for spend/stake/settlement inside ecosystem; issuance & pairing policy defined in **Coin Release Strategy**.  
+- **Pool Sources** (examples): percentages from subscription revenue, digital sales shares, and designated treasury allocations (GPS/GMP/GEC).  
+- **Treasury**: holds reserves for pools, stabilization, and development; governed by founder policy and, later, on-chain governance.
+
+---
+
+### 7) Compliance & Routing
+
+- **Internal Settlement First**: keep PC/SP flows **inside tokenized rights** as long as possible; define explicit fiat conversion points.  
+- **Jurisdiction-Aware**: align with local rules for rewards, vouchers, and digital assets; apply KYC/AML limits where required.  
+- **Auditability**: migrate entitlements/saldos to an **append-only ledger** (on-chain/L2) for provable records and transparent user receipts.
+
+---
+
+### 8) Measurement & Feedback (ties to Strategic Objectives)
+
+For each objective, track leading indicators:
+
+- **Revenue Growth**: GMV, ARPU, conversion to iBLOOMING spends, creator GMV.  
+- **Cost Reduction**: admin hours per payout, reconciliation error rate.  
+- **Tax Optimization**: % flows settled internally vs fiat; number of taxable touchpoints avoided (compliant).  
+- **Affiliate Growth**: active affiliates (MAA), referral depth, retention.  
+- **User Expansion**: WAU/MAU, paid-to-active ratio, cross-app actions per user.
+
+**Behavioral Analytics Loop** (pre-release & ongoing): adjust rate bands, cooling windows, pool weights, and sink attractiveness based on actual PC/SP/iBC usage.
+
+---
+
+### 9) Parameters Table (managed doc; excerpt)
+
+| Parameter Group | Key Params (Examples) | Owner |
+|-----------------|------------------------|-------|
+| Conversion Bridge | SP→PC rate bands; PC→iBC rate; daily caps; cooldown; fees | Tokenomics/Ops |
+| Staking & Tiers | lock periods; multipliers; eligibility (WEC) | Tokenomics |
+| Utility Sinks | eligible products; discount tiers; bundle rules | Product/Ops |
+| Pools | GPS/GMP weights; snapshot cadence; eligibility rules | Finance/Ops |
+| Compliance | KYC thresholds; jurisdiction toggles; audit fields | Legal/Ops |
+
+> Full table maintained in `Tokenomics-Parameters.md` and referenced by whitepaper.
+
+---
