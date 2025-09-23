@@ -39,8 +39,8 @@ coverY: 0
 4) **Important:** Membership purchases use fiat only; PCs cannot be used for iBLOOMING digital products.
 
 **Pain points:**
-- **PC utility terbatas** (BGC-only) → banyak PC **mengendap** (idle).
-- Tidak ada jembatan resmi PC → utilitas lintas-app (iBLOOMING/partner).
+- **Limited PC utility** (BGC-only) → many PCs **idle**.
+- No official PC bridge → cross-app utility (iBLOOMING/partner).
 
 ---
 
