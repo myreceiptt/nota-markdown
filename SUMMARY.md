@@ -15,6 +15,7 @@
     * [202511](active-oioi/2025/11/README.md)
     * [202510](active-oioi/2025/10/README.md)
     * [202509](active-oioi/2025/09/README.md)
+      * [BGC X IBLOOMING WHITE PAPER](active-oioi/2025/09/bgc-iblooming-draft-whitepaper.md)
       * [BGC X IBLOOMING TOKEN FLOW MAP](active-oioi/2025/09/token-flow-map.md) 
     * [202508](active-oioi/2025/08/README.md)
       * [NOTA DIGITAL ASSETS COMMERCIALIZATION](active-oioi/2025/08/prof_nota_digital_asset_guidance.md)
