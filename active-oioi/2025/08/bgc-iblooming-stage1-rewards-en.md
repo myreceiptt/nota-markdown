@@ -221,14 +221,14 @@ A **CP User** can obtain **Executive CP** status if their accumulated total inco
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
     - The $30 (100% iBLOOMING Revenue) is then allocated as:
       - 10% → **Link Reward** for the **Affiliate User** → 10% × $30 = **$3**
-      - 1% → **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
+      - 10% = 1% x 10 users → **Miracle Cash** for the **user** → 10% × $30 = **$3**
       - **Channel Provider Reward (CPR):**
         - 5% → **CPR** for the **Affiliate User** in the first year → 5% × $30 = **$1.5**
         - 2.5% → **CPR** for the **Affiliate User** in the second year and beyond → 2.5% × $30 = **$0.75**
       - 15% → **Global Profit Sharing (GPS)** → 15% × $30 = **$4.5**
       - Remainder → iBLOOMING Profit:
-        - 69% → iBLOOMING Profit in the first year → 69% × $30 = **$20.7**
-        - 71.5% → iBLOOMING Profit in the second year and beyond → 71.5% × $30 = **$21.45**
+        - 60% → iBLOOMING Profit in the first year → 60% × $30 = **$18**
+        - 62.5% → iBLOOMING Profit in the second year and beyond → 62.5% × $30 = **$18.75**
 
 ### Revenue Distribution for GiM sign-ups:
 
@@ -296,9 +296,9 @@ Payout Frequency: Monthly (aggregate). If, in a month, 100 users each make 3 pur
 - Example (For a $100 purchase/transaction):
   - 70% → **CP User** Revenue → 70% × $100 = **$70**
   - 30% → iBLOOMING Revenue → 30% × $100 = **$30**
-    - From this $30 (100% iBLOOMING Revenue), 1% is allocated as **Miracle Cash** for the **user** → 1% × $30 = **$0.3**
+    - From this $30 (100% iBLOOMING Revenue), 1% is allocated as **Miracle Cash** for the **user** → 1% × $30 x 10 users = **$3**
 
-Payout Frequency: Monthly (aggregate). If, in a month, a user makes 3 purchases and, after each purchase, there are 10 subsequent purchases by others, each averaging $100, then the **user** total **Miracle Cash** is: `3 self-purchases × 10 subsequent purchases × $100 x 30% x 1% = $9`.
+Payout Frequency: Monthly (aggregate). If, in a month, a user makes 1 purchase and, after the purchase, there are 10 subsequent purchases by others, each averaging $100, then the **user** total **Miracle Cash** is: `1 self-purchases × 10 subsequent purchases × $100 x 30% x 1% = $3`.
 
 ---
 
