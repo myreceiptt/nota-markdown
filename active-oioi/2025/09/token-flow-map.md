@@ -46,9 +46,9 @@ coverY: 0
 
 ### 1.2 BGC — SP Generation & USD Reward Payout
 **Flow:**
-1) Aktivitas affiliate (join, refer, generational, dsb.) → menghasilkan **SP** (LTS, RR, GR, GPSP, MC, WEC).  
-2) **SP** mengukur **hak reward**; pada periode tertentu agregat jadi **USD** (payout bulanan/kuartalan sesuai skema).  
-3) **USD rewards** ditransfer ke user (keluar dari sistem).
+1) Affiliate activity (join, refer, generational, etc.) → generates **SP** (LTS, RR, GR, GPSP, MC, WEC).
+2) **SP** measures **reward entitlements**; over a certain period, the aggregate becomes **USD** (monthly/quarterly payout according to the scheme).
+3) **USD rewards** are transferred to the user (exit the system).
 
 **Pain points:**  
 - **Value leakage:** SP → **fiat** → out of the ecosystem (not circulated to internal utilities).  
