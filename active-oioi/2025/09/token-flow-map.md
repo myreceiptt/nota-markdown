@@ -12,8 +12,9 @@ coverY: 0
 
 > Purpose: capture the **current** money/points flows (AS-IS) and define the **target** flows (TO-BE) that align with Strategic Objectives.  
 > Scope: BGC (PC, SP & rewards) and iBLOOMING (USD revenue split & rewards).  
-> Audience: Founders & core team (internal).
-> Based on: [Understanding BGC X iBLOOMING Rewards](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en.md)
+> Audience: Founders & core team (internal).  
+> Based on: [Understanding BGC X iBLOOMING Rewards](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en.md)  
+> See also: [Living Document](../../../active-oioi/2025/08/iblooming-bgc-web3-living.md)
 
 ---
 
@@ -24,6 +25,10 @@ coverY: 0
 - **USD Payouts (BGC & iBLOOMING)** — Rewards distributed in fiat (monthly/quarterly windows).  
 - **ALPHA (Settlement Layer)** — *To-be* unified conversion layer for PC/SP → tokenized rights usable across apps (spend/stake/access), with controlled fiat exits.  
 - **iBC/iBTC** — On-chain token(s) planned post-simulation, backed by ALPHA behavioral data.
+- **GPSP (Global Pool Sales Points, BGC)** — **15% of LTS** flows into a **monthly** USD pool shared among all Affiliate Users.  
+- **WEC Pool (BGC)** — **3% of LTS** flows into a **quarterly** USD pool shared among WEC Users.  
+- **iBLOOMING Pools (GPS/GMP/GEC)** — Reward pools funded from iBLOOMING’s **30%** revenue share per the Understanding Doc (USD-based).
+
 
 > Note: The glossary is minimal for flow maps; full definitions will be in the White Paper.
 
@@ -52,7 +57,10 @@ coverY: 0
 
 **Pain points:**  
 - **Value leakage:** SP → **fiat** → out of the ecosystem (not circulated to internal utilities).  
-- Users **wait for the payout window** (not real-time self-service).  
+- Users **wait for the payout window** (not real-time self-service).
+
+> **Canonical:** Referral & Generation percentages follow the **Stage-1 table** in the  
+> [Understanding Doc](../../../active-oioi/2025/08/bgc-iblooming-stage1-rewards-en.md).
 
 ---
 
@@ -82,6 +90,7 @@ coverY: 0
 3) **ALPHA** = **tokenized rights** that can be used across apps (BGC/iBLOOMING/partners).
 4) **Controls**: quota/frequency/conversion fee → *retain-first* & anti-abuse.
 
+> **Stage-1 Scope Note:** BTC pairing (**iBTC**) is **deferred** to a later stage. Stage-1 focuses on internal rights (iBC/ALPHA) for spend/stake/convert across iBLOOMING & BGC.
 > **TBD by Tokenomics**: conversion ratio, cooldown, cap, and queue priority (governance).
 
 ---
@@ -156,6 +165,8 @@ coverY: 0
 - **Cash-Out**: windows (dates), caps per user/level, fee model.
 - **Governance**: SP role/behavioral score for voting rights (optional).
 
+> **Single Source of Truth:** All ratios, caps, cooldowns, and cash-out windows are maintained in `Tokenomics-Parameters.md` (versioned).
+
 ---
 
 ## 5) Alignment to Strategic Objectives (quick check)
@@ -174,7 +185,7 @@ coverY: 0
 2) Design of **stake/lock** & reward curve (without the promise of returns that pose regulatory risks).  
 3) **Spend multipliers** in iBLOOMING (how much and for what products).  
 4) **Cash-out rails**: window dates, caps, and base fees.  
-5) data and signals of **behavioral analytics** used for policy (e.g. hoarding vs spending score).
+5) Data and signals of **behavioral analytics** used for policy (e.g. hoarding vs spending score).
 
 ---
 
