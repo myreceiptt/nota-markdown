@@ -92,12 +92,14 @@ Every time a new  **Affiliate User** is added, **Sales Points** are generated eq
 
 ## 5. Rewards Based on **Sales Points (SP)** at BGC
 
-Rewards based on **Sales Points (SP)** at BGC are:
+### Rewards based on **Sales Points (SP)** at BGC are:
 
 1. BGC **Referral (RR)** & **Generation Rewards (GR)**
 2. BGC **Miracle Cash (MC)**
 3. BGC **Global Pool Sales Points (GPSP)**
 4. BGC **WEC Global Pool**
+
+---
 
 ### 5.1 Referral (RR) & Generation (GR) — per New Join (U)
 
@@ -117,6 +119,8 @@ Rewards based on **Sales Points (SP)** at BGC are:
 **Notes**
 - Percentages apply to **LTS by U** according to the level **U** joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
+
+---
 
 ### 5.2 Miracle Cash (MC) - per Month (on the 15th of the following month)
 
@@ -143,6 +147,8 @@ Rewards based on **Sales Points (SP)** at BGC are:
 - Percentages apply to **LTS** based on the level of new users who joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
+---
+
 ### 5.3 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
 
 > Scenario: **Today:** **U** join as **Affiliate User**.  
@@ -159,7 +165,9 @@ Rewards based on **Sales Points (SP)** at BGC are:
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.  
-- **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.  
+- **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.
+
+---
   
 ### 5.4 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
 
