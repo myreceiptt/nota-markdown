@@ -71,38 +71,34 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 lev
 
 ### What are Sales Points (SP)?
 
-**Sales Points (SP)** are given to **Affiliate Users** to measure the amount of reward that the **Affiliate User** will receive.
+**Sales Points (SP)** is a kind of score used to measure the amount of rewards an **Affiliate User** will receive that calculated and distributed based on Life Time Scholar as the basic reference.
+
+### Life Time Scholar (LTS) — by Affiliate Level
+
+Every time a new  **Affiliate User** is added, **Sales Points** are generated equal to 70% of the **Entry Fee** according to their level. These **Sales Points** are called **Life Time Scholar (LTS)**.
+
+| Affiliate Level | Life Time Scholar (SP) |
+|-----------------|------------------------|
+| Pathfinder      | 70                     |
+| Voyager         | 350                    |
+| Explorer        | 1,207                  |
+| Pioneer         | 2,012                  |
+| Special         | 8,050                  |
 
 Fixed Value: **1 SP = $1** (equivalent).
 
 ### Rewards available include:
 
-1. BGC **Life Time Scholar**
-2. BGC **Referral (RR)**
-3. BGC **Generation Rewards (GR)**
-4. BGC **Global Pool Sales Points (GPSP)**
-5. BGC **Miracle Cash (MC)**
-6. BGC **WEC Global Pool**
+1. BGC **Referral (RR)** & **Generation Rewards (GR)**
+2. BGC **Miracle Cash (MC)**
+3. BGC **Global Pool Sales Points (GPSP)**
+4. BGC **WEC Global Pool**
 
 ➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following chapter.
 
-## 5. Sales Points Generated
+## 5. Rewards Based on **Sales Points** at BGC
 
-### 5.1 Life Time Scholar (LTS) — by Affiliate Level
-
-> Scenario:
-> **Today:** **U** join as **Affiliate User**.
-> Rewards: **U** will get a **Life Time Scholar (LTS)** according to the level joined.
-
-| Affiliate Level | Life Time Scholar (SP) | When Given      |
-|-----------------|------------------------|-----------------|
-| Pathfinder      | 70                     | When User Join  |
-| Voyager         | 350                    | When User Join  |
-| Explorer        | 1,207                  | When User Join  |
-| Pioneer         | 2,012                  | When User Join  |
-| Special         | 8,050                  | When User Join  |
-
-### 5.2 Referral & Generation SP — per New Join (U)
+### 5.1 Referral (RR) & Generation (GR) — per New Join (U)
 
 > Scenario:  
 > **Today:** X brings **U** to join (**U** is the new join).  
@@ -110,19 +106,19 @@ Fixed Value: **1 SP = $1** (equivalent).
 > **Two days ago:** Z brought **Y**.  
 > Rewards: **X = Referral (Tier 1)**, **Y = Generation (Tier 2)**, **Z = Generation (Tier 3)**.
 
-| U’s Join Level | U’s LTS (SP) | **X (Tier 1)** | **Y (Tier 2)** | **Z (Tier 3)** |
-|----------------|--------------|----------------|----------------|----------------|
-| Pathfinder     | 70           | 10% → **7.00** | 0% → **0.00**  | 0% → **0.00**  |
-| Voyager        | 350          | 10% → **35.00**| 13% → **45.50**| 16% → **56.00**|
-| Explorer       | 1,207        | 12% → **144.84**| 14% → **168.98**| 17% → **205.19**|
-| Pioneer        | 2,012        | 15% → **301.80**| 15% → **301.80**| 18% → **362.16**|
-| Special        | 8,050        | 15% → **1,207.50**| 15% → **1,207.50**| 18% → **1,449.00**|
+| U’s Join Level | U’s LTS (SP) | **X (Tier 1)**     | **Y (Tier 2)**     | **Z (Tier 3)**     |
+|----------------|--------------|--------------------|--------------------|--------------------|
+| Pathfinder     | 70           | 10% → **7.00**     | 0% → **0.00**      | 0% → **0.00**      |
+| Voyager        | 350          | 10% → **35.00**    | 13% → **45.50**    | 16% → **56.00**    |
+| Explorer       | 1,207        | 12% → **144.84**   | 14% → **168.98**   | 17% → **205.19**   |
+| Pioneer        | 2,012        | 15% → **301.80**   | 15% → **301.80**   | 18% → **362.16**   |
+| Special        | 8,050        | 15% → **1,207.50** | 15% → **1,207.50** | 18% → **1,449.00** |
 
 **Notes**
 - Percentages apply to **U’s LTS** according to the level U joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
-### 5.3 Miracle Cash (MC) - per Month (on the 15th of the following month)
+### 5.2 Miracle Cash (MC) - per Month (on the 15th of the following month)
 
 > Scenario:  
 > **Today:** **U** join as **Affiliate User** at time 07:47 PM.  
@@ -148,7 +144,7 @@ Fixed Value: **1 SP = $1** (equivalent).
 - Percentages apply to **LTS** based on the level of new users who joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
-### 5.4 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
+### 5.3 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
 
 > Scenario:  
 > **Today:** **U** join as **Affiliate User**.  
@@ -167,7 +163,7 @@ Fixed Value: **1 SP = $1** (equivalent).
 - Displayed SP are rounded to **2 decimal places** for consistency.  
 - **Global Pool Sales Points (GPSP)** will be distributed to all **Affiliate Users**.  
   
-### 5.5 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
+### 5.4 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
 
 > Scenario:  
 > **Today:** **U** join as **Affiliate User**.  
