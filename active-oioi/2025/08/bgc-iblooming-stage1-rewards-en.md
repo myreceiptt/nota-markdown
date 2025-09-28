@@ -31,7 +31,7 @@ Below are the user types within the BGC & iBLOOMING ecosystem:
 
 ## 1. Affiliate & Entry
 
-Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 levels. Each **Affiliate** level can only be purchased and paid for with fiat (USD). After purchasing and paying with fiat, the **user** officially becomes an **Affiliate User**.
+Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with five levels. Each level can only be purchased and paid for with fiat (USD). After purchasing and paying with fiat, the **user** officially becomes an **Affiliate User**.
 
 | **Level**  | **Entry Fee (USD)** |
 | ---------- | ------------------- |
@@ -43,7 +43,7 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 lev
 
 ➡️ **Important Notes:**
 - The **Entry Fee** is the fiat on-ramp into the BGC system.
-- After paying with fiat, the **Affiliate User** receives **Purchase Credit.**
+- After paying with fiat, the **Affiliate User** receives **Purchase Credit**.
 
 ---
 
@@ -56,89 +56,88 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with 5 lev
   - Because the **Affiliate User** has received **Purchase Credit**, the company **has no obligation to refund** the fiat paid to BGC.
 
 ➡️ Additional Notes:
-- At BGC, **Affiliate Membership** cannot be purchased/paid using **Purchase Credit**. **Affiliate Membership** can only be purchased/paid with fiat. In short, within BGC: fiat in → **PC** increases → physical product out → **PC** decreases.
+- At BGC, **Affiliate Membership** cannot be purchased/paid using **Purchase Credit**. **Affiliate Membership** can only be purchased with fiat. In short, within BGC: fiat in → **PC** increases → physical product out → **PC** decreases.
 
 ---
 
 ## 3. World Executive Club (WEC)
 
 - Definition: A **WEC User** is a status for **Affiliate Users** whose level is **Pioneer** or **Special**, whose accumulated total income based on **Sales Points** in BGC—namely **Referral (RR)** and **Generation Reward (GR)**—within 60 days (starting date set by the **Affiliate User**), has reached $10,000. **WEC User** status is permanent once the threshold is reached within the specified 60 days.
-- Level Independence: **WEC User** does not replace the **Affiliate User** level **(Pioneer/Special)**.
+- Level Independence: **WEC User** does not replace the **Affiliate User** level **(Pioneer or Special)**.
 
 ---
 
-## 4. Rewards Based on Sales Points (SP) at BGC
+## 4. Sales Points (SP) & Life Time Scholar (LTS)
 
 ### What are Sales Points (SP)?
 
-**Sales Points (SP)** is a kind of score used to measure the amount of rewards an **Affiliate User** will receive that calculated and distributed based on Life Time Scholar as the basic reference.
+**Sales Points (SP)** is a kind of score used to measure the amount of rewards an **Affiliate User** will receive, which is calculated and distributed based on **Life Time Scholar (LTS)** as the basic reference.
 
 ### Life Time Scholar (LTS) — by Affiliate Level
 
-Every time a new  **Affiliate User** is added, **Sales Points** are generated equal to 70% of the **Entry Fee** according to their level. These **Sales Points** are called **Life Time Scholar (LTS)**.
+Every time a new  **Affiliate User** is added, **Sales Points** are generated equal to 70% of the **Entry Fee** according to its level. These **Sales Points** are called **Life Time Scholar (LTS)**.
 
-| Affiliate Level | Life Time Scholar (SP) |
-|-----------------|------------------------|
-| Pathfinder      | 70                     |
-| Voyager         | 350                    |
-| Explorer        | 1,207                  |
-| Pioneer         | 2,012                  |
-| Special         | 8,050                  |
+| Affiliate Level | LTS (SP) |
+|-----------------|----------|
+| Pathfinder      | 70 SP    |
+| Voyager         | 350 SP   |
+| Explorer        | 1,113 SP |
+| Pioneer         | 1,855 SP |
+| Special         | 7,420 SP |
 
-Fixed Value: **1 SP = $1** (equivalent).
+➡️ Fixed Value: **1 SP = $1** (equivalent).  
+➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following chapter.  
 
-### Rewards available include:
+---
+
+## 5. Rewards Based on **Sales Points (SP)** at BGC
+
+Rewards based on **Sales Points (SP)** at BGC are:
 
 1. BGC **Referral (RR)** & **Generation Rewards (GR)**
 2. BGC **Miracle Cash (MC)**
 3. BGC **Global Pool Sales Points (GPSP)**
 4. BGC **WEC Global Pool**
 
-➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following chapter.
-
-## 5. Rewards Based on **Sales Points** at BGC
-
 ### 5.1 Referral (RR) & Generation (GR) — per New Join (U)
 
-> Scenario:  
-> **Today:** X brings **U** to join (**U** is the new join).  
-> **Yesterday:** Y brought **X**.  
-> **Two days ago:** Z brought **Y**.  
+> Scenario: **Today:** **X** brings **U** to join (**U** is the new join).  
+> **Yesterday:** **Y** brought **X** to join.  
+> **Two days ago:** **Z** brought **Y** to join.  
 > Rewards: **X = Referral (Tier 1)**, **Y = Generation (Tier 2)**, **Z = Generation (Tier 3)**.
 
-| U’s Join Level | U’s LTS (SP) | **X (Tier 1)**     | **Y (Tier 2)**     | **Z (Tier 3)**     |
-|----------------|--------------|--------------------|--------------------|--------------------|
-| Pathfinder     | 70           | 10% → **7.00**     | 0% → **0.00**      | 0% → **0.00**      |
-| Voyager        | 350          | 10% → **35.00**    | 13% → **45.50**    | 16% → **56.00**    |
-| Explorer       | 1,207        | 12% → **144.84**   | 14% → **168.98**   | 17% → **205.19**   |
-| Pioneer        | 2,012        | 15% → **301.80**   | 15% → **301.80**   | 18% → **362.16**   |
-| Special        | 8,050        | 15% → **1,207.50** | 15% → **1,207.50** | 18% → **1,449.00** |
+| U’s Join Level | LTS by U | **X (Tier 1)**        | **Y (Tier 2)**        | **Z (Tier 3)**        |
+|----------------|----------|-----------------------|-----------------------|-----------------------|
+| Pathfinder     | 70 SP    | 10% → **7.00 SP**     | 0% → **0.00 SP**      | 0% → **0.00 SP**      |
+| Voyager        | 350 SP   | 10% → **35.00 SP**    | 13% → **45.50 SP**    | 16% → **56.00 SP**    |
+| Explorer       | 1,113 SP | 12% → **133.56 SP**   | 14% → **155.82 SP**   | 17% → **189.21 SP**   |
+| Pioneer        | 1,855 SP | 15% → **278.25 SP**   | 15% → **278.25 SP**   | 18% → **333.90 SP**   |
+| Special        | 7,420 SP | 15% → **1,113.00 SP** | 15% → **1,113.00 SP** | 18% → **1,335.60 SP** |
 
 **Notes**
-- Percentages apply to **U’s LTS** according to the level U joined.  
+- Percentages apply to **LTS by U** according to the level **U** joined.  
 - Displayed SP are rounded to **2 decimal places** for consistency.
 
 ### 5.2 Miracle Cash (MC) - per Month (on the 15th of the following month)
 
-> Scenario:  
-> **Today:** **U** join as **Affiliate User** at time 07:47 PM.  
-> Rewards: After **U** joins, **U** will get **Miracle Cash** every time a new user joins as an **Affiliate User**, but only up to 10 new users.
+> Scenario: **Today:** **U** join as **Affiliate User** at time 07:47 PM.  
+> Rewards: After **U** joins, **U** will get **Miracle Cash** every time a new user joins as an **Affiliate User**, but only up to 10 new users after **U** join.
 
-| New User       | Join Time           | Join Level | LTS (SP) for New User | Miracle Cash (MC) for User **U** |
-|----------------|---------------------|------------|-----------------------|----------------------------------|
-| New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70                    | 0                                |
-| New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70                    | 0.1% → **0.07**                  |
-| New User +2    | 2025/08/21 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**                  |
-| New User +3    | 2025/08/22 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**                  |
-| New User +4    | 2025/08/23 07:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**                  |
-| New User +5    | 2025/08/24 11:11 AM | Special    | 8,050                 | 0.1% → **8.05**                  |
-| New User +6    | 2025/08/25 01:01 PM | Special    | 8,050                 | 0.1% → **8.05**                  |
-| New User +7    | 2025/08/26 10:10 AM | Special    | 8,050                 | 0.1% → **8.05**                  |
-| New User +8    | 2025/08/27 04:47 PM | Pioneer    | 2,012                 | 0.1% → **2.01**                  |
-| New User +9    | 2025/08/28 11:11 PM | Explorer   | 1,207                 | 0.1% → **1.21**                  |
-| New User +10   | 2025/08/29 04:47 PM | Voyager    | 350                   | 0.1% → **0.35**                  |
-| New User +11   | 2025/08/30 07:47 PM | Pathfinder | 70                    | 0                                |
-| New User +12   | 2025/08/31 10:10 AM | Pathfinder | 70                    | 0                                |
+| New User       | Join Time           | Join Level | LTS by New User | Miracle Cash (MC) for User **U** |
+|----------------|---------------------|------------|-----------------|----------------------------------|
+| New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70 SP           | 0 SP                             |
+| New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70 SP           | 0.1% → **0.07 SP**               |
+| New User +2    | 2025/08/21 04:47 PM | Voyager    | 350 SP          | 0.1% → **0.35 SP**               |
+| New User +3    | 2025/08/22 11:11 PM | Explorer   | 1,113 SP        | 0.1% → **1.11 SP**               |
+| New User +4    | 2025/08/23 07:47 PM | Pioneer    | 1,855 SP        | 0.1% → **1.86 SP**               |
+| New User +5    | 2025/08/24 11:11 AM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
+| New User +6    | 2025/08/25 01:01 PM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
+| New User +7    | 2025/08/26 10:10 AM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
+| New User +8    | 2025/08/27 04:47 PM | Pioneer    | 1,855 SP        | 0.1% → **1.86 SP**               |
+| New User +9    | 2025/08/28 11:11 PM | Explorer   | 1,113 SP        | 0.1% → **1.11 SP**               |
+| New User +10   | 2025/08/29 04:47 PM | Voyager    | 350 SP          | 0.1% → **0.35 SP**               |
+| New User +11   | 2025/08/30 07:47 PM | Pathfinder | 70 SP           | 0 SP                             |
+| New User +12   | 2025/08/31 10:10 AM | Pathfinder | 70 SP           | 0 SP                             |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
@@ -146,17 +145,16 @@ Fixed Value: **1 SP = $1** (equivalent).
 
 ### 5.3 Global Pool Sales Points (GPSP) - per Month (on the 15th of the following month)
 
-> Scenario:  
-> **Today:** **U** join as **Affiliate User**.  
-> Rewards: After **U** joins, 15% of the **U** user's **LTS** will be collected in the **Global Pool Sales Points (GPSP)**.
+> Scenario: **Today:** **U** join as **Affiliate User**.  
+> Rewards: After **U** joins, 15% of the **LTS** by **U** will be collected in the **Global Pool Sales Points (GPSP)**.
 
-| U’s Join Level | U’s LTS (SP) | Global Pool Sales Points (GPSP) |
-|----------------|--------------|---------------------------------|
-| Pathfinder     | 70           | 15% → **10.50**                 |
-| Voyager        | 350          | 15% → **52.50**                 |
-| Explorer       | 1,207        | 15% → **181.05**                |
-| Pioneer        | 2,012        | 15% → **301.80**                |
-| Special        | 8,050        | 15% → **1,207.50**              |
+| U’s Join Level | LTS by U | (GPSP)                |
+|----------------|----------|-----------------------|
+| Pathfinder     | 70 SP    | 15% → **10.50 SP**    |
+| Voyager        | 350 SP   | 15% → **52.50 SP**    |
+| Explorer       | 1,113 SP | 15% → **166.95 SP**   |
+| Pioneer        | 1,855 SP | 15% → **278.25 SP**   |
+| Special        | 7,420 SP | 15% → **1,113.00 SP** |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
@@ -165,17 +163,16 @@ Fixed Value: **1 SP = $1** (equivalent).
   
 ### 5.4 WEC Global Pool - Quarterly on 15th Jan. / Apr. / Jul. / Oct.
 
-> Scenario:  
-> **Today:** **U** join as **Affiliate User**.  
-> Rewards: After **U** joins, 3% of the **U** user's **LTS** will be collected in the **WEC Global Pool**.
+> Scenario: **Today:** **U** join as **Affiliate User**.  
+> Rewards: After **U** joins, 3% of the **LTS** by **U** will be collected in the **WEC Global Pool**.
 
-| U’s Join Level | U’s LTS (SP) | WEC Global Pool |
-|----------------|--------------|-----------------|
-| Pathfinder     | 70           | 3% → **2.10**   |
-| Voyager        | 350          | 3% → **10.50**  |
-| Explorer       | 1,207        | 3% → **36.21**  |
-| Pioneer        | 2,012        | 3% → **60.36**  |
-| Special        | 8,050        | 3% → **241.50** |
+| U’s Join Level | LTS by U | WEC Global Pool    |
+|----------------|----------|--------------------|
+| Pathfinder     | 70 SP    | 3% → **2.10 SP**   |
+| Voyager        | 350 SP   | 3% → **10.50 SP**  |
+| Explorer       | 1,113 SP | 3% → **33.39 SP**  |
+| Pioneer        | 1,855 SP | 3% → **55.65 SP**  |
+| Special        | 7,420 SP | 3% → **222.60 SP** |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
