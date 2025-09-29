@@ -14,7 +14,8 @@ coverY: 0
 — **Prof. NOTA Inc.**  
 
 Alamat: _Nginden Kota 2 No. 27 Surabaya, East Java 60284, INDONESIA_  
-Email: **nota@endhonesa.com**  
+Email 1: **suaka@endhonesa.com**  
+Email 2: **info@skateshop.id**  
 WhatsApp: [**+62 856 316 0756**](https://wa.me/628563160756)  
 
 Bank: _Bank Central Asia (BCA)_  
