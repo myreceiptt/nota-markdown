@@ -80,7 +80,7 @@ ________________________
 
 **Pengirim**  
 Prof. NOTA v.11.11 — SKATESHOP.ID  
-Alamat: _Nginden Kota 2 No. 27 Surabaya, East Java 60284, INDONESIA_ · Kontak: **nota@endhonesa.com** / **+62 856 316 0756**
+Alamat: _Nginden Kota 2 No. 27 Surabaya, East Java 60284, INDONESIA_ · Kontak: **suaka@endhonesa.com** / **info@skateshop.id** / **+62 856 316 0756**
 
 **Penerima**  
 **NOON BoardShop**  
