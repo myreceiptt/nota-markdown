@@ -51,7 +51,7 @@ Decentralized App (dApp) Development for Zim Systems Limited — custom web inte
 #### Bank Transfer
 
 Bank Name: Bank Central Asia (BCA)  
-<img width="554" height="75" alt="moncroot-2025-07-19" src="https://github.com/user-attachments/assets/b5c5734b-e8bc-4c8d-80d5-d9fa094d8704" />
+<img width="571" height="85" alt="Bank Account of Prof. NOTA Inc. (PT. SUAKA DUNIA RAJA)" src="https://github.com/user-attachments/assets/2d03f075-961d-4e0e-86af-600a546918da" />
 
 #### Crypto Wallet
 
