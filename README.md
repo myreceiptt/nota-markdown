@@ -134,6 +134,6 @@ Regards,
 [**Prof. NOTA**](https://nota.endhonesa.com/)\
 \==== 47 =======
 
-P.S. Everything in this document may not be redistributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission, but the link to this document may be shared without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission.
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed.
 
 ***
