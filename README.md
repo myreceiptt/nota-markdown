@@ -101,19 +101,15 @@ This project is licensed under a **Custom Limited License** by [Prof. NOTA & Pro
 
 ## Usage
 
-### Just Read!
-
-### Confirm!
-
-### And Read!
-
-### Validate It!
-
-### Read Again!
-
-### Update Us!
-
-### And Read Again!
+- Just Read!
+  - Confirm!
+    - And Read!
+    
+- Validate It!
+  - Read Again!
+    - Update Us!
+    
+- And Read Again!
 
 ## Resources
 
