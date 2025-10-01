@@ -73,3 +73,8 @@ Standards such as ERC-725 and ERC-735 provide a programmable structure for ident
 
 ERC-725 and ERC-735 open new possibilities for NFTs to move beyond collectibles — toward **verifiable, self-owned identity systems**. By using NFTs as programmable identity objects, the Web3 ecosystem can build trust without compromising sovereignty.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
