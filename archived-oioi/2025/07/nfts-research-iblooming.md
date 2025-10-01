@@ -59,3 +59,8 @@ In traditional education systems, it is difficult to track and reward user parti
 
 NFTs in iBLOOMING are not mere digital collectibles — they are mechanisms of **identity, proof, and educational incentives** that may transform how we acknowledge and reward learning in decentralized systems.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
