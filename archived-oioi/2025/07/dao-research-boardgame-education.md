@@ -82,3 +82,8 @@ This simulates DAO challenges while reinforcing educational concepts.
 
 Board games are more than entertainment — they can be **training grounds for governance**. When embedded with DAO logic, they become tools of coordination, empathy, and understanding — preparing communities to govern wisely before stepping into real decentralized systems.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
