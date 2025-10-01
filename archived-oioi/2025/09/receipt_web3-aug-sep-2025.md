@@ -124,3 +124,9 @@ Indonesia bergerak serupa, tetapi **berbasis tata kelola**: **OJK** menertibkan 
 ---
 
 *Disusun: 2025-09-18 05:34 WIB · Prof. NOTA POV*
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
