@@ -95,3 +95,7 @@ Early stages are still under founder control — but everything is **auditable, 
 iBLOOMING will be ready, because we build systems that reward learning, support creators, and let users grow with us — not just consume from us.”**
 
 ---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
