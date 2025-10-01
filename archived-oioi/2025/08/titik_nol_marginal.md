@@ -127,3 +127,8 @@ Tulisan ini ingin meninggalkan gema dalam benak pembaca: bahwa setiap manusia ad
 - Stonequist, E. V. (1937). *The Marginal Man*. Charles Scribner’s Sons.
 - "Atomism (social)." Wikipedia. https://en.wikipedia.org/wiki/Atomism_(social)
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
