@@ -505,3 +505,7 @@ coverY: 0
 | 2026-03-30 | Masuk Labil   | Pelunasan invoice proyek (variatif)      |   8,347,266 |        2,500 | 425,724,234 |
 
 ---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
