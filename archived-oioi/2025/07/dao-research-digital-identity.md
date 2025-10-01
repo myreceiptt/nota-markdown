@@ -75,3 +75,8 @@ The iBLOOMING ecosystem has initiated early-stage integration of identity logic 
 
 Decentralized governance requires more than tokens — it requires **identity and reputation**. ERC-725 and ERC-735 offer a foundational layer for DAOs to **govern more wisely**, include more fairly, and evolve more securely.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
