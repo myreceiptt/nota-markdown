@@ -74,3 +74,8 @@ This merges gamification, Web3 identity, and educational impact into a cohesive 
 
 NFT-powered board games transform education from consumption to **co-creation and ownership**. By anchoring learning progress and identity on-chain, we enable a new frontier of gamified knowledge transfer that’s collaborative, verifiable, and fun.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
