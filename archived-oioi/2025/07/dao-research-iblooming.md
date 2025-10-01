@@ -59,3 +59,8 @@ This paper presents a simulation model and a roadmap for a functional Educationa
 
 A DAO is not just about token voting — it's about **decentralized ownership of knowledge and participation**. iBLOOMING holds the opportunity to become Southeast Asia's first functional and inclusive Educational DAO, designed for real learners, not just speculative actors.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
