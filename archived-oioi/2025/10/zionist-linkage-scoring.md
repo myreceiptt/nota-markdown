@@ -17,6 +17,7 @@ coverY: 0
 
 ## Ringkasan Eksekutif
 Dokumen ini merangkum seluruh obrolan dan hasil penilaian (scoring) yang disusun oleh Prof. NOTA Inc., mulai dari isu awal *“Vercel is Zionist”* yang disampaikan kepada Prof. NOTA, hingga daftar terkurasi lintas sektor, fokusnya adalah **entitas yang paling dekat dengan Prof. NOTA**, baik **Teknologi (Web2/Web3)** maupun **Non‑Teknologi**, mulai dari **Produk/Jasa di Indonesia** hingga **di tingkat Global**.  
+
 Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemerintah/Militer Israel** atau aktivitas permukiman, bukan vonis ideologis personal.
 
 > **Arti skor:**  
