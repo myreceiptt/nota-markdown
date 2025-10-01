@@ -207,6 +207,9 @@ Setiap role diplotkan dengan bagian relevan di dokumen:
 
 ---
 
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
 ## ✅ Kesimpulan
 Komposisi SDM yang dirinci di atas **langsung diturunkan dari dokumen plan dan spec**.  
 Dengan ini, setiap role jelas posisinya, scope kerja, dan keterhubungan dengan milestone implementasi Peruri Connect × Blockchain.
