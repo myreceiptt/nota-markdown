@@ -200,7 +200,6 @@ Tabel ini mengompilasi **hasil lintas bidang** yang paling mungkin dan sering **
 | 147 | Zscaler                                      | Keamanan              | Jay Chaudhry                        | Operasi global; tanpa keterkaitan gov spesifik                         | Referensi enterprise                          | 3    |
 
 > **Catatan:** Tabel lintas sektor menekankan entitas berpengaruh lintas industri yang sering muncul dalam diskursus publik.  
-> **Catatan:** #93 mengelompokkan tiga vendor siber dengan akar Israel; skor indikatif **4–5**.
 
 ---
 
