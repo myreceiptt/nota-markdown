@@ -39,6 +39,7 @@
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
     * [202509](archived-oioi/2025/09/README.md)
+      * [SKOR TAUTAN ZIONIS](archived-oioi/2025/10/zionist-linkage-scoring.md)
       * [GLITCH RIWAYAT TRANSAKSI 30S2K25](archived-oioi/2025/09/glitch-riwayat-transaksi-per-30-september-2025.md)
       * [BGC X IBLOOMING WEB3 LOGIN IMPLEMENTATION](archived-oioi/2025/09/bgc-iblooming-web3-login-implementation-plan-oct-2025.md)
       * [FIREWALL MANAGER PLAYBOOK](archived-oioi/2025/09/firewall-manager-playbook.md)
