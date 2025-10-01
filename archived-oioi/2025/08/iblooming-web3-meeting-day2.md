@@ -112,3 +112,9 @@ Ivan closed the meeting by identifying what Yuku was really trying to protect �
 ---
 
 *This summary will be combined with Day 1 to inform the evolving Web3 Tokenomics & Execution Plan, to be authored by Prof. NOTA.*
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
