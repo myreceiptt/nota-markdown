@@ -106,3 +106,8 @@ This document serves as the **living strategic execution guide** for iBLOOMING's
 
 This document is maintained by Prof. NOTA as a living reference. Every confirmed update should reflect implementation clarity, business alignment, and token integrity.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
