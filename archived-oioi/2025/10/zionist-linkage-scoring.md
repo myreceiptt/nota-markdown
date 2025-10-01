@@ -1,12 +1,22 @@
-# PROF. NOTA — Institutional Linkage Scoring Paper (v.11)
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
+# Skor Tautan Zionis untuk Prof. NOTA Inc.
 
 **Tanggal:** 1 Oktober 2025  
-**Penyusun:** ChatGPT (OpenAI), atas permintaan dan untuk kepentingan **Prof. NOTA (v.11)**
+**Penyusun:** Internal Prof. NOTA Inc., including ChatGPT (OpenAI), atas permintaan dan untuk kepentingan **Prof. NOTA (v.11)**.
 
 ---
 
 ## Ringkasan Eksekutif
-Dokumen ini merangkum seluruh obrolan dan hasil penilaian (scoring) yang kita susun mulai dari isu awal *“Vercel is Zionist”* hingga daftar terkurasi lintas sektor, fokus **Teknologi (Web2/Web3)**, **produk/jasa yang dipakai di Indonesia**, serta **entitas yang paling dekat dengan Prof. NOTA** (baik teknologi maupun non‑teknologi).  
+Dokumen ini merangkum seluruh obrolan dan hasil penilaian (scoring) yang disusun oleh Prof. NOTA Inc., mulai dari isu awal *“Vercel is Zionist”* yang disampaikan kepada Prof. NOTA, hingga daftar terkurasi lintas sektor, fokusnya adalah **entitas yang paling dekat dengan Prof. NOTA**, baik **Teknologi (Web2/Web3)** maupun **Non‑Teknologi**, mulai dari **Produk/Jasa di Indonesia** hingga **di tingkat Global**.  
 Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemerintah/Militer Israel** atau aktivitas permukiman, bukan vonis ideologis personal.
 
 > **Arti skor:**  
@@ -18,12 +28,12 @@ Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemeri
 
 ---
 
-## Latar & Alur Obrolan
-1) **Pemicu** — Pertanyaan: *“Vercel is Zionist?”* → Kita bedah fakta publik tentang pertemuan CEO Vercel dengan PM Israel (Netanyahu), reaksi komunitas, dan **batas** dari klaim yang bisa dibuktikan.  
-2) **Ekspansi** — Diminta menyusun **daftar lintas sektor** (termasuk F&B, fashion, pertahanan, perbankan) dengan skor 1–10.  
-3) **Fokus Teknologi** — Diminta **Top‑20 (Web2/Web3)** berdasarkan validasi/nilai/pengguna/eksposur.  
-4) **Fokus Indonesia** — Diminta **Top‑100** produk/jasa teknologi yang **beroperasi atau dipakai luas di Indonesia** dengan skor yang sama.  
-5) **Fokus Prof. NOTA** — Diminta daftar **stack yang dekat** dengan Prof. NOTA (Teknologi), termasuk **ChatGPT/OpenAI**, lalu **Non‑Teknologi** (skate/streetwear/F&B/ritel/logistik).  
+## Latar & Alur
+1) **Pemicu** — Pertanyaan: *“Vercel is Zionist?”* → dibedah fakta publik tentang pertemuan CEO Vercel dengan PM Israel (Netanyahu), reaksi komunitas, dan **batas** dari klaim yang bisa dibuktikan.  
+2) **Ekspansi** — Disusun **daftar lintas sektor** (termasuk F&B, fashion, pertahanan, perbankan) dengan skor 1–10.  
+3) **Fokus Teknologi** — Disusun **Top‑20 (Web2/Web3)** berdasarkan validasi/nilai/pengguna/eksposur.  
+4) **Fokus Indonesia** — Disusun **Top‑100** produk/jasa teknologi yang **beroperasi atau dipakai luas di Indonesia** dengan skor yang sama.  
+5) **Fokus Prof. NOTA** — Disusun daftar **stack (Teknologi)**, termasuk **ChatGPT/OpenAI**, lalu **Non‑Teknologi** (skate/streetwear/F&B/ritel/logistik).  
 6) **Dokumentasi akhir** — Menggabungkan semua hasil dalam satu **paper** agar publik mengetahui **subjek utama adalah Prof. NOTA** dan keterkaitannya.
 
 ---
@@ -35,240 +45,161 @@ Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemeri
 
 ---
 
-## Bagian A — Lintas Sektor (Global)
-**Ringkas hasil utama dari daftar lintas bidang** yang memiliki pengaruh besar dan kerap dibahas publik.
+## Tabel Hasil (Terpadu)
+Tabel ini mengompilasi **hasil lintas bidang** yang paling mungkin dan sering **disentuh oleh Prof. NOTA**, berpengaruh besar dan kerap dibahas publik. Selain ranah teknologi—**stack/merek/tool**, cakupan juga meliputi kategori non-teknologi—termasuk **skateboarding/streetwear, F&B, ritel, logistik, dan sejenisnya**. Memadukan entitas yang **beroperasi di Indonesia atau digunakan luas oleh pengguna/perusahaan di Indonesia** dengan **pemain global** (dipilih berdasarkan nilai/validasi, jumlah pengguna, dan eksposurnya), sehingga tabel hasil ini menjadi satu peta keterkaitan institusional yang **utuh dan relevan** terhadap **ekosistem serta preferensi Prof. NOTA**.
 
-| Entitas | Sektor | Aktor Kunci | Alasan Singkat | Skor |
-|---|---|---|---|---|
-| Alphabet (Google) | Cloud/AI | Sundar Pichai | **Project Nimbus** untuk pemerintah & militer Israel | **9** |
-| Amazon | Cloud | Andy Jassy | Mitra **Project Nimbus** | **9** |
-| RTX (Raytheon) | Pertahanan | Christopher Calio | Sistem pertahanan (Iron Dome/David’s Sling) | **9** |
-| Lockheed Martin | Pertahanan | Jim Taiclet | **F‑35** untuk Israel | **9** |
-| Palantir | Data/AI pemerintah | Alex Karp | Kemitraan strategis dengan Kemenhan Israel | **9** |
-| Boeing | Pertahanan | Kelly Ortberg | Penjualan F‑15/JDAM (paket ekspor AS) | **8** |
-| Caterpillar | Alat berat | Joe Creed | Bulldozer digunakan militer Israel (sorotan HAM) | **8** |
-| HPE | TI enterprise | Antonio Neri | Dikaitkan lama dgn infrastruktur pemerintah Israel | **7** |
-| Intel | Semikonduktor | Pat Gelsinger | Fab/operasi besar di Israel | **6** |
-| Airbnb | Travel | Brian Chesky | Keterkaitan permukiman (riwayat kebijakan) | **6** |
-| McDonald’s | F&B | Chris Kempczinski | Akuisisi penuh waralaba Israel (2024) | **6** |
-| Booking Holdings | Travel | Glenn Fogel | Listing di wilayah permukiman (laporan) | **5** |
-| HP Inc. | PC/Printer | Enrique Lores | Keterkaitan historis; bukti kini lebih lemah | **5** |
-| Barclays | Keuangan | — | Tuduhan pendanaan pemasok senjata; bantahan resmi | **5** |
-| Puma | Apparel | Arthur Hoeld | Akhiri sponsor IFA 2024 | **3** |
-| Starbucks | F&B | Brian Niccol | Sengketa hukum; bantah dukungan ke IDF | **2** |
-| Vercel | Cloud/dev | Guillermo Rauch | Foto/rapat dengan Netanyahu; tanpa kontrak gov | **3** |
-| CUFI | Organisasi religi | John Hagee | Misi pro‑Israel eksplisit | **10** |
+| #   | Entitas                                      | Domain                | Aktor Kunci                         | Alasan Faktual                                                         | The Receipt                                   | Skor |
+| --- | -------------------------------------------- | --------------------- | ----------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------- | ---- |
+| 1   | Acer                                         | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 2   | Adidas                                       | Apparel               | Bjørn Gulden                        | Ritel kehadiran di Israel; tanpa kontrak gov                           | Streetwear/skate ref                          | 2    |
+| 3   | Adobe                                        | Desain                | Shantanu Narayen                    | Tidak ada bukti institusional                                          | Dipakai desain                                | 2    |
+| 4   | Akamai                                       | CDN/Edge              | Tom Leighton                        | Akuisisi Cotendo (Israel); operasi berlanjut                           | Dipertimbangkan untuk CDN                     | 4    |
+| 5   | Akulaku                                      | Paylater              | —                                   | Tidak ada bukti institusional                                          | Digunakan konsumen ID                         | 1    |
+| 6   | Airbnb                                       | Travel                | Brian Chesky                        | Riwayat kebijakan & pencantuman permukiman                             | Dipakai publik luas di ID                     | 6    |
+| 7   | Alchemy                                      | Web3 infra            | Nikil Viswanathan                   | Tidak ada bukti institusional                                          | Alternatif RPC                                | 1    |
+| 8   | Alphabet (Google / YouTube / GCP)            | Cloud/AI/Ads          | Sundar Pichai                       | Kontrak Project Nimbus untuk pemerintah & militer Israel               | Dipakai dalam stack; paparan tinggi           | 9    |
+| 9   | Apple                                        | Perangkat/R&D         | Tim Cook                            | R&D Herzliya/Haifa                                                     | Dipakai luas; umum                            | 4    |
+| 10  | Arweave                                      | Storage               | Sam Williams                        | Tidak ada bukti institusional                                          | Dipakai/direncanakan                          | 1    |
+| 11  | Atlassian (Jira/Confluence)                  | SaaS Dev/PM           | Scott Farquhar; Mike Cannon-Brookes | Operasi global; tidak ada bukti institusional Israel                   | Dipakai kolaborasi/PM                         | 2    |
+| 12  | Avalanche / Ava Labs                         | L1                    | Emin Gün Sirer                      | Tidak ada bukti institusional                                          | Dirujuk                                       | 1    |
+| 13  | Agoda                                        | Travel                | Omri Morgenshtern                   | Bagian Booking Holdings                                                | Dipakai luas di ID                            | 3    |
+| 14  | ASUS                                         | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 15  | BANANOW LAND                                 | Skate (IP)            | —                                   | IP/operasi Prof. NOTA                                                  | Milik/operasi internal                        | 1    |
+| 16  | Bank Jago                                    | Bank digital          | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 17  | Barclays                                     | Keuangan              | —                                   | Kontroversi investasi; bantahan resmi                                  | Global/Referensi                              | 5    |
+| 18  | Biznet                                       | Fixed broadband       | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 19  | Blibli                                       | E-commerce            | Kusumo Martanto                     | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 1    |
+| 20  | Boeing                                       | Pertahanan            | Kelly Ortberg                       | Penjualan F-15/JDAM (paket ekspor AS)                                  | Global/Referensi                              | 8    |
+| 21  | Box                                          | SaaS/Komunikasi       | —                                   | Tidak ada bukti institusional                                          | Dipakai stack komunikasi                      | 2    |
+| 22  | Bukalapak                                    | E-commerce            | Willix Halim                        | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 1    |
+| 23  | Burger King                                  | F&B                   | —                                   | Operasi/waralaba di Israel                                             | Non-tech referensi                            | 3    |
+| 24  | ByteDance (TikTok)                           | Sosial/Commerce       | Shou Zi Chew                        | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 2    |
+| 25  | Booking Holdings (Booking.com)               | Travel                | Glenn Fogel                         | Pencantuman akomodasi permukiman (laporan)                             | Dipakai publik luas di ID                     | 5    |
+| 26  | Carhartt WIP                                 | Apparel               | —                                   | Distribusi/retailer Israel                                             | Non-tech referensi                            | 2    |
+| 27  | Caterpillar                                  | Alat berat            | Joe Creed                           | Penggunaan bulldozer oleh militer Israel (sorotan HAM)                 | Non-tech referensi; relevan manufaktur        | 8    |
+| 28  | Chainalysis                                  | Analytics/Web3        | Michael Gronager                    | Kantor TLV; akuisisi Alterya                                           | Web3 analytics                                | 5    |
+| 29  | Check Point                                  | Keamanan              | Gil Shwed                           | Perusahaan siber Israel berskala global                                | Dipakai enterprise di ID                      | 6    |
+| 30  | Cisco                                        | Jaringan              | Chuck Robbins                       | Akuisisi startup Israel; operasi berkelanjutan                         | Referensi enterprise                          | 5    |
+| 31  | Cloudflare                                   | CDN/Edge              | Matthew Prince                      | PoP Tel Aviv; operasi jaringan                                         | Dipertimbangkan untuk CDN                     | 4    |
+| 32  | Coinbase                                     | Exchange/L2           | Brian Armstrong                     | Ekspansi peran Israel                                                  | Dipakai/dirujuk                               | 3    |
+| 33  | Coca-Cola (CBC Israel)                       | Minuman               | —                                   | Bottler eksklusif Israel                                               | Non-tech referensi                            | 3    |
+| 34  | Consensys (MetaMask/Infura/Linea)            | Web3 infra            | Joseph Lubin                        | Kemitraan Blockaid (TLV)                                               | Dipakai/dirujuk                               | 4    |
+| 35  | Coursera                                     | EdTech                | Jeff Maggioncalda                   | Tidak ada bukti institusional Israel                                   | Digunakan pembelajaran                        | 1    |
+| 36  | CUFI                                         | Organisasi religi     | John Hagee                          | Misi pro-Israel eksplisit                                              | Global/Referensi                              | 10   |
+| 37  | CyberArk                                     | Keamanan (PAM)        | —                                   | Perusahaan Israel; operasi di ID                                       | Dipakai enterprise di ID                      | 6    |
+| 38  | DANA                                         | Dompet digital        | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 39  | Databricks                                   | Data/AI               | Ali Ghodsi                          | Kehadiran engineering di Israel; akuisisi terkait                      | Dipertimbangkan untuk lakehouse/AI            | 4    |
+| 40  | Decathlon                                    | Ritel olahraga        | Barbara Martin Coppola              | Toko & ekspansi Israel                                                 | Non-tech referensi                            | 3    |
+| 41  | Dell                                         | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 42  | DOKU                                         | Payment gateway       | —                                   | Tidak ada bukti institusional                                          | Digunakan merchant ID                         | 1    |
+| 43  | Domino’s                                     | F&B                   | —                                   | Operasi/waralaba di Israel                                             | Non-tech referensi                            | 3    |
+| 44  | Dropbox                                      | SaaS/Komunikasi       | —                                   | Tidak ada bukti institusional                                          | Dipakai stack komunikasi                      | 2    |
+| 45  | DigitalOcean                                 | Cloud                 | —                                   | Tidak ada bukti institusional                                          | Alternatif infra                              | 2    |
+| 46  | Dickies                                      | Apparel               | —                                   | Distribusi/retailer Israel                                             | Non-tech referensi                            | 2    |
+| 47  | Elbit Systems                                | Pertahanan            | —                                   | Perusahaan pertahanan Israel; kontrak ekspor luas                      | Global/Referensi                              | 10   |
+| 48  | eToro                                        | Fintech/Web3          | Yoni Assia                          | HQ Israel; pengguna global besar                                       | Referensi Web3/finansial                      | 3    |
+| 49  | Expedia Group                                | Travel                | Peter Kern                          | Pencantuman di isu permukiman (laporan)                                | Dipakai publik luas di ID                     | 5    |
+| 50  | Fastly                                       | CDN/Cloud             | —                                   | Tidak ada bukti institusional                                          | Alternatif infra                              | 2    |
+| 51  | Figma                                        | Desain                | Dylan Field                         | Tidak ada bukti institusional                                          | Dipakai desain                                | 1    |
+| 52  | Fireblocks                                   | Kripto infra          | Michael Shaulov                     | Infrastruktur kustodi institusional                                    | Web3 infra; potensial dipakai                 | 4    |
+| 53  | First Media (Link Net)                       | Fixed broadband       | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 54  | Freshworks                                   | SaaS Enterprise       | —                                   | Tidak ada bukti institusional                                          | Dipakai enterprise                            | 2    |
+| 55  | Garuda Indonesia                             | Maskapai              | —                                   | Maskapai nasional; tidak ada bukti institusional terkait Israel        | Dipakai luas di ID (transport udara)          | 1    |
+| 56  | GitHub (Microsoft)                           | Dev tooling           | Thomas Dohmke                       | Di bawah Microsoft (lihat Microsoft)                                   | Dipakai di workflow                           | 3    |
+| 57  | GitLab                                       | DevOps                | Sid Sijbrandij                      | Tidak ada bukti institusional                                          | Alternatif CI/CD                              | 2    |
+| 58  | GoPay                                        | Dompet digital        | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 59  | Gojek                                        | Ride/On-demand        | Patrick Walujo                      | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 60  | Grab                                         | Ride/On-demand        | Anthony Tan                         | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 61  | Gramedia                                     | Buku/ritel            | —                                   | Tidak ada bukti institusional                                          | Dekat (penerbitan/ritel buku)                 | 1    |
+| 62  | H&M                                          | Fashion               | —                                   | Operasi ritel resmi Israel                                             | Non-tech referensi                            | 4    |
+| 63  | HP Inc.                                      | PC/Printer            | Enrique Lores                       | Keterkaitan historis; bukti kini lebih lemah                           | Dipakai umum; risiko rendah                   | 5    |
+| 64  | HPE                                          | TI enterprise         | Antonio Neri                        | Keterkaitan historis infrastruktur pemerintah Israel                   | Vendor enterprise; referensi                  | 7    |
+| 65  | Huawei                                       | Perangkat/Cloud       | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 66  | IBM                                          | Riset/Cloud           | Arvind Krishna                      | IBM Research Israel (Haifa, dll.)                                      | Referensi enterprise                          | 5    |
+| 67  | IKEA (Ingka)                                 | Ritel furnitur        | Jesper Brodin                       | Operasi ritel Israel; investasi terkait                                | Non-tech referensi                            | 4    |
+| 68  | Imperva                                      | Keamanan              | —                                   | Akar/operasi Israel                                                    | Referensi enterprise                          | 4–5  |
+| 69  | IndiHome (Telkom)                            | Fixed broadband       | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 70  | Indosat Ooredoo Hutchison                    | Seluler               | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 71  | Independent Trucks                           | Skate hardware        | —                                   | Tidak ada bukti institusional                                          | Dekat ekosistem skate                         | 1    |
+| 72  | Intel                                        | Semikonduktor         | Pat Gelsinger                       | Fab Kiryat Gat & operasi besar                                         | Rantai perangkat; bergantung ekosistem        | 6    |
+| 73  | Jenius (BTPN)                                | Bank digital          | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 74  | KFC                                          | F&B                   | —                                   | Operasi/waralaba di Israel                                             | Non-tech referensi                            | 3    |
+| 75  | Kredivo                                      | Paylater              | —                                   | Tidak ada bukti institusional                                          | Digunakan konsumen ID                         | 1    |
+| 76  | Lazada (Alibaba)                             | E-commerce            | James Dong                          | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 2    |
+| 77  | Ledger                                       | Hardware wallet       | Pascal Gauthier                     | Perusahaan hardware wallet; tidak ada bukti institusional Israel       | Dipakai/dirujuk di ekosistem Web3             | 1    |
+| 78  | Lenovo                                       | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 79  | LINE Bank (Hana)                             | Bank digital          | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 80  | LinkAja                                      | Dompet digital        | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 81  | Lockheed Martin                              | Pertahanan            | Jim Taiclet                         | Pemasok F-35 untuk Israel                                              | Global/Referensi                              | 9    |
+| 82  | L’Oréal                                      | Kecantikan            | Nicolas Hieronimus                  | Operasi & R&D Israel; distributor lokal                                | Konsumsi massal                               | 3    |
+| 83  | Mailchimp (Intuit)                           | SaaS/Komunikasi       | —                                   | Tidak ada bukti institusional                                          | Dipakai stack komunikasi                      | 2    |
+| 84  | Marriott International                       | Hotel/Akomodasi       | Anthony Capuano                     | Operasi hotel di Israel (mis. Tel Aviv/Herzliya); kehadiran ritel      | Akomodasi global; relevan perjalanan          | 3    |
+| 85  | Maxim                                        | Transport             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 86  | McDonald’s                                   | F&B                   | Chris Kempczinski                   | Akuisisi penuh waralaba Israel (2024)                                  | Non-tech referensi; mobilitas                 | 6    |
+| 87  | Meta (Facebook/Instagram/WhatsApp)           | Sosial/Ads            | Mark Zuckerberg                     | R&D & akuisisi Onavo (Israel)                                          | Dipakai konten/komunitas                      | 4    |
+| 88  | Midtrans                                     | Payment gateway       | —                                   | Tidak ada bukti institusional                                          | Digunakan merchant ID                         | 1    |
+| 89  | Microsoft (Azure / M365 / LinkedIn / GitHub) | Cloud/Office/Dev      | Satya Nadella; Brad Smith           | Region Israel; sorotan layanan terkait unit militer                    | Dipakai (GitHub); mitigasi via multi-cloud    | 7    |
+| 90  | Mobileye                                     | AutoTech/ADAS         | Amnon Shashua                       | Perusahaan Israel (otomotif global)                                    | Referensi teknologi otomotif                  | 4    |
+| 91  | MyBluebird                                   | Transport             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 92  | Nestlé (Osem)                                | F&B                   | Mark Schneider                      | Buyout Osem (Israel)                                                   | Non-tech referensi                            | 5    |
+| 93  | Netlify                                      | Dev hosting           | Mathias Biilmann                    | Tidak ada bukti institusional                                          | Alternatif/backup Vercel                      | 1    |
+| 94  | Netflix                                      | Streaming             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 95  | Notion                                       | Docs/PM               | Ivan Zhao                           | Tidak ada bukti institusional                                          | Dipakai dokumentasi                           | 1    |
+| 96  | NSO Group                                    | Spyware               | —                                   | Pegasus; ekspor diawasi MoD Israel                                     | Global/Referensi kebijakan                    | 10   |
+| 97  | NVIDIA                                       | AI/Networking         | Jensen Huang                        | Akuisisi Mellanox (Israel) → R&D/jaringan                              | Rantai AI/DC; bergantung ekosistem            | 6    |
+| 98  | Nike                                         | Footwear              | —                                   | Kehadiran/ritel Israel                                                 | Non-tech referensi                            | 2    |
+| 99  | OVO                                          | Dompet digital        | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 100 | OpenAI / ChatGPT                             | AI asisten            | Sam Altman                          | Tidak ada bukti institusional Israel                                   | Dipakai harian oleh Prof. NOTA                | 1    |
+| 101 | OPPO                                         | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 102 | Oracle (OCI)                                 | Cloud                 | Safra Catz                          | DC bawah tanah di Yerusalem; ekspansi                                  | Dipertimbangkan/alternatif cloud              | 6    |
+| 103 | Optimism (OP Stack)                          | L2                    | —                                   | Tidak ada bukti institusional                                          | Dirujuk                                       | 1    |
+| 104 | Palantir                                     | Data/AI pemerintah    | Alex Karp                           | Kemitraan strategis dengan Kemenhan Israel                             | Global/Referensi kebijakan                    | 9    |
+| 105 | Palo Alto Networks                           | Keamanan              | Nikesh Arora                        | R&D/akuisisi Israel (Demisto)                                          | Dipakai enterprise di ID                      | 5    |
+| 106 | PayPal                                       | Pembayaran            | —                                   | Tidak ada bukti institusional                                          | Dipakai pembayaran global                     | 2    |
+| 107 | PepsiCo (SodaStream)                         | Minuman/alat          | Ramon Laguarta                      | Akuisisi SodaStream (Israel)                                           | Non-tech referensi                            | 5    |
+| 108 | Protocol Labs (IPFS/Filecoin)                | Storage/Web3          | Juan Benet                          | Tidak ada bukti institusional                                          | Dipakai/direncanakan                          | 1    |
+| 109 | PRINCIPLE                                    | Fashion (kolab)       | —                                   | Brand/kolaborasi Prof. NOTA                                            | Milik/kolaborasi                              | 1    |
+| 110 | Powell-Peralta                               | Skate hardware        | —                                   | Tidak ada bukti institusional                                          | Dekat ekosistem skate                         | 1    |
+| 111 | QuickNode                                    | Web3 infra            | —                                   | Tidak ada bukti institusional                                          | Alternatif RPC                                | 1    |
+| 112 | Radware                                      | Keamanan              | —                                   | Akar/operasi Israel                                                    | Referensi enterprise                          | 4–5  |
+| 113 | RTX (Raytheon)                               | Pertahanan            | Christopher Calio                   | Pemasok Iron Dome/David’s Sling                                        | Global/Referensi                              | 9    |
+| 114 | Samsung                                      | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 115 | Santa Cruz                                   | Skate                 | —                                   | Tidak ada bukti institusional                                          | Dekat ekosistem skate                         | 1    |
+| 116 | SAP (incl. Gigya)                            | SaaS/IDM              | Christian Klein                     | SAP Labs Israel; akuisisi Gigya                                        | Dipakai enterprise                            | 4    |
+| 117 | SeaBank                                      | Bank digital          | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 118 | SentinelOne                                  | Keamanan              | —                                   | Akar/operasi Israel                                                    | Referensi enterprise                          | 4–5  |
+| 119 | ServiceNow                                   | SaaS Enterprise       | Bill McDermott                      | Tidak ada bukti institusional                                          | Dipakai enterprise                            | 2    |
+| 120 | Shopee (Sea)                                 | E-commerce/Pay        | Chris Feng                          | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 2    |
+| 121 | ShopeePay                                    | Dompet digital        | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 122 | Siemens                                      | Industrial/Automation | Roland Busch                        | Operasi & proyek infrastruktur di Israel (umum)                        | Referensi manufaktur/otomasi                  | 3    |
+| 123 | SKATESHOP.ID                                 | Skate retail          | —                                   | IP/operasi Prof. NOTA                                                  | Milik/operasi internal                        | 1    |
+| 124 | Snowflake                                    | Data Cloud            | Frank Slootman                      | R&D/pusat tim di Israel; kemitraan enterprise                          | Dipertimbangkan untuk data warehousing        | 4    |
+| 125 | Spotify                                      | Musik                 | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 126 | Stripe                                       | Pembayaran            | —                                   | Tidak ada bukti institusional                                          | Dipakai pembayaran global                     | 2    |
+| 127 | Supabase                                     | Backend               | Paul Copplestone                    | Tidak ada bukti institusional                                          | Alternatif backend                            | 1    |
+| 128 | Smartfren                                    | Seluler               | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 129 | Telkomsel                                    | Seluler               | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 130 | Tiket.com                                    | Travel                | George Hendrata                     | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 1    |
+| 131 | Toyota                                       | Otomotif              | Koji Sato                           | Kehadiran ritel/penjualan di Israel via distributor; tanpa kontrak gov | Mobil umum di ID; relevan manufaktur/logistik | 2    |
+| 132 | TSMC                                         | Semikonduktor         | C. C. Wei                           | Jejak Israel tidak material; pemasok global                            | Rantai pasok chip                             | 2    |
+| 133 | Traveloka                                    | Travel                | Ferry Unardi                        | Tidak ada bukti institusional                                          | Dipakai publik luas di ID                     | 1    |
+| 134 | TripAdvisor                                  | Travel                | Matt Goldberg                       | Pencantuman isu permukiman (laporan)                                   | Dipakai publik luas di ID                     | 5    |
+| 135 | Twilio                                       | Komunikasi            | —                                   | Tidak ada bukti institusional                                          | Dipakai stack komunikasi                      | 2    |
+| 136 | Unilever (incl. Ben & Jerry’s Israel)        | FMCG                  | Hein Schumacher                     | Operasi Israel; kontroversi distribusi wilayah sengketa                | Konsumsi massal                               | 4    |
+| 137 | Vans                                         | Footwear              | —                                   | Kehadiran/ritel Israel                                                 | Non-tech referensi                            | 2    |
+| 138 | Vercel / Next.js                             | Cloud/Dev             | Guillermo Rauch                     | Foto/rapat dengan PM Israel; tanpa kontrak gov                         | Dipakai/terkait ekosistem front-end           | 3    |
+| 139 | vivo                                         | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 140 | Workday                                      | HCM                   | Carl Eschenbach                     | Tidak ada bukti institusional                                          | Dipakai enterprise                            | 2    |
+| 141 | Wiz                                          | Keamanan cloud        | Assaf Rappaport                     | Unicorn Israel; akuisisi besar                                         | Referensi security/cloud                      | 5    |
+| 142 | X Corp (Twitter/X)                           | Sosial                | Elon Musk                           | Tidak ada bukti institusional                                          | Dipakai komunikasi publik                     | 2    |
+| 143 | Xendit                                       | Payment gateway       | —                                   | Tidak ada bukti institusional                                          | Digunakan merchant ID                         | 1    |
+| 144 | Xiaomi                                       | Perangkat             | —                                   | Tidak ada bukti institusional                                          | Dipakai luas                                  | 2    |
+| 145 | XL Axiata                                    | Seluler               | —                                   | Tidak ada bukti institusional                                          | Dipakai luas di ID                            | 1    |
+| 146 | Zara (Inditex)                               | Fashion               | —                                   | Flagship besar Israel (2025)                                           | Non-tech referensi                            | 4    |
+| 147 | Zscaler                                      | Keamanan              | Jay Chaudhry                        | Operasi global; tanpa keterkaitan gov spesifik                         | Referensi enterprise                          | 3    |
 
-> **Catatan:** Tabel lintas sektor menekankan entitas berpengaruh lintas industri yang sering muncul dalam diskursus publik.
-
----
-
-## Bagian B — Teknologi (Web2 & Web3) — Top‑20
-**Daftar terfokus pada pemain teknologi global** berdasarkan nilai/validasi, jumlah pengguna, dan eksposur.
-
-| # | Entitas | Sektor | Aktor/Ikatan Kunci | Alasan Singkat | Skor |
-|---|---|---|---|---|---|
-| 1 | Alphabet (Google) | Cloud/AI | Sundar Pichai | **Project Nimbus** (pemerintah & militer) | **9** |
-| 2 | Amazon (AWS) | Cloud | Andy Jassy | Mitra **Project Nimbus** | **9** |
-| 3 | Palantir | Data/AI gov | Alex Karp | Kemitraan strategis dgn Kemenhan Israel | **9** |
-| 4 | Microsoft | Cloud/AI | Satya Nadella, Brad Smith | Region Israel; sorotan layanan untuk unit militer | **7** |
-| 5 | Oracle | Cloud | Safra Catz | **DC bawah tanah** di Yerusalem | **6** |
-| 6 | Intel | Semikonduktor | Pat Gelsinger | Fab Kiryat Gat & operasi besar | **6** |
-| 7 | NVIDIA | AI/Jaringan | Jensen Huang | Akuisisi **Mellanox** (Israel) | **6** |
-| 8 | IBM | Riset/Cloud | Arvind Krishna | IBM Research Israel | **5** |
-| 9 | Cisco | Jaringan | Chuck Robbins | Akuisisi startup Israel | **5** |
-| 10 | Apple | Perangkat/R&D | Tim Cook | R&D Herzliya/Haifa | **4** |
-| 11 | Meta | Sosial/Ads | Mark Zuckerberg | R&D & akuisisi **Onavo** | **4** |
-| 12 | SAP | SaaS/IDM | Christian Klein | Akuisisi **Gigya**; SAP Labs Israel | **4** |
-| 13 | Salesforce | SaaS/Martech | Marc Benioff | Akuisisi **Datorama** (Israel) | **4** |
-| 14 | Check Point | Keamanan | Gil Shwed | Raksasa siber Israel | **6** |
-| 15 | NSO Group | Spyware | — | **Pegasus** (ekspor diawasi MoD Israel) | **10** |
-| 16 | Mobileye | AutoTech | Amnon Shashua | Perusahaan Israel, skala global | **4** |
-| 17 | Wiz | Cloud Sec | Assaf Rappaport | Unicorn Israel (akuisisi besar) | **5** |
-| 18 | eToro | Fintech/Web3 | Yoni Assia | HQ Israel; pengguna besar | **3** |
-| 19 | Fireblocks | Kripto infra | Michael Shaulov | Startup Israel (kustodi institusi) | **4** |
-| 20 | Vercel | Cloud/dev | Guillermo Rauch | Foto/rapat dgn PM Israel; tanpa kontrak gov | **3** |
-
----
-
-## Bagian C — Produk/Jasa Teknologi yang Dipakai di Indonesia — Top‑100
-**Kriteria:** beroperasi di Indonesia atau digunakan luas oleh pengguna/perusahaan Indonesia.
-
-| # | Entitas (Produk/Jasa) | Kategori | Alasan Singkat | Skor |
-|---|---|---|---|---|
-| 1 | Alphabet (Google/YouTube/GCP) | Cloud/AI/Ads | **Project Nimbus** | **9** |
-| 2 | Amazon (AWS) | Cloud | Mitra **Project Nimbus** | **9** |
-| 3 | Microsoft (Azure/M365/LinkedIn/GitHub) | Cloud/Office | Region Israel; sorotan layanan militer | **7** |
-| 4 | Oracle (OCI) | Cloud | **DC bawah tanah** Yerusalem | **7** |
-| 5 | Intel | Semikonduktor | Fab Kiryat Gat; operasi | **6** |
-| 6 | NVIDIA | AI/Network | Akuisisi **Mellanox** | **6** |
-| 7 | Airbnb | Travel | Basis data PBB dot permukiman | **6** |
-| 8 | Booking.com (Booking Holdings) | Travel | Pencantuman permukiman (laporan) | **5** |
-| 9 | Expedia Group | Travel | Pencantuman permukiman (laporan) | **5** |
-| 10 | TripAdvisor | Travel | Pencantuman permukiman (laporan) | **5** |
-| 11 | Check Point | Keamanan | Perusahaan Israel, enterprise | **6** |
-| 12 | CyberArk | Keamanan | Perusahaan Israel (PAM) | **6** |
-| 13 | Palo Alto Networks | Keamanan | R&D/akuisisi Israel | **5** |
-| 14 | Akamai | CDN/Edge | Akuisisi **Cotendo** (Israel) | **4** |
-| 15 | Cloudflare | CDN/Edge | PoP Tel Aviv | **4** |
-| 16 | IBM | Cloud/Riset | IBM Research Israel | **4** |
-| 17 | Cisco | Jaringan | Akuisisi Israel; tanpa kontrak gov publik | **4** |
-| 18 | SAP | SaaS/IDM | SAP Labs Israel; **Gigya** | **4** |
-| 19 | Salesforce (incl. Slack) | SaaS | Akuisisi **Datorama** | **4** |
-| 20 | Meta (FB/IG/WA) | Sosial/Ads | R&D/Onavo | **4** |
-| 21 | Apple | Perangkat | R&D Israel | **4** |
-| 22 | Wix | Web builder | Perusahaan Israel | **4** |
-| 23 | Fiverr | Marketplace | Perusahaan Israel | **4** |
-| 24 | Monday.com | Work OS | Perusahaan Israel | **4** |
-| 25 | Zscaler | Keamanan | Tanpa keterkaitan gov publik | **3** |
-| 26 | Vercel | Cloud/dev | Sorotan foto/rapat; tanpa kontrak gov | **3** |
-| 27 | GitHub | Dev (MS) | Di bawah Microsoft | **3** |
-| 28 | Agoda | Travel | Bagian Booking Holdings | **3** |
-| 29 | Zoom | Komunikasi | Tidak spesifik | **2** |
-| 30 | Fastly | CDN/Edge | Tidak spesifik | **2** |
-| 31 | DigitalOcean | Cloud | Tidak spesifik | **2** |
-| 32 | Netlify | Dev hosting | Tidak spesifik | **2** |
-| 33 | Box | SaaS | Tidak spesifik | **2** |
-| 34 | Dropbox | SaaS | Tidak spesifik | **2** |
-| 35 | Twilio/SendGrid | Komunikasi | Tidak spesifik | **2** |
-| 36 | Mailchimp (Intuit) | Martech | Tidak spesifik | **2** |
-| 37 | Stripe | Pembayaran | Tidak spesifik | **2** |
-| 38 | PayPal | Pembayaran | Tidak spesifik | **2** |
-| 39 | Figma | Desain | Tidak spesifik | **2** |
-| 40 | Adobe | Desain/Martech | Tidak spesifik | **2** |
-| 41 | ServiceNow | ITSM | Tidak spesifik | **2** |
-| 42 | Workday | HCM | Tidak spesifik | **2** |
-| 43 | Zendesk | CX | Tidak spesifik | **2** |
-| 44 | Freshworks | CX | Tidak spesifik | **2** |
-| 45 | HPE | Enterprise IT | Keterkaitan historis pemerintah Israel | **5** |
-| 46 | HP Inc. | PC/Printer | Keterkaitan historis (lebih lemah kini) | **4** |
-| 47 | Dell | Perangkat | Tidak spesifik | **3** |
-| 48 | Lenovo | Perangkat | Tidak spesifik | **2** |
-| 49 | ASUS | Perangkat | Tidak spesifik | **2** |
-| 50 | Acer | Perangkat | Tidak spesifik | **2** |
-| 51 | Samsung | Perangkat | Tidak spesifik | **2** |
-| 52 | Xiaomi | Perangkat | Tidak spesifik | **2** |
-| 53 | OPPO | Perangkat | Tidak spesifik | **2** |
-| 54 | vivo | Perangkat | Tidak spesifik | **2** |
-| 55 | Huawei | Perangkat/Cloud | Tidak spesifik | **2** |
-| 56 | ByteDance (TikTok) | Sosial/Commerce | Tidak spesifik | **2** |
-| 57 | X Corp (Twitter/X) | Sosial | Tidak spesifik | **2** |
-| 58 | Netflix | Streaming | Tidak spesifik | **2** |
-| 59 | Spotify | Musik | Tidak spesifik | **2** |
-| 60 | Shopee (Sea) | E‑commerce/Pay | Tidak spesifik | **2** |
-| 61 | Tokopedia (GoTo) | E‑commerce | Indonesia; tidak ada bukti | **1** |
-| 62 | Lazada (Alibaba) | E‑commerce | Tidak spesifik | **2** |
-| 63 | Bukalapak | E‑commerce | Indonesia; tidak ada bukti | **1** |
-| 64 | Blibli | E‑commerce | Indonesia; tidak ada bukti | **1** |
-| 65 | Traveloka | Travel | Indonesia; tidak ada bukti | **1** |
-| 66 | Tiket.com | Travel | Indonesia; tidak ada bukti | **1** |
-| 67 | Gojek | On‑demand | Indonesia; tidak ada bukti | **1** |
-| 68 | Grab | On‑demand | SEA; tidak ada bukti | **1** |
-| 69 | OVO | Dompet digital | Indonesia | **1** |
-| 70 | DANA | Dompet digital | Indonesia | **1** |
-| 71 | GoPay | Dompet digital | Indonesia | **1** |
-| 72 | LinkAja | Dompet digital | Indonesia | **1** |
-| 73 | ShopeePay | Dompet digital | SEA | **1** |
-| 74 | Xendit | Payment gateway | Indonesia | **1** |
-| 75 | Midtrans | Payment gateway | Indonesia | **1** |
-| 76 | DOKU | Payment gateway | Indonesia | **1** |
-| 77 | Kredivo | Paylater | Indonesia/SEA | **1** |
-| 78 | Akulaku | Paylater | Indonesia/SEA | **1** |
-| 79 | Jenius (BTPN) | Bank digital | Indonesia | **1** |
-| 80 | Bank Jago | Bank digital | Indonesia | **1** |
-| 81 | SeaBank | Bank digital | Indonesia | **1** |
-| 82 | LINE Bank (Hana) | Bank digital | Indonesia | **1** |
-| 83 | digibank by DBS | Bank digital | Indonesia | **1** |
-| 84 | Halodoc | Healthtech | Indonesia | **1** |
-| 85 | Alodokter | Healthtech | Indonesia | **1** |
-| 86 | SehatQ | Healthtech | Indonesia | **1** |
-| 87 | Ruangguru | Edtech | Indonesia | **1** |
-| 88 | Zenius | Edtech | Indonesia | **1** |
-| 89 | Quipper | Edtech | Operasi di ID | **1** |
-| 90 | Telkomsel | Seluler | Indonesia | **1** |
-| 91 | Indosat Ooredoo Hutchison | Seluler | Indonesia | **1** |
-| 92 | XL Axiata | Seluler | Indonesia | **1** |
-| 93 | Smartfren | Seluler | Indonesia | **1** |
-| 94 | IndiHome (Telkom) | Fixed broadband | Indonesia | **1** |
-| 95 | Biznet | Fixed broadband | Indonesia | **1** |
-| 96 | First Media (Link Net) | Fixed broadband | Indonesia | **1** |
-| 97 | MyBluebird | Transport | Indonesia | **1** |
-| 98 | Maxim | Ride‑hailing | Ada di ID | **1** |
-| 99 | Radware/Imperva/SentinelOne | Keamanan | Akar/operasi Israel | **4–5** |
-| 100 | Vercel (pengulangan) | Cloud/dev | Konsistensi web‑infra | **3** |
-
-> **Catatan:** #99 mengelompokkan tiga vendor siber dengan akar Israel; skor indikatif **4–5**.
-
----
-
-## Bagian D — Dekat dengan Prof. NOTA (Teknologi)
-**Stack/merek/tool yang paling mungkin/sering disentuh Prof. NOTA**.
-
-| # | Entitas | Domain | Alasan Ringkas | Skor |
-|---|---|---|---|---|
-| 1 | Google (GCP/Workspace/YouTube) | Cloud/Tools | Core stack; **Project Nimbus** | **9** |
-| 2 | AWS | Cloud | Core stack; mitra **Nimbus** | **9** |
-| 3 | Microsoft (Azure/GitHub) | Cloud/Dev | GitHub; sorotan layanan militer | **6** |
-| 4 | Oracle (OCI) | Cloud | DC bawah tanah di Yerusalem | **7** |
-| 5 | Intel | Chip | Rantai alat/dev; fab Israel | **5** |
-| 6 | NVIDIA | AI/Networking | Rantai alat/dev; Mellanox | **5** |
-| 7 | Salesforce/Slack | SaaS/Collab | Akuisisi **Datorama**; hadir di Israel | **6** |
-| 8 | Vercel/Next.js | Dev hosting | Sorotan foto/rapat PM Israel | **3** |
-| 9 | Consensys (MetaMask/Infura/Linea) | Web3 infra | Kemitraan Blockaid (TLV) | **4** |
-| 10 | Coinbase/Base | Exchange/L2 | Ekspansi peran Israel | **3** |
-| 11 | Chainalysis | Analytics | Kantor TLV; akuisisi Alterya | **5** |
-| 12 | Akamai | CDN/Edge | Akuisisi **Cotendo** | **5** |
-| 13 | Cloudflare | CDN/Edge | PoP Tel Aviv | **4** |
-| 14 | OpenAI / ChatGPT | AI asisten | Tidak ada bukti institusional Israel | **1** |
-| 15 | Thirdweb | Web3 tooling | Tidak ada bukti | **1** |
-| 16 | Optimism | L2 | Tidak ada bukti | **1** |
-| 17 | Avalanche | L1 | Tidak ada bukti | **1** |
-| 18 | Protocol Labs (IPFS/Filecoin) | Storage | Tidak ada bukti | **1** |
-| 19 | Arweave | Storage | Tidak ada bukti | **1** |
-| 20 | Alchemy | Web3 infra | Tidak ada bukti | **1** |
-| 21 | QuickNode | Web3 infra | Tidak ada bukti | **1** |
-| 22 | Netlify | Dev hosting | Tidak ada bukti | **1** |
-| 23 | Supabase | Backend | Tidak ada bukti | **1** |
-| 24 | Notion | Docs | Tidak ada bukti | **1** |
-| 25 | Figma | Desain | Tidak ada bukti | **1** |
-
----
-
-## Bagian E — Dekat dengan Prof. NOTA (Non‑Teknologi)
-**Skate/streetwear, F&B, ritel, logistik, dsb.**
-
-| # | Entitas | Kategori | Kedekatan dgn Prof. NOTA | Alasan Skor | Skor |
-|---|---|---|---|---|---|
-| 1 | McDonald’s | F&B | Mobilitas/meeting umum | Akuisisi penuh waralaba Israel (2024) | **6** |
-| 2 | PepsiCo (termasuk SodaStream) | Minuman/alat | Konsumsi massal | Akuisisi **SodaStream** (Israel) | **5** |
-| 3 | Nestlé (incl. Osem) | F&B | Konsumsi massal | **Buyout Osem** (Israel) | **5** |
-| 4 | Zara (Inditex) | Fashion | Streetwear ref | Flagship besar Israel (2025) | **4** |
-| 5 | H&M | Fashion | Fast‑fashion ref | Operasi ritel resmi Israel | **4** |
-| 6 | IKEA (Ingka) | Furnitur | Studio/etalase | Operasi ritel Israel; investasi terkait | **4** |
-| 7 | Puma | Apparel | Skate/street | Akhiri sponsor IFA (2024) | **3** |
-| 8 | Coca‑Cola (CBC Israel) | Minuman | Konsumsi massal | Bottler eksklusif Israel | **3** |
-| 9 | Domino’s | F&B | Konsumsi massal | Operasi waralaba Israel | **3** |
-| 10 | KFC (Americana) | F&B | Konsumsi massal | Operasi MEA (termasuk Israel) | **3** |
-| 11 | Burger King | F&B | Konsumsi massal | Waralaba Israel | **3** |
-| 12 | Decathlon | Ritel olahraga | Perlengkapan skate | Toko & ekspansi Israel | **3** |
-| 13 | Nike | Footwear | Skate ref | Ritel resmi Israel | **2** |
-| 14 | Vans | Footwear | Core skate | Ritel resmi Israel | **2** |
-| 15 | Converse | Footwear | Skate/street | Jejak Israel tak material | **2** |
-| 16 | Dickies | Workwear | Workwear ref | Distribusi Israel | **2** |
-| 17 | Carhartt WIP | Streetwear | Workwear ref | Retailer Israel | **2** |
-| 18 | Hasbro | Mainan/board game | Referensi | Jejak Israel tak material | **2** |
-| 19 | Mattel | Mainan | Referensi | Jejak Israel tak material | **2** |
-| 20 | Bluebird | Transport | Mobilitas harian | Indonesia; tidak ada bukti | **1** |
-| 21 | Gramedia | Buku/ritel | Penerbitan | Indonesia; tidak ada bukti | **1** |
-| 22 | Santa Cruz | Skate | IP skate art | Tidak ada bukti | **1** |
-| 23 | Independent Trucks | Skate hardware | Suplai deck | Tidak ada bukti | **1** |
-| 24 | Spitfire Wheels | Skate hardware | Suplai deck | Tidak ada bukti | **1** |
-| 25 | Powell‑Peralta/Bones | Skate hardware | Suplai deck | Tidak ada bukti | **1** |
-| 26 | Burger King (operasi ID) | F&B | Konsumsi lokal | Entitas lokal; tidak ada bukti | **2** |
-| 27 | Kopi Kenangan/Mayora/Kapal Api | F&B | Konsumsi lokal | Indonesia; tidak ada bukti | **1** |
-| 28 | PRINCIPLE | Fashion (kolab) | Mitra kerja | Brand lokal; tidak ada bukti | **1** |
-| 29 | BANANOW LAND / SKATESHOP.ID | Skate (IP) | IP Prof. NOTA | Operasi internal; tidak ada bukti | **1** |
-| 30 | Caterpillar | Alat berat | Mesin/manufaktur | Penggunaan alat oleh militer Israel | **8** |
+> **Catatan:** Tabel lintas sektor menekankan entitas berpengaruh lintas industri yang sering muncul dalam diskursus publik.  
+> **Catatan:** #93 mengelompokkan tiga vendor siber dengan akar Israel; skor indikatif **4–5**.
 
 ---
 
@@ -276,7 +207,8 @@ Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemeri
 - **Eksposur tertinggi** dalam stack Prof. NOTA ada pada **hyperscaler cloud** (Google & AWS) yang berada di skor **9**. Bila ingin **mengurangi paparan**, pertimbangkan strategi **multi‑cloud** dan **abstraksi infra** (container, IaC, edge/CDN multi‑vendor).  
 - **Lapisan dev hosting** (Vercel/Netlify) berada di skor rendah‑menengah; mitigasi melalui **deployment adapters** (Next.js SSR → Node/Edge adapters) agar **portabilitas** meningkat.  
 - **Web3 infra** (Consensys/Chainalysis/Coinbase) menunjukkan paparan **moderat‑rendah**; kunci mitigasi adalah **multi‑RPC/multi‑custody** dan **self‑hosted gateways** untuk alur kritikal.  
-- **Non‑Teknologi**: beberapa ritel & F&B global (McDonald’s, PepsiCo/SodaStream, Nestlé) berada di **5–6**. Untuk aktivitas publik Prof. NOTA (kampanye, kurasi brand), bisa diberi **label transparansi** atau **alternatif lokal**.
+- **Non‑Teknologi**: beberapa ritel & F&B global (McDonald’s, PepsiCo/SodaStream, Nestlé) berada di **5–6**. Untuk aktivitas publik Prof. NOTA (kampanye, kurasi brand), bisa diberi **label transparansi vendor** atau **alternatif lokal**.
+- **Kebijakan vendor internal**: jadikan skor sebagai **tiering** (≥7 perlu justifikasi & mitigasi; 5–6 pantau dan siapkan opsi kedua; ≤4 risiko rendah namun tetap pastikan portabilitas).
 
 ---
 
@@ -310,3 +242,8 @@ Skor **1–10** = indikator **keterkaitan institusional** dengan **Negara/Pemeri
 
 *Subjek dokumen ini adalah **Prof. NOTA**. Setiap penggunaan ulang harap menjaga konteks dan tidak menyalahi interpretasi skor sebagai vonis ideologis personal.*
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
