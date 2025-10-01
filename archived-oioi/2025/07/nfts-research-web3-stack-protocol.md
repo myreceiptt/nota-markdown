@@ -76,3 +76,8 @@ iBLOOMING can use the Web3 Stack Protocol to:
 
 The NFT layer is not a silo — it’s a protocol. By adopting the Web3 Stack Protocol, NFT ecosystems become more **resilient, interoperable, and composable**. This enables long-term value, especially in education, identity, and cultural memory.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
