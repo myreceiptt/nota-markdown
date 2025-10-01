@@ -76,3 +76,8 @@ iBLOOMING’s vision of participatory education governance can use the stack to:
 
 The DAO of the future is not built monolithically — it’s **stacked**. The Web3 Stack Protocol offers a way to **orchestrate governance tools**, reduce risk, and promote transparency in a modular and scalable framework. iBLOOMING has the potential to become its flagship use-case in education.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
