@@ -81,3 +81,9 @@ Skateboarding = **open‑source protocol**. Kodenya: **budaya**, _maintainer_‑
 ---
 
 *Disusun: 2025-09-18 20:43 WIB · Prof. NOTA POV*
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
