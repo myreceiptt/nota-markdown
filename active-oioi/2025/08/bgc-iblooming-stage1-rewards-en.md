@@ -101,7 +101,7 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 ### Rewards based on **Sales Points (SP)** at BGC are:
 
 1. BGC **Referral (RR)** & **Generation Rewards (GR)**
-2. BGC **Miracle Cash (MC)**
+2. BGC **Miracle Cash (BGC-MC)**
 3. BGC **Global Pool Sales Points (GPSP)**
 4. BGC **WEC Global Pool**
 
@@ -201,6 +201,7 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 
 - At iBLOOMING, besides GiM sign-ups and iMATRIX plans (one-time purchase), the products offered are digital (e-courses, e-books, etc.) from **Channel Providers (CP)** or **CP Users**.
 - A **CP User** can be an individual or an organization recruited by an **Affiliate User** to supply content sold as digital products on iBLOOMING.
+- A **CP User** can obtain **Executive CP** status if their accumulated total income based on Rebates at iBLOOMING, within **60 consecutive days**, has reached **$10,000.00**.
 - **Executive CP** status is permanent once the threshold is reached within the specified 60 days.
 
 ➡️ **Additional Notes:**
