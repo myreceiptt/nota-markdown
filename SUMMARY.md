@@ -38,6 +38,7 @@
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
+      * [PRAHARA PASAR UANG](archived-oioi/2025/10/prahara-pasar-uang.md)
     * [202509](archived-oioi/2025/09/README.md)
       * [SKOR TAUTAN ZIONIS](archived-oioi/2025/10/zionist-linkage-scoring.md)
       * [GLITCH RIWAYAT TRANSAKSI 30S2K25](archived-oioi/2025/09/glitch-riwayat-transaksi-per-30-september-2025.md)
