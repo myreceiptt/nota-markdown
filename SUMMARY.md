@@ -38,6 +38,7 @@
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
+      * [RESUME FOR TECHNICAL DOCUMENTATION ENGINEER](archived-oioi/2025/10/resume_prof_nota_tech.doc-engineer.md)
       * [PRAHARA PASAR UANG](archived-oioi/2025/10/prahara-pasar-uang.md)
     * [202509](archived-oioi/2025/09/README.md)
       * [SKOR TAUTAN ZIONIS](archived-oioi/2025/10/zionist-linkage-scoring.md)
