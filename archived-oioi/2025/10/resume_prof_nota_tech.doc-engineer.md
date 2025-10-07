@@ -1,10 +1,20 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Prof. NOTA v.11
-Surabaya, Indonesia · nota@endhonesa.com · +62 8563160756 · LinkedIn: linkedin.com/in/prof-nota-56554a351 · GitHub: github.com/myreceiptt
+Surabaya, Indonesia · nota@endhonesa.com · +62 8563160756 · GitHub: [myreceiptt](https://github.com/myreceiptt)
 
 ---
 
 ## Summary
-Technical Documentation Engineer & Web3/Node.js builder with ~2.2 years hands‑on Node.js/TypeScript and ~4 years of technical writing. Blends engineer’s rigor with a storyteller’s clarity: turns fast‑moving codebases into clean, living docs, examples, and release notes. Strongest work: **PABRIK ROTI** — a multi‑tenant, Web3‑enabled app (Next.js/TypeScript) with formal docs, versioned releases, and licensing.
+Technical Documentation Engineer & Web3/Node.js builder with ~2.2 years of hands‑on Node.js/TypeScript and ~4 years of technical writing. Blends engineer’s rigor with a storyteller’s clarity: turns fast‑moving codebases into clean, living docs, examples, and release notes. Strongest work: **PABRIK ROTI** — a multi‑tenant, Web3‑enabled app (Next.js/TypeScript) with formal docs, versioned releases, and licensing.
 
 ---
 
@@ -13,7 +23,7 @@ Technical Documentation Engineer & Web3/Node.js builder with ~2.2 years hands‑
 - **Docs:** GitBook, Markdown, READMEs, API refs, release notes, architecture overviews
 - **Tooling:** Git, GitHub, CI, Issues/Projects, Vercel deploys
 - **Web3:** Thirdweb SDK, ERC‑20/721/1155 patterns, wallet flows, token gating
-- **Collaboration:** Asynchronous remote workflows, PR reviews, changelog discipline
+- **Collaboration:** Asynchronous remote workflows, PR reviews, and changelog discipline
 
 ---
 
@@ -35,11 +45,11 @@ Technical Documentation Engineer & Web3/Node.js builder with ~2.2 years hands‑
 
 ## Selected Documentation & Writing
 - **THE KING’S WORLD (GitBook)** — Portfolio of project docs, timelines, and guides.  
-  docs.endhonesa.com
+  [docs.endhonesa.com](https://docs.endhonesa.com)
 - **PABRIK ROTI — Release v.2.4.66‑travconn** — Release notes (token‑gated perks page) and versioning discipline.  
-  github.com/myreceiptt/pabrikroti-master/releases/tag/v.2.4.66-travconn
+  [v.2.4.66 travconn](https://github.com/myreceiptt/pabrikroti-master/releases/tag/v.2.4.66-travconn)
 - **Blockchain Fundamental — Tutors X Educators (GitBook)** — Multi‑part tutorial series (P2P, DApps, ERC‑20/721, etc.).  
-  baca.endhonesa.com/tutor-01-blockchain-fundamental
+  [Blockchain Fundamental](https://baca.endhonesa.com/tutor-01-blockchain-fundamental)
 
 ---
 
@@ -64,15 +74,21 @@ Self‑directed, project‑driven engineering and documentation in Web3 and dist
 ---
 
 ## Links
-- GitBook: docs.endhonesa.com  
-- GitBook: baca.endhonesa.com  
-- GitHub: github.com/myreceiptt  
-- Project: github.com/myreceiptt/pabrikroti-master
+- GitBook: [docs.endhonesa.com](https://docs.endhonesa.com)  
+- GitBook: [baca.endhonesa.com](https://baca.endhonesa.com)  
+- GitHub: [github.com/myreceiptt](https://github.com/myreceiptt)  
+- Project: [pabrikroti](https://github.com/myreceiptt/pabrikroti-master)
 
 ---
 
 ## Logistics
 - **Work location:** Surabaya, Indonesia (remote)
 - **Availability:** Immediate
-- **Expected annual salary:** **USD 90,000** (see notes prepared for application form)
+- **Expected annual salary:** **USD 74,747** (see notes prepared for application form)
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
 
