@@ -43,9 +43,9 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with five 
 | ---------- | ------------------: |
 | Pathfinder | $100.00             |
 | Voyager    | $500.00             |
-| Explorer   | $1,590.00           |
-| Pioneer    | $2,650.00           |
-| Special    | $10,600.00          |
+| Explorer   | $1,725.00           |
+| Pioneer    | $2,875.00           |
+| Special    | $11,500.00          |
 
 ➡️ **Important Notes:**
 - The **Entry Fee** is the fiat on-ramp into the BGC system.
@@ -87,9 +87,9 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 |-----------------|---------:|
 | Pathfinder      | 70 SP    |
 | Voyager         | 350 SP   |
-| Explorer        | 1,113 SP |
-| Pioneer         | 1,855 SP |
-| Special         | 7,420 SP |
+| Explorer        | 1,207 SP |
+| Pioneer         | 2,012 SP |
+| Special         | 8,050 SP |
 
 ➡️ Fixed Value: **1 SP = $1.00** (for calculation; non-volatile).  
 ➡️ Detailed **SP** acquisition & distribution mechanics will be elaborated in the following chapter.
@@ -120,9 +120,9 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 |----------------|---------:|----------------------:|----------------------:|----------------------:|
 | Pathfinder     | 70 SP    | 10% → **7.00 SP**     | 0% → **0.00 SP**      | 0% → **0.00 SP**      |
 | Voyager        | 350 SP   | 10% → **35.00 SP**    | 13% → **45.50 SP**    | 16% → **56.00 SP**    |
-| Explorer       | 1,113 SP | 12% → **133.56 SP**   | 14% → **155.82 SP**   | 17% → **189.21 SP**   |
-| Pioneer        | 1,855 SP | 15% → **278.25 SP**   | 15% → **278.25 SP**   | 18% → **333.90 SP**   |
-| Special        | 7,420 SP | 15% → **1,113.00 SP** | 15% → **1,113.00 SP** | 18% → **1,335.60 SP** |
+| Explorer       | 1,207 SP | 12% → **144.84 SP**   | 14% → **168.98 SP**   | 17% → **205.19 SP**   |
+| Pioneer        | 2,012 SP | 15% → **301.80 SP**   | 15% → **301.80 SP**   | 18% → **362.16 SP**   |
+| Special        | 8,050 SP | 15% → **1,207.50 SP** | 15% → **1,207.50 SP** | 18% → **1,449.00 SP** |
 
 **Notes**
 - Percentages apply to **LTS by U** according to the level **U** joined.  
@@ -140,13 +140,13 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 | New User **U** | 2025/08/19 07:47 PM | Pathfinder | 70 SP           | 0 SP                             |
 | New User +1    | 2025/08/20 01:01 AM | Pathfinder | 70 SP           | 0.1% → **0.07 SP**               |
 | New User +2    | 2025/08/21 04:47 PM | Voyager    | 350 SP          | 0.1% → **0.35 SP**               |
-| New User +3    | 2025/08/22 11:11 PM | Explorer   | 1,113 SP        | 0.1% → **1.11 SP**               |
-| New User +4    | 2025/08/23 07:47 PM | Pioneer    | 1,855 SP        | 0.1% → **1.86 SP**               |
-| New User +5    | 2025/08/24 11:11 AM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
-| New User +6    | 2025/08/25 01:01 PM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
-| New User +7    | 2025/08/26 10:10 AM | Special    | 7,420 SP        | 0.1% → **7.42 SP**               |
-| New User +8    | 2025/08/27 04:47 PM | Pioneer    | 1,855 SP        | 0.1% → **1.86 SP**               |
-| New User +9    | 2025/08/28 11:11 PM | Explorer   | 1,113 SP        | 0.1% → **1.11 SP**               |
+| New User +3    | 2025/08/22 11:11 PM | Explorer   | 1,207 SP        | 0.1% → **1.21 SP**               |
+| New User +4    | 2025/08/23 07:47 PM | Pioneer    | 2,012 SP        | 0.1% → **2.01 SP**               |
+| New User +5    | 2025/08/24 11:11 AM | Special    | 8,050 SP        | 0.1% → **8.05 SP**               |
+| New User +6    | 2025/08/25 01:01 PM | Special    | 8,050 SP        | 0.1% → **8.05 SP**               |
+| New User +7    | 2025/08/26 10:10 AM | Special    | 8,050 SP        | 0.1% → **8.05 SP**               |
+| New User +8    | 2025/08/27 04:47 PM | Pioneer    | 2,012 SP        | 0.1% → **2.01 SP**               |
+| New User +9    | 2025/08/28 11:11 PM | Explorer   | 1,207 SP        | 0.1% → **1.21 SP**               |
 | New User +10   | 2025/08/29 04:47 PM | Voyager    | 350 SP          | 0.1% → **0.35 SP**               |
 | New User +11   | 2025/08/30 07:47 PM | Pathfinder | 70 SP           | 0 SP                             |
 | New User +12   | 2025/08/31 10:10 AM | Pathfinder | 70 SP           | 0 SP                             |
@@ -166,9 +166,9 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 |----------------|---------:|----------------------:|
 | Pathfinder     | 70 SP    | 15% → **10.50 SP**    |
 | Voyager        | 350 SP   | 15% → **52.50 SP**    |
-| Explorer       | 1,113 SP | 15% → **166.95 SP**   |
-| Pioneer        | 1,855 SP | 15% → **278.25 SP**   |
-| Special        | 7,420 SP | 15% → **1,113.00 SP** |
+| Explorer       | 1,207 SP | 15% → **181.05 SP**   |
+| Pioneer        | 2,012 SP | 15% → **301.80 SP**   |
+| Special        | 8,050 SP | 15% → **1,207.50 SP** |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
@@ -186,9 +186,9 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 |----------------|---------:|-------------------:|
 | Pathfinder     | 70 SP    | 3% → **2.10 SP**   |
 | Voyager        | 350 SP   | 3% → **10.50 SP**  |
-| Explorer       | 1,113 SP | 3% → **33.39 SP**  |
-| Pioneer        | 1,855 SP | 3% → **55.65 SP**  |
-| Special        | 7,420 SP | 3% → **222.60 SP** |
+| Explorer       | 1,207 SP | 3% → **36.21 SP**  |
+| Pioneer        | 2,012 SP | 3% → **60.36 SP**  |
+| Special        | 8,050 SP | 3% → **241.50 SP** |
 
 **Notes**
 - Percentages apply to **LTS** based on the level of new users who joined.  
