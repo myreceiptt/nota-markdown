@@ -14,6 +14,7 @@
     * [202512](active-oioi/2025/12/README.md)
     * [202511](active-oioi/2025/11/README.md)
     * [202510](active-oioi/2025/10/README.md)
+      * [CATATAN EMAS & BITCOIN SANG RAJA](active-oioi/2025/10/catatan-emas-dan-bitcoin-sang-raja.md)
     * [202509](active-oioi/2025/09/README.md)
       * [BGC X IBLOOMING WHITE PAPER](active-oioi/2025/09/bgc-iblooming-draft-whitepaper.md)
       * [BGC X IBLOOMING TOKEN FLOW MAP](active-oioi/2025/09/token-flow-map.md) 
