@@ -19,7 +19,7 @@ coverY: 0
 
 ## Table of Contents
 
-1. [Purpose & Scope](#1-purpose--scope)  
+1. [Purpose & Scope](#id-1-purpose-and-scope)  
 2. [Key Decisions](#2-key-decisions)  
 3. [Constraints & Non-Goals](#3-constraints--non-goals)  
 4. [Architecture Overview](#4-architecture-overview)  
