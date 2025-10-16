@@ -19,22 +19,22 @@ coverY: 0
 
 ## Table of Contents
 
-1. Purpose & Scope  
-2. Key Decisions  
-3. Constraints & Non-Goals  
-4. Architecture Overview  
-5. User Journeys  
-6. Data Model (Unified)  
-7. API Specification  
-8. Security Model  
-9. Thirdweb Integration — Step-by-Step  
-10. DevOps & Environments  
-11. Migration & Rollout  
-12. Testing Strategy  
-13. Operations (RBAC & Merge)  
-14. Acceptance Criteria & Launch Checklist  
-15. Change Log  
-16. Appendix — Reference Snippets
+1. [Purpose & Scope](#1-purpose--scope)  
+2. [Key Decisions](#2-key-decisions)  
+3. [Constraints & Non-Goals](#3-constraints--non-goals)  
+4. [Architecture Overview](#4-architecture-overview)  
+5. [User Journeys](#5-user-journeys)  
+6. [Data Model (Unified)](#6-data-model-unified)  
+7. [API Specification](#7-api-specification)  
+8. [Security Model](#8-security-model)  
+9. [Thirdweb Integration — Step-by-Step](#9-thirdweb-integration--step-by-step)  
+10. [DevOps & Environments](#10-devops--environments)  
+11. [Migration & Rollout](#11-migration--rollout)  
+12. [Testing Strategy](#12-testing-strategy)  
+13. [Operations (RBAC & Merge)](#13-operations-rbac--merge)  
+14. [Acceptance Criteria & Launch Checklist](#14-acceptance-criteria--launch-checklist)  
+15. [Appendix — Reference Snippets](#appendix--reference-snippets-illustrative)
+16. [Appendix — Cost Estimates (Non-HR)](#appendix--cost-estimates-non-hr)
 
 ---
 
@@ -100,6 +100,8 @@ This standardizes on-chain identity to **one EOA and one Smart Account (AA) per 
   - Secrets in **vault**; **regular rotation** (JWT/JWKS, DB, RPC, webhooks).
   - PII minimization; sensitive fields encrypted at rest.
   - Observability + rate-limits for login/OTP/SIWE/AA endpoints; immutable audits for binds/merges.
+
+- **In-App Wallet (Starter plan)** uses Thirdweb’s built-in OTP (Email/Phone) for **Create Wallet**; **no BYO-Auth/JWT** for wallet creation in this phase.
 
 **Non-Goals**
 
@@ -243,23 +245,32 @@ On‑chain:
 ## 9) Thirdweb Integration — Step-by-Step
 
 **9.1 Capabilities used**
-- **Embedded/In-App Wallet** (Create EOA) — supports **email/OTP/phone/social/***passkey (WebAuthn)*** sign-in.
-- **SIWE (Auth)** for existing wallets.
+- **In-App (Embedded) Wallet — built-in auth via Email OTP or Phone OTP** (Starter plan; no Thirdweb Passkey/Social for wallet creation).
+- **SIWE (Auth)** for existing wallets (Connect Wallet).
 - **Smart Accounts (AA)** with deterministic deployment (factory + salt).
 - **WalletConnect** for UX.
 - Optional **Paymaster/Bundler** for gas sponsorship.
 
 **9.2 Client (Web)**
-1) Install Thirdweb and wrap the app with its provider (chains, `clientId`, AA/paymaster config).  
-2) After a successful **credentials/Passkey login**, open the **Wallet Setup** modal with two choices: **Create Wallet** or **Connect Wallet**.  
-3) **Create Wallet (Embedded/In-App)**  
-   - Trigger embedded flow (email/OTP/phone/social/**passkey**).  
-   - Receive **EOA**; instantiate **Smart Account (AA)** on top (set `sponsorGas: true` if using a paymaster).  
-4) **Connect Wallet (SIWE)**  
-   - Connect via WalletConnect/extension.  
-   - Request SIWE **challenge** from server; user signs; server **verifies**.  
-   - Instantiate **AA** for that EOA.  
-5) Persist `{ eoa, aa }` to the backend via Wallet Setup endpoints.
+1) After a successful BGC/iB login (credentials/Passkey handled by our system), open a **custom modal with exactly two buttons**:
+   - **Create Wallet** (In-App Wallet, built-in)
+   - **Connect Wallet** (External + SIWE)
+
+2) **Create Wallet** (In-App, built-in)
+   - Prefer **Email OTP** if `user.email` exists; otherwise use **Phone OTP** if `user.phone` exists.
+   - Invoke Thirdweb In-App Wallet with the corresponding **built-in strategy** (`strategy: "email"` or `strategy: "phone"`).
+   - After OTP verification, obtain **EOA**, then instantiate **AA** (`sponsorGas: true` if applicable).
+   - Persist `{ eoa, aa }` via `/wallet/provision`.
+
+3) **Connect Wallet** (External + SIWE)
+   - Let the user choose an external wallet (e.g., MetaMask / Phantom (EVM) / Coinbase) via WalletConnect/extension.
+   - Request SIWE **challenge** from server → user signs → server **verifies** (nonce, domain/uri/chainId).
+   - Instantiate **AA** for that EOA; persist `{ eoa, aa }` via `/wallet/connect/siwe`.
+
+4) **Guardrails & UX**
+   - If neither `email` nor `phone` is available, prompt the user to add one before Create Wallet.
+   - Rate-limit Create Wallet to avoid OTP spam; show clear copy that the OTP is sent by the wallet provider.
+   - Deduplicate on the backend (one EOA/AA per chain).
 
 **9.3 Server (Auth + Identity)**
 - **Credentials/Passkey login**: issue session/JWT `{ user_id, roles }`. (Passkey ceremonies handled by WebAuthn endpoints in the Auth service.)  
@@ -346,15 +357,6 @@ On‑chain:
 
 ---
 
-## 15) Change Log
-
-- **Rev D (2025-10-13):** Clean rewrite, removed duplication; stable single-source structure.  
-- Rev C (2025-10-13): Re-structured sequence; added detailed Thirdweb guide, Testing/Operations.  
-- Rev B (2025-10-13): Introduced unified auth + post-login Wallet Setup.  
-- Rev A (2025-10-13): First unified draft.
-
----
-
 ## Appendix — Reference Snippets (Illustrative)
 
 > Notes  
@@ -368,7 +370,7 @@ On‑chain:
 
 ```ts
 // WalletSetupCreate.ts
-// Trigger embedded wallet (email/OTP/phone/social/**passkey**) → get EOA → build AA.
+// Trigger embedded wallet (**email OTP** or **phone OTP**) → get EOA → build AA.
 import { connectEmbeddedWallet, connectSmartAccount } from "@/lib/wallet"; // wrap actual SDK calls
 
 export async function createEmbeddedAA(params: {
@@ -377,7 +379,7 @@ export async function createEmbeddedAA(params: {
   chainId: number;
   sponsorGas?: boolean;
 }) {
-  // 1) Create/attach an embedded EOA (choose one: email/OTP/phone/social/passkey)
+  // 1) Create/attach an embedded EOA (choose one: **email OTP** or **phone OTP**)
   const eoa = await connectEmbeddedWallet({
     email: params.email,
     passkey: params.usePasskey === true,
@@ -401,6 +403,8 @@ export async function createEmbeddedAA(params: {
   return { eoa: eoa.address, aa: aa.address };
 }
 ```
+
+---
 
 ### B) Client — Connect (SIWE) → EOA → AA
 
@@ -449,6 +453,8 @@ export async function connectSiweAA(params: {
   return { eoa: eoa.address, aa: aa.address };
 }
 ```
+
+---
 
 ### C) Server — SIWE (challenge & verify, sketch)
 
@@ -500,6 +506,8 @@ export async function POST(req: Request) {
   return Response.json({ ok: true, identityId }, res.headers);
 }
 ```
+
+---
 
 ### D) Server — Passkey (WebAuthn) register & login (sketch)
 
@@ -565,6 +573,8 @@ export async function POST(req: Request) {
 }
 ```
 
+---
+
 ### E) Server — AA Provision (deterministic salt) & persist
 
 ```ts
@@ -598,6 +608,8 @@ export async function POST(req: Request) {
 }
 ```
 
+---
+
 ### F) Types — minimal DTOs (for clarity)
 
 ```ts
@@ -616,6 +628,83 @@ export type WalletPersistReq = { eoa: string; aa: string };
 ```makefile
 ::contentReference[oaicite:0]{index=0}
 ```
+
+---
+
+## Appendix — Cost Estimates (Non-HR)  
+**Plan:** thirdweb **Starter** · **MAU < 1k** · **RPC < 1M** · Chain: **Base mainnet**  
+**Scope:** vendor/platform costs only (no human resources)
+
+---
+
+### 1) Thirdweb platform fees
+
+- **Plan fee:** **Starter = $5 / month**. :contentReference[oaicite:0]{index=0}  
+- **In-App (Embedded) Wallet — MAU pricing:** **$0.015 / MAU** for 0–100k, **first 1,000 wallets free** → with **<1k MAU**, effective **$0**. :contentReference[oaicite:1]{index=1}  
+- **Account Abstraction (AA) — user-ops:** first **1,000 included**, then **$1 per 1,000** (=$0.001/op). With low usage, often **$0**. :contentReference[oaicite:2]{index=2}  
+- **RPC:** first **1,000,000 requests included**; then **$8 per 1M**. With **<1M**, **$0**. :contentReference[oaicite:3]{index=3}  
+
+**Platform subtotal (under stated caps):** **≈ $5 / month**.
+
+> **Note (SMS):** Thirdweb’s pricing notes **international SMS may incur extra fees** (country-dependent). If you avoid **Phone OTP** and use **Email OTP** for “Create Wallet”, this line item is **$0**. :contentReference[oaicite:4]{index=4}
+
+---
+
+### 2) Optional OTP delivery (Phone SMS)
+If you enable **Phone OTP** for wallet creation, budget per SMS by destination. For example, **Indonesia outbound** via Twilio is **$0.4414 per SMS segment** as of Oct-2025; **US** starts around **$0.0083**. (Using **Email OTP** keeps this at **$0**.) :contentReference[oaicite:5]{index=5}
+
+**SMS monthly estimate** = `# of SMS OTP × local_rate`.
+
+---
+
+### 3) Gas sponsorship on Base (largest variable)
+
+- **Reference fee level:** recent data shows **Base average tx fee ≈ $0.03** per transaction. Use this as a baseline for simple, sponsored actions. :contentReference[oaicite:6]{index=6}  
+- **AA (smart account) deploy:** budget **≈ 2× average tx** (contract deployment & init overhead) → **≈ $0.06** per new wallet. *(Rough planning factor.)*  
+- **Paymaster surcharge (if using thirdweb paymaster):** **+2.5%** on sponsored gas. :contentReference[oaicite:7]{index=7}
+
+### Budget table (pick the closest row)
+| Scenario / month | New wallets → **AA deploy** | Sponsored actions | Unit costs used | Raw gas $ | +2.5% paymaster | **Gas total** |
+|---|---:|---:|---:|---:|---:|---:|
+| **Light** | 50 | 200 | Deploy **$0.06**, Action **$0.03** | $3.00 + $6.00 = **$9.00** | **+$0.23** | **$9.23** |
+| **Baseline** | 200 | 600 | Deploy **$0.06**, Action **$0.03** | $12.00 + $18.00 = **$30.00** | **+$0.75** | **$30.75** |
+| **Upper (<1k MAU)** | 800 | 2,000 | Deploy **$0.06**, Action **$0.03** | $48.00 + $60.00 = **$108.00** | **+$2.70** | **$110.70** |
+
+> Real costs vary with network gas, calldata size, and ETH price on the day. You can reduce spend via **lazy AA deploy** (create AA on first action) and by **sponsoring only onboarding** operations.
+
+---
+
+### 4) Monthly roll-up under stated caps
+
+- **Thirdweb platform** (Starter): **~$5**  
+- **In-App Wallet MAU, AA user-ops, RPC**: **$0** (within free tiers). :contentReference[oaicite:8]{index=8}  
+- **Gas sponsorship (Base):** **~$9–$111** depending on onboarding volume & sponsored actions (see table).  
+- **SMS (optional):** `#SMS × local_rate` (e.g., **ID ≈ $0.4414/SMS**; Email-only = **$0**). :contentReference[oaicite:9]{index=9}
+
+**Ballpark total:**  
+- **Email-only OTP:** **≈ $14–$116 / month** *(Starter $5 + gas)*.  
+- **With some Phone OTP (ID):** add **~$0.44 per SMS** used.
+
+---
+
+### 5) Quick formulas (paste into a sheet)
+
+```
+Platform = $5
+
+Gas_raw = (AA_deploy_count × 0.06) + (sponsored_actions × 0.03)
+Gas_total = Gas_raw × 1.025 # thirdweb paymaster surcharge (2.5%)
+
+SMS_cost = SMS_count × local_rate # e.g., ID 0.4414
+
+Grand_total = Platform + Gas_total + SMS_cost
+```
+
+---
+
+### 6) Cost levers to stay low
+- Prefer **Email OTP**; keep **Phone OTP** as fallback only. :contentReference[oaicite:10]{index=10}  
+- **Lazy deploy** smart accounts; sponsor **first action only**; set **budget caps** in paymaster rules. :contentReference[oaicite:11]{index=11}
 
 ---
 
