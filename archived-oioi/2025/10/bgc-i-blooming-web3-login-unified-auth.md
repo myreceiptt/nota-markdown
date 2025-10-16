@@ -639,19 +639,19 @@ export type WalletPersistReq = { eoa: string; aa: string };
 
 ### 1) Thirdweb platform fees
 
-- **Plan fee:** **Starter = $5 / month**. :contentReference[oaicite:0]{index=0}  
-- **In-App (Embedded) Wallet — MAU pricing:** **$0.015 / MAU** for 0–100k, **first 1,000 wallets free** → with **<1k MAU**, effective **$0**. :contentReference[oaicite:1]{index=1}  
-- **Account Abstraction (AA) — user-ops:** first **1,000 included**, then **$1 per 1,000** (=$0.001/op). With low usage, often **$0**. :contentReference[oaicite:2]{index=2}  
-- **RPC:** first **1,000,000 requests included**; then **$8 per 1M**. With **<1M**, **$0**. :contentReference[oaicite:3]{index=3}  
+- **Plan fee:** **Starter = $5 / month**.  
+- **In-App (Embedded) Wallet — MAU pricing:** **$0.015 / MAU** for 0–100k, **first 1,000 wallets free** → with **<1k MAU**, effective **$0**.  
+- **Account Abstraction (AA) — user-ops:** first **1,000 included**, then **$1 per 1,000** (=$0.001/op). With low usage, often **$0**.  
+- **RPC:** first **1,000,000 requests included**; then **$8 per 1M**. With **<1M**, **$0**.  
 
 **Platform subtotal (under stated caps):** **≈ $5 / month**.
 
-> **Note (SMS):** Thirdweb’s pricing notes **international SMS may incur extra fees** (country-dependent). If you avoid **Phone OTP** and use **Email OTP** for “Create Wallet”, this line item is **$0**. :contentReference[oaicite:4]{index=4}
+> **Note (SMS):** Thirdweb’s pricing notes **international SMS may incur extra fees** (country-dependent). If you avoid **Phone OTP** and use **Email OTP** for “Create Wallet”, this line item is **$0**.
 
 ---
 
 ### 2) Optional OTP delivery (Phone SMS)
-If you enable **Phone OTP** for wallet creation, budget per SMS by destination. For example, **Indonesia outbound** via Twilio is **$0.4414 per SMS segment** as of Oct-2025; **US** starts around **$0.0083**. (Using **Email OTP** keeps this at **$0**.) :contentReference[oaicite:5]{index=5}
+If you enable **Phone OTP** for wallet creation, budget per SMS by destination. For example, **Indonesia outbound** via Twilio is **$0.4414 per SMS segment** as of Oct-2025; **US** starts around **$0.0083**. (Using **Email OTP** keeps this at **$0**.)
 
 **SMS monthly estimate** = `# of SMS OTP × local_rate`.
 
@@ -659,27 +659,28 @@ If you enable **Phone OTP** for wallet creation, budget per SMS by destination. 
 
 ### 3) Gas sponsorship on Base (largest variable)
 
-- **Reference fee level:** recent data shows **Base average tx fee ≈ $0.03** per transaction. Use this as a baseline for simple, sponsored actions. :contentReference[oaicite:6]{index=6}  
+- **Reference fee level:** recent data shows **Base average tx fee ≈ $0.03** per transaction. Use this as a baseline for simple, sponsored actions.  
 - **AA (smart account) deploy:** budget **≈ 2× average tx** (contract deployment & init overhead) → **≈ $0.06** per new wallet. *(Rough planning factor.)*  
-- **Paymaster surcharge (if using thirdweb paymaster):** **+2.5%** on sponsored gas. :contentReference[oaicite:7]{index=7}
+- **Paymaster surcharge (if using thirdweb paymaster):** **+2.5%** on sponsored gas.
 
 ### Budget table (pick the closest row)
-| Scenario / month | New wallets → **AA deploy** | Sponsored actions | Unit costs used | Raw gas $ | +2.5% paymaster | **Gas total** |
-|---|---:|---:|---:|---:|---:|---:|
-| **Light** | 50 | 200 | Deploy **$0.06**, Action **$0.03** | $3.00 + $6.00 = **$9.00** | **+$0.23** | **$9.23** |
-| **Baseline** | 200 | 600 | Deploy **$0.06**, Action **$0.03** | $12.00 + $18.00 = **$30.00** | **+$0.75** | **$30.75** |
-| **Upper (<1k MAU)** | 800 | 2,000 | Deploy **$0.06**, Action **$0.03** | $48.00 + $60.00 = **$108.00** | **+$2.70** | **$110.70** |
 
-> Real costs vary with network gas, calldata size, and ETH price on the day. You can reduce spend via **lazy AA deploy** (create AA on first action) and by **sponsoring only onboarding** operations.
+| Scenario / month    | New wallets → **AA deploy** | Sponsored actions |                    Unit costs used |                     Raw gas $ | +2.5% paymaster | **Gas total** |
+| ------------------- | --------------------------: | ----------------: | ---------------------------------: | ----------------------------: | --------------: | ------------: |
+| **Light**           |                          50 |               200 | Deploy **$0.06**, Action **$0.03** |     $3.00 + $6.00 = **$9.00** |      **+$0.23** |     **$9.23** |
+| **Baseline**        |                         200 |               600 | Deploy **$0.06**, Action **$0.03** |  $12.00 + $18.00 = **$30.00** |      **+$0.75** |    **$30.75** |
+| **Upper (<1k MAU)** |                         800 |             2,000 | Deploy **$0.06**, Action **$0.03** | $48.00 + $60.00 = **$108.00** |      **+$2.70** |   **$110.70** |
+
+> Real costs vary with network gas, calldata size, and ETH price on the day. You can reduce spend via **lazy AA deployment** (create AA on first action) and by **sponsoring only onboarding operations**.
 
 ---
 
 ### 4) Monthly roll-up under stated caps
 
 - **Thirdweb platform** (Starter): **~$5**  
-- **In-App Wallet MAU, AA user-ops, RPC**: **$0** (within free tiers). :contentReference[oaicite:8]{index=8}  
+- **In-App Wallet MAU, AA user-ops, RPC**: **$0** (within free tiers).  
 - **Gas sponsorship (Base):** **~$9–$111** depending on onboarding volume & sponsored actions (see table).  
-- **SMS (optional):** `#SMS × local_rate` (e.g., **ID ≈ $0.4414/SMS**; Email-only = **$0**). :contentReference[oaicite:9]{index=9}
+- **SMS (optional):** `#SMS × local_rate` (e.g., **ID ≈ $0.4414/SMS**; Email-only = **$0**).
 
 **Ballpark total:**  
 - **Email-only OTP:** **≈ $14–$116 / month** *(Starter $5 + gas)*.  
@@ -703,8 +704,9 @@ Grand_total = Platform + Gas_total + SMS_cost
 ---
 
 ### 6) Cost levers to stay low
-- Prefer **Email OTP**; keep **Phone OTP** as fallback only. :contentReference[oaicite:10]{index=10}  
-- **Lazy deploy** smart accounts; sponsor **first action only**; set **budget caps** in paymaster rules. :contentReference[oaicite:11]{index=11}
+
+- Prefer **Email OTP**; keep **Phone OTP** as fallback only.  
+- **Lazy deploy** smart accounts; sponsor **first action only**; set **budget caps** in paymaster rules.
 
 ---
 
