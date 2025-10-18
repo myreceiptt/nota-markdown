@@ -159,23 +159,40 @@ semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, k
 ---
 
 ## 2) Snapshot “Open Roles” (contoh nyata terkini)
-> Cuplikan contoh per 18 Okt 2025 (untuk _sense check_ pasar). Isi, perusahaan, dan ketersediaan bisa berubah sewaktu-waktu.
+> **Scope**: Snapshot bulanan (Oktober 2025) — daftar contoh _open roles_ remote yang relevan sebagai bahan _tailoring_ resume.  
+> **Note**: Ketersediaan & detail listing dapat berubah. Selalu cek ulang ke sumbernya.
 
-| Role Title | Perusahaan | Kategori | Sumber | RS | Checklist |
+#### Tabel — Open Roles (Okt 2025)
+| Role Title | Company | Category | Source | RS | Checklist |
 |---|---|---|---|---:|---|
-| Execution Trader | Ethena Labs | Finance/Risk | Web3.career (Remote) | 3 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Head of Product Design | Ethena Labs | Design | Web3.career (Remote) | 3 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Backend Engineer | CoW DAO | Engineering | CryptoJobsList | 4 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Senior Fullstack Engineer | Biconomy | Engineering | CryptoJobsList | 4 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| DevRel Lead | Allora Labs | DevRel | CryptoJobsList | 4 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Product Manager – Platform Security/Compliance | Keyrock | Product | CryptoJobsList | 4 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Senior Analytics Engineer (GTM) | Bitwise | Data | CryptocurrencyJobs.co | 3 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Community Support Specialist (Part‑time) | Zora (OP ecosystem) | Community | Optimism Jobs | 2 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Developer Relations Engineer | Celo | DevRel | (board umum/ekosistem) | 4 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Korea Community Manager | Arbitrum Foundation | Community | Arbitrum Jobs | 3 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
-| Senior Frontend UX Engineer | katana.network (Polygon Eco) | Engineering | Polygon Ecosystem Jobs | 5 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
+| Sr. Front-End Engineer, Product | Zora | Engineering | Optimism Jobs | 5 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Sr. Back-End Engineer, Product | Zora | Engineering | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Product Manager | Conduit | Product | Optimism Jobs | 5 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Implementation Engineer | Conduit | Engineering | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Token & Governance Research Specialist | Base | Research | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Senior Staff Protocol Engineer | Base | Engineering | Optimism Jobs | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Community Support Specialist (Part‑time) | Zora | Community | Optimism Jobs | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Senior Social Media Manager | EoT Labs | Marketing | Web3.career | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| FIU TM Analyst | MoonPay | Compliance | Web3.career | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Execution Trader | Ethena Labs | Trading | Web3.career | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Head of Product Design | Ethena Labs | Design | Web3.career | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Backend Engineer | CoW DAO | Engineering | CryptoJobsList | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Options Portfolio Risk Manager | Re7 Capital | Risk/Finance | CryptoJobsList | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
+| Associate Accountant | Thesis | Finance | CryptoJobsList | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
 
-> _Sumber daftar & halaman “remote” tercantum di Lampiran C._
+#### Cara Pakai
+1) Baca JD di sumber — pastikan **remote** & zona waktu cocok.  
+2) Centang **Checklist** kolom sesuai fakta JD.  
+3) Revisi **RS** (0–5) jika diperlukan, berdasarkan rubrik _F/S/E/R/T_ di dokumen bank peran.  
+4) Tandai **prioritas bulan ini** di notes internal (High/Med/Low).  
+5) Tailor resume dari _ResumeAll_ sesuai kategori & stack peran.
+
+#### Sumber per Entri
+- Optimism Jobs (OP Labs/OP ecosystem) — Zora, Base, Conduit, Uniswap Foundation.  
+- Web3.career — EoT Labs, MoonPay, Ethena Labs, Ethena Labs (design).  
+- CryptoJobsList — Re7 Capital, CoW DAO, Thesis.
+
+> _Selengkapnya sumber daftar & halaman “remote” tercantum di Lampiran C._
 
 ---
 
@@ -192,7 +209,7 @@ semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, k
 7. **Changelog**: catat penambahan/pengurangan signifikan.
 
 **Konvensi berkas**:
-- `roles-open-web3-remote_YYYY-MM.md` — snapshot bulanan (bagian lampiran dokumen ini).
+- `roles-open-web3-remote_YYYY-MM.md` — snapshot bulanan (bagian 2 dokumen ini).
 - `remote-roles-living-list.md` — bank peran (bagian 1 dokumen ini).
 - `resumeall.md` — master resume glossary (dokumen terpisah).
 
@@ -379,46 +396,6 @@ E‑commerce Ops • Marketplace Specialist • Sourcing/Procurement • Logisti
 - Arbitrum Foundation — careers / ecosystem jobs.  
 - Aptos Foundation / Aptos Labs — ecosystem jobs.  
 - Polygon — Ecosystem Job Board.
-
----
-
-### Lampiran D - Contoh Hasilnya
-**Roles Open Web3 Remote - 2025-10.**
-
-_Last generated: 2025-10-18 22:31 UTC+07:00_
-
-> **Scope**: Snapshot bulanan (Oktober 2025) — daftar contoh _open roles_ remote yang relevan sebagai bahan _tailoring_ resume.  
-> **Note**: Ketersediaan & detail listing dapat berubah. Selalu cek ulang ke sumbernya.
-
-#### Tabel — Open Roles (Okt 2025)
-| Role Title | Company | Category | Source | RS | Checklist |
-|---|---|---|---|---:|---|
-| Sr. Front-End Engineer, Product | Zora | Engineering | Optimism Jobs | 5 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Sr. Back-End Engineer, Product | Zora | Engineering | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Product Manager | Conduit | Product | Optimism Jobs | 5 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Implementation Engineer | Conduit | Engineering | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Token & Governance Research Specialist | Base | Research | Optimism Jobs | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Senior Staff Protocol Engineer | Base | Engineering | Optimism Jobs | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Community Support Specialist (Part‑time) | Zora | Community | Optimism Jobs | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Senior Social Media Manager | EoT Labs | Marketing | Web3.career | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| FIU TM Analyst | MoonPay | Compliance | Web3.career | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Execution Trader | Ethena Labs | Trading | Web3.career | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Head of Product Design | Ethena Labs | Design | Web3.career | 3 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Backend Engineer | CoW DAO | Engineering | CryptoJobsList | 4 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Options Portfolio Risk Manager | Re7 Capital | Risk/Finance | CryptoJobsList | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-| Associate Accountant | Thesis | Finance | CryptoJobsList | 2 | [ ] Remote [ ] TZ [ ] Stack [ ] Function [ ] Impact [ ] IP [ ] Consult |
-
-#### Cara Pakai
-1) Baca JD di sumber — pastikan **remote** & zona waktu cocok.  
-2) Centang **Checklist** kolom sesuai fakta JD.  
-3) Revisi **RS** (0–5) jika diperlukan, berdasarkan rubrik _F/S/E/R/T_ di dokumen bank peran.  
-4) Tandai **prioritas bulan ini** di notes internal (High/Med/Low).  
-5) Tailor resume dari _ResumeAll_ sesuai kategori & stack peran.
-
-#### Sumber per Entri
-- Optimism Jobs (OP Labs/OP ecosystem) — Zora, Base, Conduit, Uniswap Foundation.  
-- Web3.career — EoT Labs, MoonPay, Ethena Labs, Ethena Labs (design).  
-- CryptoJobsList — Re7 Capital, CoW DAO, Thesis.
 
 ---
 
