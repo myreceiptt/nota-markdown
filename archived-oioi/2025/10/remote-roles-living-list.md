@@ -35,7 +35,7 @@ semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, k
 - **F (40%)** _Function match_: seberapa pas tugas peran dengan Services & Value.
 - **S (25%)** _Stack match_: Next.js/TS/Tailwind; Thirdweb v5; ERC-4337/1155; Base/Superchain, dsb.
 - **E (15%)** _Ecosystem alignment_: cocok dengan fokus Web3 etis, modular, anti vendor lock‑in.
-- **R (10%)** _Seniority fit_: ruang bagi kontribusi v.11 (IC/Lead/Strategic) sesuai konteks.
+- **R (10%)** _Seniority fit_: ruang bagi kontribusi Prof. NOTA (IC/Lead/Strategic) sesuai konteks.
 - **T (10%)** _Timezone fit_: async/remote-friendly (WIB ± beberapa jam).
 
 > **RS = 0–5** (hasil penilaian kualitatif berbobot di atas).  
@@ -264,7 +264,7 @@ Gunakan rubrik berbobot berikut untuk menghitung **W** lalu bulatkan ke **RS**:
 * **F (40%) — Function match**: seberapa pas tugas peran dengan *Services & Value*.
 * **S (25%) — Stack match**: kedekatan tech stack (Next.js/TS/Tailwind, Thirdweb v5, AA 4337, ERC-1155, Base/OP).
 * **E (15%) — Ecosystem alignment**: keselarasan nilai (modular, anti vendor lock-in, etis/transparan).
-* **R (10%) — Seniority fit**: ada ruang kontribusi sesuai pengalaman v.11 (IC/Lead/Strategic).
+* **R (10%) — Seniority fit**: ada ruang kontribusi sesuai pengalaman Prof. NOTA (IC/Lead/Strategic).
 * **T (10%) — Timezone fit**: cocok untuk kerja async dari WIB.
 
 **Formula:**  
