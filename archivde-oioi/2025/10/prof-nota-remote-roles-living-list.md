@@ -1,16 +1,33 @@
-# PROF. NOTA — REMOTE ROLES LIVING LIST (Roles Bank) v.11
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: book-open-reader
+cover: .gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
+# REMOTE ROLES LIVING LIST (Prof. NOTA's Roles Bank)
 _Last updated: 2025-10-18 22:11 UTC+07:00_
 
-> **Lisensi Teks (Ringkas)**  
-> Read freely. **Do not redistribute or restate** (no quotes, summaries, paraphrases, derivatives) **without prior written permission from Prof. NOTA**. Sharing the **link** is allowed; share the link, not the text. Do not discuss/re-tell the contents in any form without prior written permission.
+> **Lisensi Teks (Ringkas)**:  
+> Bebas untuk dibacalah. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
 
 ---
 
 ## 0) Tentang Dokumen ini
-**Tujuan**: menjadi _living document_ berisi **daftar posisi kerja remote** (bank peran) yang **selaras** dengan _Services & Value_ Prof. NOTA, lengkap dengan **checklist** dan **skor relevansi** sehingga mudah diiris untuk menyusun resume spesifik lowongan.  
-**Siklus pembaruan**: **bulanan** (minggu pertama setiap bulan).  
-**Sumber**: papan lowongan Web3/crypto/remote yang kredibel + papan resmi ekosistem L1/L2 (lihat **Lampiran C — Sumber**).  
-**Metode**: semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, kategorikan ke **klaster A–H** (Services & Value), beri **skor** 0–5, dan centang checklist.
+**Tujuan**:  
+menjadi _living document_ berisi **daftar posisi kerja remote** (bank peran) yang **selaras** dengan [_Services & Value_ Prof. NOTA](../../../archived-oioi/2025/09/firewall-manager-playbook.md#id-3.-prof.-nota-services-and-value), lengkap dengan **checklist** dan **skor relevansi** sehingga mudah diiris untuk menyusun resume spesifik lowongan.  
+
+**Siklus pembaruan**:  
+**bulanan** (minggu pertama setiap bulan).  
+
+**Sumber**:  
+papan lowongan Web3/crypto/remote yang kredibel + papan resmi ekosistem L1/L2 (lihat **Lampiran C — Sumber**).  
+
+**Metode**:  
+semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, kategorikan ke **klaster A–H** (Services & Value), beri **skor** 0–5, dan centang checklist.
 
 **Skor Relevansi (0–5) — Rubrik**
 - **F (40%)** _Function match_: seberapa pas tugas peran dengan Services & Value.
@@ -127,6 +144,7 @@ _Last updated: 2025-10-18 22:11 UTC+07:00_
 
 ## 2) Snapshot “Open Roles” (contoh nyata terkini)
 > Cuplikan contoh per 18 Okt 2025 (untuk _sense check_ pasar). Isi, perusahaan, dan ketersediaan bisa berubah sewaktu-waktu.
+
 | Role Title | Perusahaan | Kategori | Sumber | RS | Checklist |
 |---|---|---|---|---:|---|
 | Execution Trader | Ethena Labs | Finance/Risk | Web3.career (Remote) | 3 | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
@@ -157,20 +175,33 @@ _Last updated: 2025-10-18 22:11 UTC+07:00_
 7. **Changelog**: catat penambahan/pengurangan signifikan.
 
 **Konvensi berkas**:
-- `roles-open-web3-remote_v11_YYYY-MM.md` — snapshot bulanan.
-- `roles-catalog-v11.md` — bank peran (bagian 1 dokumen ini).
-- `resumeall-v11.md` — master resume glossary (dokumen terpisah).
+- `roles-open-web3-remote_YYYY-MM.md` — snapshot bulanan.
+- `roles-catalog.md` — bank peran (bagian 1 dokumen ini).
+- `resumeall.md` — master resume glossary (dokumen terpisah).
 
 ---
 
 ## 4) Bank Kata Kunci (untuk ATS/AI)
-Strategi/Arsitektur: Solutions Architect (Web3) • Enterprise Architect • Innovation Strategist • Discovery Lead • TPM • Presales Engineer.  
-Dokumentasi/Konten: Technical Writer • Documentation Engineer • Knowledge Manager • API Writer • Content Strategist • Copywriter • UX Writer • Editor • Localization.  
-Engineering: Frontend Engineer (React/Next) • Web3 Frontend • Full‑stack JS • Thirdweb SDK • Wallet/AA (ERC‑4337) • QA Automation • QA Manual • Integration • Discord Bot Dev.  
-Produk/Ops: Product Manager • Product Owner • Business Analyst (Web3) • Ops Architect • Scrum Master • PMO Analyst • Release Manager.  
-Komunitas/Publik: Community Manager • Discord Admin/Moderator • Developer Advocate • Technical Evangelist • Speaker/Instructor • Campaign Strategist • Social Content Producer.  
-Custom/Research: Researcher • Narrative Designer • Proposal/Grant Writer • UX Research Assistant.  
-E‑commerce/Legacy: E‑commerce Ops • Marketplace Specialist • Sourcing/Procurement • Logistics Coordinator • Customer Support.
+Strategi/Arsitektur:  
+Solutions Architect (Web3) • Enterprise Architect • Innovation Strategist • Discovery Lead • TPM • Presales Engineer.  
+
+Dokumentasi/Konten:  
+Technical Writer • Documentation Engineer • Knowledge Manager • API Writer • Content Strategist • Copywriter • UX Writer • Editor • Localization.  
+
+Engineering:  
+Frontend Engineer (React/Next) • Web3 Frontend • Full‑stack JS • Thirdweb SDK • Wallet/AA (ERC‑4337) • QA Automation • QA Manual • Integration • Discord Bot Dev.  
+
+Produk/Ops:  
+Product Manager • Product Owner • Business Analyst (Web3) • Ops Architect • Scrum Master • PMO Analyst • Release Manager.  
+
+Komunitas/Publik:  
+Community Manager • Discord Admin/Moderator • Developer Advocate • Technical Evangelist • Speaker/Instructor • Campaign Strategist • Social Content Producer.  
+
+Custom/Research:  
+Researcher • Narrative Designer • Proposal/Grant Writer • UX Research Assistant.  
+
+E‑commerce/Legacy:  
+E‑commerce Ops • Marketplace Specialist • Sourcing/Procurement • Logistics Coordinator • Customer Support.
 
 ---
 
@@ -217,3 +248,10 @@ E‑commerce/Legacy: E‑commerce Ops • Marketplace Specialist • Sourcing/Pr
 
 ## 5) Changelog
 - **2025‑10‑18**: Inisiasi dokumen (v1). Menetapkan rubrik RS, checklist, katalog A–H, snapshot contoh, dan sumber.
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
+
