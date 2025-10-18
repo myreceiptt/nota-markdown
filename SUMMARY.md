@@ -39,6 +39,7 @@
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
+      * [REMOTE ROLES LIVING LIST](archived-oioi/2025/10/remote-roles-living-list.md)
       * [BGC X IBLOOMING WEB3 LOGIN UNIFIED AUTH](archived-oioi/2025/10/bgc-i-blooming-web3-login-unified-auth.md)
       * [RESUME FOR TECHNICAL DOCUMENTATION ENGINEER](archived-oioi/2025/10/resume_prof_nota_tech.doc-engineer.md)
       * [PRAHARA PASAR UANG](archived-oioi/2025/10/prahara-pasar-uang.md)
