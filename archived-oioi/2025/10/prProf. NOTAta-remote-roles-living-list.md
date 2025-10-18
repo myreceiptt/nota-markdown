@@ -11,6 +11,8 @@ coverY: 0
 # REMOTE ROLES LIVING LIST (Prof. NOTA's Roles Bank)
 _Last updated: 2025-10-18 22:11 UTC+07:00_
 
+**Sebuah Roles Bank + Monthly Snapshot & Methodology**
+
 > **Lisensi Teks (Ringkas)**:  
 > Bebas untuk dibacalah. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
 
