@@ -192,8 +192,8 @@ semi-otomatis (“scraping/curation”) — telusuri papan, filter **remote**, k
 7. **Changelog**: catat penambahan/pengurangan signifikan.
 
 **Konvensi berkas**:
-- `roles-open-web3-remote_YYYY-MM.md` — snapshot bulanan.
-- `roles-catalog.md` — bank peran (bagian 1 dokumen ini).
+- `roles-open-web3-remote_YYYY-MM.md` — snapshot bulanan (bagian lampiran dokumen ini).
+- `remote-roles-living-list.md` — bank peran (bagian 1 dokumen ini).
 - `resumeall.md` — master resume glossary (dokumen terpisah).
 
 ---
