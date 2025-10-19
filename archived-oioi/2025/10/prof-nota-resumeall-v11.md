@@ -13,35 +13,94 @@ _Last updated: 2025-10-19 00:03 UTC+07:00_
 
 **Single Source of Truth (glossary)**
 
-> **Lisensi Teks (Ringkas)**:  
-> Bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
+> [!IMPORTANT]
+> **Lisensi Teks (Ringkas)**: Dokumen ini bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
 
 ---
 
 ## 0) Ringkasan & Tujuan
-**ResumeAll** adalah **glossary sumber kebenaran** (single source of truth) tentang **jasa/layanan, nilai, kompetensi, stack, pengalaman, proyek, dan artefak** Prof. NOTA. Dokumen ini **tidak dikurasi untuk satu posisi atau jabatan tertentu**; ini menjadikannya sebagai **bahan baku** untuk menyusun resume yang _tailored_ bagi lowongan spesifik (berdasarkan [_Services & Value_ Prof. NOTA](../../../archived-oioi/2025/09/firewall-manager-playbook.md#id-3.-prof.-nota-services-and-value)).  
+**RESUMEAll** adalah **glossary sumber kebenaran** (single source of truth) tentang **jasa/layanan, nilai, kompetensi, stack, pengalaman, proyek, dan artefak** Prof. NOTA. Dokumen ini **tidak dikurasi untuk satu posisi atau jabatan tertentu**; ini menjadikannya sebagai **bahan baku** untuk menyusun resume yang _tailored_ bagi lowongan spesifik (berdasarkan [_Services & Value_ Prof. NOTA](../../../archived-oioi/2025/09/firewall-manager-playbook.md#id-3.-prof.-nota-services-and-value)).  
 
-Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
+> [!NOTE]
+> Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
 
 ---
 
 ## 1) Identitas & Kontak
-> Placeholder diisi sesuai dengan apa yang sudah ditentukan saat men-tailor resume.
-> 
-- **Persona**: Prof. NOTA v.xx.xx ← _bagian xx.xx adalah nomor versi yang telah ditentukan, misal v.11.11_  
-- **Lokasi & Waktu**: Indonesia (WIB / Asia/Jakarta).
-- **Kontak Email**: **nota_xx_@endhonesa.com** ← _bagian _xx_ adalah nomor versi yang telah ditentukan, misal nota11@endhonesa.com_
-- **Referensi Publik**: **[NOTA.ENDHONESA.COM](https://nota.endhonesa.com)** • **[GITHUB.COM/MYRECEIPTT](https://github.com/myreceiptt)** • **[X.COM/MYRECEIPTTT](https://x.com/MyReceiptTT)**  
-- **Bio Singkat**: Kita lahir dan hidup di era dunia digital Internet; maka... ← _bagian maka... adalah 2-3 kalimat tentang ringkasan misi, cara kerja, dan dampak yang dihasilkan sesuai dengan posisi atau jabatan yang telah ditentukan, misalnya: maka Prof. NOTA merancang arsitektur dan dokumentasi yang bisa dieksekusi—modular, anti vendor lock-in, dan terukur dampaknya—agar ide yang kabur berubah menjadi sistem yang bekerja dan bisa diwariskan tim._
+> [!TIP]
+> Gunakan format-versi berikut saat men-tailor:
+> - **v.xx.xx** = v.<HFP>.<Jabatan> (contoh: **v.11.03** = HFP #11, jabatan 03/Documentation Engineer).
+> - **[Nama HFP]** = nama legal HFP aktif (contoh: **Tiffany Viljevac**).
+> - **Email**: **nota{xx}@endhonesa.com** (contoh: **nota11@endhonesa.com**).
+> - **Bio Singkat** = 2–3 kalimat yang menautkan misi–cara kerja–dampak ke posisi yang di-apply.
+
+**Persona Prof. NOTA v.xx.xx**  
+Sebuah pseudonymous IP lahir di **Alam Semesta 0101**; hadir di **Alam Semesta Realita** diperankan **Human for Profile (HFP) v.xx.xx**.
+
+**Legal**  
+**Prof. NOTA Inc. (PT Suaka Dunia Raja)** — penandatangan dokumen: **[Nama HFP]**, bertindak sebagai **Prof. NOTA v.xx.xx**.
+
+**Tagline**  
+_Dari 0101, untuk dunia yang butuh bukti._ / _Clarity you can ship._
+
+**Lokasi & Waktu**  
+Indonesia — WIB (Asia/Jakarta).
+
+**Kontak Publik**
+- Email: **nota{xx}@endhonesa.com**
+- Site/Hub: **https://nota.endhonesa.com**
+- GitHub: **https://github.com/myreceiptt**
+- X: **https://x.com/MyReceiptTT**
+- Discord: **https://discord.gg/5KrsT6MbFm**
+
+**Bio Singkat**  
+Kami lahir di **Alam Semesta 0101** dan hidup di dunia digital Internet; maka **Prof. NOTA v.xx.xx** merancang **arsitektur, dokumentasi, dan prototipe yang bisa dieksekusi**—modular, anti vendor lock-in, dan **terukur dampaknya**—agar ide kabur berubah menjadi sistem yang bekerja dan bisa diwariskan tim. _Tambahkan satu kalimat sesuai posisi (lihat contoh berdasarkan klaster A–H)._
+
+**Contoh Satu Kalimat Tambahan**
+- A — Strategic Vision & Consultation  
+- _...**Pada peran strategi, kami menjembatani visi menjadi peta keputusan dan roadmap yang bisa dieksekusi.**_
+- B — Intellectual Property & Storytelling  
+- _...**Dalam peran dokumentasi, kami menyusun living docs, API guides, dan bukti yang dapat diuji agar tim mandiri dan publik paham.**_
+- C — Web3 Development & Prototyping  
+- _...**Sebagai engineer, kami membangun antarmuka dan alur on-chain yang bersih, aman, dan cukup-untuk-keputusan sebelum dikeraskan menjadi komponen modular.**_
+- D — Business Architecture  
+- _...**Dalam peran produk/operasi, kami memetakan alur nilai dan risiko ke proses yang terukur biaya serta kepatuhan.**_
+- E — Cultural & Social Innovation  
+- _...**Untuk komunitas, kami merancang program dan gamifikasi yang menaikkan partisipasi dengan metrik yang jelas.**_
+- F — Personal Brand Access (DevRel)  
+- _...**Sebagai DevRel, kami menerjemahkan kompleksitas menjadi cerita, demo, dan praktik yang mendorong adopsi karena orang benar-benar mengerti.**_
+- G — Custom Creation (Riset/Proposal)  
+- _...**Dalam kreasi kustom, kami menulis proposal/kerangka dan menyiapkan artefak bukti presisi untuk respons cepat namun tetap audit-ready.**_
+- H — Global Trade & Distribution (Legacy Ops)  
+- _...**Pada legacy ops, kami merapikan sourcing, inventori, dan fulfillment dengan dokumentasi kerja yang disiplin untuk menekan friksi.**_
+
+**Verifikasi Resmi**  
+Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`. Detail kebijakan & kanon: lihat **“Persona & HFP Canon”**.
 
 ---
 
 ## 2) Misi, Nilai, & Prinsip Kerja
-- **Clarity First**: ide kabur → framework → peta jalan → bukti eksekusi.
-- **Modular / Anti vendor lock‑in**: integrasi teknologi yang dapat diwariskan tim & audit‑friendly.
-- **Measured Impact**: setiap intervensi punya metrik (biaya ops, adopsi, konversi, dokumentasi).
-- **Release Rituals**: versi `v.X.Y.Z[-suffix]`, changelog, PR hygiene, smoke test route utama.
-- **Firewall**: akses langsung setelah komitmen & kejelasan; dokumentasi sebagai kontrak kerja tim.
+
+### Misi (one-liner)
+
+Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur**, dan **dapat diwariskan tim**.
+
+### Nilai (yang tak berubah)
+
+* **Clarity First** — pikirkan terang dulu, baru kencang.
+* **Modular / Anti vendor lock-in** — interoperabel, mudah dirawat.
+* **Measured Impact** — setiap intervensi punya metrik.
+
+### Prinsip Kerja (urut aliran kerja)
+
+1. **Discovery → Framework → Roadmap → Proof** *(Clarity First)*
+2. **Desain Modular & Interoperabel** *(Anti vendor lock-in)*
+3. **Observabilitas & Metrik sejak awal** *(Measured Impact: biaya ops/gas, adopsi, konversi, coverage docs)*
+4. **Release Rituals** — `v.X.Y.Z[-suffix]`, changelog, PR hygiene, smoke test route utama
+5. **Async-First & Timezone-Honest** — kerja berbasis artefak; rapat seperlunya (WIB aware)
+6. **Firewall** — akses langsung setelah komitmen & kejelasan; **dokumen = kontrak kerja tim**
+7. **Legal & Accountability** — selalu atas nama **Prof. NOTA Inc. (PT Suaka Dunia Raja)**; tanda tangan oleh **HFP** sebagai **“Prof. NOTA v.xx.xx”**; byline karya mengikuti format yang sama
+8. **Audit-Ready & Verifiable** — keputusan/komitmen **tertulis** & **terverifikasi** via dokumen resmi pada domain: `endhonesa.com`, `skateshop.id`, `straight-line.org`
 
 ---
 
@@ -169,3 +228,46 @@ Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List
 ## 15) Changelog
 - **2025-10-19 00:03 UTC+07:00** — Inisiasi ResumeAll v.11 (glossary), menyusun identitas, services & value, skill matrix, pengalaman, proyek, dan kebijakan konten.
 
+---
+
+## Persona & HFP Canon
+
+### 1) Pernyataan Persona (kanon)
+Ringkasan identitas & legal berada di **“1) Identitas & Kontak”**. Bagian ini mencatat kanon operasional Prof. NOTA: **klaritas dulu**, **arsitektur & dokumentasi yang bisa dieksekusi**, **modular anti vendor lock-in**, dan **dampak terukur**.
+
+### 2) Human for Profile (HFP)
+- Jumlah: maksimum **47** HFP (v.01–v.47).
+- Versi: nomor sebelum titik = identitas HFP; setelah titik = identitas posisi/jabatan.  
+  Contoh: **v.11.11 →** HFP #11 yang sedang mengemban jabatan 11 (misal: pencuci piring).
+- Periode: HFP aktif selama **kontrak kerja** dengan **Prof. NOTA Inc. (PT Suaka Dunia Raja)**; berakhir jika kontrak selesai/dibatalkan/dipecat.
+- Keterbukaan: nama HFP **dicantumkan di kontrak** (internal/ke mitra), **tidak untuk publik** kecuali kebutuhan hukum/negara. HFP **dilarang mengungkap** perannya ke publik selama kontrak berjalan; boleh dicantumkan sebagai pengalaman **setelah tuntas**.
+
+### 3) Bahasa & Suara
+- Dokumen menggunakan **“kami”** (Prof. NOTA = hingga 47 HFP).  
+- Percakapan langsung boleh **“aku”**.  
+- Bahasa: Indonesia + sisipan English (0101-style); tersedia varian full-EN/other bila diperlukan.
+
+### 4) Identitas Visual (PFP & kostum)
+- Ikon resmi: **PFP Prof. NOTA** (potret monokrom bermasker). Versi **frame lingkaran** untuk emblem/medsos; versi **full** untuk header dokumen.
+- Kostum fisik (HFP): **coverall** satu potong — **putih** (indoor) & **hitam** (outdoor) — memuat identitas: “Prof. NOTA Inc. (PT Suaka Dunia Raja)”, logo, “Prof. NOTA v.xx.xx”, dan (opsional) logo klien/sponsor/partner. **Wajah harus bermasker** saat didokumentasikan (foto/video) ketika bertugas sebagai HFP.
+
+### 5) Kontrak, Tanda Tangan, & Atribusi
+- Semua perjanjian (kontrak/invoice/aplikasi) memakai entitas legal: **Prof. NOTA Inc. (PT Suaka Dunia Raja)**.
+- Ditandatangani oleh HFP yang ditunjuk, format:  
+  **[Nama HFP]**  
+  _Prof. NOTA **v.xx.xx**_
+- Byline karya (dokumen/kode): tulis **“Prof. NOTA v.xx.xx”**.
+
+### 6) Lisensi HFP & Komersial
+- **Skema HFP (rekrut internal):** HFP menerima **26%** dari **revenue** aktivitasnya sebagai Prof. NOTA; **74%** untuk Prof. NOTA Inc. **Batas atas:** bila bagian perusahaan pada bulan berjalan **> IDR 147.000.000**, perusahaan hanya menerima **IDR 147.000.000** dan **selisihnya untuk HFP**.
+- **Skema Lisensi (perusahaan eksternal):** berlangganan lisensi **IDR 147.000.000/bulan** → berhak menjual layanan & value Prof. NOTA **tanpa batas revenue**. Tanpa lisensi, penggunaan komersial wajib melalui **kontrak kerja** (seperti meng-hire SDM Prof. NOTA).
+
+### 7) Privasi, Integritas, & Krisis
+- **Identitas HFP**: **internal**, bukan publik. Pengecualian hanya untuk **penegakan hukum**.
+- **Doxxing** oleh pihak selain Prof. NOTA Inc. → **membatalkan kontrak**.
+- **Impersonation**: keaslian hanya diakui jika ada dokumen/URL resmi pada domain: `endhonesa.com`, `skateshop.id`, `straight-line.org`. Di luar itu → anggap **phishing/scam/impersonation**.
+- Semua pengungkapan sensitif harus berupa **dokumen resmi** (bukan chat/ucapan).
+
+### 8) Cara Apply & Verifikasi
+- Di resume/profil, tulis: **“Prof. NOTA v.xx.xx (HFP)”** + **tautan** ke halaman penjelasan HFP.  
+- Jika calon pemberi kerja memerlukan data legal/identitas: lakukan via **dokumen resmi** yang ditandatangani kedua pihak.
