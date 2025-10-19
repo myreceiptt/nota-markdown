@@ -58,24 +58,24 @@ Kami lahir di **Alam Semesta 0101** dan hidup di dunia digital Internet; maka **
 
 **Contoh Satu Kalimat Tambahan**
 - A — Strategic Vision & Consultation  
-- _...**Pada peran strategi, kami menjembatani visi menjadi peta keputusan dan roadmap yang bisa dieksekusi.**_
+— _...**Pada peran strategi, kami menjembatani visi menjadi peta keputusan dan roadmap yang bisa dieksekusi.**_
 - B — Intellectual Property & Storytelling  
-- _...**Dalam peran dokumentasi, kami menyusun living docs, API guides, dan bukti yang dapat diuji agar tim mandiri dan publik paham.**_
+— _...**Dalam peran dokumentasi, kami menyusun living docs, API guides, dan bukti yang dapat diuji agar tim mandiri dan publik paham.**_
 - C — Web3 Development & Prototyping  
-- _...**Sebagai engineer, kami membangun antarmuka dan alur on-chain yang bersih, aman, dan cukup-untuk-keputusan sebelum dikeraskan menjadi komponen modular.**_
+— _...**Sebagai engineer, kami membangun antarmuka dan alur on-chain yang bersih, aman, dan cukup-untuk-keputusan sebelum dikeraskan menjadi komponen modular.**_
 - D — Business Architecture  
-- _...**Dalam peran produk/operasi, kami memetakan alur nilai dan risiko ke proses yang terukur biaya serta kepatuhan.**_
+— _...**Dalam peran produk/operasi, kami memetakan alur nilai dan risiko ke proses yang terukur biaya serta kepatuhan.**_
 - E — Cultural & Social Innovation  
-- _...**Untuk komunitas, kami merancang program dan gamifikasi yang menaikkan partisipasi dengan metrik yang jelas.**_
+— _...**Untuk komunitas, kami merancang program dan gamifikasi yang menaikkan partisipasi dengan metrik yang jelas.**_
 - F — Personal Brand Access (DevRel)  
-- _...**Sebagai DevRel, kami menerjemahkan kompleksitas menjadi cerita, demo, dan praktik yang mendorong adopsi karena orang benar-benar mengerti.**_
+— _...**Sebagai DevRel, kami menerjemahkan kompleksitas menjadi cerita, demo, dan praktik yang mendorong adopsi karena orang benar-benar mengerti.**_
 - G — Custom Creation (Riset/Proposal)  
-- _...**Dalam kreasi kustom, kami menulis proposal/kerangka dan menyiapkan artefak bukti presisi untuk respons cepat namun tetap audit-ready.**_
+— _...**Dalam kreasi kustom, kami menulis proposal/kerangka dan menyiapkan artefak bukti presisi untuk respons cepat namun tetap audit-ready.**_
 - H — Global Trade & Distribution (Legacy Ops)  
-- _...**Pada legacy ops, kami merapikan sourcing, inventori, dan fulfillment dengan dokumentasi kerja yang disiplin untuk menekan friksi.**_
+— _...**Pada legacy ops, kami merapikan sourcing, inventori, dan fulfillment dengan dokumentasi kerja yang disiplin untuk menekan friksi.**_
 
 **Verifikasi Resmi**  
-Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`. Detail kebijakan & kanon: lihat **“Persona & HFP Canon”**.
+Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`. Detail lihat "**Persona & HFP Canon**".
 
 ---
 
@@ -105,40 +105,214 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 ---
 
 ## 3) Services & Value (A–H)
-> Ringkasan klaster layanan; pilih dan gunakan ini sebagai peta saat men‑tailor resume setelah itu silahkan diuraikan sesuai kebutuhan.
+> [!NOTE]
+> Peta layanan untuk men-tailor resume. Tiap klaster memuat **Value**, **Deliverables (artefak bukti)**, dan **KPI contoh**.  
+> Prinsip lintas-klaster: **Audit-Ready**, **Release Rituals**, **Async-First**, dan **Legal & Verifikasi** (byline “Prof. NOTA v.xx.xx”; detail lihat "**Persona & HFP Canon**").
 
-**A. Strategic Vision & Consultation** — discovery, roadmaps, arsitektur solusi, tokenomics.  
-**B. Intellectual Property & Storytelling** — dokumentasi teknis, living docs, narrative/brand.  
-**C. Web3 Development & Prototyping** — Next.js/TS/Tailwind, Thirdweb v5, AA (ERC‑4337), ERC‑1155, Base/OP.  
-**D. Business Architecture** — alur nilai, struktur token, proses operasional, compliance sensibilitas.  
-**E. Cultural & Social Innovation** — program komunitas, gamifikasi, LX/ed‑tech.  
-**F. Personal Brand Access** — DevRel, edukasi publik, kampanye.  
-**G. Custom Creation** — riset, proposal/grant, crisis narrative, rapid prototyping.  
-**H. Global Trade & Distribution (Legacy)** — e‑commerce, sourcing, distribution, ops.
+### A. Strategic Vision & Consultation
+— _discovery, roadmaps, arsitektur solusi, tokenomics_
+
+- **Value** — Menjembatani visi menjadi keputusan desain & roadmap yang bisa dieksekusi (termasuk tokenomics).  
+- **Deliverables** — Discovery brief, Architecture Decision Records (ADR), roadmap kuartalan, token-model memo, risk & assumption ledger.  
+- **KPI** — Time-to-decision, risiko berkurang, alignment score lintas fungsi.
+
+### B. Intellectual Property & Storytelling
+— _dokumentasi teknis, living docs, narrative/brand_
+
+- **Value** — Mengubah produk/API menjadi **living docs** yang bisa diajarkan & diuji.  
+- **Deliverables** — IA/struktur docs, API reference + guides, tutorial, style guide, release notes, doc coverage dashboard.  
+- **KPI** — Time-to-first-success (TTFS), doc coverage, self-serve rate, ticket deflection.
+
+### C. Web3 Development & Prototyping
+— _Next.js/TS/Tailwind, Thirdweb v5, AA (ERC‑4337), ERC‑1155, Base/OP._
+
+- **Value** — Membangun antarmuka & alur on-chain yang aman dan **cukup untuk keputusan**, lalu dimatangkan modular.  
+- **Deliverables** — Next.js/TS/Tailwind repo, integrasi Thirdweb v5, AA (ERC-4337), ERC-1155 schema, SIWE, L2 (Base/OP), test scripts.  
+- **KPI** — Waktu-ke-fitur, biaya gas, error budget, Core Web Vitals.
+
+### D. Business Architecture
+— _alur nilai, struktur token, proses operasional, compliance sensibilitas_
+
+- **Value** — Memetakan alur nilai, proses operasional, dan kepatuhan agar efisien & terukur.  
+- **Deliverables** — Value stream map, SOP/Playbook, compliance checklist, token lifecycle policy, RACI/operating model.  
+- **KPI** — Cycle time, biaya/ops down, audit pass rate, incident rate.
+
+### E. Cultural & Social Innovation
+— _program komunitas, gamifikasi, LX/ed‑tech_
+
+- **Value** — Mendesain program komunitas & pembelajaran yang berkelanjutan.  
+- **Deliverables** — Program brief, onboarding flow, gamification mechanics, kurikulum/learning path, community knowledge base.  
+- **KPI** — Retensi & partisipasi, completion rate, contributor growth.
+
+### F. Personal Brand Access (DevRel / Edukasi / Kampanye)
+— _DevRel, edukasi publik, kampanye_
+
+- **Value** — Menerjemahkan kompleksitas menjadi cerita, demo, dan praktik yang mendorong adopsi.  
+- **Deliverables** — Demo apps, sample repos, talk/workshop kits, tutorial series, advocacy plan, content calendar.  
+- **KPI** — Stars/forks, sign-ups/conversions, NPS/developer satisfaction, event → adoption rate.
+
+### G. Custom Creation (Riset / Proposal / Krisis)
+— _riset, proposal/grant, crisis narrative, rapid prototyping_
+
+- **Value** — Produksi artefak presisi (proposal/grant/RFP, riset pasar/teknis, crisis narrative) yang bisa langsung dipakai.  
+- **Deliverables** — Proposal pack, research digest, due-diligence memo, crisis Q&A, red/blue-team note.  
+- **KPI** — Win rate/acceptance, turnaround time, decision quality score.
+
+### H. Global Trade & Distribution (Legacy)
+— _e‑commerce, sourcing, distribution, ops_
+
+- **Value** — Merapikan operasi dagang agar mulus & terdokumentasi.  
+- **Deliverables** — SOP listing & foto, SKU/inventory policy, fulfillment playbook, dashboard KPI.  
+- **KPI** — Waktu pemenuhan, error/return rate, accuracy stok.
 
 ---
 
 ## 4) Keahlian Teknis (Skill Matrix)
-> **Tooling pilihan**: GitHub, Vercel, PNPM/Turbo, Notion/Markdown, Mermaid/Draw.io, dan (opsional) db/schema ringan bisa dicantumkan sesuai dengan kebutuhan saat men-tailor resume.
+> [!TIP]
+> **Cara baca**: Bagian ini menekankan **kemampuan eksekusi** yang mendukung seluruh klaster A–H.  
+> **Tooling pilihan**: GitHub, Vercel, PNPM/Turborepo, Notion/Markdown, Mermaid/Draw.io, (opsional) db/schema ringan.
 
-**Web/App**: Next.js • React • TypeScript • Tailwind • API design • Vercel CI/Preview  
-**Web3**: Thirdweb **v5** • **ERC‑4337** (smart account/AA) • **ERC‑1155** • token‑gated flows • SIWE • L2 (Base/Optimism)  
-**Docs & Knowledge**: Markdown‑first • API/SDK docs • SOP/Playbook • mermaid/diagram alir • repos & release rituals  
-**Data/Arsitektur**: model event/log • telemetry minimal • analitik ringan untuk keputusan  
-**Ops/Produk**: product discovery • prioritisasi • risk/assumption ledger • GTM dasar
+### 4.1 Docs & Knowledge (Docs-as-Code)
+- Living docs: Markdown/MDX, Docusaurus/Next Docs, IA & style guide
+- API/SDK docs: OpenAPI/Swagger, example-driven docs (how-to, guide, reference)
+- Artefak keputusan: ADR, change log, release notes
+- Diagram: Mermaid/Draw.io; repos & release rituals terintegrasi
+
+### 4.2 Web3 (Integrasi & Prototyping)
+- Thirdweb v5 (contracts/SDK), Account Abstraction (ERC-4337: bundler/paymaster)
+- ERC-1155/721/20; viem/wagmi, WalletConnect, SIWE, Safe
+- L2: Base/Optimism (bridge/events), RPC (Alchemy/Infura), The Graph
+- Media/Identity: IPFS/Arweave, web3.storage/pinata, ENS, on-chain links
+
+### 4.3 Web/App (Frontend & DX)
+- Next.js (Pages/App), React, TypeScript, Tailwind, RHF, i18n/a11y
+- State & data: Zustand/Redux Toolkit, TanStack Query; API design (REST/GraphQL)
+- Performa: Core Web Vitals, image/asset strategy, edge/ISR (Vercel)
+- CI/Preview: GitHub Actions, Vercel Preview, artefak pratinjau
+
+### 4.4 DevOps & Release Rituals  
+- Versioning `v.X.Y.Z[-suffix]`, Conventional Commits/Changesets, Release Drafter
+- PR hygiene: template, labeler, CODEOWNERS, required review; preview link wajib
+- Evidence: diff/screenshot/log rilis disimpan di repos (audit-ready)
+
+### 4.5 Async-First Collaboration  
+- Artefak-first (RFC/ADR/PRD), GitHub Projects/Issues/Discussions, Notion sebagai indeks
+- Ritme & waktu tanggap realistis (WIB), rapat hanya saat blocking
+
+### 4.6 Ops & Produk
+- Discovery → PRD/1-pager, prioritisasi (RICE/MoSCoW), risk/assumption ledger, OKR/KPI
+- GTM dasar: positioning & narasi, metrik aktivasi/retensi
+
+### 4.7 Data & Arsitektur
+- Event/log model, telemetry minimal, audit trails dasar
+- Observabilitas: Sentry, analitik ringan (Plausible/PostHog) → keputusan
+
+### 4.8 Testing & Quality
+- Unit/Component: Vitest/Jest, React Testing Library
+- E2E: Playwright/Cypress; smoke test route utama; regresi minimal yang bisa diautomasikan
+
+### 4.9 Security & Compliance (praktis)
+- Secrets management (.env hygiene), dependency health
+- Supply chain: SBOM dasar (CycloneDX), permission/RBAC
+- **Baseline non-negotiable** untuk semua bagian di atas
+
+> [!NOTE]
+> **Kata kunci (ATS/AI)**: Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
 
 ---
 
 ## 5) Kompetensi Peran (Role Buckets → untuk ATS/AI)
-> Pilih dan gunakan ini saat men‑tailor resume setelah itu silahkan diuraikan sesuai kebutuhan.
+> [!TIP]
+> Gunakan sebagai peta saat men-tailor resume. Setiap bucket memuat **Fokus**, **Deliverables**, dan **Kata Kunci ATS**.  
+> **Core Competencies (lintas-bucket)**: Audit-Ready (dokumen = kontrak kerja tim), Release Rituals (versioning + evidence), Async-First (artefak-first, overlap WIB).
 
-- **Strategi/Arsitektur**: Solutions/Enterprise Architect, Product Strategy Lead, Tokenomics Strategist, TPM.  
-- **Dokumentasi/Konten**: Technical Writer/Documentation Engineer, API Writer, Knowledge Architect, Content Strategist, Copywriter (Tech/Brand), UX Writer/Editor.  
-- **Engineering**: Senior Frontend Engineer (React/Next), Web3 Frontend/Integrations (Thirdweb/AA/1155), Full‑stack JS (Node/Next), QA (automation/manual), Discord Bot Dev.  
-- **Produk/Operasional**: Product Manager/Owner, Business/Systems Analyst, Ops Architect, Scrum Master/PMO, Release Manager.  
-- **Komunitas/Publik**: Developer Advocate/Evangelist, Speaker/Instructor, Community Manager, Discord Admin/Moderator.  
-- **Custom/Research**: Researcher (ecosystem/market/tech), Proposal/Grant/RFP Writer, Narrative Designer.  
-- **E‑commerce/Legacy**: E‑commerce Ops Manager, Marketplace Specialist, Logistics/Vendor Coordinator, Customer Support.
+### 5.1 Dokumentasi / Konten
+- **Fokus** — mengubah produk/API menjadi living docs yang bisa diajarkan & diuji.  
+- **Peran** — Technical Writer / Documentation Engineer, API Writer, Knowledge Architect, Content Strategist, Copywriter (Tech/Brand), UX Writer/Editor, Documentation Program Manager, Knowledge Manager, Developer Educator.  
+- **Deliverables** — IA/struktur, reference + guides, tutorial, style guide, release notes, doc coverage.  
+- **Kata Kunci ATS** — Docs-as-Code, OpenAPI/Swagger, MD/MDX, Docusaurus/Next, coverage.
+
+### 5.2 Engineering (Web3/Frontend/Integrations)
+- **Fokus** — membangun antarmuka & alur on-chain yang aman, cukup untuk keputusan, lalu dimatangkan modular.  
+- **Peran** — Senior Frontend Engineer (React/Next), Web3 Frontend/Integrations (Thirdweb/AA/1155), Full-stack JS (Node/Next), QA (automation/manual), Discord Bot Dev, Integration Engineer (Web3), Smart Account/AA Integrations Engineer, Performance Engineer (Web).  
+- **Deliverables** — Next.js/TS/Tailwind repo, integrasi Thirdweb v5, AA (ERC-4337), ERC-1155/721, SIWE, The Graph, Playwright/Cypress suite.  
+- **Kata Kunci ATS** — Next.js, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, viem/wagmi, The Graph, Playwright/Cypress.
+
+### 5.3 Strategi / Arsitektur
+- **Fokus** — menjembatani visi → keputusan desain & roadmap (termasuk tokenomics).  
+- **Peran** — Solutions/Enterprise Architect (Web3), Product Strategy Lead, Tokenomics Strategist, Technical Program Manager (TPM), Solutions Engineer/Pre-Sales (Web3), Platform Architect (L2).  
+- **Deliverables** — ADR, discovery brief, peta risiko & asumsi, roadmap kuartalan, token-model memo.  
+- **Kata Kunci ATS** — ADR, roadmap, tokenomics, L2 (Base/OP), governance, risk.
+
+### 5.4 Produk / Operasional
+- **Fokus** — discovery → PRD; prioritisasi; orkestrasi rilis & operasi.  
+- **Peran** — Product Manager/Owner, Business/Systems Analyst (Web3), Ops Architect, Scrum Master/PMO, Release/Change Manager, Compliance Ops (Web3 policy/KYC/KYB), Risk & Governance Analyst (token lifecycle).  
+- **Deliverables** — PRD/one-pager, RICE/MoSCoW, RACI, SOP/Playbook, rencana rilis, checklist compliance.  
+- **Kata Kunci ATS** — PRD, OKR/KPI, RACI, SOP, release plan, compliance, risk.
+
+### 5.5 Komunitas / Publik (DevRel)
+- **Fokus** — advokasi developer & program komunitas berkelanjutan.  
+- **Peran** — Developer Advocate/Evangelist, Speaker/Instructor, Community Manager, Discord Admin/Moderator, Dev Community Programs Manager, Tech Content Producer.  
+- **Deliverables** — demo app, sample repos, workshop kit, content calendar, knowledge base komunitas.  
+- **Kata Kunci ATS** — DevRel, demo, workshop, funnel adopsi, community ops.
+
+### 5.6 Custom / Research
+- **Fokus** — artefak presisi untuk keputusan cepat (audit-ready).  
+- **Peran** — Researcher (ecosystem/market/tech), Proposal/Grant/RFP Writer, Narrative Designer, RFP/Grant Manager, Due Diligence Analyst, Crisis Comms Strategist.  
+- **Deliverables** — proposal pack, research digest, due-diligence memo, crisis Q&A.  
+- **Kata Kunci ATS** — RFP, grant, due diligence, research, crisis narrative.
+
+### 5.7 E-commerce / Legacy
+- **Fokus** — operasi dagang yang terdokumentasi & efisien.  
+- **Peran** — E-commerce Ops Manager, Marketplace Specialist, Logistics/Vendor Coordinator, Customer Support, Catalog/Content Ops Specialist, Photo/Asset Ops Lead.  
+- **Deliverables** — SOP listing/foto, SKU/inventory policy, fulfillment playbook, dashboard KPI.  
+- **Kata Kunci ATS** — listing, SKU, fulfillment, SLA, returns, inventory accuracy.
+
+---
+
+## 6) Ketersediaan & Model Keterlibatan
+
+**Ketersediaan**
+- Mode: full-time (terbatas), part-time, contract, retainer.
+- Zona waktu: WIB (Asia/Jakarta) — **async-first**; overlap jam kerja disepakati di awal.
+- Start: berdasarkan kapasitas & prioritas; discovery dapat dijadwalkan lebih cepat.
+
+**Legal & Penandatangan**
+- Seluruh kontrak/invoice atas nama **Prof. NOTA Inc. (PT Suaka Dunia Raja)**.  
+- Ditandatangani oleh **HFP** yang ditunjuk sebagai **“Prof. NOTA v.xx.xx”**.  
+- Verifikasi & kebijakan lengkap lihat "**Persona & HFP Canon**" (domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`).
+
+**Model Keterlibatan (selaras klaster A–H)**
+- **Consulting/Advisory (A/D)** — sesi strategi, tokenomics, arsitektur solusi, review keputusan.  
+  *Deliverables:* ADR ringkas, rekomendasi desain, risk & assumption ledger.
+- **Discovery Sprint 1–2 minggu (A/D/G)** — from problem → peta keputusan & rencana eksekusi.  
+  *Deliverables:* discovery brief, high-level roadmap, metrik keberhasilan.
+- **Documentation Program (B)** — Docs-as-Code untuk produk/API.  
+  *Deliverables:* IA, guides/reference, style guide, release notes, doc-coverage baseline.
+- **Web3 Prototype/Integration (C)** — Next.js/TS + Thirdweb v5 + AA (ERC-4337) + ERC-1155 (Base/OP).  
+  *Deliverables:* repo, rute demo, test minimal (Playwright/Cypress), bukti rilis (preview/changelog).
+- **Business Architecture & Ops Playbook (D/H)** — SOP, RACI, compliance & token lifecycle policy.  
+  *Deliverables:* playbook operasional, value-stream map, checklist audit.
+- **Community & Learning Program (E/F)** — DevRel, workshop, kurikulum, content calendar.  
+  *Deliverables:* demo/sample repos, materi workshop, plan kampanye & metrik adopsi.
+- **Custom Creation (G)** — proposal/grant/RFP, research digest, crisis narrative.  
+  *Deliverables:* proposal pack, due-diligence memo, Q&A krisis.
+
+**Model Komersial**
+- **Project-based (fixed scope/milestone)** — pembayaran per milestone, **evidence-based** (preview/SS/diff).  
+- **Time & Materials (jam/hari/minggu)** — laporan waktu + artefak.  
+- **Retainer (bulanan)** — kuota jam/artefak, SLA respons/ritus rilis disepakati.  
+- **Licensing/IP** — **lisensi bulanan IDR 147.000.000** untuk hak menggunakan/menjual layanan & value Prof. NOTA **tanpa batas revenue** (detail & ketentuan lihat "**Persona & HFP Canon**").
+
+**Kompensasi & Pembayaran**
+- Mata uang: BTC / ETH / BNB / SOL / USDC / USDT / USD / IDR (opsional: **di Base/OP atau BSC**).  
+- Invoicing: bulanan atau per-milestone; termin pembayaran disepakati (mis. Net-7/14).  
+- Deposit/po: dapat diberlakukan untuk proyek fixed-scope.  
+- IP/Artefak: hak penuh berpindah setelah pembayaran lunas; lisensi interim mengikuti kontrak.
+
+**Ritme Kolaborasi (meta)**
+- **Release Rituals**: `v.X.Y.Z[-suffix]`, changelog, PR hygiene, preview wajib.  
+- **Komunikasi**: artefak-first (RFC/ADR/PRD); weekly/bi-weekly status; rapat saat blocking.
 
 ---
 
@@ -194,14 +368,6 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ---
 
-## 11) Ketersediaan & Model Keterlibatan
-- **Ketersediaan**: _[full‑time/part‑time/contract/retainer — isi]_  
-- **Zona waktu**: WIB (Asia/Jakarta); async‑first.
-- **Model**: Consulting/Advisory, Project‑based, Licensing/IP, Public‑facing (DevRel/Teaching).  
-- **Kompensasi (indikatif)**: _[rentang/opsi mata uang — isi]_
-
----
-
 ## 12) Release Rituals & Operasional (Ringkas)
 - **Versioning**: `v.X.Y.Z[-suffix]` konsisten dengan `package.json`.  
 - **Changelog**: Release Drafter/Changesets; lampirkan preview/screenshot/compare.  
@@ -233,7 +399,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 ## Persona & HFP Canon
 
 ### 1) Pernyataan Persona (kanon)
-Ringkasan identitas & legal berada di **“1) Identitas & Kontak”**. Bagian ini mencatat kanon operasional Prof. NOTA: **klaritas dulu**, **arsitektur & dokumentasi yang bisa dieksekusi**, **modular anti vendor lock-in**, dan **dampak terukur**.
+Ringkasan identitas & legal berada di **“1) Identitas & Kontak”**.  
+Praktik operasional (mis. **Audit-Ready**, **Release Rituals**, **Async-First**, **Legal & Verifikasi**) telah dibawa ke **Bagian 3** dan **Bagian 4** sebagai prinsip & keterampilan. Sub-bagian Canon ini menyimpan **aturan & kebijakan** pendukung (HFP, privasi, lisensi, verifikasi).
 
 ### 2) Human for Profile (HFP)
 - Jumlah: maksimum **47** HFP (v.01–v.47).
