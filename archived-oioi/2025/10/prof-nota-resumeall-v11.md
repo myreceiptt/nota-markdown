@@ -113,7 +113,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 — _discovery, roadmaps, arsitektur solusi, tokenomics_
 
 - **Value** — Menjembatani visi menjadi keputusan desain & roadmap yang bisa dieksekusi (termasuk tokenomics).  
-- **Deliverables** — Discovery brief, Architecture Decision Records (ADR), roadmap kuartalan, token-model memo, risk & assumption ledger.  
+- **Deliverables** — Discovery brief, Architecture Decision Records (ADR), roadmap quarterly, token-model memo, risk & assumption ledger.  
 - **KPI** — Time-to-decision, risiko berkurang, alignment score lintas fungsi.
 
 ### B. Intellectual Property & Storytelling
@@ -141,7 +141,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 — _program komunitas, gamifikasi, LX/ed‑tech_
 
 - **Value** — Mendesain program komunitas & pembelajaran yang berkelanjutan.  
-- **Deliverables** — Program brief, onboarding flow, gamification mechanics, kurikulum/learning path, community knowledge base.  
+- **Deliverables** — Program brief, onboarding flow, gamification mechanics, curriculum/learning path, community knowledge base.  
 - **KPI** — Retensi & partisipasi, completion rate, contributor growth.
 
 ### F. Personal Brand Access (DevRel / Edukasi / Kampanye)
@@ -187,7 +187,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 ### 4.3 Web/App (Frontend & DX)
 - Next.js (Pages/App), React, TypeScript, Tailwind, RHF, i18n/a11y
 - State & data: Zustand/Redux Toolkit, TanStack Query; API design (REST/GraphQL)
-- Performa: Core Web Vitals, image/asset strategy, edge/ISR (Vercel)
+- Performance: Core Web Vitals, image/asset strategy, edge/ISR (Vercel)
 - CI/Preview: GitHub Actions, Vercel Preview, artefak pratinjau
 
 ### 4.4 DevOps & Release Rituals  
@@ -259,7 +259,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 ### 5.6 Custom / Research
 - **Fokus** — artefak presisi untuk keputusan cepat (audit-ready).  
 - **Peran** — Researcher (ecosystem/market/tech), Proposal/Grant/RFP Writer, Narrative Designer, RFP/Grant Manager, Due Diligence Analyst, Crisis Comms Strategist.  
-- **Deliverables** — proposal pack, research digest, due-diligence memo, crisis Q&A.  
+- **Deliverables** — proposal pack, research digest, due diligence memo, crisis Q&A.  
 - **Kata Kunci ATS** — RFP, grant, due diligence, research, crisis narrative.
 
 ### 5.7 E-commerce / Legacy
@@ -316,7 +316,19 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ---
 
-## 6) Pengalaman (Glossary of Experience)
+## 7) Bahasa
+- **Indonesia**: Native/Professional  
+- **Inggris**: _[level/CEFR]_
+
+---
+
+## 8) Pendidikan & Sertifikasi
+- **[Institusi]** — **[Gelar/Jurusan]**, **[Tahun]**  
+- **Sertifikasi**: _[nama/penyelenggara/tahun]_
+
+---
+
+## 9) Pengalaman (Glossary of Experience)
 > Entri ditulis padat; untuk resume tailor, pilih 1–2 helai yang paling relevan lalu perluas.
 
 ### iBLOOMING / BGC — _Web3 Transition & Tokenomics_ — **2023–sekarang** _(konfirmasi)_
@@ -339,7 +351,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ---
 
-## 7) Proyek & Artefak (Public‑safe)
+## 10) Proyek & Artefak (Public‑safe)
 - **UNDERSTANDING Doc (BGC/iBLOOMING)** — _[tautan publik]_  
 - **Firewall Manager Playbook** — _[tautan]_  
 - **Prototipe/Repo/Demo** — _[tautan]_  
@@ -350,21 +362,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ---
 
-## 8) Publikasi, Talk, & Penghargaan
+## 11) Publikasi, Talk, & Penghargaan
 - _[Judul] — [Media/Acara], [Tanggal], [Tautan]_  
 - _[Judul] — [Media/Acara], [Tanggal], [Tautan]_
-
----
-
-## 9) Pendidikan & Sertifikasi
-- **[Institusi]** — **[Gelar/Jurusan]**, **[Tahun]**  
-- **Sertifikasi**: _[nama/penyelenggara/tahun]_
-
----
-
-## 10) Bahasa
-- **Indonesia**: Native/Professional  
-- **Inggris**: _[level/CEFR]_
 
 ---
 
