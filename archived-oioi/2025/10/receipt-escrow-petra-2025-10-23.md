@@ -10,7 +10,7 @@ coverY: 0
 
 # INVOICE — UNIVERSITAS KRISTEN PETRA (via IDNFT)
 
-**Issued by:** Prof. NOTA Inc.  
+**Issued by:** Prof. NOTA Inc. (PT. SUAKA DUNIA RAJA)   
 **Email:** <suaka@endhonesa.com>  
 **Date:** 23 Oct. 2025  
 **Invoice Number:** NOTA-PETRA-1025
@@ -89,6 +89,25 @@ Ringkasan nilai edukasi yang diterima dari sesi ini (berdasarkan handout yang di
 
 **Due Date:** 30 Oct 2025 (7 hari kerja setelah acara)  
 **Contact for billing:** <suaka@endhonesa.com> / <https://wa.me/628563160756/>
+
+---
+
+### Tanda Tangan
+**Dibuat oleh,**
+
+```
+________________________
+Prof. NOTA v.11.11
+Prof. NOTA Inc. (PT. SUAKA DUNIA RAJA)
+```
+
+**Diterima oleh,**
+
+```
+________________________
+Monica Imelda Lin (Monimel)
+IDNFT x UK Petra
+```
 
 ---
 
