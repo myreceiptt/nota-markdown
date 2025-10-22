@@ -30,6 +30,8 @@ coverY: 0
 
 ## 0) Struktur Materi
 
+<figure><img src="https://github.com/user-attachments/assets/2092ea40-018d-4012-943f-362a818d5410" alt="Ilustrasi 1 oleh Prof. NOTA Inc.- Struktur Materi"><figcaption><p>Struktur Materi</p></figcaption></figure>
+
 1. **Peta Global Payment Rails:** bank/fintech vs **stablecoin** (USDC)
 2. **Escrow:** tradisional vs **smart-contract** (milestone, release, dispute)
 3. **Compliance & Record-Keeping:** KYC/AML, faktur, pajak dasar
