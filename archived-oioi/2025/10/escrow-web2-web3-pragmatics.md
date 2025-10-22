@@ -16,7 +16,7 @@ coverY: 0
 - Ruang-Waktu: **Universitas Kristen Petra** · **Kamis, 23 Okt 2025** · **10.30–13.00** · **AVT501**  
 - Artefak: *Tanpa rekaman • Tanpa distribusi • ±90 mahasiswa*
 
-<img width="1536" height="1024" alt="Ilustrasi 1 oleh Prof. NOTA Inc.- International Payments dan Escrow" src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" />
+<figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 1 oleh Prof. NOTA Inc.- International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
 
 - Pendahuluan:  
   Di banyak proyek lintas negara, biaya dan waktu kirim dana kerap menjadi “bottleneck”. Blockchain—khususnya **stablecoin (mis. USDC)**—membuka opsi rails yang **lebih cepat, lebih transparan, dan dapat diprogram**. Sesi ini memetakan **opsi pembayaran internasional**, membedah **escrow tradisional vs smart-contract**, menyentuh **kepatuhan (KYC/AML & pajak)**, dan merancang **arsitektur minimal** dari **Web2 → Web3** agar audiens punya peta jalan yang **pragmatis, aman, dan bisa dieksekusi**.
