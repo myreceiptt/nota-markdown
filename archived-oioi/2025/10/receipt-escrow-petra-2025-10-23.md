@@ -1,10 +1,18 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # INVOICE — UNIVERSITAS KRISTEN PETRA (via IDNFT)
 
-> We don't belong in your reality, your real life. In your reality, your real life, you can merely meet our avatars in any version. So, stay alert and beware of scams!
-
-**Issued by:** Prof. NOTA  
-**Email:** (isi email)  
-**Date:** 22 Oct 2025  
+**Issued by:** Prof. NOTA Inc.  
+**Email:** <suaka@endhonesa.com>  
+**Date:** 23 Oct. 2025  
 **Invoice Number:** NOTA-PETRA-1025
 
 ---
@@ -37,14 +45,16 @@ Catatan: Materi kuliah 2 arah, dengan mini-demo aman (tanpa transaksi live sensi
 
 ## Payment Method
 **Bank Transfer**  
-Bank: (isi nama bank)  
-Atas Nama: (isi nama)  
-No. Rekening: (isi nomor)
+- Bank: _Bank Central Asia (BCA)_  
+  <img width="571" height="85" alt="Bank Account Prof. NOTA Inc. (PT. SUAKA DUNIA RAJA)" src="https://github.com/user-attachments/assets/04011373-8009-4970-8670-d19944ef8d87" />
 
-**Crypto Wallet (opsional)**  
-BTC (Taproot): (isi alamat)  
-EVM / Base / OP / BSC: (isi alamat)  
-Solana: (isi alamat)
+**Crypto Wallet**  
+- Blockchain: **Bitcoin**  
+  Address (Taproot): **bc1p3kavj2zxcx3z5c2rwlpr45hjetjejxr9z40cpgs2d99d5asdljcs55yplr**
+- Blockchain: **Ethereum, Optimism (OP Mainnet), Base, and Binance Smart Chain**  
+  Address: **0xfF809a9B2085A7247Edd03e03Ed71df905C2AF32**
+- Blockchain: **Solana**  
+  Address: **5zWdwiYn3mX6vqcA32mp5EiKLap7maXuufnyhHRQKJXj**
 
 **Notes:** *No recording • No distribution.*
 
@@ -82,4 +92,6 @@ Ringkasan nilai edukasi yang diterima dari sesi ini (berdasarkan handout yang di
 
 ---
 
-P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from Prof. NOTA. Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
