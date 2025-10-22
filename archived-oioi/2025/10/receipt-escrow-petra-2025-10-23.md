@@ -88,7 +88,7 @@ Ringkasan nilai edukasi yang diterima dari sesi ini (berdasarkan handout yang di
 ---
 
 **Due Date:** 30 Oct 2025 (7 hari kerja setelah acara)  
-**Contact for billing:** (WA/Email)
+**Contact for billing:** <suaka@endhonesa.com> / <https://wa.me/628563160756/>
 
 ---
 
