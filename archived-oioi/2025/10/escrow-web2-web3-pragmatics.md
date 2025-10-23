@@ -16,7 +16,7 @@ coverY: 0
 - Ruang-Waktu: **Universitas Kristen Petra** · **Kamis, 23 Okt 2025** · **10.30–13.00** · **AVT501**  
 - Artefak: *Tanpa rekaman • Tanpa distribusi • ±90 mahasiswa*
 
-<figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 1 oleh Prof. NOTA Inc.- International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
 
 - Pendahuluan:  
   Di banyak proyek lintas negara, biaya dan waktu kirim dana kerap menjadi “bottleneck”. Blockchain—khususnya **stablecoin (mis. USDC)**—membuka opsi rails yang **lebih cepat, lebih transparan, dan dapat diprogram**. Sesi ini memetakan **opsi pembayaran internasional**, membedah **escrow tradisional vs smart-contract**, menyentuh **kepatuhan (KYC/AML & pajak)**, dan merancang **arsitektur minimal** dari **Web2 → Web3** agar audiens punya peta jalan yang **pragmatis, aman, dan bisa dieksekusi**.
@@ -30,7 +30,7 @@ coverY: 0
 
 ## 0) Struktur Materi
 
-<figure><img src="https://github.com/user-attachments/assets/2092ea40-018d-4012-943f-362a818d5410" alt="Ilustrasi 1 oleh Prof. NOTA Inc.- Struktur Materi"><figcaption><p>Struktur Materi</p></figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/2092ea40-018d-4012-943f-362a818d5410" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Struktur Materi"><figcaption><p>Struktur Materi</p></figcaption></figure>
 
 1. **Peta Global Payment Rails:** bank/fintech vs **stablecoin** (USDC)
 2. **Escrow:** tradisional vs **smart-contract** (milestone, release, dispute)
@@ -39,9 +39,14 @@ coverY: 0
 5. **Mini-Demo Aman + Panduan Q&A**
 6. **Next Steps / CTA:** Workshop 3 jam, Capstone Clinic, research/internship
 
+- Speech:
+  Hari ini kita fokus ke cara kirim-mengirim lintas negara lebih cepat, transparan, dan programmable. Kita bandingkan bank/fintech rails vs stablecoin rails, lalu kapan escrow dibutuhkan, sedikit compliance, dan arsitektur minimal supaya bisa langsung dipraktikkan.
+
 ---
 
 ## 1) Peta Global Payment Rails — Bank/Fintech vs Stablecoin
+
+<figure><img src="https://github.com/user-attachments/assets/74094c31-6301-4a3b-ad5d-9463d4947d1c" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Peta Global Payment Rails — Bank/Fintech vs Stablecoin"><figcaption><p>Peta Global Payment Rails — Bank/Fintech vs Stablecoin</p></figcaption></figure>
 
 - **Bank/Fintech Rails**
   * Kelebihan: infrastruktur mapan, reputasi kuat, dukungan regulasi lokal.
@@ -58,9 +63,14 @@ coverY: 0
   * **Kinerja & latency** jaringan; pemilihan chain (fee, finality).
   * **Yurisdiksi & kebijakan kampus/perusahaan** terkait aset digital.
 
+- Speech:
+  Bank rails cocok saat butuh paper trail konvensional. Stablecoin cocok untuk kecepatan dan otomasi. Namun harus dihitung total biaya: bukan hanya gas, tapi juga on/off-ramp. Perhatikan juga finality—berapa cepat transaksi benar-benar dianggap selesai.
+  
 ---
 
 ## 2) Escrow — Traditional vs Smart-Contract
+
+<figure><img src="https://github.com/user-attachments/assets/23954453-5472-473d-baca-84de9850c0cd" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Escrow — Traditional vs Smart-Contract"><figcaption><p>Escrow — Traditional vs Smart-Contract</p></figcaption></figure>
 
 - **Escrow Tradisional**
   * Pihak ketiga dipercaya menahan dana, melepas saat **syarat** dipenuhi.
@@ -76,20 +86,31 @@ coverY: 0
   * **Berulang & *rules-based*?** Pertimbangkan smart-contract.
   * **Ada sengketa kompleks?** Siapkan **dispute path** hibrida (kode + arbitrase manusia).
 
+- Speech:
+  Escrow itu penjaga dana sementara. Kalau kebutuhannya sekali-pakai dan butuh negosiasi manusia, tradisional sering cukup. Kalau berulang dan syaratnya jelas, smart-contract memberi otomasi dan jejak transparan.
+
 ---
 
 ## 3) Compliance & Record-Keeping (Student/Startup)
+
+<figure><img src="https://github.com/user-attachments/assets/0d20787e-d02e-40f7-8217-7ac8546cb263" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Compliance & Record-Keeping (Student/Startup)"><figcaption><p>Compliance & Record-Keeping (Student/Startup)</p></figcaption></figure>
 
 * **KYC/AML** di on/off-ramp; **kenali batasan** akun & wilayah.
 * **Dokumentasi**: invoice, tanda terima, *export* ledger → **akuntansi**.
 * **Pajak dasar** lintas negara: catat nilai tukar & tanggal, hindari “*mixed wallets*” untuk proyek berbeda.
 * **Privasi & minimasi data**: simpan yang perlu, hindari menyebar PII.
 
+- Speech:
+  Yang bikin tenang adalah catatan rapi. Simpan data minimal yang perlu. Pisahkan wallet per proyek agar audit mudah. Di on/off-ramp, KYC/AML itu wajib—ini relnya regulasi.
+
 ---
 
 ## 4) Arsitektur Praktis (Minimal)
 
+<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
+
 ```
+
 Web2 App / Admin
   - User auth, order info, invoices
 
@@ -111,9 +132,14 @@ Records
 > * **Segregasi dana/proyek**: kurangi risiko pencampuran.
 > * **Observability**: log transaksi, biaya, & waktu tempuh; siapkan laporan periodik.
 
+- Speech:
+  Ini peta minimal. Aplikasi Web2 mengelola user & order. Payments layer menghubungkan fiat-kripto melalui on/off-ramp dan wallet. Kalau perlu, escrow contract mengatur aturan rilis. Semua transaksi akhirnya masuk ke Records untuk akuntansi.
+
 ---
 
 ## 5) Aktivitas Bersama (Role-Play) + Q&A Terstruktur
+
+<figure><img src="https://github.com/user-attachments/assets/392b6e96-3895-4967-8c39-693b909a4aef" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Aktivitas Bersama (Role-Play) + Q&A Terstruktur"><figcaption><p>Aktivitas Bersama (Role-Play) + Q&A Terstruktur</p></figcaption></figure>
 
 > [!TIP]
 > 
@@ -132,7 +158,12 @@ Records
   * RP2 **20–25’** 
   * Debrief+Q&A **10–15’**
 
-- **Guardrails umum**: tanpa rekaman; tidak ada kunci/PII; tidak ada transaksi live; contoh biaya/fee bersifat ilustratif; patuh kebijakan kampus.
+- **Guardrails umum**:
+  * tanpa rekaman; 
+  * tidak ada kunci/PII; 
+  * tidak ada transaksi live; 
+  * contoh biaya/fee bersifat ilustratif; 
+  * patuh kebijakan kampus.
 
 - **Ekspektasi keluaran segmen ini**
   * Peserta bisa menjelaskan trade-off **privat vs publik** (siapa tahu apa), **latensi**, dan **biaya/overhead** pada jalur transfer lintas negara.
@@ -148,22 +179,32 @@ Records
     - Di luar ruang tanya: kode/audit smart-contract, konsultasi legal khusus, implementasi produk riil di luar konteks kelas.
   * **Penutup Q&A:** rekap poin pembelajaran → arahkan ke **Next Steps/CTA** (workshop 3 jam, capstone clinic, research/internship) dan form minat.
 
+- Speech:
+  * Kalau kalian mau lanjutan praktik, sampaikan ke panitia/dosen—kita bisa jadwalkan Workshop 3 jam atau Capstone Clinic. Yang minat riset, sebutkan ke saya setelah sesi.
+  * Pertanyaan diarahkan ke teknis-pragmatis sesuai tujuan belajar. Untuk pendalaman, kita siapkan workshop dan clinic. Silakan sampaikan minat ke panitia setelah sesi.
+
 ---
 
 ## 6) Next Steps (Untuk Mahasiswa & Kampus)
+
+<figure><img src="https://github.com/user-attachments/assets/32302916-20c8-482e-b7f4-ce1e8d8434b1" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Next Steps (Untuk Mahasiswa & Kampus)"><figcaption><p>Next Steps (Untuk Mahasiswa & Kampus)</p></figcaption></figure>
 
 * **Workshop 3 jam (diskon kampus)** — latihan **alur pembayaran global + escrow (USDC)** dari nol → siap produksi sederhana.
 * **Capstone Clinic (6 tim, 2×60’)**
 * **Research internship (selektif)** — rails & escrow.
 
+<img width="1536" height="1024" alt="qr-code-1" src="https://github.com/user-attachments/assets/6aedfbd1-5f2e-4500-95b0-f5f2441ebb07" />
+
 > [!NOTE]
 > 
-> **What to do:**
+> **What to do:**  
 > silahkan scan **QR Code** (link ke formulir pendaftaran minat); **khusus mahasiswa** tersedia (kuota terbatas, 30 hari).
 
 ---
 
 ## 7) Output Materi (Ujian Peserta)
+
+<figure><img src="https://github.com/user-attachments/assets/cc9945f6-8b1e-4579-a919-d55a6dbc6ced" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Output Materi (Ujian Peserta)"><figcaption><p>Output Materi (Ujian Peserta)</p></figcaption></figure>
 
 * Peserta mampu menyebutkan **opsi rails** beserta implikasi biaya/waktu.
 * Peserta memahami **escrow tradisional vs smart-contract** dan kapan memilihnya.
@@ -173,23 +214,20 @@ Records
 
 > [!NOTE]
 > 
-> **What to do:**
+> **What to do:**  
 > silahkan scan **QR Code** (link ke soal uji coba); jawab dan selesaikan semampunya saja.
 
 ---
 
 ## 8) Lampiran: Handout Singkat (Ringkasan)
 
-- Lampiran 1
-  * **What You’ll Learn**: peta opsi pembayaran, escrow, compliance, arsitektur minimal, next steps.  
-  * **Quick Comparison**: Bank/Fintech (mapan/overhead) vs Stablecoin (cepat/programmable).  
-  * **Pragmatic Escrow**: pilih tradisional untuk sederhana; pilih smart-contract untuk otomatisasi & milestone.  
-  * **Next Steps**: Workshop 3 jam · Capstone Clinic · Research internship.  
-  * **Kontak**: Prof. NOTA — (isi handle/WA/Email)
+<figure><img src="https://github.com/user-attachments/assets/5da6cff5-efd2-4252-8de6-a48b998fe8eb" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Lampiran: Handout Singkat (Ringkasan)"><figcaption><p>Lampiran: Handout Singkat (Ringkasan)</p></figcaption></figure>
 
-- Lampiran 2
-  * 10 card berbeda untuk diberikan kepada 10 peserta yang mau menjadi sukarelawan mendemokan Bank/Fintech Rails.
-  * 10 card berbeda untuk diberikan kepada 10 peserta yang mau menjadi sukarelawan mendemokan Stablecoin Rails (mis. USDC).
+* **What You’ll Learn**: peta opsi pembayaran, escrow, compliance, arsitektur minimal, next steps.  
+* **Quick Comparison**: Bank/Fintech (mapan/overhead) vs Stablecoin (cepat/programmable).  
+* **Pragmatic Escrow**: pilih tradisional untuk sederhana; pilih smart-contract untuk otomatisasi & milestone.  
+* **Next Steps**: Workshop 3 jam · Capstone Clinic · Research internship.  
+* **Kontak**: Prof. NOTA — (isi handle/WA/Email)
 
 ---
 
