@@ -14,7 +14,11 @@ coverY: 0
 
 {% hint style="warning" %}  
 
-Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyatakan ulang (**dilarang mengutip, membuat ringkasan, parafrase, atau turunan**) tanpa izin tertulis sebelumnya dari **Prof. NOTA**. Membagikan tautan diperbolehkan; **bagikan tautannya, bukan teksnya**. **Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.**  
+Dokumen ini **bebas untuk dibaca**.
+
+Dilarang mendistribusikan ulang atau menyatakan ulang (**dilarang mengutip, membuat ringkasan, parafrase, atau turunan**) tanpa izin tertulis sebelumnya dari **Prof. NOTA**.
+
+Membagikan tautan diperbolehkan; **bagikan tautannya, bukan teksnya**. **Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.**  
 
 {% endhint %}
 
