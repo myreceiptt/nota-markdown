@@ -57,7 +57,7 @@ _Report generated: 2025-10-24 05:22:40_
 - **Practical compliance:** KYC/AML on on/off-ramps; simple recordkeeping & taxes are still required.
 - **Minimal architecture:** Web2 app ↔ on/off-ramps ↔ wallet ↔ escrow ↔ records—start with the simplest executable flow.
 
-_Material structure reference: '[International Payments & Escrow — Web2 → Web3 Pragmatics](https://baca.endhonesa.com/all-notas-markdowns/archived-oioi/2025/10/escrow-web2-web3-pragmatics)'._
+_Material structure reference: '[International Payments & Escrow — Web2 → Web3 Pragmatics](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=0ilGqwmB5DvZmEv8miBS&only=yes&limit=100)'._
 
 ---
 
