@@ -578,17 +578,26 @@ silahkan scan **QR Code** (link ke soal uji coba); jawab dan selesaikan semampun
 
 <figure><img src="https://github.com/user-attachments/assets/cc9945f6-8b1e-4579-a919-d55a6dbc6ced" alt="Ilustrasi 11 oleh Prof. NOTA Inc. - Output Materi (Ujian Peserta)"><figcaption><p>Output Materi (Ujian Peserta)</p></figcaption></figure>
 
+<figure><img src="https://github.com/user-attachments/assets/628bc041-1b8e-43b3-867f-a76d77118008" alt="Ilustrasi 12 oleh Prof. NOTA Inc. - QR Code Post-Session Quiz"><figcaption><p>QR Code Post-Session Quiz</p></figcaption></figure>
+
 ---
 
 ## 8) Lampiran: Handout Singkat (Ringkasan)
 
-<figure><img src="https://github.com/user-attachments/assets/5da6cff5-efd2-4252-8de6-a48b998fe8eb" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Lampiran: Handout Singkat (Ringkasan)"><figcaption><p>Lampiran: Handout Singkat (Ringkasan)</p></figcaption></figure>
+{% hint style="success" %}
+ 
+**What to do:**  
+silahkan di-**[Export as PDF](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=0ilGqwmB5DvZmEv8miBS&only=yes&limit=100)**; gunakan, dan jangan disebarkan tanpa ijin.
+
+{% endhint %}
 
 * **What You’ll Learn**: peta opsi pembayaran, escrow, compliance, arsitektur minimal, next steps.  
 * **Quick Comparison**: Bank/Fintech (mapan/overhead) vs Stablecoin (cepat/programmable).  
 * **Pragmatic Escrow**: pilih tradisional untuk sederhana; pilih smart-contract untuk otomatisasi & milestone.  
 * **Next Steps**: Workshop 3 jam · Capstone Clinic · Research internship.  
 * **Kontak**: Prof. NOTA — (isi handle/WA/Email)
+
+<figure><img src="https://github.com/user-attachments/assets/5da6cff5-efd2-4252-8de6-a48b998fe8eb" alt="Ilustrasi 13 oleh Prof. NOTA Inc. - Lampiran: Handout Singkat (Ringkasan)"><figcaption><p>Lampiran: Handout Singkat (Ringkasan)</p></figcaption></figure>
 
 ---
 
