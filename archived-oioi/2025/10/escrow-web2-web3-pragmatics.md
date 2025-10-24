@@ -595,7 +595,7 @@ silahkan di-**[Export as PDF](https://baca.endhonesa.com/all-notas-markdowns/~gi
 * **Quick Comparison**: Bank/Fintech (mapan/overhead) vs Stablecoin (cepat/programmable).  
 * **Pragmatic Escrow**: pilih tradisional untuk sederhana; pilih smart-contract untuk otomatisasi & milestone.  
 * **Next Steps**: Workshop 3 jam · Capstone Clinic · Research internship.  
-* **Kontak**: Prof. NOTA — (isi handle/WA/Email)
+* **Kontak**: **[Prof. NOTA](https://baca.endhonesa.com/all-notas-markdowns/contact)**
 
 <figure><img src="https://github.com/user-attachments/assets/5da6cff5-efd2-4252-8de6-a48b998fe8eb" alt="Ilustrasi 13 oleh Prof. NOTA Inc. - Lampiran: Handout Singkat (Ringkasan)"><figcaption><p>Lampiran: Handout Singkat (Ringkasan)</p></figcaption></figure>
 
