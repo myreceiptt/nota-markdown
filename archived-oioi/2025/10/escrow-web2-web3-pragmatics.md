@@ -12,6 +12,10 @@ coverY: 0
 
 ## -2) Perkenalan
 
+{% hint style="warning" %}
+Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyatakan ulang (**dilarang mengutip, membuat ringkasan, parafrase, atau turunan**) tanpa izin tertulis sebelumnya dari **Prof. NOTA**. Membagikan tautan diperbolehkan; **bagikan tautannya, bukan teksnya**. **Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.**
+{% endhint %}
+
 <figure><img src="https://github.com/user-attachments/assets/3dfccd30-aaff-4614-a0ba-bbcac9da429b" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Perkenalan oleh Prof. NOTA v.11.11"><figcaption><p>Perkenalan oleh Prof. NOTA v.11.11</p></figcaption></figure>
 
 > ...
@@ -148,11 +152,13 @@ coverY: 0
 > Rails adalah pilihan strategi.  
 > Dan strategi membutuhkan kejelasan, bukan mitos.  
 > **Mari pilih rel yang membuat proyek kalian bergerak—bukan sekadar berdebat di stasiun.**
->
+> ...
+> 
 > **60s Cut (jika waktu mepet)**  
-> Bank rails: mapan, rapi, paper trail, tapi lambat dan mahal di FX/overhead.  
-> Stablecoin rails: 24/7, cepat, programmable, tetap lewat KYC di on/off-ramp.  
-> Hitung total biaya = network fee + biaya layanan.
+> 
+> **Bank rails: mapan, rapi, paper trail, tapi lambat dan mahal di FX/overhead.**  
+> **Stablecoin rails: 24/7, cepat, programmable, tetap lewat KYC di on/off-ramp.**  
+> **Hitung total biaya = network fee + biaya layanan.**
 > 
 > Butuh kenyamanan regulator & dokumen klasik? Bank.  
 > Butuh kecepatan, payout lintas negara, otomasi? Stablecoin.
@@ -180,76 +186,144 @@ coverY: 0
 
 <figure><img src="https://github.com/user-attachments/assets/23954453-5472-473d-baca-84de9850c0cd" alt="Ilustrasi 5 oleh Prof. NOTA Inc. - Escrow — Traditional vs Smart-Contract"><figcaption><p>Escrow — Traditional vs Smart-Contract</p></figcaption></figure>
 
-> Bayangkan ada sebuah ruang hening di tengah proyek—di sana uang menunggu sampai syarat terpenuhi.
-Itulah escrow: penjaga dana sementara.
-
-Ada dua cara menjaga ruangan ini.
-
-Cara pertama: manusia.
-Kita titipkan kunci ke penengah tepercaya.
-Mereka memeriksa dokumen, menelpon, bernegosiasi, kadang menenangkan ego yang memanas.
-
-Tradisional.
-Nyaman untuk kasus sekali pakai, banyak nuansa, atau perjanjian yang berubah di menit terakhir.
-Harganya adalah biaya dan waktu—karena manusia perlu membaca, menilai, dan kadang berdebat.
-
-Keuntungannya? Fleksibilitas.
-Dalam dunia yang abu-abu, manusia bisa melihat warna-warna di antaranya.
-
-Cara kedua: kode.
-Kita tidak lagi menitipkan kunci—kita menulis aturan menjadi kunci itu sendiri.
-Smart-contract escrow adalah aturan → kode: ada milestone, time-lock, kondisi rilis, dan jalur sengketa yang sudah digambar sebelum uang dititipkan.
-
-Mesin tidak lelah, tidak bias, dan tidak punya mood.
-Jika syarat A dan B terpenuhi, rilis.
-Kalau sengketa, pindah jalur yang sudah ditentukan.
-
-Keuntungannya? Otomasi & transparansi.
-Semua orang melihat logikanya, bukan tebak-tebakan di balik meja.
-
-Tetapi Prof. NOTA selalu mengingatkan: kode itu taat, tapi tidak peka; manusia peka, tapi tidak konsisten.
-Jadi pilihannya bukan romantika teknologi—ini pilihan taktik.
-
-Rule of three versi Prof. NOTA:
-Sekali pakai, banyak negosiasi, dokumen cair? → Tradisional.
-Berulang, rules-based, syarat jelas & terukur? → Smart-contract.
-Sengketa berpotensi kompleks? → Hibrida: logika dasar di kontrak, dispute path ke arbiter manusia dengan bukti on-chain/off-chain.
-
-Ingat juga tiga risiko klasik di sisi kode:
-Bug/logic gap (audit itu investasi, bukan dekorasi),
-UX & key management (fitur paling sulit adalah “tidak salah klik”),
-Governance (siapa yang boleh upgrade kontrak, kapan, dan dengan syarat apa).
-
-Sementara di sisi tradisional:
-Biaya & latensi meningkat sesuai keruwetan kasus,
-Opasitas (sulit dilihat dari luar mengapa keputusan A bukan B),
-Single point of trust (kalau penjaga lelah, sistem ikut lelah).
-
-Kesimpulannya sederhana:
-Kalau kalian butuh keadilan yang lentur, ambil manusia.
-Kalau kalian butuh kepastian yang dapat diprogram, ambil kode.
-
-
-Prof. NOTA tidak memuja salah satunya—kita memadukan keduanya supaya dana aman, proses jelas, dan proyek maju.
-
-60s Cut (jika waktu mepet)
-“Escrow adalah ruang tunggu dana. Tradisional cocok untuk kasus sekali pakai yang banyak negosiasi—fleksibel tapi lambat dan berbiaya. Smart-contract cocok untuk alur berulang, rules-based—otomatis dan transparan, tapi perlu audit, UX, dan tata kelola. Pakai hibrida saat sengketa bisa kompleks: aturan di kode, banding ke manusia. Ingat: kode taat tapi tak peka; manusia peka tapi tak konsisten—pilih kombinasi yang membuat proyek kalian selesai.”
-
-
+> ...
+>
+> Bayangkan ada **sebuah ruang hening di tengah proyek**—di sana **uang menunggu sampai syarat terpenuhi**.  
+> Itulah **escrow: penjaga dana sementara**.
+>
+> Ada dua cara menjaga ruangan ini.
+>
+> **Cara pertama: manusia.**  
+> Kita titipkan kunci ke penengah tepercaya.  
+> Mereka memeriksa dokumen, menelpon, bernegosiasi, kadang menenangkan ego yang memanas.
+> 
+> **Tradisional.**  
+> Nyaman untuk kasus sekali pakai, banyak nuansa, atau perjanjian yang berubah di menit terakhir.  
+> Harganya adalah biaya dan waktu—karena manusia perlu membaca, menilai, dan kadang berdebat.
+> 
+> **Keuntungannya? Fleksibilitas.**  
+> Dalam dunia yang abu-abu, manusia bisa melihat warna-warna di antaranya.
+>
+> **Cara kedua: kode.**  
+> Kita tidak lagi menitipkan kunci—kita menulis aturan menjadi kunci itu sendiri.  
+> **Smart-contract escrow adalah aturan → kode:**  
+> **ada milestone, time-lock, kondisi rilis, dan jalur sengketa** yang sudah digambar sebelum uang dititipkan.
+>
+> Mesin tidak lelah, tidak bias, dan tidak punya mood.  
+> Jika syarat A dan B terpenuhi, rilis.  
+> Kalau sengketa, pindah jalur yang sudah ditentukan.
+>
+> **Keuntungannya? Otomasi & transparansi.**
+> Semua orang melihat logikanya, bukan tebak-tebakan di balik meja.
+>
+> Tetapi **Prof. NOTA selalu mengingatkan:**  
+> **kode itu taat, tapi tidak peka;**  
+> **manusia peka, tapi tidak konsisten.**
+>
+> Jadi pilihannya **bukan romantika teknologi**—ini pilihan taktik.
+>
+> **Rule of three versi Prof. NOTA:**  
+> * **Sekali pakai, banyak negosiasi, dokumen cair? → Tradisional.**
+> * **Berulang, rules-based, syarat jelas & terukur? → Smart-contract.**
+> * **Sengketa berpotensi kompleks? → Hibrida: logika dasar di kontrak, dispute path ke arbiter manusia dengan bukti on-chain/off-chain.**
+>
+> Ingat juga **tiga risiko klasik di sisi kode**:
+> - **Bug/logic gap** (audit itu investasi, bukan dekorasi),
+> - **UX & key management** (fitur paling sulit adalah “tidak salah klik”),
+> - **Governance** (siapa yang boleh upgrade kontrak, kapan, dan dengan syarat apa).
+>
+> Sementara **di sisi tradisional**:
+> - **Biaya & latensi** meningkat sesuai keruwetan kasus,
+> - **Opasitas** (sulit dilihat dari luar mengapa keputusan A bukan B),
+> - **Single point of trust** (kalau penjaga lelah, sistem ikut lelah).
+>
+> Kesimpulannya sederhana:
+> - **Kalau kalian butuh keadilan yang lentur, ambil manusia.**
+> - **Kalau kalian butuh kepastian yang dapat diprogram, ambil kode.**
+>
+> **Prof. NOTA** tidak memuja salah satunya—kita **memadukan keduanya supaya dana aman, proses jelas, dan proyek maju.**
+> ...
+> 
+> **60s Cut (jika waktu mepet)**  
+> 
+> **Escrow adalah ruang tunggu dana.**  
+> **Tradisional** cocok untuk kasus sekali pakai yang **banyak negosiasi—fleksibel** tapi lambat dan berbiaya.  
+> **Smart-contract** cocok untuk alur berulang, **rules-based—otomatis dan transparan**, tapi perlu audit, UX, dan tata kelola.  
+> Pakai **hibrida saat sengketa** bisa kompleks: **aturan di kode, banding ke manusia**.
+>
+> Ingat: **kode taat tapi tak peka; manusia peka tapi tak konsisten**—pilih kombinasi yang membuat proyek kalian selesai.   
+> ...
 
 ---
 
 ## 3) Compliance & Record-Keeping (Student/Startup)
-
-<figure><img src="https://github.com/user-attachments/assets/0d20787e-d02e-40f7-8217-7ac8546cb263" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Compliance & Record-Keeping (Student/Startup)"><figcaption><p>Compliance & Record-Keeping (Student/Startup)</p></figcaption></figure>
 
 * **KYC/AML** di on/off-ramp; **kenali batasan** akun & wilayah.
 * **Dokumentasi**: invoice, tanda terima, *export* ledger → **akuntansi**.
 * **Pajak dasar** lintas negara: catat nilai tukar & tanggal, hindari “*mixed wallets*” untuk proyek berbeda.
 * **Privasi & minimasi data**: simpan yang perlu, hindari menyebar PII.
 
-- Speech:
-  Yang bikin tenang adalah catatan rapi. Simpan data minimal yang perlu. Pisahkan wallet per proyek agar audit mudah. Di on/off-ramp, KYC/AML itu wajib—ini relnya regulasi.
+<figure><img src="https://github.com/user-attachments/assets/0d20787e-d02e-40f7-8217-7ac8546cb263" alt="Ilustrasi 6 oleh Prof. NOTA Inc. - Compliance & Record-Keeping (Student/Startup)"><figcaption><p>Compliance & Record-Keeping (Student/Startup)</p></figcaption></figure>
+
+> ...
+>
+> Bayangkan kalian **lewat imigrasi bandara**.  
+> Ada dua hal yang membuat petugas mengangguk: **identitas yang jelas dan jejak perjalanan yang rapi**.
+>
+> Di pembayaran lintas negara, **on/off-ramp adalah imigrasi itu**.  
+> Ia bertanya hal yang sama: **siapa kamu, dari mana uangmu, ke mana ia pergi**.  
+> Nama formalnya **KYC/AML**—bukan hiasan, tetapi gerbang.
+>
+> Sekarang bayangkan kalian sudah lolos imigrasi dan masuk kota.  
+> Di sini yang bekerja adalah catatan.  
+> **Tanpa catatan, kota itu gelap**.  
+> _**If it isn’t recorded, it didn’t happen.**_
+>
+> **Prof. NOTA suka menyederhanakan ke empat lapisan:**
+> * **Identitas & Akses** – siapa yang boleh apa.  
+>   Akun on/off-ramp pakai nama legal yang benar, role-based access, dan audit trail login.  
+> * **Money Trail** – uangnya lewat mana.  
+>   Pisahkan wallet per proyek.  
+>   Campur-campur itu seperti memasukkan resi lima toko ke satu kantong tanpa label—auditnya pecah kepala.  
+> * **Tax Snapshot** – foto transaksi yang bisa dipahami akuntan manusia.  
+>   Simpan tanggal/timestamp (zona waktu), nominal & mata uang, nilai tukar saat kejadian, fee, tx hash, alamat asal/tujuan, dan ID invoice/kontrak.  
+> * **Privacy by Design** – kita hemat data pribadi.  
+>   Simpan yang perlu;  
+>   jangan taruh PII (Personally Identifiable Information / Informasi Identifikasi Pribadi) di channel publik;  
+>   pakai folder izin granular; enkripsi bila sensitif.
+>
+> Bagaimana **cara menjaga empat lapisan** ini supaya ringkas tapi kuat?  
+> **Ritual kecil, dampak besar:**
+> - **Satu wallet = satu proyek**. (Dan satu treasury tim punya prosedur sendiri.)
+> - **Jadwal export**: mingguan ke akuntansi (CSV/ledger), bulanan rekonsiliasi.
+> - **Nama file konsisten**: YYYY-MM-DD_invoiceID_proyek.csv.
+> - **Checklist ramp sebelum payout**: nama legal cocok → sumber dana jelas → pajak/retensi tercatat.
+> - **Red flags yang langsung kita tahan**:  
+>   nama penerima ≠ nama di on/off-ramp, FX rate tidak tercatat, wallet proyek dipakai untuk proyek lain, tak ada invoice padanannya.
+>
+> Ingat, tujuan **compliance bukan membuat hidup lambat**—tujuannya **membuat keputusan cepat tanpa rasa takut**.  
+> Saat auditor bertanya, kalian tidak panik; kalian klik folder, keluarkan bukti, dan lanjut bangun produk.
+>
+> **Prof. NOTA** datang dalam wujud **Avatar (HFP)** untuk satu hal:  
+> membuat rel yang cepat tetap sah, dan rel yang sah tetap cepat.
+> 
+> Compliance yang benar itu seperti sabuk pengaman—kalian melaju, tapi tetap selamat sampai tujuan.
+> ...
+> 
+> **60s Cut (jika waktu mepet)**
+> 
+> **On/off-ramp = imigrasi**.  
+> **KYC/AML** itu gerbang.
+> 
+> Sesudahnya, yang menyelamatkan kalian adalah **catatan**:  
+> Simpan **timestamp, nominal, FX rate, fee, tx hash, alamat asal/tujuan, ID invoice**.
+>
+> Pisahkan **wallet per proyek**—jangan campur.  
+> Export ke akuntansi tiap minggu, rekon tiap bulan.
+>
+> **Minimasi PII** & pakai izin folder yang ketat.
+> **Compliance** bukan rem; ia **sabuk pengaman** agar proyek melaju cepat & sah.  
+> ...
 
 ---
 
