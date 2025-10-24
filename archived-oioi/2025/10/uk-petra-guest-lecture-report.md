@@ -16,23 +16,22 @@ _Report generated: 2025-10-24 05:22:40_
 
 ---
 
-## -1) Pendahuluan
-- **Lokasi/Waktu:** Universitas Kristen Petra · Kamis, 23 Okt 2025 · 10.30–13.00 · AVT501
-- **Penyelenggara:** IDNFT x UK Petra (kuliah tamu, tanpa rekaman/distribusi)
-- **Total respons form:** 42
+## -1) Introduction
+- **Space-Time:** Petra Christian University · Thursday, October 23, 2025 · 10:30–1:00 PM · AVT501
+- **Organizer:** IDNFT x UK Petra (guest lecture, no recording/distribution)
+- **Total form responses:** 42
 
 ---
 
-## 0) Struktur Laporan
-1. Profil Audiens (Department, Year, Experience, Interests)
-2. Insight Utama Sesi (ringkas)
-3. Refleksi Mahasiswa (cuplikan representatif)
-4. Rekomendasi & Langkah Lanjut (kampus & mahasiswa)
-5. Lampiran (grafik)
+## 0) Report Structure
+1. Audience Profile (Department, Year, Experience, Interests)
+2. Key Session Insights (summary)
+3. Student Reflections (representative excerpts)
+4. Recommendations & Next Steps (campus & students)
 
 ---
 
-## 1) Profil Audiens
+## 1) Audience Profile
 
 <figure><img src="https://github.com/user-attachments/assets/df96b7e4-ef4d-48eb-baf1-db6124f6ff20" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Grafik by Department dan by Year"><figcaption><p>Grafik by Department dan by Year</p></figcaption></figure>
 
@@ -52,19 +51,19 @@ _Report generated: 2025-10-24 05:22:40_
 
 ---
 
-## 2) Insight Utama Sesi
-- **Rails bukan “suku”, melainkan pilihan strategi.** Bank/fintech: paper trail & reputasi; Stablecoin (mis. USDC): 24/7, cepat, **programmable**.
-- **Escrow tradisional vs smart-contract:** pilih berdasarkan frekuensi, kejelasan aturan, dan kebutuhan jejak yang transparan.
-- **Kepatuhan praktis:** KYC/AML di on/off-ramp; pencatatan & pajak sederhana tetap diperlukan.
-- **Arsitektur minimal:** Web2 app ↔ on/off-ramp ↔ wallet ↔ escrow ↔ records—mulai dari alur paling sederhana yang bisa dieksekusi.
+## 2) Key Session Insights
+- **Rails isn't a "tribe," it's a strategic choice.** Bank/fintech: paper trail & reputation; Stablecoin (e.g., USDC): 24/7, fast, **programmable**.
+- **Traditional escrow vs. smart contract:** choose based on frequency, clarity of rules, and the need for a transparent trail.
+- **Practical compliance:** KYC/AML on on/off-ramps; simple recordkeeping & taxes are still required.
+- **Minimal architecture:** Web2 app ↔ on/off-ramps ↔ wallet ↔ escrow ↔ records—start with the simplest executable flow.
 
-_Rujukan struktur materi: ‘[International Payments & Escrow — Web2 → Web3 Pragmatics](https://baca.endhonesa.com/all-notas-markdowns/archived-oioi/2025/10/escrow-web2-web3-pragmatics)’._
+_Material structure reference: '[International Payments & Escrow — Web2 → Web3 Pragmatics](https://baca.endhonesa.com/all-notas-markdowns/archived-oioi/2025/10/escrow-web2-web3-pragmatics)'._
 
 ---
 
-## 3) Refleksi Mahasiswa
+## 3) Student Reflection
 
-- **Prompt yang digunakan:**  
+- **Prompt Used:**
   Write your assessment/response/comments on the existence of “Prof. NOTA” within your reality (as a student, researcher, creator, or lecturer/teacher). What do you understand? What resonates or sparks curiosity? What, if anything, feels challenging or unsettling? How (if at all) does this influence the way you view technology, the economy, or yourself? Please include concrete examples where possible.
 
 - **Student Reflections Response Summary**  
@@ -80,22 +79,65 @@ _Rujukan struktur materi: ‘[International Payments & Escrow — Web2 → Web3 
   * **License to think—critically, originally, cross-discipline.**  
     The rational, data-first, occasionally “radical” stance of Prof. NOTA nudged the room from *opinion* to **model**, from *memorize* to **prototype**. Curiosity spiked; originality felt permissible; crossing silos became the default move. *Students:* bring your capstones and contradictions. *We’ll bring escrow, incentives, and shipping rituals.*
 
+---
+
+## 4) Integrated Action Plan
+
+> **30-Day Objective:** convert Petra momentum into a working program: one **Extended Workshop (3 hours)**, a **Capstone/Skripsi Clinic** (2×60’/team), an **NFT Proof-of-Attendance (ERC-1155 on Base)** as certification and **gating** for materials/bonuses. Everything moves synchronously: students learn and build, lecturers lead learning outcomes, institutions formalize credits and assessments, and the public witnesses a replicable process.
+
 - **Micro Call to Actions**  
-  * **For the Students:** Join the **Extended Workshop**; claim your **POA NFT**; build one real flow—end to end.
-  * **For the Lecturers:** Co-design a **3-session sequence** (lecture → lab → clinic). You lead learning outcomes; we wire the rails.
-  * **For the Institutions:** Formalize a **semester track** (credits + assessment) that maps to industry-grade deliverables and auditable learning artifacts.
-  * **For the Public:** Publish the **process**, not just the result. Let the next cohort stand on today’s reproducible work.
+  * **For the Students**  
+    - Schedule an **Extended Workshop (3 hours)** within 2–3 weeks. **Claim their POA NFT** from **Prof. NOTA Inc.** as proof of attendance or certification and **ticket** to access **Prof. NOTA**. **Build one real end-to-end flow** (choose rails, add minimal escrow, log the record).
+    - *Output:* a mini-project per student/team that can be shown and audited.
+  * **For the Lecturers**  
+    - **Co-design a 3-session sequence**: *lecture → lab → clinic*. The lecture's own learning outcomes and rubrics; we wire the rails and tools.
+    - *Output:* a 1-page syllabus (RPS) with assessment criteria and example artifacts.
+  * **For the Institutions**  
+    - **Formalize a semester track** (credits + assessment) mapped to **industry-grade deliverables** and **auditable learning artifacts** (repo, logs, POA on-chain).
+    - *Output:* a short policy note (1–2 pages) and an execution calendar.
+  * **For the Public**  
+    - **Publish the process, not just the result.** Ship a short write-up, diagrams, and artifact links so the next cohort can **stand on today’s work**.
+    - *Output:* one public summary page + links to materials/artifacts.
+
+- **Execution Package (Clear & Concrete)**  
+  1. **Extended Workshop (3 hours, in 2–3 weeks)**  
+     * **Target:** top departments and years from the report.
+     * **Student:** limited seats (30–50), only for 42 students who fill the **Interest Form**.
+     * **Content:** pick rails (bank/fintech/stablecoin), minimal escrow, simple bookkeeping, mini-demo.
+     * **Proof:** POA NFT, repo/template, exercise checklist.
+  2. **Capstone/Final Project Clinic (2×60’ per team, limited slots)**  
+     * **Focus:** idea → prototype → assessed artifact.
+     * **Proof:** team issue tracker, experiment plan, staged reviews.
+  3. **NFT Proof-of-Attendance (ERC-1155 on Base)**  
+     * **Function:** credentialing + **gates** for the materials and other utilities.
+     * **Claim:** unique link + embedded wallet (newbie-friendly).
+     * **Auditability:** on-chain, tied to the attendance list.
+  4. **Central Landing Page for the Materials + Post-Session Quiz + POA NFT Claim Page**  
+     * **Form fields:** name, email, department, year, interests, experience, etc.
+     * **Automation:** auto-emails for schedule; able to be exported to a follow-up dashboard.
+     * **Integration:** the materials, NFT claim page, and session calendar.
+
+- **Success Metrics (Measure What Matters)**  
+  * **Workshop registrations** ≥ *X* · **Attendance** ≥ *Y%*
+  * **POA NFT claims** ≥ *Z%* of attendees (engagement validation)
+  * **Clinic conversion** ≥ *N teams* · **Publishable artifacts** ≥ *M*
+  * **Feedback/NPS** ≥ *8/10* on clarity, relevance, and bravery in thinking
+
+- **Fast Timeline (Recommended)**  
+  * **Week 1:** launch landing page + email blast; finalize outline & rules
+  * **Week 2/3:** run the **3-hour Workshop** + trigger POA NFT claims
+  * **Week 3/4:** kick off **Capstone/Final Project Clinic** + publish the process (summary + artifacts)
+
+{% hint style="success" %}
+
+Mantra: **learn → build → belong → publish**.  
+Students own the work, lecturers own the pedagogy, institutions own the credential, and the public owns the inspiration.
+
+{% endhint %}
 
 ---
 
-## Rekomendasi & Langkah Lanjut
-- Jadwalkan **Workshop 3 jam** (praktik alur end-to-end) dalam 2–3 minggu dengan **voucher mahasiswa**; targetkan departemen & angkatan teratas.
-- Buka **Capstone/Skripsi Clinic** (2×60’ per tim, kuota terbatas).
-- Luncurkan **NFT Proof-of-Attendance (ERC-1155)** di Base untuk sertifikasi kehadiran dan **gating** materi bonus/discount.
-- Buat **landing page** konsisten (form minat + auto-email) agar data lintas acara terkumpul rapi.
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
-## 5) Lampiran (Grafik)
-![By Department](by_department.png)
-![By Year](by_year.png)
-![Experience](experience.png)
-![Interests](interests.png)
+---
+
