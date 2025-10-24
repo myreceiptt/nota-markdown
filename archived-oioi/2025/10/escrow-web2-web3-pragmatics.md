@@ -10,27 +10,54 @@ coverY: 0
 
 # International Payments & Escrow — Web2 → Web3 Pragmatics
 
+## -2) Perkenalan
+
+<figure><img src="https://github.com/user-attachments/assets/3dfccd30-aaff-4614-a0ba-bbcac9da429b" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Perkenalan oleh Prof. NOTA v.11.11"><figcaption><p>Perkenalan oleh Prof. NOTA v.11.11</p></figcaption></figure>
+
+> ...
+> 
+> Kalau ditanya, “**Siapa Prof. NOTA?**”  
+> Jawaban singkatnya, “**Sebuah entitas dari Alam Semesta 0101.**”
+> 
+> Perkenalkan, kami adalah **Prof. NOTA**. **Prof. NOTA** adalah sebuah entitas, sebuah karakter, sebuah IP, yang lahir di **Alam Semesta 0101**.
+>
+> **Prof. NOTA** bukan bagian dari **Alam Semesta Realita** atau kehidupan nyata kalian, tapi **Prof. NOTA** hadir di **Alam Semesta Realita** dengan berbagai versi **Avatar atau Human for Profile (HFP)** untuk menjaga konsistensi pendekatan dan keamanan interaksi.
+> 
+> Hari ini dan di sini, di hadapan kalian adalah **Avatar Prof. NOTA v.11.11 atau Human for Profile Prof. NOTA v.11.11**.
+> 
+> Hari ini fokus kami pragmatis:  
+> **membawa kalian dari Web2 ke Web3 pada area pembayaran internasional & escrow—dengan prinsip lebih cepat, transparan, aman, dan programmable.**
+> 
+> Tujuan sesi ini sederhana: **memberi peta jalan yang > bisa langsung dipraktikkan.**  
+> ...
+
+---
+
 ## -1) Pendahuluan
 
 - Judul: **International Payments & Escrow — Web2 → Web3 Pragmatics**  
 - Ruang-Waktu: **Universitas Kristen Petra** · **Kamis, 23 Okt 2025** · **10.30–13.00** · **AVT501**  
 - Artefak: *Tanpa rekaman • Tanpa distribusi • ±90 mahasiswa*
 
-<figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
-
-- Pendahuluan:  
-  Di banyak proyek lintas negara, biaya dan waktu kirim dana kerap menjadi “bottleneck”. Blockchain—khususnya **stablecoin (mis. USDC)**—membuka opsi rails yang **lebih cepat, lebih transparan, dan dapat diprogram**. Sesi ini memetakan **opsi pembayaran internasional**, membedah **escrow tradisional vs smart-contract**, menyentuh **kepatuhan (KYC/AML & pajak)**, dan merancang **arsitektur minimal** dari **Web2 → Web3** agar audiens punya peta jalan yang **pragmatis, aman, dan bisa dieksekusi**.
-
-{% hint style="info" %}
+{% hint style="success" %}
+- Apa itu Blockchain, Smart Contract, dApps? (pelajari dulu di sini: [Fundamental Blockchain](https://baca.endhonesa.com/tutorial-blockchain-fundamental/archived-oioi/2025/10/escrow-web2-web3-pragmatics?fallback=true)
 - Bagaimana mengirim uang lintas negara dengan murah & cepat?
 - Kapan escrow perlu jadi *kode* yang mengeksekusi aturan, bukan sekadar perjanjian?
 {% endhint %}
 
+<figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 2 oleh Prof. NOTA Inc. - International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
+
+> ...
+>
+> Di banyak proyek lintas negara, biaya dan waktu kirim dana kerap menjadi “bottleneck”.  
+> Blockchain—khususnya **stablecoin (mis. USDC)**—membuka opsi rails yang **lebih cepat, lebih transparan, dan dapat diprogram**.
+> 
+> Sesi ini memetakan **opsi pembayaran internasional**, membedah **escrow tradisional vs smart-contract**, menyentuh **kepatuhan (KYC/AML & pajak)**, dan merancang **arsitektur minimal** dari **Web2 → Web3** agar audiens punya peta jalan yang **pragmatis, aman, dan bisa dieksekusi**.  
+> ...
+
 ---
 
 ## 0) Struktur Materi
-
-<figure><img src="https://github.com/user-attachments/assets/2092ea40-018d-4012-943f-362a818d5410" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Struktur Materi"><figcaption><p>Struktur Materi</p></figcaption></figure>
 
 1. **Peta Global Payment Rails:** bank/fintech vs **stablecoin** (USDC)
 2. **Escrow:** tradisional vs **smart-contract** (milestone, release, dispute)
@@ -39,14 +66,18 @@ coverY: 0
 5. **Mini-Demo Aman + Panduan Q&A**
 6. **Next Steps / CTA:** Workshop 3 jam, Capstone Clinic, research/internship
 
-- Speech:
-  Hari ini kita fokus ke cara kirim-mengirim lintas negara lebih cepat, transparan, dan programmable. Kita bandingkan bank/fintech rails vs stablecoin rails, lalu kapan escrow dibutuhkan, sedikit compliance, dan arsitektur minimal supaya bisa langsung dipraktikkan.
+<figure><img src="https://github.com/user-attachments/assets/2092ea40-018d-4012-943f-362a818d5410" alt="Ilustrasi 3 oleh Prof. NOTA Inc. - Struktur Materi"><figcaption><p>Struktur Materi</p></figcaption></figure>
+
+> ...
+>
+> Hari ini kita fokus ke **cara kirim-mengirim lintas negara lebih cepat, transparan, dan programmable**.
+>
+> Kita bandingkan **bank/fintech rails vs stablecoin rails**, lalu **kapan escrow dibutuhkan, sedikit compliance, dan arsitektur minimal** supaya bisa langsung dipraktikkan.  
+> ...
 
 ---
 
 ## 1) Peta Global Payment Rails — Bank/Fintech vs Stablecoin
-
-<figure><img src="https://github.com/user-attachments/assets/74094c31-6301-4a3b-ad5d-9463d4947d1c" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Peta Global Payment Rails — Bank/Fintech vs Stablecoin"><figcaption><p>Peta Global Payment Rails — Bank/Fintech vs Stablecoin</p></figcaption></figure>
 
 - **Bank/Fintech Rails**
   * Kelebihan: infrastruktur mapan, reputasi kuat, dukungan regulasi lokal.
@@ -63,14 +94,75 @@ coverY: 0
   * **Kinerja & latency** jaringan; pemilihan chain (fee, finality).
   * **Yurisdiksi & kebijakan kampus/perusahaan** terkait aset digital.
 
-- Speech:
-  Bank rails cocok saat butuh paper trail konvensional. Stablecoin cocok untuk kecepatan dan otomasi. Namun harus dihitung total biaya: bukan hanya gas, tapi juga on/off-ramp. Perhatikan juga finality—berapa cepat transaksi benar-benar dianggap selesai.
-  
+<figure><img src="https://github.com/user-attachments/assets/74094c31-6301-4a3b-ad5d-9463d4947d1c" alt="Ilustrasi 4 oleh Prof. NOTA Inc. - Peta Global Payment Rails — Bank/Fintech vs Stablecoin"><figcaption><p>Peta Global Payment Rails — Bank/Fintech vs Stablecoin</p></figcaption></figure>
+
+> ...
+>
+> Bayangkan kalian harus **mengirim uang dari Surabaya ke São Paulo**.
+>
+> **Kalian masuk bank.** Bau kertas.  
+> Stempel. Formulir. Antrian.  
+> **Jam operasional.**  
+> Lalu angka yang tampak kecil tapi tajam—**spread FX** yang menggigit diam-diam.
+>
+> Bank rails itu **tua, kuat, rapi.**  
+> Mereka punya paper trail yang membuat **regulator tenang dan auditor tidur nyenyak**.  
+> Ada **chargeback**, ada manusia yang bisa ditelepon, ada **sistem yang sudah dipercaya**.  
+> Harganya? **Waktu dan overhead**.  
+>
+> Sekarang geser pandangan ke kanan.  
+> Lihat rel cahaya itu.
+> 
+> **Stablecoin rails.**  
+> **24/7, tidak kenal tutup.**  
+> **Finality** terasa seperti pintu yang klik—begitu terkunci, selesai.
+>
+> Biayanya bukan misteri besar:  
+> **network fee yang transparan**, plus biaya penyedia **on/off-ramp**.
+>
+> Ini bukan sulap:  
+> tetap **ada KYC di jembatan fiat–kripto**—seperti bea cukai yang menjaga keduanya tetap legal.
+> 
+> Bedanya, setelah lewat gerbang itu, programmability mengalir:  
+> kalian **bisa mengotomasi**, bisa membangun alur rilis dana yang patuh aturan tanpa menunggu jam kantor.
+>
+> Jadi pilih yang mana?  
+> **Prof. NOTA** selalu bilang: **jangan pilih suku; pilih rel.**
+>
+> Kalau kalian butuh kepastian institusional dan paper trail konvensional, **bank/fintech adalah jalur aman.**  
+> Kalau kalian butuh kecepatan, payout berkala lintas negara, atau alur yang dapat diprogram, **stablecoin rails itu kereta cepat.**
+>
+> Dan ingat rumus sederhana yang menyelamatkan banyak proyek dari kebocoran:  
+> **Total biaya = network fee + biaya penyedia layanan (on/off-ramp).**  
+> Bukan hanya ‘gas’. Bukan hanya ‘admin’.  
+> Dua-duanya.
+>
+> Pertanyaan yang harus kalian bawa pulang bukan ‘**mana yang keren**’, tapi:  
+> **Seberapa cepat kita butuh selesai?**  
+> **Seberapa terlihat biaya harusnya?**  
+> **Siapa yang harus nyaman—regulator, auditor, atau pengguna kita?**
+>
+> **Prof. NOTA**—sebuah entitas dari **Alam Semesta 0101**—datang ke realitas kalian dalam wujud **Avatar (HFP)** untuk satu alasan:  
+> **membuat keputusan teknis menjadi keputusan bisnis yang berani.**
+>
+> Rails adalah pilihan strategi.  
+> Dan strategi membutuhkan kejelasan, bukan mitos.  
+> **Mari pilih rel yang membuat proyek kalian bergerak—bukan sekadar berdebat di stasiun.**
+>
+> **60s Cut (jika waktu mepet)**  
+> Bank rails: mapan, rapi, paper trail, tapi lambat dan mahal di FX/overhead.  
+> Stablecoin rails: 24/7, cepat, programmable, tetap lewat KYC di on/off-ramp.  
+> Hitung total biaya = network fee + biaya layanan.
+> 
+> Butuh kenyamanan regulator & dokumen klasik? Bank.  
+> Butuh kecepatan, payout lintas negara, otomasi? Stablecoin.
+>
+> **Prof. NOTA** tidak pilih suku—pilih rel yang bikin proyek selesai.  
+> ...
+
 ---
 
 ## 2) Escrow — Traditional vs Smart-Contract
-
-<figure><img src="https://github.com/user-attachments/assets/23954453-5472-473d-baca-84de9850c0cd" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Escrow — Traditional vs Smart-Contract"><figcaption><p>Escrow — Traditional vs Smart-Contract</p></figcaption></figure>
 
 - **Escrow Tradisional**
   * Pihak ketiga dipercaya menahan dana, melepas saat **syarat** dipenuhi.
@@ -86,8 +178,64 @@ coverY: 0
   * **Berulang & *rules-based*?** Pertimbangkan smart-contract.
   * **Ada sengketa kompleks?** Siapkan **dispute path** hibrida (kode + arbitrase manusia).
 
-- Speech:
-  Escrow itu penjaga dana sementara. Kalau kebutuhannya sekali-pakai dan butuh negosiasi manusia, tradisional sering cukup. Kalau berulang dan syaratnya jelas, smart-contract memberi otomasi dan jejak transparan.
+<figure><img src="https://github.com/user-attachments/assets/23954453-5472-473d-baca-84de9850c0cd" alt="Ilustrasi 5 oleh Prof. NOTA Inc. - Escrow — Traditional vs Smart-Contract"><figcaption><p>Escrow — Traditional vs Smart-Contract</p></figcaption></figure>
+
+> Bayangkan ada sebuah ruang hening di tengah proyek—di sana uang menunggu sampai syarat terpenuhi.
+Itulah escrow: penjaga dana sementara.
+
+Ada dua cara menjaga ruangan ini.
+
+Cara pertama: manusia.
+Kita titipkan kunci ke penengah tepercaya.
+Mereka memeriksa dokumen, menelpon, bernegosiasi, kadang menenangkan ego yang memanas.
+
+Tradisional.
+Nyaman untuk kasus sekali pakai, banyak nuansa, atau perjanjian yang berubah di menit terakhir.
+Harganya adalah biaya dan waktu—karena manusia perlu membaca, menilai, dan kadang berdebat.
+
+Keuntungannya? Fleksibilitas.
+Dalam dunia yang abu-abu, manusia bisa melihat warna-warna di antaranya.
+
+Cara kedua: kode.
+Kita tidak lagi menitipkan kunci—kita menulis aturan menjadi kunci itu sendiri.
+Smart-contract escrow adalah aturan → kode: ada milestone, time-lock, kondisi rilis, dan jalur sengketa yang sudah digambar sebelum uang dititipkan.
+
+Mesin tidak lelah, tidak bias, dan tidak punya mood.
+Jika syarat A dan B terpenuhi, rilis.
+Kalau sengketa, pindah jalur yang sudah ditentukan.
+
+Keuntungannya? Otomasi & transparansi.
+Semua orang melihat logikanya, bukan tebak-tebakan di balik meja.
+
+Tetapi Prof. NOTA selalu mengingatkan: kode itu taat, tapi tidak peka; manusia peka, tapi tidak konsisten.
+Jadi pilihannya bukan romantika teknologi—ini pilihan taktik.
+
+Rule of three versi Prof. NOTA:
+Sekali pakai, banyak negosiasi, dokumen cair? → Tradisional.
+Berulang, rules-based, syarat jelas & terukur? → Smart-contract.
+Sengketa berpotensi kompleks? → Hibrida: logika dasar di kontrak, dispute path ke arbiter manusia dengan bukti on-chain/off-chain.
+
+Ingat juga tiga risiko klasik di sisi kode:
+Bug/logic gap (audit itu investasi, bukan dekorasi),
+UX & key management (fitur paling sulit adalah “tidak salah klik”),
+Governance (siapa yang boleh upgrade kontrak, kapan, dan dengan syarat apa).
+
+Sementara di sisi tradisional:
+Biaya & latensi meningkat sesuai keruwetan kasus,
+Opasitas (sulit dilihat dari luar mengapa keputusan A bukan B),
+Single point of trust (kalau penjaga lelah, sistem ikut lelah).
+
+Kesimpulannya sederhana:
+Kalau kalian butuh keadilan yang lentur, ambil manusia.
+Kalau kalian butuh kepastian yang dapat diprogram, ambil kode.
+
+
+Prof. NOTA tidak memuja salah satunya—kita memadukan keduanya supaya dana aman, proses jelas, dan proyek maju.
+
+60s Cut (jika waktu mepet)
+“Escrow adalah ruang tunggu dana. Tradisional cocok untuk kasus sekali pakai yang banyak negosiasi—fleksibel tapi lambat dan berbiaya. Smart-contract cocok untuk alur berulang, rules-based—otomatis dan transparan, tapi perlu audit, UX, dan tata kelola. Pakai hibrida saat sengketa bisa kompleks: aturan di kode, banding ke manusia. Ingat: kode taat tapi tak peka; manusia peka tapi tak konsisten—pilih kombinasi yang membuat proyek kalian selesai.”
+
+
 
 ---
 
