@@ -39,6 +39,7 @@
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
     * [202510](archived-oioi/2025/10/README.md)
+      * [ESCROW GUEST LECTURE REPORT](archived-oioi/2025/10/uk-petra-guest-lecture-report.md)
       * [RECEIPT OF ESCROW AT PETRA](archived-oioi/2025/10/receipt-escrow-petra-2025-10-23.md)
       * [INTERNATIONAL PAYMENTS & ESCROW](archived-oioi/2025/10/escrow-web2-web3-pragmatics.md)
       * [REMOTE ROLES LIVING LIST](archived-oioi/2025/10/remote-roles-living-list.md)
