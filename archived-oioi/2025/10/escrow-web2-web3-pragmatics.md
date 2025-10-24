@@ -362,7 +362,7 @@ Records
   - Ledger, invoices, export to accounting
 ```
 
-<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 7 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
 
 > ...
 >
@@ -466,13 +466,13 @@ Records
 
 ## 5) Aktivitas Bersama (Role-Play) + Q&A Terstruktur
 
-<figure><img src="https://github.com/user-attachments/assets/392b6e96-3895-4967-8c39-693b909a4aef" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Aktivitas Bersama (Role-Play) + Q&A Terstruktur"><figcaption><p>Aktivitas Bersama (Role-Play) + Q&A Terstruktur</p></figcaption></figure>
+{% hint style="success" %}
 
-> [!TIP]
-> 
-> **Catatan:**
-> - Detail instruksi untuk masing-masing role-play berada pada dokumen terpisah, [International Payments & Escrow Role-Play](../../../archived-oioi/2025/10/international-payments-escrow-roleplay.md)
-> - Bagian ini hanya menyiapkan kerangka, tujuan, dan batasan diskusi agar selaras dengan **Output Materi**.
+**Catatan:**
+- Detail instruksi untuk masing-masing role-play berada pada dokumen terpisah, [International Payments & Escrow Role-Play](../../../archived-oioi/2025/10/international-payments-escrow-roleplay.md)
+- Bagian ini hanya menyiapkan kerangka, tujuan, dan batasan diskusi agar selaras dengan **Output Materi**.
+
+{% endhint %}
 
 - **Susunan singkat & tujuan**
   * **Role-Play 1 — International Transfers (tanpa escrow)**
@@ -480,17 +480,9 @@ Records
   * **Role-Play 2 — Escrow untuk transaksi/jual-beli**
     - Fokus: kapan perlu **escrow**, perbedaan **trusted intermediary** vs **rules-as-code**, konsep **kondisi rilis** dan **jalur sengketa** (tanpa implementasi teknis).
 
-- **Alokasi waktu saran**:
-  * RP1 **20–25’** 
-  * RP2 **20–25’** 
-  * Debrief+Q&A **10–15’**
+- **Alokasi waktu saran**: RP1 **20–25’**, RP2 **20–25’**, dan Debrief + Q&A **10–15’**
 
-- **Guardrails umum**:
-  * tanpa rekaman; 
-  * tidak ada kunci/PII; 
-  * tidak ada transaksi live; 
-  * contoh biaya/fee bersifat ilustratif; 
-  * patuh kebijakan kampus.
+- **Guardrails umum**: tanpa rekaman, tidak ada kunci/PII, tidak ada transaksi live, contoh biaya/fee bersifat ilustratif, dan patuh kebijakan kampus.
 
 - **Ekspektasi keluaran segmen ini**
   * Peserta bisa menjelaskan trade-off **privat vs publik** (siapa tahu apa), **latensi**, dan **biaya/overhead** pada jalur transfer lintas negara.
@@ -504,34 +496,79 @@ Records
   * **Setelah RP2 (Escrow):**
     - Ruang tanya: kriteria butuh escrow, contoh kondisi rilis/milestone, peran manusia dalam sengketa, risiko UX & operasional.
     - Di luar ruang tanya: kode/audit smart-contract, konsultasi legal khusus, implementasi produk riil di luar konteks kelas.
-  * **Penutup Q&A:** rekap poin pembelajaran → arahkan ke **Next Steps/CTA** (workshop 3 jam, capstone clinic, research/internship) dan form minat.
+  * **Penutup Q&A:** rekap poin pembelajaran → lanjutkan ke **Next Steps** (workshop 3 jam, capstone clinic, research/internship) dan form minat.
 
-- Speech:
-  * Kalau kalian mau lanjutan praktik, sampaikan ke panitia/dosen—kita bisa jadwalkan Workshop 3 jam atau Capstone Clinic. Yang minat riset, sebutkan ke saya setelah sesi.
-  * Pertanyaan diarahkan ke teknis-pragmatis sesuai tujuan belajar. Untuk pendalaman, kita siapkan workshop dan clinic. Silakan sampaikan minat ke panitia setelah sesi.
+<figure><img src="https://github.com/user-attachments/assets/392b6e96-3895-4967-8c39-693b909a4aef" alt="Ilustrasi 8 oleh Prof. NOTA Inc. - Aktivitas Bersama (Role-Play) + Q&A Terstruktur"><figcaption><p>Aktivitas Bersama (Role-Play) + Q&A Terstruktur</p></figcaption></figure>
+
+> ...
+>
+> Sekarang giliran kalian.
+> 
+> Biasanya pertanyaan datang dalam tiga rasa: **taktis hari ini, sistemik bulan ini, dan filosofis sepanjang tahun**.  
+> Di sesi ini, kita **fokus ke taktis–pragmatis**—yang bisa kalian bawa pulang dan dipakai minggu ini.
+>
+> Rel Q&A-nya sederhana:  
+> **On-track: memilih rails (bank/fintech vs stablecoin), membaca biaya/latency, kapan escrow dipakai, dokumen minimal yang harus disimpan, dan sketsa arsitektur paling ramping.**  
+> **Off-track dulu: tebak-tebakan harga koin, trading signals, audit kode tingkat kedalaman, atau konsultasi legal spesifik kasus.**  
+> Yang ini kita parkir ke workshop atau clinic supaya dapat ruang yang tepat.
+>
+> Cara bertanya: **angkat tangan, sebut konteks dalam tujuh kata, lalu pertanyaannya.**  
+> Contoh: ‘freelance lintas negara—payout mingguan—wallet apa?’
+>
+> Semakin tajam konteks, semakin tajam jawaban.  
+> Kalau pertanyaan kalian butuh pembahasan panjang, jangan khawatir—itu pertanyaan yang bagus.
+>
+> Sekarang, mari kita gunakan sisa waktu dengan pertanyaan yang membuat proyek kalian bergerak.  
+> Bukan pertanyaan paling pintar—pertanyaan yang paling membantu kalian ship.  
+> ...
+>
+> **60s Cut (jika waktu mepet)**
+>
+> **Q&A kita taktis–pragmatis**: pilih rails, baca biaya/latency, kapan escrow, dokumen minimal, dan sketsa arsitektur.  
+> Off-track (harga koin, trading, audit mendalam, legal spesifik) kita parkir ke: Workshop 3 jam, Capstone Clinic, atau Research/Internship.  
+> Silakan **angkat tangan, sebut konteks singkat, lalu pertanyaannya**. Kita cari jawaban yang membuat proyek kalian jalan.  
+> ...
 
 ---
 
 ## 6) Next Steps (Untuk Mahasiswa & Kampus)
 
-<figure><img src="https://github.com/user-attachments/assets/32302916-20c8-482e-b7f4-ce1e8d8434b1" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Next Steps (Untuk Mahasiswa & Kampus)"><figcaption><p>Next Steps (Untuk Mahasiswa & Kampus)</p></figcaption></figure>
+{% hint style="success" %}
 
-* **Workshop 3 jam (diskon kampus)** — latihan **alur pembayaran global + escrow (USDC)** dari nol → siap produksi sederhana.
+**What to do:**  
+silahkan scan **QR Code** (link ke formulir pendaftaran minat); **khusus mahasiswa** tersedia (kuota terbatas, 30 hari).
+
+{% endhint %}
+
+* **Workshop 3 jam (via kampus)** — latihan **alur pembayaran global + escrow (USDC)** dari nol → siap produksi sederhana.
 * **Capstone Clinic (6 tim, 2×60’)**
 * **Research internship (selektif)** — rails & escrow.
 
-<img width="1536" height="1024" alt="qr-code-1" src="https://github.com/user-attachments/assets/6aedfbd1-5f2e-4500-95b0-f5f2441ebb07" />
+<figure><img src="https://github.com/user-attachments/assets/32302916-20c8-482e-b7f4-ce1e8d8434b1" alt="Ilustrasi 9 oleh Prof. NOTA Inc. - Next Steps (Untuk Mahasiswa & Kampus)"><figcaption><p>Next Steps (Untuk Mahasiswa & Kampus)</p></figcaption></figure>
 
-> [!NOTE]
+<figure><img src="https://github.com/user-attachments/assets/6aedfbd1-5f2e-4500-95b0-f5f2441ebb07" alt="Ilustrasi 10 oleh Prof. NOTA Inc. - QR Code Interest Form"><figcaption><p>QR Code Interest Form</p></figcaption></figure>
+
+> ...
 > 
-> **What to do:**  
-> silahkan scan **QR Code** (link ke formulir pendaftaran minat); **khusus mahasiswa** tersedia (kuota terbatas, 30 hari).
+> Kita tidak memaksa jawaban cepat untuk masalah lambat; kita pindahkan ke **wadah yang benar**:  
+> **Workshop 3 jam** — latihan hands-on: dari on/off-ramp sampai rekonsiliasi.  
+> **Capstone Clinic** — 6 tim, case-by-case: rancang arsitektur minimal yang bisa kalian ship.  
+> **Research/Internship** (terseleksi) — jalur eksplorasi untuk yang ingin mendalami rails & escrow.
+>
+> Sekarang silahkan di-**scan QR code** formulir ketertarikan di depan kalian.  
+> Jika berkenan, silahkan **tuliskan tanggapan, komentar, kritik dan saran terkait Prof. NOTA** di formulir tersebut.  
+> ...
 
 ---
 
 ## 7) Output Materi (Ujian Peserta)
 
-<figure><img src="https://github.com/user-attachments/assets/cc9945f6-8b1e-4579-a919-d55a6dbc6ced" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Output Materi (Ujian Peserta)"><figcaption><p>Output Materi (Ujian Peserta)</p></figcaption></figure>
+{% hint style="success" %}
+ 
+**What to do:**  
+silahkan scan **QR Code** (link ke soal uji coba); jawab dan selesaikan semampunya saja.
+
+{% endhint %}
 
 * Peserta mampu menyebutkan **opsi rails** beserta implikasi biaya/waktu.
 * Peserta memahami **escrow tradisional vs smart-contract** dan kapan memilihnya.
@@ -539,10 +576,7 @@ Records
 * Peserta dapat membuat **sketsa arsitektur minimal** Web2 → Web3.
 * Peserta tahu **langkah lanjut** (workshop/klinik/internship) dan kanal informasi.
 
-> [!NOTE]
-> 
-> **What to do:**  
-> silahkan scan **QR Code** (link ke soal uji coba); jawab dan selesaikan semampunya saja.
+<figure><img src="https://github.com/user-attachments/assets/cc9945f6-8b1e-4579-a919-d55a6dbc6ced" alt="Ilustrasi 11 oleh Prof. NOTA Inc. - Output Materi (Ujian Peserta)"><figcaption><p>Output Materi (Ujian Peserta)</p></figcaption></figure>
 
 ---
 
