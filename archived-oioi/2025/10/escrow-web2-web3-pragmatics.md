@@ -21,10 +21,10 @@ coverY: 0
 - Pendahuluan:  
   Di banyak proyek lintas negara, biaya dan waktu kirim dana kerap menjadi “bottleneck”. Blockchain—khususnya **stablecoin (mis. USDC)**—membuka opsi rails yang **lebih cepat, lebih transparan, dan dapat diprogram**. Sesi ini memetakan **opsi pembayaran internasional**, membedah **escrow tradisional vs smart-contract**, menyentuh **kepatuhan (KYC/AML & pajak)**, dan merancang **arsitektur minimal** dari **Web2 → Web3** agar audiens punya peta jalan yang **pragmatis, aman, dan bisa dieksekusi**.
 
-> [!NOTE]
-> 
-> - Bagaimana mengirim uang lintas negara dengan murah & cepat?
-> - Kapan escrow perlu jadi *kode* yang mengeksekusi aturan, bukan sekadar perjanjian?
+{% hint style="info" %}
+- Bagaimana mengirim uang lintas negara dengan murah & cepat?
+- Kapan escrow perlu jadi *kode* yang mengeksekusi aturan, bukan sekadar perjanjian?
+{% endhint %}
 
 ---
 
