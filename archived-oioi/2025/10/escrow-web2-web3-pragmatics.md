@@ -12,8 +12,10 @@ coverY: 0
 
 ## -2) Perkenalan
 
-{% hint style="warning" %}
-Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyatakan ulang (**dilarang mengutip, membuat ringkasan, parafrase, atau turunan**) tanpa izin tertulis sebelumnya dari **Prof. NOTA**. Membagikan tautan diperbolehkan; **bagikan tautannya, bukan teksnya**. **Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.**
+{% hint style="warning" %}  
+
+Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyatakan ulang (**dilarang mengutip, membuat ringkasan, parafrase, atau turunan**) tanpa izin tertulis sebelumnya dari **Prof. NOTA**. Membagikan tautan diperbolehkan; **bagikan tautannya, bukan teksnya**. **Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.**  
+
 {% endhint %}
 
 <figure><img src="https://github.com/user-attachments/assets/3dfccd30-aaff-4614-a0ba-bbcac9da429b" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Perkenalan oleh Prof. NOTA v.11.11"><figcaption><p>Perkenalan oleh Prof. NOTA v.11.11</p></figcaption></figure>
@@ -43,10 +45,12 @@ Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyata
 - Ruang-Waktu: **Universitas Kristen Petra** · **Kamis, 23 Okt 2025** · **10.30–13.00** · **AVT501**  
 - Artefak: *Tanpa rekaman • Tanpa distribusi • ±90 mahasiswa*
 
-{% hint style="success" %}
+{% hint style="success" %}  
+
 - Apa itu Blockchain, Smart Contract, dApps? (pelajari dulu di sini: [Fundamental Blockchain](https://baca.endhonesa.com/tutorial-blockchain-fundamental/archived-oioi/2025/10/escrow-web2-web3-pragmatics?fallback=true)
 - Bagaimana mengirim uang lintas negara dengan murah & cepat?
-- Kapan escrow perlu jadi *kode* yang mengeksekusi aturan, bukan sekadar perjanjian?
+- Kapan escrow perlu jadi *kode* yang mengeksekusi aturan, bukan sekadar perjanjian?  
+
 {% endhint %}
 
 <figure><img src="https://github.com/user-attachments/assets/37aff88e-09ff-4fb1-971f-fb6b21e18e6d" alt="Ilustrasi 2 oleh Prof. NOTA Inc. - International Payments dan Escrow"><figcaption><p>International Payments dan Escrow</p></figcaption></figure>
@@ -151,7 +155,7 @@ Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyata
 >
 > Rails adalah pilihan strategi.  
 > Dan strategi membutuhkan kejelasan, bukan mitos.  
-> **Mari pilih rel yang membuat proyek kalian bergerak—bukan sekadar berdebat di stasiun.**
+> **Mari pilih rel yang membuat proyek kalian bergerak—bukan sekadar berdebat di stasiun.**  
 > ...
 > 
 > **60s Cut (jika waktu mepet)**  
@@ -241,7 +245,7 @@ Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyata
 > - **Kalau kalian butuh keadilan yang lentur, ambil manusia.**
 > - **Kalau kalian butuh kepastian yang dapat diprogram, ambil kode.**
 >
-> **Prof. NOTA** tidak memuja salah satunya—kita **memadukan keduanya supaya dana aman, proses jelas, dan proyek maju.**
+> **Prof. NOTA** tidak memuja salah satunya—kita **memadukan keduanya supaya dana aman, proses jelas, dan proyek maju.**  
 > ...
 > 
 > **60s Cut (jika waktu mepet)**  
@@ -307,7 +311,7 @@ Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyata
 > **Prof. NOTA** datang dalam wujud **Avatar (HFP)** untuk satu hal:  
 > membuat rel yang cepat tetap sah, dan rel yang sah tetap cepat.
 > 
-> Compliance yang benar itu seperti sabuk pengaman—kalian melaju, tapi tetap selamat sampai tujuan.
+> Compliance yang benar itu seperti sabuk pengaman—kalian melaju, tapi tetap selamat sampai tujuan.  
 > ...
 > 
 > **60s Cut (jika waktu mepet)**
@@ -329,7 +333,14 @@ Dokumen ini **bebas untuk dibaca**. Dilarang mendistribusikan ulang atau menyata
 
 ## 4) Arsitektur Praktis (Minimal)
 
-<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
+{% hint style="success" %}
+
+**Catatan desain**
+* **Custodial vs non-custodial**: pertimbangkan UX & kepatuhan.
+* **Segregasi dana/proyek**: kurangi risiko pencampuran.
+* **Observability**: log transaksi, biaya, & waktu tempuh; siapkan laporan periodik.  
+
+{% endhint %}
 
 ```
 
@@ -347,15 +358,105 @@ Records
   - Ledger, invoices, export to accounting
 ```
 
-> [!NOTE]
-> 
-> **Catatan desain**
-> * **Custodial vs non-custodial**: pertimbangkan UX & kepatuhan.
-> * **Segregasi dana/proyek**: kurangi risiko pencampuran.
-> * **Observability**: log transaksi, biaya, & waktu tempuh; siapkan laporan periodik.
+<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 1 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
 
-- Speech:
-  Ini peta minimal. Aplikasi Web2 mengelola user & order. Payments layer menghubungkan fiat-kripto melalui on/off-ramp dan wallet. Kalau perlu, escrow contract mengatur aturan rilis. Semua transaksi akhirnya masuk ke Records untuk akuntansi.
+> ...
+>
+> Bayangkan sistem kalian seperti **sebuah kota kecil**.  
+> **Tidak megah, tapi teratur.**  
+> Ada empat distrik yang saling **terhubung**, masing-masing dengan **tugas jelas**.
+>
+> Distrik 1 — **Web2 App/Admin (Balai Kota)**.  
+> Di sinilah identitas, order, dan invoice lahir.  
+> Balai kota tidak memindahkan uang; ia **mencatat niat: siapa membayar apa, untuk apa**.  
+> Kuncinya: satu order_id yang akan menempel sampai akhir hidup transaksi.
+>
+> Distrik 2 — **Payments Layer (Jembatan)**.  
+> Dari balai kota, kalian menyeberangi jembatan: **on/off-ramp (KYC) dan wallet**.  
+> Di sinilah uang berpindah: **fiat ↔ stablecoin**.  
+> Jembatan yang baik itu sempit—hanya fungsi pemindahan, tanpa logika bisnis.
+>
+> Tombol-tombol **pilihan Prof. NOTA**:  
+> - **Custodial** (UX lebih lembut, delegasi kunci) vs **non-custodial** (kedaulatan, tapi perlu merawat kunci).  
+> - **Chain & biaya**: pilih **finality dan fee** yang sesuai profil transaksi, bukan sekadar populer.  
+>
+> Distrik 3 — **Escrow Contract (Gerbang Penjaga)**.  
+> Ini gerbang otomatis.  
+> Kalau proyek butuh, **aturan → kode**: **milestone, time-lock, release logic, plus jalur sengketa**.  
+> Jika syarat A & B terpenuhi, gerbang terbuka; kalau ada konflik, alur berbelok ke arbiter manusia.  
+> Ingat: **kode itu patuh, manusia itu peka**—kadang kalian butuh hibrida.
+>
+> Distrik 4 — **Records (Perpustakaan Kota)**.  
+> Setiap gerakan di jembatan atau gerbang meninggalkan cap di perpustakaan: ledger, invoice, export ke akuntansi.  
+> Formatnya membosankan—dan itu bagus.  
+> _**If it isn’t recorded, it didn’t happen.**_
+>
+> **Tiga Hukum Prof. NOTA** untuk arsitektur minimal:
+> * **Satu sumber kebenaran (order_id) mengalir dari App → Payments → Escrow → Records.**
+> * **Pisahkan peran: App mencatat niat, Payments memindah dana, Escrow menegakkan aturan, Records membuktikan.**
+> * **Rekonsiliasi terjadwal: webhook in → ledger out; mingguan ke akuntansi, bulanan tutup buku.**
+>
+> Anti-pola yang mahal:
+> * **Campur wallet antar proyek**
+>   - **Apa itu:** 1 wallet dipakai untuk **banyak proyek/produk/klien** sekaligus.
+>   - **Gejala:** sulit melacak saldo & transaksi per proyek; laporan labur; rekonsiliasi lama.
+>   - **Risiko:** audit & pajak **kabur**, salah hitung margin, potensi temuan kepatuhan.
+>   - **Yang benar:**
+>     - **1 proyek = 1 wallet (atau 1 sub-treasury)**.
+>     - Tag transaksi pakai `project_id` dan simpan mapping **on-chain addr ↔ project**.
+>     - Tutup periode per proyek (rekon mingguan/bulanan).
+>   - **Tes 5 detik:** Bisa nggak export **semua transaksi proyek X** dalam 1 klik? Kalau tidak, wallet-nya bercampur.
+> * **Logika bisnis di payments layer**
+>   - **Apa itu:** aturan produk (harga/discount/refund policy/milestone) ditaruh di **gateway/on-ramp/wallet service** alih-alih di **App/Service**.
+>   - **Gejala:** pindah vendor/chain = migrasi berat; perubahan kecil butuh ticket ke provider.
+>   - **Risiko:** **vendor lock-in**, duplikasi aturan, sulit diuji (unit test), **change-blast** besar.
+>   - **Yang benar:**
+>     - **App/Admin** pegang **aturan bisnis** (harga, diskon, policy, milestone).
+>     - **Payments layer** cuma **adapter** yang **memindahkan dana** & mengirim event (webhook).
+>     - Escrow logic di **smart-contract** (kalau dipakai), tapi **orchestration/approval** tetap di App.
+>   - **Tes 5 detik:** Kalau ganti on/off-ramp, apakah logika harga/milestone aman? Kalau tidak, logika kebablasan ada di payments.
+> * **Tidak ada idempotensi**
+>   - **Apa itu:** operasi pembayaran (capture/release/refund) bisa **tereksekusi ganda** saat network retry/webhook duplikat.
+>   - **Gejala:** webhook dobel → saldo ganda/dua kali rilis dana.
+>   - **Risiko:** **over-payment**, refund manual, tutup buku kacau.
+>   - **Yang benar:**
+>     - Setiap operasi punya **`idempotency_key`** unik (mis. `order_id` + langkah).
+>     - Di DB, **upsert** berdasarkan `idempotency_key` + **unique constraint**.
+>     - Abaikan event duplikat; log sebagai “already processed”.
+      - **Contoh cepat (pseudo):**
+>       ```
+>       -- unique index on idempotency_key
+>       INSERT INTO payments (idempotency_key, order_id, amount, status)
+>       VALUES (:key, :order, :amt, 'captured')
+>       ON CONFLICT (idempotency_key) DO NOTHING;
+>       ```
+>   - **Tes 5 detik:** matikan internet saat klik "Bayar", nyalakan lagi → **harus** jadi **1 transaksi** saja.
+> * **PII nyasar ke tempat publik**
+>   - **Apa itu:** data pribadi (KTP/paspor, nomor HP, email, alamat, selfie KYC) ikut nongol di **log publik, ticket, dashboard, Git, Notion, atau on-chain**.
+>   - **Gejala:** screenshot/chat yang berisi PII tersebar; field PII "kebawa" ke analitik.
+>   - **Risiko:** **pelanggaran privasi/kepatuhan**, reputasi rusak, remediasi mahal.
+>   - **Yang benar:**
+>     - **Minimisasi**: simpan yang perlu saja, **jangan** bawa PII ke pipeline analitik umum.
+>     - **RBAC** ketat, enkripsi di rest/transit untuk PII; **jangan pernah** taruh PII **on-chain**.
+>     - Masking di log: `+62xxxx…`, `email: a***@domain`.
+>     - Pisahkan storage PII dari transaksi; referensikan via **token/ID** saja.
+>   - **Tes 5 detik:** cari nama/telepon di log/dashboard publik—kalau ketemu, kebocoran sudah terjadi.
+>
+> **Minimal bukan berarti miskin, minimal berarti berani bilang "cukup":**  
+> **cukup fitur untuk bergerak cepat, cukup catatan untuk tidur tenang, cukup batas untuk selamat.**
+>
+> **Prof. NOTA menyukai kota kecil yang disiplin**—karena kota kecil yang rapi lebih mudah dibesarkan daripada metropolis yang kacau.  
+> ...
+>
+> **60s Cut (jika waktu mepet)**
+> 
+> Empat blok:  
+> **App (order/invoice) → Payments (on/off-ramp + wallet) → Escrow (aturan → kode, opsional) → Records (ledger → akuntansi)**.
+> 
+> Pegang **satu order_id dari awal sampai akhir**, **pisahkan peran**, dan **rekonsiliasi terjadwal**.  
+> Hindari campur **wallet**, jangan masukkan **logika bisnis** ke **payments layer**, dan **jaga PII**.  
+> Minimal = **cepat, sah, dan siap tumbuh**.  
+> ...
 
 ---
 
