@@ -362,7 +362,7 @@ Records
   - Ledger, invoices, export to accounting
 ```
 
-<figure><img src="https://github.com/user-attachments/assets/f5fb8fff-9c4a-4857-a16a-4458b253c556" alt="Ilustrasi 7 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
+<figure><img src="https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=m7BRN9YDV8pnvI2I5ZsI&only=yes&limit=100" alt="Ilustrasi 7 oleh Prof. NOTA Inc. - Arsitektur Praktis (Minimal)"><figcaption><p>Arsitektur Praktis (Minimal)</p></figcaption></figure>
 
 > ...
 >
