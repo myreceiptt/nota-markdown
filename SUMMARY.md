@@ -41,6 +41,7 @@
     * [202510](archived-oioi/2025/10/README.md)
       * [ESCROW GUEST LECTURE REPORT](archived-oioi/2025/10/uk-petra-guest-lecture-report.md)
       * [RECEIPT OF ESCROW AT PETRA](archived-oioi/2025/10/receipt-escrow-petra-2025-10-23.md)
+      * [INTERNATIONAL PAYMENTS & ESCROW ROLEPLAY](archived-oioi/2025/10/international-payments-escrow-roleplay.md)
       * [INTERNATIONAL PAYMENTS & ESCROW](archived-oioi/2025/10/escrow-web2-web3-pragmatics.md)
       * [REMOTE ROLES LIVING LIST](archived-oioi/2025/10/remote-roles-living-list.md)
       * [BGC X IBLOOMING WEB3 LOGIN UNIFIED AUTH](archived-oioi/2025/10/bgc-i-blooming-web3-login-unified-auth.md)
