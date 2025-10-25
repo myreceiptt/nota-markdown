@@ -349,9 +349,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Web3 Prototype/Integration (C)** — Next.js/TS + Thirdweb v5 + AA (ERC-4337) + ERC-1155 (Base/OP).  
   _Deliverables:_ repo, rute demo, test minimal (Playwright/Cypress), bukti rilis (preview/changelog).
 - **Business Architecture & Ops Playbook (D/H)** — SOP, RACI, compliance & token lifecycle policy.  
-  _Deliverables:_ playbook operasional, value-stream map, checklist audit.
+  _Deliverables:_ Operational playbook, value stream map, audit checklist.
 - **Community & Learning Program (E/F)** — DevRel, workshop, kurikulum, content calendar.  
-  _Deliverables:_ demo/sample repos, materi workshop, plan kampanye & metrik adopsi.
+  _Deliverables:_ demo/sample repositories, material workshop, campaign plan, and adoption metrics.
 - **Custom Creation (G)** — proposal/grant/RFP, research digest, crisis narrative.  
   _Deliverables:_ proposal pack, due-diligence memo, Q&A krisis.
 
@@ -388,12 +388,14 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
   | Bahasa    | Reading | Writing | Speaking | Listening |
   |-----------|---------|---------|----------|-----------|
-  | Indonesia | C2      | C2      | C2       | C2        |
-  | English   | C1 (70) | C2 (98) | C1 (62)  | C1 (66)   |
+  | Indonesia | C1      | C1      | C1       | C1        |
+  | English   | C1 (68) | B2 (51) | B1 (43)  | B2 (52)   |
 
 - **Sertifikasi & Bukti Bahasa**
-  - **EF SET (English, CEFR)** — **C2 (74/100)** · Certificate: [Lihat Sertifikat](https://cert.efset.org/en/PdyoRR) · [Link Daftar/Tes](https://www.efset.org/english-certificate/)
-  - **UKBI Adaptif (Bahasa Indonesia)** — **Sangat Unggul** _(valid 2 tahun)_ · Sertifikat: [Lihat Sertifikat](https://nota.endhonesa.com/verify/ukbi-v11) · [Link Daftar/Tes](https://ukbi.kemdikbud.go.id/)
+  - **EF SET (English, CEFR)** — **B2 Upper Intermediate (54/100)** · Certificate: [Lihat Sertifikat](https://cert.efset.org/en/PdyoRR)
+  - **UKBI Adaptif (Bahasa Indonesia)** — **III (Unggul)**  
+
+<figure><img src="https://github.com/user-attachments/assets/7e55eba1-b8ba-4c6d-9a45-8963f91ce8e4" alt="HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)"><figcaption><p>HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)</p></figcaption></figure>
 
 ### 7.2 Kebijakan Bahasa & Pronomina
 
@@ -463,7 +465,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
   Fokus pada ilmu alam dan sains seperti Fisika, dan Matematika.
 - **SMA Ilmu Pengetahuan Sosial (IPS)** — [Institusi], [Tahun]  
   Fokus pada ilmu sosial dan kemasyarakatan.
-- **SMA Kelas Bahasa** — [Institusi], [Tahun]  
+- **SMA Kelas Bahasa** — Sekolah Menengah Atas Negeri 16 Surabaya, 2002  
   Mempelajari lebih dalam tentang bahasa dan budaya.
 
 #### 8.1.2 Diploma 1 (D1) - Ahli Pratama
@@ -494,7 +496,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
   Produksi media, prototyping UI, dan dokumentasi produk. **[B, E, F]**
 - **D3 Hukum Bisnis/Perpajakan** — [Institusi], [Tahun]  
   Kerangka legal kontrak & kepatuhan operasional. **[D]**
-- **D3 Teknik Mesin** - [Institusi], [Tahun]  
+- **D3 Teknik Mesin** - Institut Teknologi Sepuluh Nopember, 2002  
   Teknik perawatan mesin/teknologi konversi energi.
 
 #### 8.1.5 Diploma 4 (D4) - Sarjana Terapan
