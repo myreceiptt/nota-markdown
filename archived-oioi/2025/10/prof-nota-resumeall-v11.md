@@ -14,7 +14,7 @@ coverY: 0
 
 _Last updated: 2025-10-19 00:03 UTC+07:00_
 
-{% hint style="warning" %}
+{% hint style="success" %}
 
 Dokumen ini bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
 
@@ -26,7 +26,7 @@ Dokumen ini bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyataka
 
 **RESUMEAll** adalah **glossary sumber kebenaran** (single source of truth) tentang **jasa/layanan, nilai, kompetensi, stack, pengalaman, proyek, dan artefak** Prof. NOTA. Dokumen ini **tidak dikurasi untuk satu posisi atau jabatan tertentu**; ini menjadikannya sebagai **bahan baku** untuk menyusun resume yang _tailored_ bagi lowongan spesifik (berdasarkan [_Services & Value_ Prof. NOTA](../../../archived-oioi/2025/09/firewall-manager-playbook.md#id-3.-prof.-nota-services-and-value)).
 
-{% hint style="info" %}
+{% hint style="success" %}
 
 - Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
 
