@@ -294,7 +294,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ### 4.6 Ops & Produk
 
-- Discovery → PRD/1-pager, prioritisasi (RICE/MoSCoW), risk/assumption ledger, OKR/KPI
+- Discovery → PRD/1-pager, prioritization (RICE/MoSCoW), risk/assumption ledger, OKR/KPI
 - GTM dasar: positioning & narasi, metrik aktivasi/retensi
 
 ---
@@ -315,15 +315,15 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ### 4.9 Security & Compliance (praktis)
 
-- Secrets management (.env hygiene), dependency health
-- Supply chain: SBOM dasar (CycloneDX), permission/RBAC
-- **Baseline non-negotiable** untuk semua bagian di atas
-
-{% hint style="info" %}
+{% hint style="success" %}
 
 - **Kata kunci (ATS/AI)**: Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
 
 {% endhint %}
+
+- Secrets management (.env hygiene), dependency health
+- Supply chain: SBOM dasar (CycloneDX), permission/RBAC
+- **Baseline non-negotiable** untuk semua bagian di atas
 
 ---
 
@@ -733,10 +733,22 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ### 8.2 Sertifikasi Teknis (verifiable)
 
-> [!NOTE]
-> Tag **[A–H]**: A=Strategic · B=Docs/Story · C=Web3/Proto · D=Business/Compliance · E=Cultural · F=DevRel · G=Custom/Research · H=Trade/Ops.  
-> “Proof (dummy)” = URL placeholder yang nanti diganti dengan tautan sertifikat/badge milik HFP.
+{% hint style="success" %}
 
+- Tag **[A–H]**:  
+  · A=Strategic  
+  · B=Docs/Story  
+  · C=Web3/Proto  
+  · D=Business/Compliance  
+  · E=Cultural  
+  · F=DevRel  
+  · G=Custom/Research  
+  · H=Trade/Ops.  
+- “Proof (dummy)” = URL harus diganti dengan tautan sertifikat/badge milik HFP.
+- Semua tautan verifikasi/artefak akan disajikan di domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`.
+- Kebijakan verifikasi & penandatangan mengikuti "**Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).
+
+{% endhint %}
 
 ---
 
@@ -748,11 +760,6 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 | Security (Web3)            | **Secureum** Bootcamp/RACE                               | Completed           | [Scorecard & Notes](https://nota.endhonesa.com/verify/secureum-v11)      | Latihan attack/defense & audit mindset           |
 | Docs-as-Code               | ADR/PRD/API Docs (EN/ID)                                 | Published           | [Docs Pack (EN/ID)](https://nota.endhonesa.com/verify/docs-pack-v11)     | Paket bilingual: ADR + PRD + API + Release Notes |
 | Prototyping                | Next.js + Thirdweb v5 + **AA (ERC-4337)** + **ERC-1155** | Shipped             | [Demo/Repo](https://nota.endhonesa.com/verify/web3-demo-v11)             | Rute demo + test (Playwright) + changelog        |
-
-> [!NOTE]
->
-> - Semua tautan verifikasi/artefak akan disajikan di domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`.
-> - Kebijakan verifikasi & penandatangan mengikuti "**Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).
 
 ---
 
