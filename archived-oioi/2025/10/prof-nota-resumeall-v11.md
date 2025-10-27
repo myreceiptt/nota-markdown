@@ -10,12 +10,15 @@ coverY: 0
 
 # PROF. NOTA — RESUMEALL (GLOSSARY)
 
-## Single Source of Truth (glossary)
+## -1) Single Source of Truth (glossary)
 
 _Last updated: 2025-10-19 00:03 UTC+07:00_
 
-> [!IMPORTANT]
-> Dokumen ini bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
+{% hint style="warning" %}
+
+Dokumen ini bebas untuk dibaca. **Dilarang mendistribusikan ulang atau menyatakan ulang** (dilarang mengutip, membuat ringkasan, parafrase, atau turunan) **tanpa izin tertulis sebelumnya dari Prof. NOTA**. Membagikan **tautan** diperbolehkan; bagikan tautannya, bukan teksnya. Jangan membahas/menceritakan ulang isi dalam bentuk apa pun tanpa izin tertulis sebelumnya.
+
+{% endhint %}
 
 ---
 
@@ -23,21 +26,26 @@ _Last updated: 2025-10-19 00:03 UTC+07:00_
 
 **RESUMEAll** adalah **glossary sumber kebenaran** (single source of truth) tentang **jasa/layanan, nilai, kompetensi, stack, pengalaman, proyek, dan artefak** Prof. NOTA. Dokumen ini **tidak dikurasi untuk satu posisi atau jabatan tertentu**; ini menjadikannya sebagai **bahan baku** untuk menyusun resume yang _tailored_ bagi lowongan spesifik (berdasarkan [_Services & Value_ Prof. NOTA](../../../archived-oioi/2025/09/firewall-manager-playbook.md#id-3.-prof.-nota-services-and-value)).
 
-> [!NOTE]
->
-> - Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
+{% hint style="info" %}
+
+- Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
+
+{% endhint %}
 
 ---
 
 ## 1) Identitas & Kontak
 
-> [!TIP]
-> Gunakan format-versi berikut saat men-tailor:
->
-> - **v.xx.xx** = v.[HFP].[Jabatan] (contoh: **v.11.03** = HFP #11, jabatan 03/Documentation Engineer).
-> - **[Nama HFP]** = nama legal HFP aktif (contoh: **Tiffany Viljevac**).
-> - **Email**: **nota{xx}@endhonesa.com** (contoh: <nota11@endhonesa.com>).
-> - **Bio Singkat** = 2–3 kalimat yang menautkan misi–cara kerja–dampak ke posisi yang di-apply.
+{% hint style="success" %}
+
+Gunakan format-versi berikut saat men-tailor:
+
+- **v.xx.xx** = v.[HFP].[Jabatan] (contoh: **v.11.03** = HFP #11, jabatan 03/Documentation Engineer).
+- **[Nama HFP]** = nama legal HFP aktif (contoh: **Tiffany Viljevac**).
+- **Email**: **nota{xx}@endhonesa.com** (contoh: <nota11@endhonesa.com>).
+- **Bio Singkat** = 2–3 kalimat yang menautkan misi–cara kerja–dampak ke posisi yang di-apply.
+
+{% endhint %}
 
 ### 1.1 Persona
 
@@ -45,6 +53,8 @@ _Last updated: 2025-10-19 00:03 UTC+07:00_
 - Version: v.xx.xx
 
 **Prof. NOTA** hanya sebuah pseudonymous IP yang lahir di **Alam Semesta 0101**. **Prof. NOTA** hadir di **Alam Semesta Realita** dengan berbagai versi avatar, salah satunya adalah **Prof. NOTA v.xx.xx** yang diperankan oleh **Human for Profile (HFP) v.xx.xx**.
+
+---
 
 ### 1.2 Legal
 
@@ -55,13 +65,19 @@ _Last updated: 2025-10-19 00:03 UTC+07:00_
 
 Legalitas resmi di **Alam Semesta Realita** adalah **Prof. NOTA Inc. (PT Suaka Dunia Raja)** — dengan penandatangan semua dokumen resmi adalah **[Nama HFP] (HFP)**, yang bertindak sebagai **Prof. NOTA v.xx.xx**.
 
+---
+
 ### 1.3 Tagline
 
 - _Dari 0101, untuk dunia yang butuh bukti._ / _Clarity you can ship._
 
+---
+
 ### 1.4 Lokasi & Waktu
 
 - Indonesia — WIB (Asia/Jakarta).
+
+---
 
 ### 1.5 Kontak Publik
 
@@ -71,9 +87,13 @@ Legalitas resmi di **Alam Semesta Realita** adalah **Prof. NOTA Inc. (PT Suaka D
 - X: <https://x.com/MyReceiptTT/>
 - Discord: <https://discord.gg/5KrsT6MbFm/>
 
+---
+
 ### 1.6 Bio Singkat
 
 Kami lahir di **Alam Semesta 0101** dan hidup di dunia digital Internet; maka **Prof. NOTA v.xx.xx** merancang **arsitektur, dokumentasi, dan prototipe yang bisa dieksekusi**—modular, anti vendor lock-in, dan **terukur dampaknya**—agar ide kabur berubah menjadi sistem yang bekerja dan bisa diwariskan tim. _[Tambahkan satu kalimat sesuai posisi (lihat contoh berdasarkan klaster A sampai H).]_
+
+---
 
 ### 1.7. Contoh Satu Kalimat Tambahan Untuk Bio
 
@@ -94,6 +114,8 @@ Kami lahir di **Alam Semesta 0101** dan hidup di dunia digital Internet; maka **
 - H — Global Trade & Distribution (Legacy Ops)  
   — _...**Pada legacy ops, kami merapikan sourcing, inventori, dan fulfillment dengan dokumentasi kerja yang disiplin untuk menekan friksi.**_
 
+---
+
 ### 1.8 Verifikasi Resmi
 
 Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`. Detail lihat "**Persona & HFP Canon**".
@@ -106,11 +128,15 @@ Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skate
 
 Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur**, dan **dapat diwariskan tim**.
 
+---
+
 ### 2.2 Nilai (yang tak berubah)
 
 - **Clarity First** — pikirkan terang dulu, baru kencang.
 - **Modular / Anti vendor lock-in** — interoperabel, mudah dirawat.
 - **Measured Impact** — setiap intervensi punya metrik.
+
+---
 
 ### 2.3 Prinsip Kerja (urut aliran kerja)
 
@@ -127,11 +153,13 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ## 3) Services & Value (A–H)
 
-> [!TIP]
->
-> - Peta layanan untuk men-tailor resume.  
-> - Tiap klaster memuat **Value**, **Deliverables (artefak bukti)**, dan **KPI contoh**.  
-> - Prinsip lintas-klaster: **Audit-Ready**, **Release Rituals**, **Async-First**, dan **Legal & Verifikasi** (byline “Prof. NOTA v.xx.xx”; detail lihat "**Persona & HFP Canon**").
+{% hint style="success" %}
+
+- Peta layanan untuk men-tailor resume.  
+- Tiap klaster memuat **Value**, **Deliverables (artefak bukti)**, dan **KPI contoh**.  
+- Prinsip lintas-klaster: **Audit-Ready**, **Release Rituals**, **Async-First**, dan **Legal & Verifikasi** (byline “Prof. NOTA v.xx.xx”; detail lihat "**Persona & HFP Canon**").
+
+{% endhint %}
 
 ### 3.1 Strategic Vision & Consultation (A)
 
@@ -141,6 +169,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — Discovery brief, Architecture Decision Records (ADR), roadmap quarterly, token-model memo, risk & assumption ledger.
 - **KPI** — Time-to-decision, risiko berkurang, alignment score lintas fungsi.
 
+---
+
 ### 3.2 Intellectual Property & Storytelling (B)
 
 — _dokumentasi teknis, living docs, narrative/brand_
@@ -148,6 +178,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Value** — Mengubah produk/API menjadi **living docs** yang bisa diajarkan & diuji.
 - **Deliverables** — IA/struktur docs, API reference + guides, tutorial, style guide, release notes, doc coverage dashboard.
 - **KPI** — Time-to-first-success (TTFS), doc coverage, self-serve rate, ticket deflection.
+
+---
 
 ### 3.3 Web3 Development & Prototyping (C)
 
@@ -157,6 +189,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — Next.js/TS/Tailwind repo, integrasi Thirdweb v5, AA (ERC-4337), ERC-1155 schema, SIWE, L2 (Base/OP), test scripts.
 - **KPI** — Waktu-ke-fitur, biaya gas, error budget, Core Web Vitals.
 
+---
+
 ### 3.4 Business Architecture (D)
 
 — _alur nilai, struktur token, proses operasional, compliance sensibilitas_
@@ -164,6 +198,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Value** — Memetakan alur nilai, proses operasional, dan kepatuhan agar efisien & terukur.
 - **Deliverables** — Value stream map, SOP/Playbook, compliance checklist, token lifecycle policy, RACI/operating model.
 - **KPI** — Cycle time, biaya/ops down, audit pass rate, incident rate.
+
+---
 
 ### 3.5 Cultural & Social Innovation (E)
 
@@ -173,6 +209,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — Program brief, onboarding flow, gamification mechanics, curriculum/learning path, community knowledge base.
 - **KPI** — Retensi & partisipasi, completion rate, contributor growth.
 
+---
+
 ### 3.6 Personal Brand Access (DevRel / Edukasi / Kampanye) (F)
 
 — _DevRel, edukasi publik, kampanye_
@@ -181,6 +219,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — Demo apps, sample repos, talk/workshop kits, tutorial series, advocacy plan, content calendar.
 - **KPI** — Stars/forks, sign-ups/conversions, NPS/developer satisfaction, event → adoption rate.
 
+---
+
 ### 3.7 Custom Creation (Riset / Proposal / Krisis) (G)
 
 — _riset, proposal/grant, crisis narrative, rapid prototyping_
@@ -188,6 +228,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Value** — Produksi artefak presisi (proposal/grant/RFP, riset pasar/teknis, crisis narrative) yang bisa langsung dipakai.
 - **Deliverables** — Proposal pack, research digest, due-diligence memo, crisis Q&A, red/blue-team note.
 - **KPI** — Win rate/acceptance, turnaround time, decision quality score.
+
+---
 
 ### 3.8 Global Trade & Distribution (Legacy) (H)
 
@@ -201,10 +243,12 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ## 4) Keahlian Teknis (Skill Matrix)
 
-> [!TIP]
->
-> - **Cara baca**: Bagian ini menekankan **kemampuan eksekusi** yang mendukung seluruh klaster A sampai H di atas.  
-> - **Tooling pilihan**: GitHub, Vercel, PNPM/Turborepo, Notion/Markdown, Mermaid/Draw.io, (opsional) db/schema ringan.
+{% hint style="success" %}
+
+- **Cara baca**: Bagian ini menekankan **kemampuan eksekusi** yang mendukung seluruh klaster A sampai H di atas.  
+- **Tooling pilihan**: GitHub, Vercel, PNPM/Turborepo, Notion/Markdown, Mermaid/Draw.io, (opsional) db/schema ringan.
+
+{% endhint %}
 
 ### 4.1 Docs & Knowledge (Docs-as-Code)
 
@@ -213,12 +257,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - Artefak keputusan: ADR, change log, release notes
 - Diagram: Mermaid/Draw.io; repos & release rituals terintegrasi
 
+---
+
 ### 4.2 Web3 (Integrasi & Prototyping)
 
 - Thirdweb v5 (contracts/SDK), Account Abstraction (ERC-4337: bundler/paymaster)
 - ERC-1155/721/20; viem/wagmi, WalletConnect, SIWE, Safe
 - L2: Base/Optimism (bridge/events), RPC (Alchemy/Infura), The Graph
 - Media/Identity: IPFS/Arweave, web3.storage/pinata, ENS, on-chain links
+
+---
 
 ### 4.3 Web/App (Frontend & DX)
 
@@ -227,31 +275,43 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - Performance: Core Web Vitals, image/asset strategy, edge/ISR (Vercel)
 - CI/Preview: GitHub Actions, Vercel Preview, artefak pratinjau
 
+---
+
 ### 4.4 DevOps & Release Rituals
 
 - Versioning `v.X.Y.Z[-suffix]`, Conventional Commits/Changesets, Release Drafter
 - PR hygiene: template, labeler, CODEOWNERS, required review; preview link wajib
 - Evidence: diff/screenshot/log rilis disimpan di repos (audit-ready)
 
+---
+
 ### 4.5 Async-First Collaboration
 
 - Artefak-first (RFC/ADR/PRD), GitHub Projects/Issues/Discussions, Notion sebagai indeks
 - Ritme & waktu tanggap realistis (WIB), rapat hanya saat blocking
+
+---
 
 ### 4.6 Ops & Produk
 
 - Discovery → PRD/1-pager, prioritisasi (RICE/MoSCoW), risk/assumption ledger, OKR/KPI
 - GTM dasar: positioning & narasi, metrik aktivasi/retensi
 
+---
+
 ### 4.7 Data & Arsitektur
 
 - Event/log model, telemetry minimal, audit trails dasar
 - Observabilitas: Sentry, analitik ringan (Plausible/PostHog) → keputusan
 
+---
+
 ### 4.8 Testing & Quality
 
 - Unit/Component: Vitest/Jest, React Testing Library
 - E2E: Playwright/Cypress; smoke test route utama; regresi minimal yang bisa diautomasikan
+
+---
 
 ### 4.9 Security & Compliance (praktis)
 
@@ -259,19 +319,23 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - Supply chain: SBOM dasar (CycloneDX), permission/RBAC
 - **Baseline non-negotiable** untuk semua bagian di atas
 
-> [!NOTE]
->
-> - **Kata kunci (ATS/AI)**: Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
+{% hint style="info" %}
+
+- **Kata kunci (ATS/AI)**: Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
+
+{% endhint %}
 
 ---
 
 ## 5) Kompetensi Peran (Role Buckets → untuk ATS/AI)
 
-> [!TIP]
->
-> - Gunakan sebagai peta saat men-tailor resume.  
-> - Setiap bucket memuat **Fokus**, **Deliverables**, dan **Kata Kunci ATS**.  
-> - **Core Competencies (lintas-bucket)**: Audit-Ready (dokumen = kontrak kerja tim), Release Rituals (versioning + evidence), Async-First (artefak-first, overlap WIB).
+{% hint style="success" %}
+
+- Gunakan sebagai peta saat men-tailor resume.  
+- Setiap bucket memuat **Fokus**, **Deliverables**, dan **Kata Kunci ATS**.  
+- **Core Competencies (lintas-bucket)**: Audit-Ready (dokumen = kontrak kerja tim), Release Rituals (versioning + evidence), Async-First (artefak-first, overlap WIB).
+
+{% endhint %}
 
 ### 5.1 Dokumentasi / Konten
 
@@ -280,12 +344,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — IA/struktur, reference + guides, tutorial, style guide, release notes, doc coverage.
 - **Kata Kunci ATS** — Docs-as-Code, OpenAPI/Swagger, MD/MDX, Docusaurus/Next, coverage.
 
+---
+
 ### 5.2 Engineering (Web3/Frontend/Integrations)
 
 - **Fokus** — membangun antarmuka & alur on-chain yang aman, cukup untuk keputusan, lalu dimatangkan modular.
 - **Peran** — Senior Frontend Engineer (React/Next), Web3 Frontend/Integrations (Thirdweb/AA/1155), Full-stack JS (Node/Next), QA (automation/manual), Discord Bot Dev, Integration Engineer (Web3), Smart Account/AA Integrations Engineer, Performance Engineer (Web).
 - **Deliverables** — Next.js/TS/Tailwind repo, integrasi Thirdweb v5, AA (ERC-4337), ERC-1155/721, SIWE, The Graph, Playwright/Cypress suite.
 - **Kata Kunci ATS** — Next.js, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, viem/wagmi, The Graph, Playwright/Cypress.
+
+---
 
 ### 5.3 Strategi / Arsitektur
 
@@ -294,12 +362,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — ADR, discovery brief, peta risiko & asumsi, roadmap kuartalan, token-model memo.
 - **Kata Kunci ATS** — ADR, roadmap, tokenomics, L2 (Base/OP), governance, risk.
 
+---
+
 ### 5.4 Produk / Operasional
 
 - **Fokus** — discovery → PRD; prioritisasi; orkestrasi rilis & operasi.
 - **Peran** — Product Manager/Owner, Business/Systems Analyst (Web3), Ops Architect, Scrum Master/PMO, Release/Change Manager, Compliance Ops (Web3 policy/KYC/KYB), Risk & Governance Analyst (token lifecycle).
 - **Deliverables** — PRD/one-pager, RICE/MoSCoW, RACI, SOP/Playbook, rencana rilis, checklist compliance.
 - **Kata Kunci ATS** — PRD, OKR/KPI, RACI, SOP, release plan, compliance, risk.
+
+---
 
 ### 5.5 Komunitas / Publik (DevRel)
 
@@ -308,12 +380,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Deliverables** — demo app, sample repos, workshop kit, content calendar, knowledge base komunitas.
 - **Kata Kunci ATS** — DevRel, demo, workshop, funnel adopsi, community ops.
 
+---
+
 ### 5.6 Custom / Research
 
 - **Fokus** — artefak presisi untuk keputusan cepat (audit-ready).
 - **Peran** — Researcher (ecosystem/market/tech), Proposal/Grant/RFP Writer, Narrative Designer, RFP/Grant Manager, Due Diligence Analyst, Crisis Comms Strategist.
 - **Deliverables** — proposal pack, research digest, due diligence memo, crisis Q&A.
 - **Kata Kunci ATS** — RFP, grant, due diligence, research, crisis narrative.
+
+---
 
 ### 5.7 E-commerce / Legacy
 
@@ -332,11 +408,15 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - Zona waktu: WIB (Asia/Jakarta) — **async-first**; overlap jam kerja disepakati di awal.
 - Start: berdasarkan kapasitas & prioritas; discovery dapat dijadwalkan lebih cepat.
 
+---
+
 ### 6.2 Legal & Penandatangan
 
 - Seluruh kontrak/invoice atas nama **Prof. NOTA Inc. (PT Suaka Dunia Raja)**.
 - Ditandatangani oleh **HFP** yang ditunjuk sebagai **“Prof. NOTA v.xx.xx”**.
 - Verifikasi & kebijakan lengkap lihat "**Persona & HFP Canon**" (domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`).
+
+---
 
 ### 6.3 Model Keterlibatan (selaras klaster A sampai H)
 
@@ -355,6 +435,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Custom Creation (G)** — proposal/grant/RFP, research digest, crisis narrative.  
   _Deliverables:_ proposal pack, due-diligence memo, Q&A krisis.
 
+---
+
 ### 6.4 Model Komersial
 
 - **Project-based (fixed scope/milestone)** — pembayaran per milestone, **evidence-based** (preview/SS/diff).
@@ -362,12 +444,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Retainer (bulanan)** — kuota jam/artefak, SLA respons/ritus rilis disepakati.
 - **Licensing/IP** — **berlangganan lisensi bulanan** untuk hak menggunakan/menjual layanan & value Prof. NOTA **tanpa batas revenue** (detail & ketentuan lihat "**Persona & HFP Canon**").
 
+---
+
 ### 6.5 Kompensasi & Pembayaran
 
 - Mata uang: BTC / ETH / BNB / SOL / USDC / USDT / USD / IDR (opsional: **di Base/OP atau BSC**).
 - Invoicing: bulanan atau per-milestone; termin pembayaran disepakati (mis. Net-7/14).
 - Deposit/po: dapat diberlakukan untuk proyek fixed-scope.
 - IP/Artefak: hak penuh berpindah setelah pembayaran lunas; lisensi interim mengikuti kontrak.
+
+---
 
 ### 6.6 Ritme Kolaborasi (meta)
 
@@ -378,9 +464,11 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ## 7) Bahasa
 
-> [!TIP]
->
-> - Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/sertifikasi yang dilakukan HFP.
+{% hint style="success" %}
+
+- Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/sertifikasi yang dilakukan HFP.
+
+{% endhint %}
 
 ### 7.1 Kemampuan Bahasa (diperkuat)
 
@@ -392,16 +480,20 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
   | English   | C1 (68) | B2 (51) | B1 (43)  | B2 (52)   |
 
 - **Sertifikasi & Bukti Bahasa**
-  - **EF SET (English, CEFR)** — **B2 Upper Intermediate (54/100)** · Certificate: [Lihat Sertifikat](https://cert.efset.org/en/PdyoRR)
+  - **EF SET (English, CEFR)** — **B2 Upper Intermediate (54/100)** · Certificate: [EF SET Certificate](https://github.com/user-attachments/files/23144271/EF.SET.Certificate.pdf)
   - **UKBI Adaptif (Bahasa Indonesia)** — **III (Unggul)**  
 
 <figure><img src="https://github.com/user-attachments/assets/7e55eba1-b8ba-4c6d-9a45-8963f91ce8e4" alt="HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)"><figcaption><p>HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)</p></figcaption></figure>
+
+---
 
 ### 7.2 Kebijakan Bahasa & Pronomina
 
 - **Pronomina**: di dokumen tertulis menggunakan **“kami”**; pada percakapan langsung boleh menggunakan **“aku”**.
 - **Bilingual (0101-style)**: basis **Bahasa Indonesia** dengan **sisipan English** untuk istilah teknis yang lebih presisi (mis. _Account Abstraction_, _release candidate_, _token-gated_).
 - **Varian**: tersedia **versi full-English** dan **bahasa lain** bila diminta oleh klien/JD.
+
+---
 
 ### 7.3 Gaya Editorial (Docs & Konten)
 
@@ -411,12 +503,16 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Evidence-first**: setiap klaim penting dirujuk ke artefak (ADR, changelog, preview).
 - **Nada & Suara**: jernih, to-the-point, ramah, anti-glamor-kosong; “**jelas dulu, baru kencang**”.
 
+---
+
 ### 7.4 Localisasi & i18n (untuk produk/kode)
 
 - **i18n**: siap untuk **i18next/next-intl** (key-based, tanpa string literal keras), dukungan RTL bila perlu.
 - **Format**: tanggal **ISO-8601**, zona waktu **WIB** default; angka & mata uang mengikuti locale target.
 - **Konten UI**: semua salinan UI berada di file/namespace terpisah; **do not hardcode**.
 - **Aksesibilitas**: alt-text, aria-labels, dan kontras yang memadai pada semua bahasa.
+
+---
 
 ### 7.5 Glosarium & Terjemahan
 
@@ -428,6 +524,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **Kebijakan terjemahan**: istilah yang lebih umum dipahami dalam English **tetap English** dan diberi padanan di kurung pada sebutan pertama.
 - **Proses**: terjemahan → **review teknis** → **review gaya**; simpan memori terjemahan sederhana (TM) agar konsisten.
 
+---
+
 ### 7.6 Channel & Penggunaan
 
 - **Dokumen resmi** (proposal/PRD/ADR/Playbook): Indonesia (bilingual bila diminta).
@@ -438,42 +536,77 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ## 8) Pendidikan & Sertifikasi
 
-> [!TIP]
->
-> - Ganti **[Institusi]** dan **[Tahun]** sesuai yang dilakukan HFP.  
-> - Tag **[A sampai H]** merujuk ke klaster Services & Value.  
-> - Ganti **link** dengan URL verifikasi resmi sesuai hasil sertifikasi yang dilakukan HFP.  
-> - Gunakan bagian 8.3 sebagai bukti praktis yang menguatkan kompetensi (tautan ke repo/write-up) sesuai yang sudah dilakukan HFP.  
+{% hint style="success" %}
+
+- Ganti **[Institusi]** dan **[Tahun]** sesuai yang dilakukan HFP.  
+- Tag **[A sampai H]** merujuk ke klaster Services & Value.  
+- Ganti **link** dengan URL verifikasi resmi sesuai hasil sertifikasi yang dilakukan HFP.  
+- Gunakan bagian 8.3 sebagai bukti praktis yang menguatkan kompetensi (tautan ke repo/write-up) sesuai yang sudah dilakukan HFP.  
+
+{% endhint %}
 
 ### 8.1 Pendidikan Formal
 
-#### 8.1.1 Sekolah Menengah Kejuruan / Sekolah Menengah Atas / High School (SMK/SMA/HS Equivalent)
+#### 8.1.1 Sekolah Taman Kanak-Kanak / Kindergarten School (TK/ KS Equivalent)
 
+- **TK Kelas A-B** — Taman Kanak-Kanak Tunas Indah Surabaya, 1990  
+  Belajar melalui kegiatan bermain dan seni.
+- **TK Kelas A-B** — Taman Kanak-Kanak Negeri Pembina 2 Surabaya, 2023  
+  Memberikan pengalaman belajar dan bermain untuk perkembangan holistik.
+
+---
+
+#### 8.1.2 Sekolah Dasar / Elementary School (SD/ES Equivalent)
+
+- **SD Kelas 1-6** — SD Negeri Baratajaya 2 Nomor 203 Surabaya, 1996  
+  Pendidikan dasar dengan mata pelajaran seperti Bahasa Indonesia, Matematika, IPA, dan IPS.
+- **SD Kelas 1-2** — SD Negeri Baratajaya Surabaya, 2025  
+  Pendidikan dasar yang gratis (tanpa biaya pendaftaran dan SPP).
+- **SD Kelas 3-6** — [Institusi], [Tahun]  
+  Pendidikan dasar yang gratis (tanpa biaya pendaftaran dan SPP).
+
+---
+
+#### 8.1.3 Sekolah Menengah Pertama / Junior High School (SMP/JHS Equivalent)
+
+- **SMP Kelas 1-3** — SMP Negeri 1 Perak Jombang, 1999  
+  Pendidikan menengah sesuai kurikulum nasional, pendidikan karakter dan ekstrakurikuler.
+- **SMP Kelas 7-9** — [Institusi], [Tahun]  
+  Pendidikan menengah berbagai mata pelajaran, bimbingan konseling, keterampilan sosial, karakter, dan ekstrakurikuler.
+
+---
+
+#### 8.1.4 Sekolah Menengah Kejuruan / Sekolah Menengah Atas / High School (SMK/SMA/HS Equivalent)
+
+- **SMA 1, 2, dan 3-Bahasa** — Sekolah Menengah Atas Negeri 16 Surabaya, 2002  
+  Mempelajari lebih dalam tentang bahasa dan budaya.
+- **SMA 10, 11, dan 12-IPA (Ilmu Pengetahuan Alam)** — [Institusi], [Tahun]  
+  Fokus pada ilmu alam dan sains seperti Fisika, dan Matematika.
 - **SMK Rekayasa Perangkat Lunak (RPL)** — [Institusi], [Tahun]  
   Dasar algoritme, pemrograman, dan praktik rilis aplikasi awal. **[C, B]**
 - **SMK Teknik Komputer & Jaringan (TKJ)** — [Institusi], [Tahun]  
   Jaringan, sistem operasi, dan hygiene DevOps pemula. **[C, DevOps]**
+- **SMK Otomasi/IoT** — [Institusi], [Tahun]  
+  Sensor, telemetry ringan, dan integrasi sistem. **[C, D]**
 - **SMK Multimedia / Desain Komunikasi Visual (DKV)** — [Institusi], [Tahun]  
   Produksi konten, tata visual, dan UI copy dasar untuk dokumen & demo. **[B, F, E]**
+- **SMA 10, 11, dan 12-IPS (Ilmu Pengetahuan Sosial)** — [Institusi], [Tahun]  
+  Fokus pada ilmu sosial dan kemasyarakatan.
 - **SMK Akuntansi & Perpajakan** — [Institusi], [Tahun]  
   Pencatatan, biaya, dan kontrol dasar—fondasi “Measured Impact”. **[D, H]**
 - **SMK Logistik** — [Institusi], [Tahun]  
   Dasar supply chain, inventori, dan fulfillment. **[H]**
-- **SMK Otomasi/IoT** — [Institusi], [Tahun]  
-  Sensor, telemetry ringan, dan integrasi sistem. **[C, D]**
-- **SMA Ilmu Pengetahuan Alam (IPA)** — [Institusi], [Tahun]  
-  Fokus pada ilmu alam dan sains seperti Fisika, dan Matematika.
-- **SMA Ilmu Pengetahuan Sosial (IPS)** — [Institusi], [Tahun]  
-  Fokus pada ilmu sosial dan kemasyarakatan.
-- **SMA Kelas Bahasa** — Sekolah Menengah Atas Negeri 16 Surabaya, 2002  
-  Mempelajari lebih dalam tentang bahasa dan budaya.
 
-#### 8.1.2 Diploma 1 (D1) - Ahli Pratama
+---
+
+#### 8.1.5 Diploma 1 (D1) - Ahli Pratama
 
 - **D1 Cloud Fundamentals & DevOps** — [Institusi], [Tahun]  
   Pipeline build/test/deploy dan kontrol versi praktis. **[C, DevOps]**
 
-#### 8.1.3 Diploma 2 (D2) - Ahli Muda
+---
+
+#### 8.1.6 Diploma 2 (D2) - Ahli Muda
 
 - **D2 Technical Communication / Technical Writing** — [Institusi], [Tahun]  
   Struktur dokumen teknis, gaya editorial, dan docs-as-code dasar. **[B]**
@@ -482,24 +615,28 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **D2 Desain Interaksi & Konten Visual** — [Institusi], [Tahun]  
   Prinsip UX mikro, diagram, dan storytelling visual. **[B, E, F]**
 
-#### 8.1.4 Diploma 3 (D3) - Ahli Madya
+---
 
+#### 8.1.7 Diploma 3 (D3) - Ahli Madya
+
+- **D3 Teknik Mesin** - Institut Teknologi Sepuluh Nopember, 2002  
+  Teknik perawatan mesin/teknologi konversi energi.
 - **D3 Teknik Informatika / Informatika** — [Institusi], [Tahun]  
   Pemrograman, basis data, web/app, dan praktik QA awal. **[C]**
 - **D3 Sistem Informasi** — [Institusi], [Tahun]  
   Analisis proses, requirement, dan perancangan SI. **[D]**
+- **D3 Multimedia/UX** — [Institusi], [Tahun]  
+  Produksi media, prototyping UI, dan dokumentasi produk. **[B, E, F]**
 - **D3 Manajemen Logistik** — [Institusi], [Tahun]  
   Perencanaan persediaan, SLAs, dan metrik fulfillment. **[H]**
 - **D3 Akuntansi** — [Institusi], [Tahun]  
   Biaya/ops, pelaporan, dan kontrol kepatuhan dasar. **[D]**
-- **D3 Multimedia/UX** — [Institusi], [Tahun]  
-  Produksi media, prototyping UI, dan dokumentasi produk. **[B, E, F]**
 - **D3 Hukum Bisnis/Perpajakan** — [Institusi], [Tahun]  
   Kerangka legal kontrak & kepatuhan operasional. **[D]**
-- **D3 Teknik Mesin** - Institut Teknologi Sepuluh Nopember, 2002  
-  Teknik perawatan mesin/teknologi konversi energi.
 
-#### 8.1.5 Diploma 4 (D4) - Sarjana Terapan
+---
+
+#### 8.1.8 Diploma 4 (D4) - Sarjana Terapan
 
 - **D4 Teknologi Rekayasa Perangkat Lunak** — [Institusi], [Tahun]  
   Arsitektur aplikasi, pattern modular, dan rilis terukur. **[C]**
@@ -514,7 +651,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **D4 Manajemen Rantai Pasok Terapan** — [Institusi], [Tahun]  
   Perencanaan supply chain, integrasi data, dan KPI operasional. **[H]**
 
-#### 8.1.6 Sarjana (S1)
+---
+
+#### 8.1.9 Sarjana (S1)
 
 - **S1 Informatika / Ilmu Komputer** — [Institusi], [Tahun]  
   Fondasi algoritme, sistem terdistribusi, web/app, dasar keamanan, dan integrasi on-chain. **[C, DevOps]**
@@ -543,7 +682,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **S1 Logistik / Manajemen Rantai Pasok** — [Institusi], [Tahun]  
   Integrasi pemasok—gudang—distribusi yang terdokumentasi. **[H]**
 
-#### 8.1.7 Magister (S2)
+---
+
+#### 8.1.10 Magister (S2)
 
 - **S2 Sistem Informasi / Enterprise Architecture** — [Institusi], [Tahun]  
   Pemetaan proses–data–aplikasi, kontrol tata kelola & kepatuhan, dan arsitektur bisnis. **[A, D]**
@@ -566,7 +707,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **S2 Technical Communication** — [Institusi], [Tahun]  
   Penulisan teknis tingkat lanjut & program dokumentasi. **[B]**
 
-#### 8.1.8 Doktoral (S3)
+---
+
+#### 8.1.11 Doktoral (S3)
 
 - **S3 Ilmu Komputer (Blockchain/Distributed Systems)** — [Institusi], [Tahun]  
   Riset mendalam sistem terdesentralisasi & keamanan. **[C, Firewall]**
@@ -579,37 +722,23 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - **S3 Ekonomi/Keuangan (Game Theory/Token Economics)** — [Institusi], [Tahun]  
   Mekanisme insentif, token design, dan kebijakan ekonomi. **[A, D]**
 
-#### 8.1.9 Postdoctoral (PostDoc)
+---
+
+#### 8.1.12 Postdoctoral (PostDoc)
 
 - **Postdoctoral / EngD (Software/Systems/Blockchain)** — [Institusi], [Tahun]  
   Translasi riset → prototipe industri & praktik audit-ready. **[A, C, D]**
 
+---
+
 ### 8.2 Sertifikasi Teknis (verifiable)
 
-| Bucket                      | Provider          | Credential                                            | Status    | Credential ID  | Certificate/Badge (dummy)                                            | Link Verifikasi/Daftar                                                              |
-| --------------------------- | ----------------- | ----------------------------------------------------- | --------- | -------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Docs & Editorial**        | Google            | Technical Writing (Course)                            | Completed | —              | [Evidence of Study](https://nota.endhonesa.com/verify/gdocstyle-v11) | [Learn](https://developers.google.com/style)                                        |
-| **API & Integrations**      | Postman           | API Fundamentals Student Expert                       | Passed    | POST-SE-XXXX   | [Certificate](https://nota.endhonesa.com/verify/postman-se-v11)      | [Register/Test](https://www.postman.com/certified/student-expert/)                  |
-| **Web (Front-end)**         | freeCodeCamp      | Responsive Web Design                                 | Completed | FCC-RWD-XXXX   | [Certificate](https://nota.endhonesa.com/verify/fcc-rwd-v11)         | [Learn/Test](https://www.freecodecamp.org/news/freecodecamp-certifications/)        |
-|                             | freeCodeCamp      | Front End Development Libraries                       | Completed | FCC-FEDL-XXXX  | [Certificate](https://nota.endhonesa.com/verify/fcc-fedl-v11)        | [Learn/Test](https://www.freecodecamp.org/news/freecodecamp-certifications/)        |
-|                             | freeCodeCamp      | APIs & Microservices                                  | Completed | FCC-APIMS-XXXX | [Certificate](https://nota.endhonesa.com/verify/fcc-apis-v11)        | [Learn/Test](https://www.freecodecamp.org/news/freecodecamp-certifications/)        |
-| **Accessibility**           | W3Cx (edX)        | Web Accessibility (Intro/Verified)                    | Completed | W3Cx-A11y-XXXX | [Certificate](https://nota.endhonesa.com/verify/w3c-a11y-v11)        | [Enroll](https://www.edx.org/school/w3cx)                                           |
-| **Cloud Literacy**          | AWS               | Certified Cloud Practitioner (CCP)                    | Passed    | AWS-CCP-XXXX   | [Certificate](https://nota.endhonesa.com/verify/aws-ccp-v11)         | [Register](https://aws.amazon.com/certification/certified-cloud-practitioner/)      |
-|                             | Google Cloud      | Cloud Digital Leader (CDL)                            | Passed    | G-CDL-XXXX     | [Certificate](https://nota.endhonesa.com/verify/gcdl-v11)            | [Register](https://cloud.google.com/learn/certification/cloud-digital-leader)       |
-| **Agile & Product**         | Scrum.org         | Professional Scrum Master I (PSM I)                   | Passed    | PSM-I-XXXX     | [Certificate](https://nota.endhonesa.com/verify/psmi-v11)            | [Register](https://www.scrum.org/professional-scrum-certifications/psm-i)           |
-|                             | PMI               | Agile Certified Practitioner (PMI-ACP)                | Passed    | PMI-ACP-XXXX   | [Certificate](https://nota.endhonesa.com/verify/pmi-acp-v11)         | [Register](https://www.pmi.org/certifications/agile-acp)                            |
-| **Privacy & Compliance**    | IAPP              | CIPP/E                                                | Passed    | CIPP/E-XXXX    | [Certificate](https://nota.endhonesa.com/verify/cipp-e-v11)          | [Register](https://iapp.org/certify/)                                               |
-|                             | IAPP              | CIPP/US                                               | Passed    | CIPP/US-XXXX   | [Certificate](https://nota.endhonesa.com/verify/cipp-us-v11)         | [Register](https://iapp.org/certify/)                                               |
-| **Security & ISO**          | PECB/BSI          | ISO/IEC 27001 Lead Implementer                        | Passed    | ISO-LI-XXXX    | [Certificate](https://nota.endhonesa.com/verify/iso27001-li-v11)     | [Register](https://www.bsigroup.com/en-ID/iso-27001-information-security/)          |
-|                             | BSI/IRCA          | ISO/IEC 27001 Lead Auditor                            | Passed    | ISO-LA-XXXX    | [Certificate](https://nota.endhonesa.com/verify/iso27001-la-v11)     | [Register](https://www.irca.org/)                                                   |
-| **Web3 / Blockchain**       | ConsenSys Academy | Blockchain Foundations & Use Cases                    | Completed | CA-BF-XXXX     | [Certificate](https://nota.endhonesa.com/verify/cons-found-v11)      | [Enroll](https://consensys.net/academy/)                                            |
-|                             | ConsenSys Academy | Ethereum Developer (On-Demand)                        | Completed | CA-ED-XXXX     | [Certificate](https://nota.endhonesa.com/verify/cons-dev-v11)        | [Enroll](https://consensys.net/academy/)                                            |
-|                             | Linux Foundation  | Certified Hyperledger Fabric **Administrator (CHFA)** | Passed    | LF-CHFA-XXXX   | [Certificate](https://nota.endhonesa.com/verify/lf-chfa-v11)         | [Register](https://training.linuxfoundation.org/certification/)                     |
-|                             | Linux Foundation  | Certified Hyperledger Fabric **Developer (CHFD)**     | Passed    | LF-CHFD-XXXX   | [Certificate](https://nota.endhonesa.com/verify/lf-chfd-v11)         | [Register](https://training.linuxfoundation.org/certification/)                     |
-|                             | Chainlink         | Bootcamp/Program (Completion/POAP)                    | Completed | CL-BC-XXXX     | [Proof/POAP](https://nota.endhonesa.com/verify/chainlink-v11)        | [Enroll](https://chain.link/bootcamp)                                               |
-| **DevOps & Platform**       | GitHub            | Foundations Certification                             | Passed    | GHF-XXXX       | [Certificate/Badge](https://nota.endhonesa.com/verify/ghf-v11)       | [Register](https://education.github.com/experiences/foundations_certificate)        |
-| **Data & Analytics**        | Google            | Data Analytics Professional Certificate               | Completed | GDAPC-XXXX     | [Certificate](https://nota.endhonesa.com/verify/google-da-v11)       | [Enroll](https://www.coursera.org/professional-certificates/google-data-analytics)  |
-| **Front-end (Profesional)** | W3Cx (edX)        | Front-End Web Developer **Professional Certificate**  | Completed | W3Cx-FE-XXXX   | [Certificate](https://nota.endhonesa.com/verify/w3cx-fe-v11)         | [Enroll](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer) |
+> [!NOTE]
+> Tag **[A–H]**: A=Strategic · B=Docs/Story · C=Web3/Proto · D=Business/Compliance · E=Cultural · F=DevRel · G=Custom/Research · H=Trade/Ops.  
+> “Proof (dummy)” = URL placeholder yang nanti diganti dengan tautan sertifikat/badge milik HFP.
+
+
+---
 
 ### 8.3 Portfolio-Proof (non-sertifikat, audit-friendly)
 
