@@ -26,7 +26,7 @@ _Last updated: 2025-10-19 00:03 UTC+07:00_
 
 {% hint style="success" %}
 
-- Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
+Terkait daftar posisi & metodologi penyaringan, rujuk [_Remote Roles Living List_](../../../archived-oioi/2025/10/remote-roles-living-list.md).
 
 {% endhint %}
 
@@ -317,7 +317,8 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 {% hint style="success" %}
 
-- **Kata kunci (ATS/AI)**: Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
+**Kata kunci (ATS/AI)**:  
+Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Optimism, SIWE, viem/wagmi, OpenAPI, ADR, Vercel, GitHub Actions, Playwright/Cypress, Changesets, Release Drafter, Docs-as-Code.
 
 {% endhint %}
 
@@ -466,7 +467,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 {% hint style="success" %}
 
-- Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/sertifikasi yang dilakukan HFP.
+Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/sertifikasi yang dilakukan HFP.
 
 {% endhint %}
 
@@ -541,7 +542,9 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 - Ganti **[Institusi]** dan **[Tahun]** sesuai yang dilakukan HFP.  
 - Tag **[A sampai H]** merujuk ke klaster Services & Value.  
 - Ganti **link** dengan URL verifikasi resmi sesuai hasil sertifikasi yang dilakukan HFP.  
-- Gunakan bagian 8.3 sebagai bukti praktis yang menguatkan kompetensi (tautan ke repo/write-up) sesuai yang sudah dilakukan HFP.  
+- Gunakan bagian 8.3 sebagai bukti praktis yang menguatkan kompetensi (tautan ke repo/write-up) sesuai yang sudah dilakukan HFP.
+- Semua tautan verifikasi/artefak akan disajikan di domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`.  
+- Kebijakan verifikasi & penandatangan mengikuti "**Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).  
 
 {% endhint %}
 
@@ -731,24 +734,29 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 ---
 
-### 8.2 Sertifikasi Teknis (verifiable)
+### 8.2 Sertifikasi (Pendidikan Nonformal)
 
-{% hint style="success" %}
-
-- Tag **[A–H]**:  
-  · A=Strategic  
-  · B=Docs/Story  
-  · C=Web3/Proto  
-  · D=Business/Compliance  
-  · E=Cultural  
-  · F=DevRel  
-  · G=Custom/Research  
-  · H=Trade/Ops.  
-- “Proof (dummy)” = URL harus diganti dengan tautan sertifikat/badge milik HFP.
-- Semua tautan verifikasi/artefak akan disajikan di domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`.
-- Kebijakan verifikasi & penandatangan mengikuti "**Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).
-
-{% endhint %}
+| Credential                                                 | Provider     | Tag   | Link (Artefact/Proof)                                                                     |
+| ---------------------------------------------------------- | ------------ | ----- | ----------------------------------------------------------------------------------------- |
+| Load Wordpress 400% Faster Without any Technical Skills    | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-1759f87f-ecc4-45e3-b54d-35e023ae6139/) |
+| Wordpress Security: How To Stop Hackers                    | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-9d4cff56-afdf-43be-aa19-cdd5057d4aae/) |
+| Learn Complete Wordpress Security                          | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-50cf4280-31e8-4d5d-b450-36c62f2f8020/) |
+| Complete WordPress Security Course: Go from Zero to Hero   | Udemy Course | A - H | [No Certificate](https://www.udemy.com/course/complete-wordpress-security-course/)        |
+| Fundamentals of Internet Security: Secure Your Environment | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-b41a6a78-5877-4033-8797-70fbc22f2d34/) |
+| PHP For WordPress Development                              | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/) |
+| WP-HTML: WordPress as Micro Apps in Any HTML Page          | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-e146bebe-0efa-4008-b329-b1c4451a4bcb/) |
+| Learn SEO For Wordpress Websites                           | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-2a8b9157-8e23-4a76-97f5-c05ee4451960/) |
+| Free SSL Certificate: Comodo SSL for Free Forever (HTTPS)  | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-781f85f3-989a-42c6-bc70-e3931220dcfd/) |
+| Make WordPress Hosting Easy with Plesk on Amazon Lightsail | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-1bd28842-597b-4294-966b-19832f6f95e0/) |
+| Make WordPress Hosting Easy with Plesk on Google Cloud     | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-6e35ae83-653e-4dda-838a-2a1c7e2d006d/) |
+| Make WordPress Hosting Easy with Plesk on Hetzner Cloud    | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-22c6a79b-025f-47b9-80e0-1dcf1a3ad1d5/) |
+| Make WordPress Hosting Easy with Plesk on Linode           | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-e988a4c4-3946-417a-8f0b-a7931ce4175c/) |
+| Make WordPress Hosting Easy with Plesk on DigitalOcean     | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-440ebdad-3c5b-44c7-9b14-7dd78a6b07b9/) |
+| How To Create A Website using WordPress (Step by Step)     | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-521e4527-b47e-42b4-bf5c-08413aa8e9b0/) |
+| Bootstrap 4 Quick Start: Code Modern Responsive Websites   | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-e64e3cbb-312c-4d99-872d-6b9a74ce444b/) |
+| Build Your First Website in 1 Week with HTML5 and CSS3     | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-24a81d94-1b17-458c-8ef5-996210172c22/) |
+| Web Development By Doing: HTML / CSS From Scratch          | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-7b31ff8a-c5d8-4a40-a423-7ca8f7eec1ff/) |
+| HTML: Learning the Basics Intro to HTML Website Coding     | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-9c8aaa01-9885-4042-b3df-03b3f0a378d8/) |
 
 ---
 
