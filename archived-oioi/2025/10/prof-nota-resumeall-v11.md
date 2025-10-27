@@ -743,6 +743,7 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 | Learn Complete Wordpress Security                          | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-50cf4280-31e8-4d5d-b450-36c62f2f8020/) |
 | Complete WordPress Security Course: Go from Zero to Hero   | Udemy Course | A - H | [No Certificate](https://www.udemy.com/course/complete-wordpress-security-course/)        |
 | Fundamentals of Internet Security: Secure Your Environment | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-b41a6a78-5877-4033-8797-70fbc22f2d34/) |
+| Django for WordPress Developers                            | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-1efc2094-0f5d-4abc-9527-2b1eef05022d/) |
 | PHP For WordPress Development                              | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/) |
 | WP-HTML: WordPress as Micro Apps in Any HTML Page          | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-e146bebe-0efa-4008-b329-b1c4451a4bcb/) |
 | Learn SEO For Wordpress Websites                           | Udemy Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-2a8b9157-8e23-4a76-97f5-c05ee4451960/) |
