@@ -14,12 +14,12 @@ coverY: 0
 
 It compiles key insights from these discussions, confirms agreed decisions, and outlines the immediate next steps for execution.
 
-- [📄 Day 1: 10 July 2025](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md)
-  - [Prof. NOTA Pitch](../../../archived-oioi/2025/07/iblooming-web3-pitch-simulation.md),
-  - and [Present WEB3 DRAFT](../../../archived-oioi/2025/07/iblooming-web3-draft.md)  
-- [📄 Day 2: 11 July 2025](../../../archived-oioi/2025/08/iblooming-web3-meeting-day2.md)
-  - [Drafting Living Document](../../../archived-oioi/2025/08/iblooming-web3-living.md),
-  - and [Drafting Understanding BGC X iBLOOMING Rewards](../../../archived-oioi/2025/08/bgc-iblooming-stage-1-rewards.md)
+- [📄 Day 1: 10 July 2025](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100)
+  - [Prof. NOTA Pitch](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=EpbQmgZXml1WULNEgo9L&only=yes&limit=100),
+  - and [Present WEB3 DRAFT](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=DfyK0lgqgs93hvBj4srb&only=yes&limit=100)  
+- [📄 Day 2: 11 July 2025](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=sdXJQGydvzjLAL8ZtAw0&only=yes&limit=100)
+  - [Drafting Living Document](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ParZIhVe9iO8Wm04aZPU&only=yes&limit=100),
+  - and [Drafting Understanding BGC X iBLOOMING Rewards](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=dTMAthaQQp8pllUoj0gW&only=yes&limit=100)
 
 This living document is to be read, updated, and agreed upon by all founders — acting as a unified point of reference to keep the transformation process synchronized and on track.
 
@@ -34,7 +34,7 @@ This living document is to be read, updated, and agreed upon by all founders —
 
 Since 2023, **iBLOOMING** and **BGC** have operated in parallel — iBLOOMING as a digital product platform, and BGC as an affiliate reward engine. This parallel operation forms the foundation of what is now defined as **ALPHA Coin**.
 
-🎯 **ALPHA Coin** has already been active through BGC’s operational model as a real-world business simulation. (Source → [Day 2 Summary](../../../archived-oioi/2025/08/iblooming-web3-meeting-day2.md#-presentation-bgc-marketing-model-by-kk))
+🎯 **ALPHA Coin** has already been active through BGC’s operational model as a real-world business simulation. (Source → [Day 2 Summary](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=sdXJQGydvzjLAL8ZtAw0&only=yes&limit=100#pdf-page-sdXJQGydvzjLAL8ZtAw0-presentation-bgc-marketing-model-by-kk))
 
 Without explicitly naming it, BGC has effectively implemented **ALPHA Coin tokenomics** through the following existing mechanics:
 
@@ -44,7 +44,7 @@ Without explicitly naming it, BGC has effectively implemented **ALPHA Coin token
 - **Cross-App Utility** = Integration with iBLOOMING edu-products / gated access to iBLOOMING  
 
 🎯 This means the transformation does not start from scratch — it reframes, extracts insights, and elevates proven value logic that has been active since 2023.
-🎯 All details about the model formulation can be read in this document: [Understanding BGC X iBLOOMING Rewards](../../../archived-oioi/2025/10/bgc-iblooming-stage1-rewards-en.md)
+🎯 All details about the model formulation can be read in this document: [Understanding BGC X iBLOOMING Rewards](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)
 
 ---
 
@@ -64,13 +64,13 @@ Each objective will be simulated, measured, and validated through actual token b
 
 ## 🧱 THE EXECUTION PILLARS – PROGRESS
 
-These are the four validated **core execution pillars** agreed upon by all founders, serving as the foundation for the Web3 transformation of iBLOOMING & BGC. (Source → [Day 1: 4 Pillars Section](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-the-4-execution-pillars))
+These are the four validated **core execution pillars** agreed upon by all founders, serving as the foundation for the Web3 transformation of iBLOOMING & BGC. (Source → [Day 1: 4 Pillars Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-the-4-execution-pillars))
 
 **Progress Legend**: ✅ Live | 🛠 In Progress | 🧪 Planned
 
 | Pillar                             | Description                                              | Progress       | Notes                                                       | Owner(s)                    |
 | ---------------------------------- | -------------------------------------------------------- | -------------- | ----------------------------------------------------------- | --------------------------- |
-| ALPHA Coin Layer                   | Extract & analyze real earning/spending data from BGC.   | Live ✅         | Exists in BGC system; proceed with data extraction.         | KK (BGC Ops)                |
+| ALPHA Coin Layer                   | Extract & analyze real earning/spending data from BGC.   | Live ✅        | Exists in BGC system; proceed with data extraction.         | KK (BGC Ops)                |
 | Tokenomics + WhitePaper (iBC/iBTC) | Design token economy using ALPHA Coin behavior data.     | In Progress 🛠 | Draft by Prof. NOTA; presentation scheduled this week.      | Prof. NOTA                  |
 | Web3 Login System                  | Enable unified wallet login across iBLOOMING & BGC.      | Planned 🧪     | Implementation will start with the mobile app.              | Web3 Dev Team               |
 | iBC/iBTC Release & Utility         | Launch token with reward, BTC, and governance functions. | Planned 🧪     | Requires deployment design, roadmap, and founder alignment. | All Founders + Team Leaders |
@@ -81,7 +81,7 @@ These are the four validated **core execution pillars** agreed upon by all found
 
 ## 📊 THE EXECUTION MATRIX – CYCLE
 
-(Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-simulated-execution-matrix))
+(Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-simulated-execution-matrix))
 
 **How to Read:**
 - **Progress** → Combines lifecycle stage (`Live`, `Simulation`, `Planning`, `TBD`, `Post-Sim`) with current execution status (`✅ Running`, `🛠 In Progress`, `🧪 Planned`, `🧭 Pending`, `🧠 Not Started`).
@@ -116,7 +116,7 @@ Once the pillars are stabilized:
 
 ## 🔜 NEXT STEPS (As of Meeting Day 2 – Suggested by Prof. NOTA)
 
-(Original Source – 10 July 2025: [Day 1: Next Steps](../../../archived-oioi/2025/07/iblooming-web3-meeting-day1.md#-next-step-suggested-by-prof-nota))
+(Original Source – 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota))
 
 **Status Legend**: ✅ Done | 🛠 In Progress | 🧪 Planned | 🧭 TBD
 
@@ -173,3 +173,6 @@ Once the pillars are stabilized:
 
 ---
 
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
