@@ -27,7 +27,7 @@ coverY: 0
 Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) jembatan konversi PC/SP terbatas, (2) value leakage ke luar ekosistem, (3) admin-dependency tinggi, (4) transparansi real-time rendah, (5) fiat-first tax drag, (6) pertumbuhan BGC > iBLOOMING (imbalance).
 **Solusi:** lapisan settlement **ALPHA** yang mengonversi PC/SP menjadi hak ter-tokenisasi (spend/access/stake) → transisi terukur ke **iBC/iBTC**. Nilai berputar di dalam ekosistem, cash-out menjadi jalur sekunder dan terkendali.
 
-## Dampak pada Strategic Objectives ([LIVING Doc](../../../archived-oioi/2025/08/iblooming-bgc-web3-living.md#strategic-objectives-reaffirmed))
+## Dampak pada Strategic Objectives ([LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed))
 - **Revenue ↑**: utility on-platform mendorong GMV & ARPU.
 - **Cost ↓**: otomasi event ledger & rate-limit menekan biaya ops/tx.
 - **Tax burden ↓**: settlement internal yang compliant menurunkan kejadian pajak.
@@ -41,7 +41,8 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 - **Governance & Compliance**: tata kelola bertahap; catatan kepatuhan per yurisdiksi (memo terpisah).
 
 ## Roadmap Ringkas
-1) Simulasi ALPHA → 2) **Whitepaper v1** → 3) **Tokenflow Map v1** → 4) Sign-off Founder → 5) Implementasi **WEB3LOGIN** → 6) Pilot utility iBC/iBTC → 7) Perluasan lintas-app.
+- 1a) Simulasi ALPHA → 2a) **Whitepaper v1** → 3a) **Tokenflow Map v1** → 4) Sign-off Founder → 5) Pilot utility iBC/iBTC → 6) Perluasan lintas-app.
+- 1b) **Web3 Login** Plan → 2b) Implementasi **Web3 Login** → 3b) Launch **Web3 Login** → 4) Sign-off Founder → 5) Pilot utility iBC/iBTC → 6) Perluasan lintas-app.
 
 ## Keputusan yang Diminta (Founder)
 **Menyetujui Whitepaper v1** dengan 3 parameter terbuka untuk ditetapkan saat rapat: rasio konversi awal PC/SP→ALPHA, kebijakan **cash-out windows**, dan prioritas **sinks Q1**.
@@ -56,8 +57,8 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 - language: ID  
 - single_language_rule: true  
 - sources_of_truth:  
-  - UNDERSTANDING Doc (model bisnis/marketing)  
-  - LIVING Doc](../../../active-oioi/2025/08/iblooming-bgc-web3-living.md) (Strategic Objectives & guardrails)  
+  - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) (model bisnis/marketing)  
+  - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed) (Strategic Objectives & guardrails)  
 
 {% endhint %}
 
@@ -68,11 +69,12 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 ## 2. Problem Statement (singkat)
 - Gap-1: Conversion bridge PC/SP → outcomes terbatas.
 - Gap-2: Interoperability & value leakage (nilai keluar ekosistem).
-- Gap-3: Admin-dependency (operasional manual).
+- Gap-3: Admin-dependency (operational manual).
 - Gap-4: Transparansi real-time rendah (auditability).
 - Gap-5: Fiat-first tax drag.
 - Gap-6: Pertumbuhan BGC > iBLOOMING (imbalance).
-[Catatan: daftar gap mengacu UNDERSTANDING + LIVING; rinciannya dipadatkan di TOKENFLOW.]
+
+Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) + [LIVING Doc ](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed); rinciannya dipadatkan di [TOKENFLOW Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100).
 
 ## 3. Solution Overview (C → A → B)
 ### 3.1 Concept
@@ -120,7 +122,8 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 - Placeholder ringkasan legal (akan dilengkapi memo terpisah).
 
 ## 5. Roadmap (tingkat tinggi)
-- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → Sign-off → WEB3LOGIN → Pilot utility iBC/iBTC → Perluasan lintas-app.
+- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → Sign-off → Pilot utility iBC/iBTC → Perluasan lintas-app.
+- Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → Sign-off → Pilot utility iBC/iBTC → Perluasan lintas-app.
 
 ## 6. Data & Metodologi
 - Sumber data 24 bulan; definisi metrik; aturan cleaning; reproducibility.
@@ -130,3 +133,10 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 
 ## Lampiran
 - Tabel istilah; tabel event; diagram arsitektur ringkas.
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
+
