@@ -72,7 +72,7 @@ These are the four validated **core execution pillars** agreed upon by all found
 | ---------------------------------- | -------------------------------------------------------- | -------------- | ----------------------------------------------------------- | --------------------------- |
 | ALPHA Coin Layer                   | Extract & analyze real earning/spending data from BGC.   | Live ✅        | Exists in BGC system; proceed with data extraction.         | KK (BGC Ops)                |
 | Tokenomics + WhitePaper (iBC/iBTC) | Design token economy using ALPHA Coin behavior data.     | In Progress 🛠 | Draft by Prof. NOTA; presentation scheduled this week.      | Prof. NOTA                  |
-| Web3 Login System                  | Enable unified wallet login across iBLOOMING & BGC.      | Planned 🧪     | Implementation will start with the mobile app.              | Web3 Dev Team               |
+| Web3 Login System                  | Enable unified wallet login across iBLOOMING & BGC.      | In Progress 🧪 | Operate a single, unified credentials database.             | Web3 Dev Team               |
 | iBC/iBTC Release & Utility         | Launch token with reward, BTC, and governance functions. | Planned 🧪     | Requires deployment design, roadmap, and founder alignment. | All Founders + Team Leaders |
 
 ✅ Use this table as a coordination grid for stakeholder assignment and responsibility planning.
@@ -94,7 +94,7 @@ These are the four validated **core execution pillars** agreed upon by all found
 | **ALPHA Coin System** | Reframe BGC reward system as “ALPHA Coin” behavioral simulation layer. | Live ✅ | ~3 weeks (data extraction & interpretation) | Prof. NOTA, KK | Internal analytical tool, not public; feeds data into iBC/iBTC tokenomics. |
 | **Tokenomics & WhitePaper (iBC/iBTC)** | Design token economy using ALPHA Coin behavior data. | In Progress 🛠 | 1–2 months | Prof. NOTA (Lead), KK | Zero financial risk; NFTs used for behavior modeling. |
 | └── **Behavioral Analytics (Pre-Release)** | Validate tokenomics & whitepaper assumptions with detailed user behavior simulation. | In Progress 🛠 | 2–4 weeks | Prof. NOTA, Ops, Data Analyst | Use ALPHA Coin data + simulation to stress-test reward, burn, and staking logic before launch. |
-| **Web3 Login & Smart Wallet** | Implement unified smart-wallet login (Account Abstraction). | Planned 🧪 | 1–2 months | Mobile Dev, Web3 Engineer | Initiate mobile app integration. |
+| **Web3 Login & Smart Wallet** | Operate on a single, unified credentials database (already in production) for BGC and iBLOOMING. | In Progress 🛠 | 1–2 months | DevOps, Web3 Engineer | Details on the [WEB3LOGIN Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=wQewHM8gWWhQ0OPtUe6u&only=yes&limit=100). |
 | **Release iBC/iBTC & Utility** | Launch token with reward, BTC, and governance functions. | Planned 🧪 | 2–3 months | All Founders + Team Leaders | Requires deployment design, roadmap, and founder alignment. |
 | └── **Behavioral Analytics (Ongoing)** | Monitor and adjust tokenomics post-launch. | Planned 🧪 | Continuous | Prof. NOTA, Ops, Data Analyst | Track saving, spending, hoarding, and exchange patterns; detect anomalies; inform iteration of staking, rewards, and burn logic. |
 | **Cross-App Token Utility** | Enable iBC/iBTC usage across all iBLOOMING & BGC apps. | TBD 🧭 | TBD | Prof. NOTA, Mobile Dev, Web3 Engineer | Requires dev & UX standardization across platforms. |
