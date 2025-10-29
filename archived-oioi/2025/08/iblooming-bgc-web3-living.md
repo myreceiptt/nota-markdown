@@ -62,7 +62,7 @@ Each objective will be simulated, measured, and validated through actual token b
 
 ---
 
-## 🧱 THE EXECUTION PILLARS – PROGRESS
+## 🧱 EXECUTION PILLARS – PROGRESS
 
 These are the four validated **core execution pillars** agreed upon by all founders, serving as the foundation for the Web3 integration of BGC & iBLOOMING. (Source → [Day 1: 4 Pillars Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-the-4-execution-pillars))
 
@@ -79,7 +79,7 @@ These are the four validated **core execution pillars** agreed upon by all found
 
 ---
 
-## 📊 THE EXECUTION MATRIX – CYCLE
+## 📊 EXECUTION MATRIX – CYCLE
 
 (Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-simulated-execution-matrix))
 
