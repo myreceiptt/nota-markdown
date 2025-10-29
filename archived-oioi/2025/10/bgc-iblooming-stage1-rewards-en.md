@@ -446,3 +446,7 @@ Whenever a new **Affiliate User** is added, **Sales Points** equal to **70% of t
 ➡️ **Conclusion:** **GEC** is a **monthly**, internally-governed pool that funds and rewards the executive oversight function of iBLOOMING, sourced from **GiM** and **iMATRIX** activity.
 
 ---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
