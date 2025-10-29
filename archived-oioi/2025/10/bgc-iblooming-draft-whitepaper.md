@@ -27,7 +27,7 @@ coverY: 0
 Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) jembatan konversi PC/SP terbatas, (2) value leakage ke luar ekosistem, (3) admin-dependency tinggi, (4) transparansi real-time rendah, (5) fiat-first tax drag, (6) pertumbuhan BGC > iBLOOMING (imbalance).
 **Solusi:** lapisan settlement **ALPHA** yang mengonversi PC/SP menjadi hak ter-tokenisasi (spend/access/stake) → transisi terukur ke **iBC/iBTC**. Nilai berputar di dalam ekosistem, cash-out menjadi jalur sekunder dan terkendali.
 
-## Dampak pada Strategic Objectives ([LIVING Doc](../../../active-oioi/2025/08/iblooming-bgc-web3-living.md#strategic-objectives-reaffirmed))
+## Dampak pada Strategic Objectives ([LIVING Doc](../../../archived-oioi/2025/08/iblooming-bgc-web3-living.md#strategic-objectives-reaffirmed))
 - **Revenue ↑**: utility on-platform mendorong GMV & ARPU.
 - **Cost ↓**: otomasi event ledger & rate-limit menekan biaya ops/tx.
 - **Tax burden ↓**: settlement internal yang compliant menurunkan kejadian pajak.
