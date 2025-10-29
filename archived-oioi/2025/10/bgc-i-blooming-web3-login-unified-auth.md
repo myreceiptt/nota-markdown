@@ -11,7 +11,7 @@ coverY: 0
 # BGC × iBLOOMING — Web3 Login (Unified Auth)
 
 **Revision D — October 13, 2025**  
-**First Version**: [Web3 Login Identity Bridge](../../../archived-oioi/2025/09/bgc-iblooming-web3-login-implementation-plan-oct-2025.md)  
+**First Version**: [Web3 Login Identity Bridge](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=UuIVClWGsW8J9R2NdfWZ&only=yes&limit=100)  
 **Status:** Draft for sign-off (clean, single-source)  
 **Owners:** Prof. NOTA (Product/Architecture), Yuku (Tech Owner), BGC × iBLOOMING Eng/DevOps
 
