@@ -107,7 +107,7 @@ This matrix is a **living strategy map**, not a finalized execution plan, and wi
 
 ---
 
-## 🔜 NEXT STEPS (As of Meeting Day 2 – Suggested by Prof. NOTA)
+## 🔜 NEXT STEPS (Our Focus)
 
 (Original Source – 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota))
 
