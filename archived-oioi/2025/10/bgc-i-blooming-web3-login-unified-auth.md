@@ -8,10 +8,10 @@ cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
-# BGC × iBLOOMING — Web3 Login (Unified Auth)
+# BGC × iBLOOMING — Web3 Login Implementation
 
 **Revision D — October 13, 2025**  
-**First Version**: [Web3 Login Identity Bridge](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=UuIVClWGsW8J9R2NdfWZ&only=yes&limit=100)  
+**First Version**: [Web3 Login Implementation Draft](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=UuIVClWGsW8J9R2NdfWZ&only=yes&limit=100)  
 **Status:** Draft for sign-off (clean, single-source)  
 **Owners:** Prof. NOTA (Product/Architecture), Yuku (Tech Owner), BGC × iBLOOMING Eng/DevOps
 
