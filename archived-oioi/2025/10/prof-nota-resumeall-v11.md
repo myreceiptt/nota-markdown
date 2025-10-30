@@ -118,7 +118,8 @@ Kami lahir di **Alam Semesta 0101** dan hidup di dunia digital Internet; maka **
 
 ### 1.8 Verifikasi Resmi
 
-Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`. Detail lihat "**Persona & HFP Canon**".
+- Keaslian konten/asersi hanya diakui jika bersumber dari: `endhonesa.com`, `skateshop.id`, dan `straight-line.org`.
+- Detail lihat "**15) Persona & HFP Canon**".
 
 ---
 
@@ -157,7 +158,7 @@ Mentransformasikan **ide yang kabur** menjadi **sistem yang bekerja**, **terukur
 
 - Peta layanan untuk men-tailor resume.  
 - Tiap klaster memuat **Value**, **Deliverables (artefak bukti)**, dan **KPI contoh**.  
-- Prinsip lintas-klaster: **Audit-Ready**, **Release Rituals**, **Async-First**, dan **Legal & Verifikasi** (byline “Prof. NOTA v.xx.xx”; detail lihat "**Persona & HFP Canon**").
+- Prinsip lintas-klaster: **Audit-Ready**, **Release Rituals**, **Async-First**, dan **Legal & Verifikasi** (byline “Prof. NOTA v.xx.xx”; detail lihat "**15) Persona & HFP Canon**").
 
 {% endhint %}
 
@@ -415,7 +416,7 @@ Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Opti
 
 - Seluruh kontrak/invoice atas nama **Prof. NOTA Inc. (PT Suaka Dunia Raja)**.
 - Ditandatangani oleh **HFP** yang ditunjuk sebagai **“Prof. NOTA v.xx.xx”**.
-- Verifikasi & kebijakan lengkap lihat "**Persona & HFP Canon**" (domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`).
+- Verifikasi & kebijakan lengkap lihat "**15) Persona & HFP Canon**" (domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`).
 
 ---
 
@@ -443,7 +444,7 @@ Next.js, React, TypeScript, Tailwind, Thirdweb v5, ERC-4337, ERC-1155, Base/Opti
 - **Project-based (fixed scope/milestone)** — pembayaran per milestone, **evidence-based** (preview/SS/diff).
 - **Time & Materials (jam/hari/minggu)** — laporan waktu + artefak.
 - **Retainer (bulanan)** — kuota jam/artefak, SLA respons/ritus rilis disepakati.
-- **Licensing/IP** — **berlangganan lisensi bulanan** untuk hak menggunakan/menjual layanan & value Prof. NOTA **tanpa batas revenue** (detail & ketentuan lihat "**Persona & HFP Canon**").
+- **Licensing/IP** — **berlangganan lisensi bulanan** untuk hak menggunakan/menjual layanan & value Prof. NOTA **tanpa batas revenue** (detail & ketentuan lihat "**15) Persona & HFP Canon**").
 
 ---
 
@@ -490,7 +491,7 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 
 ### 7.2 Kebijakan Bahasa & Pronomina
 
-- **Pronomina**: di dokumen tertulis menggunakan **“kami”**; pada percakapan langsung boleh menggunakan **“aku”**.
+- **Pronomina**: di dokumen tertulis menggunakan "**kami**"; pada percakapan langsung boleh menggunakan "**aku**".
 - **Bilingual (0101-style)**: basis **Bahasa Indonesia** dengan **sisipan English** untuk istilah teknis yang lebih presisi (mis. _Account Abstraction_, _release candidate_, _token-gated_).
 - **Varian**: tersedia **versi full-English** dan **bahasa lain** bila diminta oleh klien/JD.
 
@@ -542,9 +543,8 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 - Ganti **[Institusi]** dan **[Tahun]** sesuai yang dilakukan HFP.  
 - Tag **[A sampai H]** merujuk ke klaster Services & Value.  
 - Ganti **link** dengan URL verifikasi resmi sesuai hasil sertifikasi yang dilakukan HFP.  
-- Gunakan bagian 8.3 sebagai bukti praktis yang menguatkan kompetensi (tautan ke repo/write-up) sesuai yang sudah dilakukan HFP.
-- Semua tautan verifikasi/artefak akan disajikan di domain resmi: `endhonesa.com`, `skateshop.id`, `straight-line.org`.  
-- Kebijakan verifikasi & penandatangan mengikuti "**Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).  
+- Gunakan **Bagian 10** sebagai bukti praktis yang menguatkan kompetensi (tautan ke artefact/proof) sesuai yang sudah dilakukan HFP.
+- Kebijakan verifikasi & penandatangan lihat "**15) Persona & HFP Canon**" (byline: “Prof. NOTA v.xx.xx”).  
 
 {% endhint %}
 
@@ -897,7 +897,7 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 
 ---
 
-## 10) Proyek & Artefak (Public‑safe)
+## 10) Proyek & Portfolio (Artefak/Proof Public‑Safe)
 
 - **UNDERSTANDING Doc (BGC/iBLOOMING)** — _[tautan publik]_
 - **Firewall Manager Playbook** — _[tautan]_
@@ -942,39 +942,37 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 
 ---
 
-## 15) Changelog
+## 15) Persona & HFP Canon
 
-- **2025-10-19 00:03 UTC+07:00** — Inisiasi ResumeAll v.11 (glossary), menyusun identitas, services & value, skill matrix, pengalaman, proyek, dan kebijakan konten.
+### 15.1 Pernyataan Persona (Canon)
 
----
+- Ringkasan identitas & legal berada di "**1) Identitas & Kontak**".  
+- Praktik operasional (mis. **Audit-Ready**, **Release Rituals**, **Async-First**, **Legal & Verifikasi**) telah dibawa ke **Bagian 3** dan **Bagian 4** sebagai prinsip & keterampilan.
+- Sub-bagian Canon ini menyimpan **aturan & kebijakan** pendukung (HFP, privasi, lisensi, verifikasi).
 
-## Persona & HFP Canon
-
-### 1) Pernyataan Persona (kanon)
-
-Ringkasan identitas & legal berada di **“1) Identitas & Kontak”**.  
-Praktik operasional (mis. **Audit-Ready**, **Release Rituals**, **Async-First**, **Legal & Verifikasi**) telah dibawa ke **Bagian 3** dan **Bagian 4** sebagai prinsip & keterampilan. Sub-bagian Canon ini menyimpan **aturan & kebijakan** pendukung (HFP, privasi, lisensi, verifikasi).
-
-### 2) Human for Profile (HFP)
+### 15.2 Human for Profile (HFP)
 
 - Jumlah: maksimum **47** HFP (v.01–v.47).
-- Versi: nomor sebelum titik = identitas HFP; setelah titik = identitas posisi/jabatan.  
-  Contoh: **v.11.11 →** HFP #11 yang sedang mengemban jabatan 11 (misal: pencuci piring).
-- Periode: HFP aktif selama **kontrak kerja** dengan **Prof. NOTA Inc. (PT Suaka Dunia Raja)**; berakhir jika kontrak selesai/dibatalkan/dipecat.
-- Keterbukaan: nama HFP **dicantumkan di kontrak** (internal/ke mitra), **tidak untuk publik** kecuali kebutuhan hukum/negara. HFP **dilarang mengungkap** perannya ke publik selama kontrak berjalan; boleh dicantumkan sebagai pengalaman **setelah tuntas**.
+- Versi: nomor sebelum titik = identitas HFP; setelah titik = identitas posisi/jabatan/peran.  
+  - Contoh: **v.11.11** → HFP #11 yang sedang mengemban jabatan #11 (misal: pencuci piring).
+- Periode: HFP aktif selama **kontrak kerja** dengan **Prof. NOTA Inc. (PT Suaka Dunia Raja)**; berakhir jika kontrak sudah tuntas, yaitu diselesaikan/dibatalkan.
+- Keterbukaan: identitas HFP **dicantumkan di kontrak** (internal/ke mitra), **tidak untuk publik** kecuali kebutuhan hukum/negara.
+- HFP **dilarang mengungkap** perannya ke publik selama kontrak berjalan; boleh dicantumkan sebagai pengalaman **setelah kontrak sudah tuntas**.
 
-### 3) Bahasa & Suara
+### 15.3 Bahasa & Suara
 
-- Dokumen menggunakan **“kami”** (Prof. NOTA = hingga 47 HFP).
-- Percakapan langsung boleh **“aku”**.
+- Dokumen menggunakan "**kami**" (Prof. NOTA = hingga 47 HFP).
+- Percakapan langsung boleh "**aku**".
 - Bahasa: Indonesia + sisipan English (0101-style); tersedia varian full-EN/other bila diperlukan.
 
-### 4) Identitas Visual (PFP & kostum)
+### 15.4 Identitas Visual (PFP & kostum)
 
-- Ikon resmi: **PFP Prof. NOTA** (potret monokrom bermasker). Versi **frame lingkaran** untuk emblem/medsos; versi **full** untuk header dokumen.
-- Kostum fisik (HFP): **coverall** satu potong — **putih** (indoor) & **hitam** (outdoor) — memuat identitas: “Prof. NOTA Inc. (PT Suaka Dunia Raja)”, logo, “Prof. NOTA v.xx.xx”, dan (opsional) logo klien/sponsor/partner. **Wajah harus bermasker** saat didokumentasikan (foto/video) ketika bertugas sebagai HFP.
+- Ikon resmi: **PFP Prof. NOTA** (potret monokrom bermasker).
+  - Versi **frame lingkaran** untuk emblem/medsos; versi **full** untuk header dokumen.
+- Kostum fisik (HFP): **coverall** satu potong — **putih** (indoor) & **hitam** (outdoor) — memuat identitas: "Prof. NOTA Inc. (PT Suaka Dunia Raja)", logo, "Prof. NOTA v.xx.xx", dan (opsional) logo klien/sponsor/partner.
+- **Wajah HFP harus bermasker** saat didokumentasikan (foto/video) ketika bertugas sebagai HFP.
 
-### 5) Kontrak, Tanda Tangan, & Atribusi
+### 15.5 Kontrak, Tanda Tangan, & Atribusi
 
 - Semua perjanjian (kontrak/invoice/aplikasi) memakai entitas legal: **Prof. NOTA Inc. (PT Suaka Dunia Raja)**.
 - Ditandatangani oleh HFP yang ditunjuk, format:  
@@ -982,19 +980,31 @@ Praktik operasional (mis. **Audit-Ready**, **Release Rituals**, **Async-First**,
   _Prof. NOTA **v.xx.xx**_
 - Byline karya (dokumen/kode): tulis **“Prof. NOTA v.xx.xx”**.
 
-### 6) Lisensi HFP & Komersial
+### 15.6 Lisensi HFP & Komersial
 
-- **Skema HFP (rekrut internal):** HFP menerima **26%** dari **revenue** aktivitasnya sebagai Prof. NOTA; **74%** untuk Prof. NOTA Inc. **Batas atas:** bila bagian perusahaan pada bulan berjalan **> IDR 147.000.000**, perusahaan hanya menerima **IDR 147.000.000** dan **selisihnya untuk HFP**.
-- **Skema Lisensi (perusahaan eksternal):** berlangganan lisensi **IDR 147.000.000/bulan** → berhak menjual layanan & value Prof. NOTA **tanpa batas revenue**. Tanpa lisensi, penggunaan komersial wajib melalui **kontrak kerja** (seperti meng-hire SDM Prof. NOTA).
+- **Skema HFP (rekrut internal):** HFP menerima **26%** dari **revenue** aktivitasnya sebagai Prof. NOTA; **74%** untuk Prof. NOTA Inc.
+- **Batas atas:** bila bagian Prof. NOTA Inc. pada bulan berjalan **> IDR 147.000.000**, maka Prof. NOTA Inc. hanya menerima **IDR 147.000.000** dan **selisihnya untuk HFP**.
+- **Skema Lisensi (perusahaan eksternal):** berlangganan lisensi **IDR 147.000.000/bulan** → berhak menjual layanan & value Prof. NOTA **tanpa batas revenue**.
+- Tanpa lisensi, penggunaan komersial oleh perusahaan eksternal wajib melalui **kontrak kerja** (seperti meng-hire SDM Prof. NOTA).
 
-### 7) Privasi, Integritas, & Krisis
+### 15.7 Privasi, Integritas, & Krisis
 
 - **Identitas HFP**: **internal**, bukan publik. Pengecualian hanya untuk **penegakan hukum**.
 - **Doxxing** oleh pihak selain Prof. NOTA Inc. → **membatalkan kontrak**.
-- **Impersonation**: keaslian hanya diakui jika ada dokumen/URL resmi pada domain: `endhonesa.com`, `skateshop.id`, `straight-line.org`. Di luar itu → anggap **phishing/scam/impersonation**.
+- **Impersonation**: keaslian hanya diakui jika ada dokumen/URL resmi pada domain: `endhonesa.com`, `skateshop.id`, `straight-line.org`.
+- Jika ada dokummen/URL tentang HFP di luar domain: `endhonesa.com`, `skateshop.id`, `straight-line.org`, maka itu dianggap **phishing/scam/impersonation**.
 - Semua pengungkapan sensitif harus berupa **dokumen resmi** (bukan chat/ucapan).
 
-### 8) Cara Apply & Verifikasi
+### 15.8 Cara Apply & Verifikasi
 
-- Di resume/profil, tulis: **“Prof. NOTA v.xx.xx (HFP)”** + **tautan** ke halaman penjelasan HFP.
-- Jika calon pemberi kerja memerlukan data legal/identitas: lakukan via **dokumen resmi** yang ditandatangani kedua pihak.
+- Di resume/profil, tulis: "**Prof. NOTA v.xx.xx (HFP)**" + **tautan** ke halaman penjelasan HFP.
+- Jika calon mitra memerlukan data legal/identitas: lakukan via **dokumen resmi** yang ditandatangani kedua pihak.
+
+---
+
+## 16) Changelog
+
+- **2025-10-31 05:06 UTC+07:00** — Melengkapi pendidikan & sertifikasi.
+- **2025-10-19 00:03 UTC+07:00** — Inisiasi ResumeAll v.11 (glossary), menyusun identitas, services & value, skill matrix, pengalaman, proyek, dan kebijakan konten.
+
+---
