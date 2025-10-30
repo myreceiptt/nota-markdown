@@ -736,25 +736,89 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 
 ### 8.2 Sertifikasi (Pendidikan Nonformal)
 
-| Binance Academy (BINANCE.COM)                                | Tag   | Link (Artefact/Proof)                                                                      |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------ |
-|                                                              | A - H |                                                                                            |
+### 8.2.1 Udemy Career Accelerator - ([UDEMY.COM](https://www.udemy.com/))
 
-| freeCodeCamp (FREECODECAMP.ORG)                              | Tag   | Link (Artefact/Proof)                                                                      |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------ |
-|                                                              | A - H |                                                                                            |
+| Udemy Career Accelerator ([UDEMY.COM](https://www.udemy.com/))  | Tag   | Link (Artefact/Proof)                                                     |
+| --------------------------------------------------------------- | ----- | ------------------------------------------------------------------------- |
+| Software Engineer Career Accelerator                            | A - H | [Course Details](https://www.udemy.com/career/software-engineer/)         |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| AI Engineer Career Accelerator                                  | A - H | [Course Details](https://www.udemy.com/career/ai-engineer/)               |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Machine Learning Engineer Career Accelerator                    | A - H | [Course Details](https://www.udemy.com/career/machine-learning-engineer/) |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Full Stack Web Developer Career Accelerator                     | A - H | [Course Details](https://www.udemy.com/career/full-stack-web-developer/)  |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Project Manager Career Accelerator                              | A - H | [Course Details](https://www.udemy.com/career/project-manager/)           |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| UX Designer Career Accelerator                                  | A - H | [Course Details](https://www.udemy.com/career/ux-designer/)               |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Cloud Engineer Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/cloud-engineer/)            |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Game Developer Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/game-developer/)            |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Digital Marketer Career Accelerator                             | A - H | [Course Details](https://www.udemy.com/career/digital-marketer/)          |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Financial Analyst Career Accelerator                            | A - H | [Course Details](https://www.udemy.com/career/financial-analyst/)         |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Data Scientist Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/data-scientist/)            |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Data Engineer Career Accelerator                                | A - H | [Course Details](https://www.udemy.com/career/data-engineer/)             |
+| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+|                                                                 |       |                                                                           |
+| Cybersecurity Analyst Career Accelerator                        | A - H | [Course Details](https://www.udemy.com/career/cybersecurity-analyst/)     |
+| 1. Hack Your Future: Cyber Security Projects for Your Dream Job | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 2. The Complete Hands-On Cybersecurity Analyst Course           | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
+| 3. CompTIA Security+ (SY0-701) Complete Course & Practice Exam  | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
 
-| Udemy Course, Udemy Inc. (UDEMY.COM)                         | Tag   | Link (Artefact/Proof)                                                                      |
+---
+
+### 8.2.2 Udemy Course - ([UDEMY.COM](https://www.udemy.com/))
+
+| Udemy Course ([UDEMY.COM](https://www.udemy.com/))           | Tag   | Link (Artefact/Proof)                                                                      |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------ |
-|                                                              | A - H |                                                                                            |
 | React basic in just 1 hour [2022]                            | A - H | [Certificate](https://www.udemy.com/certificate/UC-3d98484b-d263-4581-8354-7801d7829f73/)  |
 | Vue JS and Firebase: Build an iOS and Android Chat App       | A - H | [Certificate](https://www.udemy.com/certificate/UC-003eb675-5bb8-431d-a113-82b01a5a1f06/)  |
 | Learn Angular 5 from Scratch                                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-9a942b36-c963-4e96-92a4-6dea0d38961b/)  |
 | Learn Angular 4 from Scratch                                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-1496212c-7275-4591-85c1-513288697787/)  |
 | Quickstart AngularJS 1.0 [First Version Of Angular]          | A - H | [Certificate](https://www.udemy.com/certificate/UC-85cdb73b-e560-4df1-8143-6d3491e2868f/)  |
 | Code Your First Game: Arcade Classic in JavaScript on Canvas | A - H | [No Certificate](https://www.udemy.com/course/code-your-first-game/)                       |
-| The Complete Full-Stack JavaScript Course                    | A - H |                                                                                            |
-| Learn to Program in Javascript: Beginner to Pro              | A - H |                                                                                            |
+| The Complete Full-Stack JavaScript Course                    | A - H | [Certificate](https://www.udemy.com/certificate/UC-b059ae12-0c1c-4be1-a5d4-10cf59378d42/)  |
+| Learn to Program in Javascript: Beginner to Pro              | A - H | [Certificate](https://www.udemy.com/certificate/UC-9913fec1-98fe-4433-abba-8ea3a06fb900/)  |
 | Javascript Essentials                                        | A - H | [No Certificate](https://www.udemy.com/course/javascript-essentials/)                      |
 | Agile PM 101 - Learn the Truth About Agile versus Waterfall  | A - H | [Certificate](https://www.udemy.com/certificate/UC-c887cf8e-d1b6-4ee3-9216-a36d9b522e84/)  |
 | Basics of Scrum, Agile and Project Delivery                  | A - H | [Certificate](https://www.udemy.com/certificate/UC-638e2201-f4fa-4135-85c4-1d4904d6e2fb/)  |
@@ -799,20 +863,10 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 | Build Your First Website in 1 Week with HTML5 and CSS3       | A - H | [Certificate](https://www.udemy.com/certificate/UC-24a81d94-1b17-458c-8ef5-996210172c22/)  |
 | Web Development By Doing: HTML / CSS From Scratch            | A - H | [Certificate](https://www.udemy.com/certificate/UC-7b31ff8a-c5d8-4a40-a423-7ca8f7eec1ff/)  |
 | HTML: Learning the Basics Intro to HTML Website Coding       | A - H | [Certificate](https://www.udemy.com/certificate/UC-9c8aaa01-9885-4042-b3df-03b3f0a378d8/)  |
+|  C++ Tutorial for Complete Beginners                         | A - H | [Certificate](https://www.udemy.com/certificate/UC-0face02e-069f-4384-9f30-62b204ad9e2c/)  |
 | Intro to Linux Shell Scripting (Free course)                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-505cb753-9e73-4a36-9ca2-1ae44d9af6e0/)  |
 | Command Line Essentials: Git Bash for Windows                | A - H | [Certificate](https://www.udemy.com/certificate/UC-ed5764ce-c287-40f2-bf9e-fc07dc3c9ef0/)  |
 | Introduction to Networking for Complete Beginners            | A - H | [Certificate](https://www.udemy.com/certificate/UC-117e0b2a-c8a4-408c-8516-5333ec5b2ad3/)  |
-
----
-
-### 8.3 Portfolio-Proof (non-sertifikat, audit-friendly)
-
-| Bucket                     | Program                                                  | Status              | Artefak (dummy)                                                          | Catatan                                          |
-| -------------------------- | -------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------ | ------------------------------------------------ |
-| Security (Smart Contracts) | OpenZeppelin **Ethernaut**                               | Cleared (Level 1-x) | [Write-ups & Solutions](https://nota.endhonesa.com/verify/ethernaut-v11) | Fokus pola kerentanan & mitigasi                 |
-| Security (Web3)            | **Secureum** Bootcamp/RACE                               | Completed           | [Scorecard & Notes](https://nota.endhonesa.com/verify/secureum-v11)      | Latihan attack/defense & audit mindset           |
-| Docs-as-Code               | ADR/PRD/API Docs (EN/ID)                                 | Published           | [Docs Pack (EN/ID)](https://nota.endhonesa.com/verify/docs-pack-v11)     | Paket bilingual: ADR + PRD + API + Release Notes |
-| Prototyping                | Next.js + Thirdweb v5 + **AA (ERC-4337)** + **ERC-1155** | Shipped             | [Demo/Repo](https://nota.endhonesa.com/verify/web3-demo-v11)             | Rute demo + test (Playwright) + changelog        |
 
 ---
 
