@@ -479,10 +479,10 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
   | Bahasa    | Reading | Writing | Speaking | Listening |
   |-----------|---------|---------|----------|-----------|
   | Indonesia | C1      | C1      | C1       | C1        |
-  | English   | C1 (68) | B2 (51) | B1 (43)  | B2 (52)   |
+  | English   | C2 (74) | C2 (97) | B1 (46)  | C2 (74)   |
 
 - **Sertifikasi & Bukti Bahasa**
-  - **EF SET (English, CEFR)** — **B2 Upper Intermediate (54/100)** · Certificate: [EF SET Certificate](https://github.com/user-attachments/files/23144271/EF.SET.Certificate.pdf)
+  - **EF SET (English, CEFR)** — **C2 Proficient (73/100)** · Certificate: [EF SET Certificate](https://cert.efset.org/en/BZj2Ab) ([PDF File](https://github.com/user-attachments/files/23283713/C2-EF-SET-Certificate.pdf))
   - **UKBI Adaptif (Bahasa Indonesia)** — **III (Unggul)**  
 
 <figure><img src="https://github.com/user-attachments/assets/7e55eba1-b8ba-4c6d-9a45-8963f91ce8e4" alt="HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)"><figcaption><p>HASIL PELATIHAN UKBI (Uji Kemahiran Berbahasa Indonesia)</p></figcaption></figure>
