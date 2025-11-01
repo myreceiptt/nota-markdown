@@ -736,137 +736,67 @@ Ganti skor dan tautan sertifikat bahasa untuk memperbarui sesuai hasil tes/serti
 
 ### 8.2 Sertifikasi (Pendidikan Nonformal)
 
-### 8.2.1 Udemy Career Accelerator - ([UDEMY.COM](https://www.udemy.com/))
+### 8.2.1 Udemy Course - ([UDEMY.COM](https://www.udemy.com/user/myreceipt/))
 
-| Udemy Career Accelerator ([UDEMY.COM](https://www.udemy.com/))  | Tag   | Link (Artefact/Proof)                                                     |
-| --------------------------------------------------------------- | ----- | ------------------------------------------------------------------------- |
-| Software Engineer Career Accelerator                            | A - H | [Course Details](https://www.udemy.com/career/software-engineer/)         |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| AI Engineer Career Accelerator                                  | A - H | [Course Details](https://www.udemy.com/career/ai-engineer/)               |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Machine Learning Engineer Career Accelerator                    | A - H | [Course Details](https://www.udemy.com/career/machine-learning-engineer/) |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Full Stack Web Developer Career Accelerator                     | A - H | [Course Details](https://www.udemy.com/career/full-stack-web-developer/)  |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Project Manager Career Accelerator                              | A - H | [Course Details](https://www.udemy.com/career/project-manager/)           |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| UX Designer Career Accelerator                                  | A - H | [Course Details](https://www.udemy.com/career/ux-designer/)               |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Cloud Engineer Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/cloud-engineer/)            |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Game Developer Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/game-developer/)            |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Digital Marketer Career Accelerator                             | A - H | [Course Details](https://www.udemy.com/career/digital-marketer/)          |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Financial Analyst Career Accelerator                            | A - H | [Course Details](https://www.udemy.com/career/financial-analyst/)         |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Data Scientist Career Accelerator                               | A - H | [Course Details](https://www.udemy.com/career/data-scientist/)            |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Data Engineer Career Accelerator                                | A - H | [Course Details](https://www.udemy.com/career/data-engineer/)             |
-| 1.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3.                                                              | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-|                                                                 |       |                                                                           |
-| Cybersecurity Analyst Career Accelerator                        | A - H | [Course Details](https://www.udemy.com/career/cybersecurity-analyst/)     |
-| 1. Hack Your Future: Cyber Security Projects for Your Dream Job | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 2. The Complete Hands-On Cybersecurity Analyst Course           | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-| 3. CompTIA Security+ (SY0-701) Complete Course & Practice Exam  | A - H | [Certificate](https://nota.endhonesa.com/#)                               |
-
----
-
-### 8.2.2 Udemy Course - ([UDEMY.COM](https://www.udemy.com/))
-
-| Udemy Course ([UDEMY.COM](https://www.udemy.com/))           | Tag   | Link (Artefact/Proof)                                                                      |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------ |
-| React basic in just 1 hour [2022]                            | A - H | [Certificate](https://www.udemy.com/certificate/UC-3d98484b-d263-4581-8354-7801d7829f73/)  |
-| Vue JS and Firebase: Build an iOS and Android Chat App       | A - H | [Certificate](https://www.udemy.com/certificate/UC-003eb675-5bb8-431d-a113-82b01a5a1f06/)  |
-| Learn Angular 5 from Scratch                                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-9a942b36-c963-4e96-92a4-6dea0d38961b/)  |
-| Learn Angular 4 from Scratch                                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-1496212c-7275-4591-85c1-513288697787/)  |
-| Quickstart AngularJS 1.0 [First Version Of Angular]          | A - H | [Certificate](https://www.udemy.com/certificate/UC-85cdb73b-e560-4df1-8143-6d3491e2868f/)  |
-| Code Your First Game: Arcade Classic in JavaScript on Canvas | A - H | [No Certificate](https://www.udemy.com/course/code-your-first-game/)                       |
-| The Complete Full-Stack JavaScript Course                    | A - H | [Certificate](https://www.udemy.com/certificate/UC-b059ae12-0c1c-4be1-a5d4-10cf59378d42/)  |
-| Learn to Program in Javascript: Beginner to Pro              | A - H | [Certificate](https://www.udemy.com/certificate/UC-9913fec1-98fe-4433-abba-8ea3a06fb900/)  |
-| Javascript Essentials                                        | A - H | [No Certificate](https://www.udemy.com/course/javascript-essentials/)                      |
-| Agile PM 101 - Learn the Truth About Agile versus Waterfall  | A - H | [Certificate](https://www.udemy.com/certificate/UC-c887cf8e-d1b6-4ee3-9216-a36d9b522e84/)  |
-| Basics of Scrum, Agile and Project Delivery                  | A - H | [Certificate](https://www.udemy.com/certificate/UC-638e2201-f4fa-4135-85c4-1d4904d6e2fb/)  |
-| A Professional APP Development Course for iPhone and Android | A - H | [Certificate](https://www.udemy.com/certificate/UC-0b6e5ca8-6136-403e-a921-c5fc9ecd93c6/)  |
-| Become an Android Developer from Scratch                     | A - H | [No Certificate](https://www.udemy.com/course/become-an-android-developer-from-scratch/)   |
-| Learn Android Application Development                        | A - H | [Certificate](https://www.udemy.com/certificate/UC-ff336086-c0f2-4c37-a923-db058c8aac75/)  |
-| Eclipse IDE for Beginners: Increase Your Java Productivity   | A - H | [Certificate](https://www.udemy.com/certificate/UC-45cd6aa2-34d5-4b37-a1d8-f1c8e080cd24/)  |
-| Java Multithreading                                          | A - H | [Certificate](https://www.udemy.com/certificate/UC-ce2e8db2-934c-49cb-b723-b71cee4db3b2/)  |
-| Practice Java by Building Projects                           | A - H | [Certificate](https://www.udemy.com/certificate/UC-e977f1f2-fee6-4ebe-b8e8-afe683bdcf52/)  |
-| Java Database Connection: JDBC and MySQL                     | A - H | [Certificate](https://www.udemy.com/certificate/UC-362e5dec-e462-4f06-a204-afe9446eaa92/)  |
-| Java Programming Basics                                      | A - H | [Certificate](https://www.udemy.com/certificate/UC-4cdc4fc1-d25a-4d15-935e-df646ceffba9/)  |
-| MongoDB Essentials - Understand the Basics of MongoDB        | A - H | [Certificate](https://www.udemy.com/certificate/UC-13d8a7cb-4947-4e89-92c4-e6883b1c3a8a/)  |
-| Foundations of Front-End Web Development                     | A - H | [Certificate](https://www.udemy.com/certificate/UC-9e189792-9887-4a58-9aba-d3ead2568de1/)  |
-| Git Started with GitHub                                      | A - H | [Certificate](https://www.udemy.com/certificate/UC-9af85968-9652-4628-b0ea-aedd4347521c/)  |
-| Wordpress Security: How To Stop Hackers                      | A - H | [Certificate](https://www.udemy.com/certificate/UC-9d4cff56-afdf-43be-aa19-cdd5057d4aae/)  |
-| Learn Complete Wordpress Security                            | A - H | [Certificate](https://www.udemy.com/certificate/UC-50cf4280-31e8-4d5d-b450-36c62f2f8020/)  |
-| Complete WordPress Security Course: Go from Zero to Hero     | A - H | [No Certificate](https://www.udemy.com/course/complete-wordpress-security-course/)         |
-| Fundamentals of Internet Security: Secure Your Environment   | A - H | [Certificate](https://www.udemy.com/certificate/UC-b41a6a78-5877-4033-8797-70fbc22f2d34/)  |
-| Load Wordpress 400% Faster Without any Technical Skills      | A - H | [Certificate](https://www.udemy.com/certificate/UC-1759f87f-ecc4-45e3-b54d-35e023ae6139/)  |
-| Django for WordPress Developers                              | A - H | [Certificate](https://www.udemy.com/certificate/UC-1efc2094-0f5d-4abc-9527-2b1eef05022d/)  |
-| WP-HTML: WordPress as Micro Apps in Any HTML Page            | A - H | [Certificate](https://www.udemy.com/certificate/UC-e146bebe-0efa-4008-b329-b1c4451a4bcb/)  |
-| Unpacking the Internet of Things (IoT)                       | A - H | [Certificate](https://www.udemy.com/certificate/UC-4ce0da56-c3ba-44e6-b1f9-81bb4a4bc750/)  |
-| Big Data and Hadoop Essentials                               | A - H | [Certificate](https://www.udemy.com/certificate/UC-a80c23e3-7d5d-4074-95a9-dc8dfe7861f7/)  |
-| Learn SEO For Wordpress Websites                             | A - H | [Certificate](https://www.udemy.com/certificate/UC-2a8b9157-8e23-4a76-97f5-c05ee4451960/)  |
-| Learn Advanced SEO From Scratch,Complete SEO Training Course | A - H | [Certificate](https://www.udemy.com/certificate/UC-d94e3d90-b5f8-44b1-9625-61adede5f628/)  |
-| Make WordPress Hosting Easy with Plesk on Amazon Lightsail   | A - H | [Certificate](https://www.udemy.com/certificate/UC-1bd28842-597b-4294-966b-19832f6f95e0/)  |
-| Make WordPress Hosting Easy with Plesk on Google Cloud       | A - H | [Certificate](https://www.udemy.com/certificate/UC-6e35ae83-653e-4dda-838a-2a1c7e2d006d/)  |
-| Make WordPress Hosting Easy with Plesk on Hetzner Cloud      | A - H | [Certificate](https://www.udemy.com/certificate/UC-22c6a79b-025f-47b9-80e0-1dcf1a3ad1d5/)  |
-| Make WordPress Hosting Easy with Plesk on Linode             | A - H | [Certificate](https://www.udemy.com/certificate/UC-e988a4c4-3946-417a-8f0b-a7931ce4175c/)  |
-| Make WordPress Hosting Easy with Plesk on DigitalOcean       | A - H | [Certificate](https://www.udemy.com/certificate/UC-440ebdad-3c5b-44c7-9b14-7dd78a6b07b9/)  |
-| Cloud Computing With Amazon Web Services                     | A - H | [Certificate](https://www.udemy.com/certificate/UC-cf10c670-39ff-4eff-8cfa-9e5e3813fec5/)  |
-| A Practical Introduction to Cloud Computing                  | A - H | [Certificate](https://www.udemy.com/certificate/UC-471321a4-8a13-4432-8dac-aa3ef32bf5f7/)  |
-| Introduction to Cloud Computing                              | A - H | [Certificate](https://www.udemy.com/certificate/UC-f716fd2e-c4ff-4b6e-85eb-618e14d42142/)  |
-| Free SSL Certificate: Comodo SSL for Free Forever (HTTPS)    | A - H | [Certificate](https://www.udemy.com/certificate/UC-781f85f3-989a-42c6-bc70-e3931220dcfd/)  |
-| Bootstrap 4 Quick Start: Code Modern Responsive Websites     | A - H | [Certificate](https://www.udemy.com/certificate/UC-e64e3cbb-312c-4d99-872d-6b9a74ce444b/)  |
-| Advanced Databases and SQL Querying                          | A - H | [Certificate](https://www.udemy.com/certificate/UC-77f18622-7d87-4af8-b0b9-7cc7845a345c/)  |
-| Introduction to Databases and SQL Querying                   | A - H | [No Certificate](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) |
-| Beginner PHP and MySQL Tutorial                              | A - H | [Certificate](https://www.udemy.com/certificate/UC-829ad07e-751d-45d8-9ffb-52df5cfedd39/)  |
-| PHP For WordPress Development                                | A - H | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/)  |
-| Practical PHP: Master the Basics and Code Dynamic Websites   | A - H | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/)  |
-| How To Create A Website using WordPress (Step by Step)       | A - H | [Certificate](https://www.udemy.com/certificate/UC-521e4527-b47e-42b4-bf5c-08413aa8e9b0/)  |
-| Build Your First Website in 1 Week with HTML5 and CSS3       | A - H | [Certificate](https://www.udemy.com/certificate/UC-24a81d94-1b17-458c-8ef5-996210172c22/)  |
-| Web Development By Doing: HTML / CSS From Scratch            | A - H | [Certificate](https://www.udemy.com/certificate/UC-7b31ff8a-c5d8-4a40-a423-7ca8f7eec1ff/)  |
-| HTML: Learning the Basics Intro to HTML Website Coding       | A - H | [Certificate](https://www.udemy.com/certificate/UC-9c8aaa01-9885-4042-b3df-03b3f0a378d8/)  |
-|  C++ Tutorial for Complete Beginners                         | A - H | [Certificate](https://www.udemy.com/certificate/UC-0face02e-069f-4384-9f30-62b204ad9e2c/)  |
-| Intro to Linux Shell Scripting (Free course)                 | A - H | [Certificate](https://www.udemy.com/certificate/UC-505cb753-9e73-4a36-9ca2-1ae44d9af6e0/)  |
-| Command Line Essentials: Git Bash for Windows                | A - H | [Certificate](https://www.udemy.com/certificate/UC-ed5764ce-c287-40f2-bf9e-fc07dc3c9ef0/)  |
-| Introduction to Networking for Complete Beginners            | A - H | [Certificate](https://www.udemy.com/certificate/UC-117e0b2a-c8a4-408c-8516-5333ec5b2ad3/)  |
+| Udemy Course                                                 | Tag         | Link (Artefact/Proof)                                                                      |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------------------------ |
+| Hack Your Future: Cyber Security Projects for Your Dream Job | D           | [Certificate](https://www.udemy.com/certificate/UC-714cf82c-d6d9-4183-b68a-2be5525d4f7a/)  |
+| React basic in just 1 hour [2022]                            | C           | [Certificate](https://www.udemy.com/certificate/UC-3d98484b-d263-4581-8354-7801d7829f73/)  |
+| Vue JS and Firebase: Build an iOS and Android Chat App       | C           | [Certificate](https://www.udemy.com/certificate/UC-003eb675-5bb8-431d-a113-82b01a5a1f06/)  |
+| Learn Angular 5 from Scratch                                 | C           | [Certificate](https://www.udemy.com/certificate/UC-9a942b36-c963-4e96-92a4-6dea0d38961b/)  |
+| Learn Angular 4 from Scratch                                 | C           | [Certificate](https://www.udemy.com/certificate/UC-1496212c-7275-4591-85c1-513288697787/)  |
+| Quickstart AngularJS 1.0 [First Version Of Angular]          | C           | [Certificate](https://www.udemy.com/certificate/UC-85cdb73b-e560-4df1-8143-6d3491e2868f/)  |
+| Code Your First Game: Arcade Classic in JavaScript on Canvas | C           | [No Certificate](https://www.udemy.com/course/code-your-first-game/)                       |
+| The Complete Full-Stack JavaScript Course                    | C           | [Certificate](https://www.udemy.com/certificate/UC-b059ae12-0c1c-4be1-a5d4-10cf59378d42/)  |
+| Learn to Program in Javascript: Beginner to Pro              | C           | [Certificate](https://www.udemy.com/certificate/UC-9913fec1-98fe-4433-abba-8ea3a06fb900/)  |
+| Javascript Essentials                                        | C           | [No Certificate](https://www.udemy.com/course/javascript-essentials/)                      |
+| Agile PM 101 - Learn the Truth About Agile versus Waterfall  | A, D        | [Certificate](https://www.udemy.com/certificate/UC-c887cf8e-d1b6-4ee3-9216-a36d9b522e84/)  |
+| Basics of Scrum, Agile and Project Delivery                  | A, D        | [Certificate](https://www.udemy.com/certificate/UC-638e2201-f4fa-4135-85c4-1d4904d6e2fb/)  |
+| A Professional APP Development Course for iPhone and Android | C           | [Certificate](https://www.udemy.com/certificate/UC-0b6e5ca8-6136-403e-a921-c5fc9ecd93c6/)  |
+| Become an Android Developer from Scratch                     | C           | [No Certificate](https://www.udemy.com/course/become-an-android-developer-from-scratch/)   |
+| Learn Android Application Development                        | C           | [Certificate](https://www.udemy.com/certificate/UC-ff336086-c0f2-4c37-a923-db058c8aac75/)  |
+| Eclipse IDE for Beginners: Increase Your Java Productivity   | C           | [Certificate](https://www.udemy.com/certificate/UC-45cd6aa2-34d5-4b37-a1d8-f1c8e080cd24/)  |
+| Java Multithreading                                          | C           | [Certificate](https://www.udemy.com/certificate/UC-ce2e8db2-934c-49cb-b723-b71cee4db3b2/)  |
+| Practice Java by Building Projects                           | C           | [Certificate](https://www.udemy.com/certificate/UC-e977f1f2-fee6-4ebe-b8e8-afe683bdcf52/)  |
+| Java Database Connection: JDBC and MySQL                     | C, D        | [Certificate](https://www.udemy.com/certificate/UC-362e5dec-e462-4f06-a204-afe9446eaa92/)  |
+| Java Programming Basics                                      | C           | [Certificate](https://www.udemy.com/certificate/UC-4cdc4fc1-d25a-4d15-935e-df646ceffba9/)  |
+| MongoDB Essentials - Understand the Basics of MongoDB        | C, D        | [Certificate](https://www.udemy.com/certificate/UC-13d8a7cb-4947-4e89-92c4-e6883b1c3a8a/)  |
+| Foundations of Front-End Web Development                     | C           | [Certificate](https://www.udemy.com/certificate/UC-9e189792-9887-4a58-9aba-d3ead2568de1/)  |
+| Git Started with GitHub                                      | B, D        | [Certificate](https://www.udemy.com/certificate/UC-9af85968-9652-4628-b0ea-aedd4347521c/)  |
+| Wordpress Security: How To Stop Hackers                      | D, H        | [Certificate](https://www.udemy.com/certificate/UC-9d4cff56-afdf-43be-aa19-cdd5057d4aae/)  |
+| Learn Complete Wordpress Security                            | D, H        | [Certificate](https://www.udemy.com/certificate/UC-50cf4280-31e8-4d5d-b450-36c62f2f8020/)  |
+| Complete WordPress Security Course: Go from Zero to Hero     | D, H        | [No Certificate](https://www.udemy.com/course/complete-wordpress-security-course/)         |
+| Fundamentals of Internet Security: Secure Your Environment   | D           | [Certificate](https://www.udemy.com/certificate/UC-b41a6a78-5877-4033-8797-70fbc22f2d34/)  |
+| Load Wordpress 400% Faster Without any Technical Skills      | H, D        | [Certificate](https://www.udemy.com/certificate/UC-1759f87f-ecc4-45e3-b54d-35e023ae6139/)  |
+| Django for WordPress Developers                              | C, H        | [Certificate](https://www.udemy.com/certificate/UC-1efc2094-0f5d-4abc-9527-2b1eef05022d/)  |
+| WP-HTML: WordPress as Micro Apps in Any HTML Page            | C, H        | [Certificate](https://www.udemy.com/certificate/UC-e146bebe-0efa-4008-b329-b1c4451a4bcb/)  |
+| Unpacking the Internet of Things (IoT)                       | A           | [Certificate](https://www.udemy.com/certificate/UC-4ce0da56-c3ba-44e6-b1f9-81bb4a4bc750/)  |
+| Big Data and Hadoop Essentials                               | D           | [Certificate](https://www.udemy.com/certificate/UC-a80c23e3-7d5d-4074-95a9-dc8dfe7861f7/)  |
+| Learn SEO For Wordpress Websites                             | F, H        | [Certificate](https://www.udemy.com/certificate/UC-2a8b9157-8e23-4a76-97f5-c05ee4451960/)  |
+| Learn Advanced SEO From Scratch,Complete SEO Training Course | F, H        | [Certificate](https://www.udemy.com/certificate/UC-d94e3d90-b5f8-44b1-9625-61adede5f628/)  |
+| Make WordPress Hosting Easy with Plesk on Amazon Lightsail   | D, H        | [Certificate](https://www.udemy.com/certificate/UC-1bd28842-597b-4294-966b-19832f6f95e0/)  |
+| Make WordPress Hosting Easy with Plesk on Google Cloud       | D, H        | [Certificate](https://www.udemy.com/certificate/UC-6e35ae83-653e-4dda-838a-2a1c7e2d006d/)  |
+| Make WordPress Hosting Easy with Plesk on Hetzner Cloud      | D, H        | [Certificate](https://www.udemy.com/certificate/UC-22c6a79b-025f-47b9-80e0-1dcf1a3ad1d5/)  |
+| Make WordPress Hosting Easy with Plesk on Linode             | D, H        | [Certificate](https://www.udemy.com/certificate/UC-e988a4c4-3946-417a-8f0b-a7931ce4175c/)  |
+| Make WordPress Hosting Easy with Plesk on DigitalOcean       | D, H        | [Certificate](https://www.udemy.com/certificate/UC-440ebdad-3c5b-44c7-9b14-7dd78a6b07b9/)  |
+| Cloud Computing With Amazon Web Services                     | D           | [Certificate](https://www.udemy.com/certificate/UC-cf10c670-39ff-4eff-8cfa-9e5e3813fec5/)  |
+| A Practical Introduction to Cloud Computing                  | D           | [Certificate](https://www.udemy.com/certificate/UC-471321a4-8a13-4432-8dac-aa3ef32bf5f7/)  |
+| Introduction to Cloud Computing                              | D           | [Certificate](https://www.udemy.com/certificate/UC-f716fd2e-c4ff-4b6e-85eb-618e14d42142/)  |
+| Free SSL Certificate: Comodo SSL for Free Forever (HTTPS)    | D, H        | [Certificate](https://www.udemy.com/certificate/UC-781f85f3-989a-42c6-bc70-e3931220dcfd/)  |
+| Bootstrap 4 Quick Start: Code Modern Responsive Websites     | C           | [Certificate](https://www.udemy.com/certificate/UC-e64e3cbb-312c-4d99-872d-6b9a74ce444b/)  |
+| Advanced Databases and SQL Querying                          | D           | [Certificate](https://www.udemy.com/certificate/UC-77f18622-7d87-4af8-b0b9-7cc7845a345c/)  |
+| Introduction to Databases and SQL Querying                   | D           | [No Certificate](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) |
+| Beginner PHP and MySQL Tutorial                              | C, H        | [Certificate](https://www.udemy.com/certificate/UC-829ad07e-751d-45d8-9ffb-52df5cfedd39/)  |
+| PHP For WordPress Development                                | C, H        | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/)  |
+| Practical PHP: Master the Basics and Code Dynamic Websites   | C, H        | [Certificate](https://www.udemy.com/certificate/UC-b723efde-e708-47db-92fe-913a75b18e86/)  |
+| How To Create A Website using WordPress (Step by Step)       | C, H        | [Certificate](https://www.udemy.com/certificate/UC-521e4527-b47e-42b4-bf5c-08413aa8e9b0/)  |
+| Build Your First Website in 1 Week with HTML5 and CSS3       | C           | [Certificate](https://www.udemy.com/certificate/UC-24a81d94-1b17-458c-8ef5-996210172c22/)  |
+| Web Development By Doing: HTML / CSS From Scratch            | C           | [Certificate](https://www.udemy.com/certificate/UC-7b31ff8a-c5d8-4a40-a423-7ca8f7eec1ff/)  |
+| HTML: Learning the Basics Intro to HTML Website Coding       | C           | [Certificate](https://www.udemy.com/certificate/UC-9c8aaa01-9885-4042-b3df-03b3f0a378d8/)  |
+|  C++ Tutorial for Complete Beginners                         | C           | [Certificate](https://www.udemy.com/certificate/UC-0face02e-069f-4384-9f30-62b204ad9e2c/)  |
+| Intro to Linux Shell Scripting (Free course)                 | D           | [Certificate](https://www.udemy.com/certificate/UC-505cb753-9e73-4a36-9ca2-1ae44d9af6e0/)  |
+| Command Line Essentials: Git Bash for Windows                | D           | [Certificate](https://www.udemy.com/certificate/UC-ed5764ce-c287-40f2-bf9e-fc07dc3c9ef0/)  |
+| Introduction to Networking for Complete Beginners            | D           | [Certificate](https://www.udemy.com/certificate/UC-117e0b2a-c8a4-408c-8516-5333ec5b2ad3/)  |
 
 ---
 
