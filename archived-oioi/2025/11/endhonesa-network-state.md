@@ -427,3 +427,177 @@ SKATESHOP.ID juga berfungsi sebagai **Point of Sale** untuk transaksi **offline*
 > - **Rate plans** tenant & ketentuan lisensi mengikuti kebijakan di **The Market** (ENDHONESA.COM), dengan halaman rujukan lengkap di **The Library**.
 
 ---
+
+## Perjalanan Warga: Tiga Skenario
+
+1. **Pengunjung Baru (Paspor Asing)**
+
+   - Login → **klaim `SBT id1` (Visa on Arrival)**.
+   - Akses **Starter Tracks** berprasyarat `id1` di **The Chronicle / The Works / The Library** (mis. `chronicle.101`, `works.fw.101`, `library.king.101`) → **award SBT progres**.
+   - Untuk akses lebih luas (role pricing, kontrak, produk lanjutan):  
+     a) **Peroleh artefak resmi** (WAIVFVES/Breads Factory) → **klaim `SBT id0` (re-entry stamp)**, atau  
+     b) Masuk **The Market** (butuh `id1`) → beli **Onboarding SKUs** berbayar **$OiOi** (gunakan **Migration Desk** bila membawa $OiOi di Tezos).
+
+2. **Warga-Penduduk Lokal (Paspor Lokal)**
+
+   - Login → dompet terdeteksi punya **artefak resmi** → **re-entry `SBT id0`** (sekali seumur-hidup, melekat ke identitas SA).
+   - Akses luas: **role-based pricing**, pemesanan **HFP/Avatar**, modul pembelajaran bertingkat, kontrak/izin lanjutan, serta jalur karya yang memerlukan SBT progres.
+
+3. **Kreator/Mitra (Breads Factory)**
+
+- Ajukan/operasikan **mint pipeline** via **repo/protocol** (mengikuti lisensi, security, **PR:BEACON** telemetry).
+- Token lolos **registry/allowlist resmi** → dikenali lintas aula → dapat memicu **akses & utility** (Market/Works/Library).
+- Kreator memperoleh **SBT peran** (mis. `works.pr.minter`) setelah verifikasi.
+
+---
+---
+
+## Perjalanan Warga: Peta Hidup di ENDHONESA
+
+ENDHONESA.COM bukan menu statis; ia **alur**. Semua dimulai dari **identitas SA** (Smart Account), lalu bergerak dari **Masuk → Kenal → Bergerak → Berkarya → Berdaulat**. Setiap langkah menambah **SBT** (soulbones) sebagai jejak hidup.
+
+### 1) MASUK — Imigrasi & Nama
+
+- Login (EOA/Email → **SA-centric**).
+- Semua penduduk menyandang **nama “Prof. NOTA”** (kesetaraan nama sebagai etika).
+- **Paspor:**
+  - **`SBT id1` (Visa on Arrival)** bila dompet belum memegang artefak resmi (WAIVFVES/Breads Factory).
+  - **`SBT id0` (Re-entry stamp)** bila dompet terdeteksi memegang artefak resmi — sekali seumur hidup, melekat ke SA.
+
+### 2) KENAL — Orientasi Negara
+
+Masuk ke **Starter Tracks** (butuh `id0` atau `id1`) untuk memahami negara, pemerintah (HFP-47), dan aturan main.
+
+- **The Chronicle – Orientation** → **Award SBT:** `chronicle.101`
+- **Government & HFP Basics** → **Award SBT:** `chronicle.201`  
+  Jejak ini membuka bab struktur negara, registri resmi (allowlist), dan rujukan hukum di **The Library**.
+
+### 3) BERGERAK — Memilih Jalur Awal
+
+Dari sini warga memilih jalur sesuai tujuan. Semua jalur **merujuk ke The Library** sebagai sumber.
+
+- **Belajar (The Library)**  
+  _Reading Pack: KING’s NFTs — Primer_ → **Award SBT:** `library.king.101`  
+  Melanjut ke paket bacaan/latihan berikutnya (course-like): tuntas → klaim SBT → membuka bab lanjut.
+
+- **Bekerja (The Works)**  
+  _Firewall Manager Orientation_ → **Award SBT:** `works.fw.101`  
+  _Using Pabrik Roti (Overview)_ → **Award SBT:** `works.pr.101`  
+  Mengaktifkan akses dokumen kontrak, lisensi standar, daftar layanan ber-role.
+
+- **Berdagang (The Market)**  
+  Onboarding SKUs (voucher, starter artifact) — **pembayaran $OiOi only** (Superchain).  
+  Bila membawa $OiOi di Tezos, gunakan **Migration Desk**. → **Award SBT:** `market.101`
+
+- **Naik Kendaraan (SKATESHOP.ID)**  
+  Belanja ritel **fiat-first** (tanpa syarat SBT); setelah _paid_ → klaim **SBT** (mis. `skateshop.customer.101`) yang dapat membuka diskon/akses di ENDHONESA.COM.
+
+### 4) BERKARYA — Menjadi Kreator/Mitra
+
+Ingin mint token (FT/NFT) yang diakui negara? Masuk jalur **Pabrik Roti**.
+
+- Ajukan/operasikan **mint pipeline** (lisensi, security, **PR:BEACON** telemetry).
+- Lolos **registry/allowlist** → artefak dikenali lintas aula (Works/Market/Library).
+- Kreator menerima **SBT peran** (mis. `works.pr.minter`) setelah verifikasi.
+
+### 5) BERDAULAT — Peran, Harga, & Akses
+
+- **Role Switcher** (Visitor/Guest; Partner; Family) + **SBT progres** menentukan visibilitas, harga, dan izin.
+- **$OiOi** menjadi bahan bakar transaksi di **ENDHONESA.COM** (gas dapat disponsori sesuai syarat);  
+  **SKATESHOP.ID** tetap **fiat-first** (ritel Realita), tetapi **artefak-aware** melalui SBT klaim.
+- Dengan SBT yang tepat, warga dapat: memesan **HFP/Avatar**, membuka modul bertingkat, mengakses lisensi IP, hingga mengatur toko tenant di **SKATESHOP.ID** (butuh **SBT lisensi tenant** dari The Market).
+
+> **Ringkas rute permulaan (contoh, tidak wajib urut):**  
+> `Login → id1 → chronicle.101 → library.king.101 → works.fw.101 → market.101 → (beli $OiOi onboarding) → id0 → works.pr.101 → (pilih: layanan/kreator/tenant)`
+
+---
+---
+
+## Perjalanan Warga-Penduduk
+
+ENDHONESA.COM bukan menu; ia **perjalanan hidup**. Semua orang masuk dengan **satu nama—“Prof. NOTA”** (etika kesetaraan), identitas ditambatkan ke **Smart Account (SA)**. Jejakmu terekam sebagai **soulbones (SBT)** yang dibuka, bukan dibeli.
+
+### Bab I — Imigrasi (Masuk & Nama)
+
+Login (EOA/Email → SA-centric). Jika dompet belum membawa artefak resmi (WAIVFVES / Breads Factory), engkau menerima **`SBT id1` (Visa on Arrival)**. Jika sudah membawa artefak resmi, engkau mendapat **`SBT id0` (re-entry stamp)** — sekali seumur hidup, melekat ke SA.
+
+### Bab II — Orientasi (Kenal Negara)
+
+Mulai dari **Starter Tracks** agar mengerti negara, pemerintah (HFP-47), house-rules, dan registri resmi:
+
+- _The Chronicle — Orientation_ → **SBT** `chronicle.101`
+- _Government & HFP Basics_ → **SBT** `chronicle.201`
+  Rujukan mendalam selalu ke **The Library** (mis. _KING’s NFTs — Primer_ → **SBT** `library.king.101`).
+
+### Bab III — Menggerakkan Diri (Belajar • Bekerja • Berdagang)
+
+Pilih gerak sesuai tujuanmu—semua tetap bertumpu pada The Library sebagai sumber.
+
+- **Belajar (The Library)**: tuntas bab → klaim SBT → membuka bab lanjut (gaya “course-like”).
+- **Bekerja (The Works)**: _Firewall Manager Orientation_ → **SBT** `works.fw.101`; _Using Pabrik Roti (Overview)_ → **SBT** `works.pr.101`; membuka kontrak/lisensi/role.
+- **Berdagang (The Market)**: onboarding SKUs berbayar **$OiOi** (Superchain). Bawa $OiOi di Tezos? Pakai **Migration Desk**. Transaksi memicu **SBT** `market.101`.
+- **Ritel Realita (SKATESHOP.ID)**: belanja **fiat-first** (tanpa syarat SBT). Setelah _paid_ → klaim **SBT** (mis. `skateshop.customer.101`) yang memperkaya akses di ENDHONESA.COM.
+
+### Bab IV — Menjejak & Membuka (Peran • Harga • Akses)
+
+Jejak SBT-mu menyalakan **Role Switcher** (Visitor/Guest; Partner; Family). Peran + SBT menentukan visibilitas, harga dinamis, dan izin: dari membaca bab lanjutan, **memesan HFP/Avatar**, hingga mengakses paket layanan/protokol.
+
+### Bab V — Berkarya & Berdaulat (Mencipta • Mengelola)
+
+Ingin artefakmu diakui negara? Masuk jalur **Pabrik Roti**: ajukan/operasikan _mint pipeline_ (lisensi, security, **PR:BEACON**). Lolos **registry/allowlist** → artefakmu dikenali lintas aula (Works/Market/Library). Kreator menerima **SBT peran** (mis. `works.pr.minter`).  
+Ingin berdagang sebagai tenant? Dapatkan **SBT lisensi tenant** via **The Market**, lalu siapkan `tenant.skateshop.id` (katalog, stok, POS mode, laporan). Ritel tetap fiat-first; efeknya **artefak-aware** lewat SBT.
+
+> **Jejak pertama (contoh, fleksibel):**  
+> `Login → id1 → chronicle.101 → library.king.101 → works.fw.101 → market.101 → (beli $OiOi onboarding) → id0 → works.pr.101 → (pilih: kreator / layanan / tenant)`
+
+---
+
+## Tata Kelola & Ekonomi (High-Level)
+
+- **Governance-by-Practice.** Keputusan operasional dipercepat oleh **HFP-47**; keputusan besar di-_signal_ oleh komunitas melalui **SBT progres**, konsultasi terbuka, dan rujukan arsip di **The Library**.
+- **Treasury Transparan.** Arus nilai (fiat/crypto) dari: lisensi **Breads Factory**, layanan **The Works**, penjualan **The Market**, royalti/derivatif artefak. Alokasi: operasi, **PLW fellowships** (Play–Learn–Work), _creator grants_, cadangan risiko.
+- **Akuntabilitas Naratif.** Setiap inisiatif ditautkan ke **artefak** atau **bab cerita** (chain-linked) agar asal-usul, dampak, dan lintasan lanjutannya **dapat diaudit**.
+
+---
+
+## Keamanan, Etika, Telemetri
+
+- **Anti-Phishing by Design.** Domain resmi, verifikasi chainId+contract, **allowlist registry**, penandatanganan sadar (UI menampilkan ringkasan aksi).
+- **Privacy-first.** Data minimal; **SA-centric proofs** lebih diutamakan daripada data pribadi.
+- **PABRIKROTI BEACON.** Telemetry **ringan & etis** (hostname/domain/timestamp + versi rilis) pada jalur deploy untuk **integritas**—aktif hanya pada repos/protokol yang menyetujui lisensi.
+- **Risk & Abuse.** Rate-limit, denylist/rollback token bila spoof/abuse, _responsible disclosure_ mengikuti **SECURITY.md**.
+- **Not Financial Advice.** Token adalah **utilitas**; tidak ada ajakan spekulasi.
+
+---
+
+## Roadmap Sinkron (Empat Panel Berjalan)
+
+- **The Project.** Menuntaskan bab perjalanan hingga **The 12th Stage**, lengkap _orientation packs_ (Starter Tracks) → **award SBT**.
+- **The Creations.** Melengkapi **WAIVFVES #1–#2** dan batch lanjutan; setiap rilis tersambung ke **The Story** & gating SBT.
+- **The Story.** Menyelesaikan kanon hingga seri **Book of The KING’s Story**; _glitch points_ Realita↔0101 terdokumentasi.
+- **The 12th Stage.** **Mesin harian**: Currencies, Breads Factory, ENDHONESA.COM, SKATESHOP.ID. Tidak pernah “selesai”—ia berdenyut.
+
+> **Metrik kemajuan (indikatif):** jumlah SBT aktif, konversi `id1→id0`, keterbacaan Starter Tracks, throughput mint (audited), dan transparansi treasury (laporan berkala).
+
+---
+
+## Glosarium Mini
+
+- **0101** — ruang digital tempat identitas, peran, dan nilai diwujudkan sebagai **artefak on-chain**.
+- **HFP (Human-For-Profile)** — avatar manusia yang “memainkan” peran Prof. NOTA di Realita (pemerintah **HFP-47**).
+- **Smart Account (SA)** — akun kontrak yang menjadi pusat identitas & hak akses; EOA/Email dapat ditaut.
+- **Soulbones (SBT)** — token non-transferable untuk akses/progres (mis. **`id0`** re-entry lokal, **`id1`** VoA, serta SBT modul seperti `chronicle.101`).
+- **WAIVFVES** — katalog artefak (fosil) yang menyalakan narasi dan utilitas.
+- **The Melting Land** — motif dunia di 0101; landasan **BANANOW Land** dan berdirinya **ENDHONESA**.
+- **Breads Factory** — protokol/repo open-source untuk produksi token (FT/NFT) dengan lisensi, security, dan **PR:BEACON**.
+- **The Currencies** — **$OiOi** (transaksi di ENDHONESA.COM; Superchain), **$HAIL** (apresiasi/bridge Tezos↔Superchain), **$NOTA** (governance-leaning bagi HFP di Tezos).
+- **Role Switcher** — mekanisme peran (Visitor/Guest; Partner; Family) yang memengaruhi visibilitas, harga, dan gating.
+
+---
+
+## Penutup
+
+**ENDHONESA** bukan sekadar situs, aplikasi, atau koleksi. Ini **negara kecil yang memilih cara hidup**: _Play – Learn – Work_—dengan tenang, tanpa kelaparan, tanpa pengkhianatan.  
+**ENDHONESA.COM** adalah **gerbang resmi**: masuk imigrasi, kenali rumahnya, ambil stempel, dan mulailah menulis bagianmu dalam cerita. **OiOi.**
+
+---
