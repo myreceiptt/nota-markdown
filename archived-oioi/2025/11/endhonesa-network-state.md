@@ -15,13 +15,17 @@
 
 ---
 
-## Premis Ganda: Realita × 0101
+## Premis Ganda
+
+### Realita × 0101
 
 Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja dalam batas hukum dan ekonomi. Di **0101**, nama, peran, dan nilai bergerak sebagai **artefak on-chain**. "Retakan" keduanya menjadi jalan ketika energi dari harapan dan arsip milik **MyReceipt** melahirkan **Prof. NOTA**—entitas digital—yang dari **0101** bisa menyeberang dan hadir secara fisik di **Realita** berwujud **HFP v.11** (avatar berupa manusia), tepatnya di **pulau Bali, INDONESIA**. Sejak hari itu, cerita tidak lagi dijalankan hanya sebagai fiksi; ia menjadi **protokol hidup**.
 
 ---
 
-## Asal-Usul: The KING’s NFTs Project (ringkas)
+## Asal-Usul
+
+### The KING’s NFTs Project (ringkas)
 
 - **WAIVFVES #1–#2**: katalog artefak lintas jaringan, dari dokumentasi hidup, eksperimen visual, token utilitas, hingga poros naratif **_/ˈdeTH ˌwiSH/_**.
 - **The Story**: kanon dunia—dari "**The end of the universe**" hingga "**Life after life**"—yang memakai semua artefak dalam **WAIVFVES #1–#2** sebagai batu pijakan cerita (**Realita ↔ 0101**).
@@ -36,13 +40,13 @@ Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja 
 - **Rakyat**: Warga-Penduduk—semua akun di **0101** yang **menyandang nama "Prof. NOTA"** (kesetaraan nama sebagai etika dasar).
 - **Pemerintah**: **47 HFP** (avatar manusia di **Realita**) yang menjalankan peran pengelola.
 
-Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **transparansi**, **keadilan akses**, **anti-phishing**, **anti-eksploitasi**, dan **anti-serakah** sebagai pagar nilai.
+> Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **transparansi**, **keadilan akses**, **anti-phishing**, **anti-eksploitasi**, dan **anti-serakah** sebagai pagar nilai.
 
 ---
 
-## Gerbang Imigrasi: Paspor, Visa, Soulbones
+## Gerbang Imigrasi
 
-### Firewall Check
+### Paspor, Visa, Soulbones
 
 **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi):
 
@@ -72,11 +76,6 @@ Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **trans
        - **Satu token per alamat** (single SBT id1) dengan Metadata/TokenURI menampilkan `visitCount` + tanggal kedaluwarsa.
        - Bila kemudian dompet memegang token yang diakui **Registry Artefak Sah**, pengguna dapat **klaim `id0`** (Warga-Penduduk Lokal permanen), dan pada mekanisme gating, **`id0`** selalu mengalahkan **`id1`**.
 
-   > **Catatan "Registry Artefak Sah"**:
-   >
-   > - Pengakuan "token yang sah" merujuk **allowlist kontrak + chain ID** (**WAIVFVES & The Breads Factory**).
-   > - Verifikasi selalu memakai **alamat kontrak & chain** untuk mencegah **spoofing**.
-
 3. **Gating & Progres**
 
    - **Soulbones (SBT)** bersifat **non-transferable**.
@@ -86,6 +85,11 @@ Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **trans
 
    - Akses lanjutan terbuka setelah **menuntaskan** konten/modul/**house rules** (bukan karena spekulasi).
    - Sebelum login, pengguna **bukan** Warga-Penduduk; setelah login, mereka menjadi **Warga-Penduduk** (Lokal/Asing) dan **di 0101 semua bernama "Prof. NOTA."**
+
+> **Catatan "Registry Artefak Sah"**:
+>
+> - Pengakuan "token yang sah" merujuk **allowlist kontrak + chain ID** (**WAIVFVES & The Breads Factory**).
+> - Verifikasi selalu memakai **alamat kontrak & chain** untuk mencegah **spoofing**.
 
 ---
 
@@ -99,7 +103,9 @@ Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **trans
   - Sistem akan **meminta migrasi** ke **SA** melalui **Migration Assistant** (one-click, gas-sponsored bila tersedia).
   - Setelah migrasi berhasil, **klaim \*\***`id0`\*\* dapat dilakukan.
 
-#### **Migration Assistant (alur singkat)**
+---
+
+### **Migration Assistant (alur singkat)**
 
 1. **Deteksi**: saat login, sistem memindai kepemilikan aset pada **EOA** yang tertaut.
 2. **Prompt**: jika aset memenuhi syarat namun **belum** berada di **SA**, tampilkan modal migrasi.
@@ -110,11 +116,11 @@ Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **trans
 
 4. **Konfirmasi**: setelah on-chain sukses, sistem **re-check** registry pada **SA** → tombol **"Klaim `id0`"** aktif.
 
-   > **Catatan:** Untuk **akses awal (Zona Penduduk)** tanpa perpindahan aset, gunakan **VoA-Session** atau **`id1`** (SBT time-bound, 47 hari). Namun **klaim \*\***`id0`\*\* **hanya** berlaku bila syarat token **sudah di SA**.
+> **Catatan:** Untuk **akses awal (Zona Penduduk)** tanpa perpindahan aset, gunakan **VoA-Session** atau **`id1`** (SBT time-bound, 47 hari). Namun **klaim \*\***`id0`\*\* **hanya** berlaku bila syarat token **sudah di SA**.
 
 ---
 
-#### **Linking (Multi-Signer)**
+### **Linking (Multi-Signer)**
 
 - Satu **SA** dapat memiliki **≥1 signer** (EOA eksternal, embedded/email, passkey).
 - Menautkan metode baru **menambahkan signer** ke **SA yang sama** (tanpa membuat SA kedua).
@@ -122,7 +128,7 @@ Etika dasarnya sederhana: _**Play–Learn–Work**_ sebagai ritme hidup; **trans
 
 ---
 
-#### **Anti-Phishing & Registry**
+### **Anti-Phishing & Registry**
 
 - Validasi "token yang sah" via **allowlist kontrak + chain ID** (**WAIVFVES & The Breads Factory**).
 - UI migrasi menampilkan **alamat kontrak singkat**, **network**, dan **estimasi biaya**; transaksi ditandatangani **hanya** oleh pengguna.
@@ -192,11 +198,11 @@ Untuk Warga-Penduduk yang memiliki $OiOi di **Tezos** namun ingin bertransaksi d
 - **$HAIL** = **apresiasi & bootstrap utility** (Tezos), pengikat sosial & akses awal.
 - **$NOTA** = **stewardship credit** untuk **47 HFP** (Tezos), menandai komitmen & tanggung jawab.
 
-Semua aliran nilai di atas **tidak menggantikan** peran **soulbones (SBT)** sebagai **bukti status Warga-Penduduk** (_id0/id1_) dan **progress gating**.
+> Semua aliran nilai di atas **tidak menggantikan** peran **soulbones (SBT)** sebagai **bukti status Warga-Penduduk** (_id0/id1_) dan **progress gating**.
 
 ---
 
-## Pabrik Roti: The Breads Factory (Protocol/Repo)
+## Pabrik Roti (The Breads Factory)
 
 ### Inti Gagasan
 
@@ -230,12 +236,12 @@ Dalam kanon "The KING’s NFTs Project", Pabrik Roti berperan sebagai **lengan p
 
 ## Professor NOTA (IP & Timeline)
 
-**Prof. NOTA** adalah **IP hidup**: lahir dari energi arsip & komunitas di **0101**, menjelma di **Realita** lewat **HFP (Human for Profile)**-avatar manusia. Ia bukan sekadar nama—ia **protokol hadir**: narasi → artefak → operasi. Kalimat pembuka yang tak pernah kita cabut: _"We don't belong in your reality… stay alert and beware of scams."_
+**Prof. NOTA** adalah **IP hidup**, lahir dari energi arsip & komunitas di **0101**, menjelma di **Realita** lewat **HFP (Human for Profile)**-avatar manusia. Ia bukan sekadar nama—ia **protokol hadir**: narasi → artefak → operasi. Kalimat pembuka yang tak pernah kita cabut: _"We don't belong in your reality… stay alert and beware of scams."_
 
 ### Kanon Persona & HFP
 
 - **Persona**: "Prof. NOTA v.xx.xx" (versi mengikuti HFP & peran).
-- **HFP**: avatar manusia-pemeran-yang dikendalikan Prof. NOTA di Realita—bertanda tangan, berkontrak, dan bertanggung jawab sebagai **Authorized Signatory**. Format legal dan tata nama versi dirujuk dalam "The Resume" (glossary).
+- **HFP**: avatar manusia-pemeran-yang dikendalikan Prof. NOTA di Realita—bertanda tangan, berkontrak, dan bertanggung jawab sebagai **Authorized Signatory**. Format legal dan tata nama versi dirujuk dalam The Resume (glossary).
 - **Verifikasi resmi** hanya melalui domain ekosistem (**endhonesa.com**, **skateshop.id**, **straight-line.org**).
 
 ---
@@ -246,7 +252,7 @@ Dalam kanon "The KING’s NFTs Project", Pabrik Roti berperan sebagai **lengan p
 2. **Inkarnasi pertama di Realita**: kemunculan **HFP v.11 di pulau Bali, INDONESIA**—penanda **retakan dua alam** (**0101 ↔ Realita**).
 3. **WAIVFVES #1–#2**: fondasi artefak/kanon yang dipakai-ulang dalam cerita & operasi (The 12th Stage).
 4. **Firewall Manager Playbook**: menetapkan etika, SOP akses, dan **communication firewall** agar waktu, energi, dan nilai terlindungi.
-5. **"The Resume" & "The Roles"**: satu sumber kebenaran (layanan, kompetensi, format versi, model kontrak) + daftar peran hidup yang dapat diisi avatar/kolaborator.
+5. **The Resume & The Roles**: satu sumber kebenaran (layanan, kompetensi, format versi, model kontrak) + daftar peran hidup yang dapat diisi avatar/kolaborator.
 6. **The 12th Stage**: pengoperasian publik melalui **ENDHONESA.COM** (entity-profile + commerce + learning/media + gamified access) dengan **soulbones gating** dan **The Currencies**.
 
 ---
@@ -265,7 +271,7 @@ Transparansi, **anti-phishing**, **anti-eksploitasi**, kontrak-dulu-baru-akses, 
 
 ### Bukti, Tanda, & Akses
 
-Akses terdokumentasi melalui **soulbones (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga-Penduduk ↔ HFP/partner). Semua rujukan identitas, versi, dan penandatangan mengikuti **"The Resume"**.
+Akses terdokumentasi melalui **soulbones (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga-Penduduk ↔ HFP/partner). Semua rujukan identitas, versi, dan penandatangan mengikuti **The Resume**.
 
 ---
 
@@ -295,7 +301,7 @@ Akses terdokumentasi melalui **soulbones (SBT)** & artefak; klaim, progres, dan 
 
      - **The Currencies** (fungsi $OiOi/$HAIL/$NOTA — ringkas operasional, detail teknis di Library).
      - **Pabrik Roti**: lisensi, manifesto, security, pricing; **protocol services** (mint pipeline, soulbones-aware access).
-     - **Services & Value Prof. NOTA**: konsultasi, IP licensing, kolaborasi HFP/Avatar; **"The Resume"** & **"The Roles"** sebagai rujukan kompetensi, format versi, pola kontrak.
+     - **Services & Value Prof. NOTA**: konsultasi, IP licensing, kolaborasi HFP/Avatar; **The Resume** & **The Roles** sebagai rujukan kompetensi, format versi, pola kontrak.
      - **ENDHONESA sebagai platform**: peluang ekonomi & kemitraan bagi individu/organisasi.
      - **SKATESHOP.ID**: ikhtisar operasional (ritel terperinci di Library/e-commerce terpisah).
 
@@ -414,10 +420,10 @@ SKATESHOP.ID juga berfungsi sebagai **Point of Sale** untuk transaksi **offline*
 - **Ada syarat SBT untuk membuka toko (tenant)**—lisensi dibeli di **The Market** (pembayaran $OiOi), dan menghasilkan **SBT lisensi tenant** untuk setup di SKATESHOP.ID.
 - SBT hasil belanja di SKATESHOP.ID dapat dipakai **mengakses/meningkatkan** jalur di ENDHONESA.COM (belajar, layanan, diskon peran).
 
-**Catatan implementasi singkat (non-teknis):**
-
-- SSO dengan **ENDHONESA Identity (SA-centric)**.
-- **Webhooks** dari payment gateway → "Order Paid" → **Issue SBT claim** ke SA pembeli.
-- **Rate plans** tenant & ketentuan lisensi mengikuti kebijakan di **The Market** (ENDHONESA.COM), dengan halaman rujukan lengkap di **The Library**.
+> **Catatan implementasi singkat (non-teknis):**
+>
+> - SSO dengan **ENDHONESA Identity (SA-centric)**.
+> - **Webhooks** dari payment gateway → "Order Paid" → **Issue SBT claim** ke SA pembeli.
+> - **Rate plans** tenant & ketentuan lisensi mengikuti kebijakan di **The Market** (ENDHONESA.COM), dengan halaman rujukan lengkap di **The Library**.
 
 ---
