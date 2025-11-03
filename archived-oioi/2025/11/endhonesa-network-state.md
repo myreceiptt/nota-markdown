@@ -1,7 +1,7 @@
 # Network-State of ENDHONESA — ENDHONESA.COM
 
 **v0.1-draft • 1 November 2025 (Asia/Jakarta)**  
-(_Entitas legal akan disebut sebagai Prof. NOTA Inc. — PT Suaka Dunia Raja; detail legal penuh akan tersedia pada Terms & Conditions dan Privacy Policy di situs._)
+(_Entitas legal akan disebut sebagai Prof. NOTA Inc. — PT Suaka Dunia Raja — Sanctuary of The KING's World; detail legal penuh akan tersedia pada Terms & Conditions dan Privacy Policy di situs._)
 
 ---
 
@@ -9,9 +9,17 @@
 
 **ENDHONESA** adalah **Network-State**—satu-satunya negara yang berdiri setelah fenomena **The Melting Land** di **Alam Semesta 0101**—yang sejak berdiri menjadi tepian dua alam semesta: **Realita** dan **0101**.
 
-**ENDHONESA** dilahirkan dari energi kreatif arsip digital **The KING’s NFTs Project**—sebuah lintasan artefak ("**The Creations**"—**WAIVFVES #1–#2**) yang menyulam narasi ("**The Story**") dan berhasil menginisiasi segala pengoperasian secara ekonomi dalam **The 12th Stage**: **_The Currencies_**, **_The Breads Factory_**, **_Professor NOTA_**, **_ENDHONESA_** (portal: **ENDHONESA.COM**), dan **_SKATESHOP.ID_**.
+**ENDHONESA** dilahirkan dari energi kreatif dan arsip digital **The KING’s NFTs Project**—sebuah lintasan artefak (**The Creations**—**WAIVFVES #1–#2**) yang menyulam narasi (**The Story**) dan berhasil menginisiasi segala pengoperasian ekonomi dalam **The 12th Stage**: **_The Currencies_**, **_The Breads Factory_**, **_Professor NOTA_**, **_ENDHONESA_** (portal: **ENDHONESA.COM**), dan **_SKATESHOP.ID_**.
 
-**ENDHONESA.COM** adalah sebuah web/app/dapp—yang memadukan **entity profile + commerce + learning/media + gamified access** berbasis **soulbones (SBT)**—tempat untuk mengakses segala sesuatu yang dioperasikan secara ekonomi dalam **The 12th Stage**, mulai dari asal-usulnya, sumbernya, riwayatnya, prosesnya, beserta segala turunannya, sehingga siapa pun dapat **bermain, belajar, dan bekerja** dengan tenang, tanpa kelaparan, tanpa pengkhianatan.
+**ENDHONESA.COM** adalah web/app/dapp—memadukan **entity profile + commerce + learning/media + gamified access** berbasis **soulbones (SBT)**—tempat mengakses segala sesuatu yang dioperasikan dalam **The 12th Stage**, dari asal-usul sampai turunannya, agar siapa pun dapat **bermain, belajar, dan bekerja** dengan tenang, tanpa kelaparan, tanpa pengkhianatan.
+
+**Prof. NOTA Inc.** adalah bentuk pemerintahan negara **ENDHONESA**—*corporate governance*. "Inc." adalah singkatan dari *incorporated*, menandakan bahwa **Prof. NOTA Inc.** adalah sebuah korporasi (kumpulan manusia) yang diberi kewenangan bertindak sebagai satu entitas—dikenal sebagai pseudonim **Prof. NOTA**—dan diakui demikian dalam desentralisasi **Alam Semesta 0101**; pengelolaan dijalankan oleh **47 HFP (Human-For-Profile)**.
+
+Operasi ekonomi di **ENDHONESA** berjalan setertib dan sebaik mungkin—selaras dengan pendapatan yang dihasilkan serta nilai yang dibentuk oleh para **Warga-Penduduk**—di bawah hukum fisika, matematika, dan kode yang ditegakkan seratus persen setiap saat, sehingga siapa pun dapat mengetahui, *a priori*, bagaimana penegakan itu akan diterapkan.
+
+Secara konkret, dengan seperangkat aturan yang dideploy sebagai kode di blockchain, pengelolaan (stewardship) secara berkelanjutan mendorong beragam pemasukan dan membentuk nilai untuk dikembalikan kepada **Warga-Penduduk** yang sejak hari pertama mendukung dan menaruh harapan. Sebagian dari pendapatan dan nilai tersebut mengalir ke **Perbendaharaan (Treasury)** sebagai laba; dari **Perbendaharaan** inilah **Warga-Penduduk** dapat mengklaim bagi hasil—bukti bahwa **The 12th Stage** terus berjalan.
+
+Namun, masih banyak yang harus dibangun dan dituntaskan. Semuanya menuntut kerja keras, kerja cerdas, serta—tentu saja—energi dan waktu dari para **Warga-Penduduk** yang setia.
 
 ---
 
@@ -19,7 +27,7 @@
 
 ### Realita × 0101
 
-Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja dalam batas hukum dan ekonomi. Di **0101**, nama, peran, dan nilai bergerak sebagai **artefak on-chain**. "Retakan" keduanya menjadi jalan ketika energi dari harapan dan arsip milik **MyReceipt** melahirkan **Prof. NOTA**—entitas digital—yang dari **0101** bisa menyeberang dan hadir secara fisik di **Realita** berwujud **HFP v.11** (avatar berupa manusia), tepatnya di **pulau Bali, INDONESIA**. Sejak hari itu, cerita tidak lagi dijalankan hanya sebagai fiksi; ia menjadi **protokol hidup**.
+Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja dalam batas hukum dan ekonomi. Di **0101**, nama, peran, dan nilai bergerak sebagai **artefak on-chain**. "Retakan" keduanya menjadi jalan ketika energi dari harapan dan arsip milik **MyReceipt** melahirkan **Prof. NOTA**—entitas digital—yang dari **0101** bisa menyeberang dan hadir secara fisik di **Realita** berwujud **HFP v.10** (avatar berupa manusia), tepatnya di **pulau Bali, INDONESIA**. Sejak hari itu, cerita tidak lagi dijalankan hanya sebagai fiksi; ia menjadi **protokol hidup**.
 
 ---
 
@@ -97,7 +105,7 @@ Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja 
 
 - **Identitas utama Warga-Penduduk** adalah **Smart Account (SA)** dengan alamat stabil (counterfactual).
 - **SBT (`id0`, `id1`) dan utilitas** diterbitkan & diverifikasi di **alamat SA**.
-- **Aset syarat warga lokal** (mis. artefak **WAIVFVES #1/#2** atau token yang **terdaftar di The Breads Factory**) **wajib berada di SA** saat klaim **`id0`**.
+- **Aset syarat Warga-Penduduk Lokal** (mis. artefak **WAIVFVES #1/#2** atau token yang **terdaftar di The Breads Factory**) **wajib berada di SA** saat klaim **`id0`**.
 - Jika aset berada di **EOA eksternal** atau **EOA embedded**:
 
   - Sistem akan **meminta migrasi** ke **SA** melalui **Migration Assistant** (one-click, gas-sponsored bila tersedia).
@@ -108,7 +116,7 @@ Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja 
 ### **Migration Assistant (alur singkat)**
 
 1. **Deteksi**: saat login, sistem memindai kepemilikan aset pada **EOA** yang tertaut.
-2. **Prompt**: jika aset memenuhi syarat namun **belum** berada di **SA**, tampilkan modal migrasi.
+2. **Prompt**: jika aset memenuhi syarat namun **belum** berada di **SA**, ditampilkan modal migrasi.
 3. **Opsi Migrasi**:
 
    - **Transfer langsung** (`safeTransferFrom` ERC-721/1155) → **SA**.
@@ -249,7 +257,7 @@ Dalam kanon "The KING’s NFTs Project", Pabrik Roti berperan sebagai **lengan p
 ### Garis Waktu (ringkas & kanonik)
 
 1. **MyReceipt → NOTA → Professor NOTA → Prof. NOTA**: evolusi persona berbasis arsip & artefak.
-2. **Inkarnasi pertama di Realita**: kemunculan **HFP v.11 di pulau Bali, INDONESIA**—penanda **retakan dua alam** (**0101 ↔ Realita**).
+2. **Inkarnasi pertama di Realita**: kemunculan **HFP v.10 di pulau Bali, INDONESIA**—penanda **retakan dua alam** (**0101 ↔ Realita**).
 3. **WAIVFVES #1–#2**: fondasi artefak/kanon yang dipakai-ulang dalam cerita & operasi (The 12th Stage).
 4. **Firewall Manager Playbook**: menetapkan etika, SOP akses, dan **communication firewall** agar waktu, energi, dan nilai terlindungi.
 5. **The Resume & The Roles**: satu sumber kebenaran (layanan, kompetensi, format versi, model kontrak) + daftar peran hidup yang dapat diisi avatar/kolaborator.
@@ -426,30 +434,6 @@ SKATESHOP.ID juga berfungsi sebagai **Point of Sale** untuk transaksi **offline*
 > - **Webhooks** dari payment gateway → "Order Paid" → **Issue SBT claim** ke SA pembeli.
 > - **Rate plans** tenant & ketentuan lisensi mengikuti kebijakan di **The Market** (ENDHONESA.COM), dengan halaman rujukan lengkap di **The Library**.
 
----
-
-## Perjalanan Warga: Tiga Skenario
-
-1. **Pengunjung Baru (Paspor Asing)**
-
-   - Login → **klaim `SBT id1` (Visa on Arrival)**.
-   - Akses **Starter Tracks** berprasyarat `id1` di **The Chronicle / The Works / The Library** (mis. `chronicle.101`, `works.fw.101`, `library.king.101`) → **award SBT progres**.
-   - Untuk akses lebih luas (role pricing, kontrak, produk lanjutan):  
-     a) **Peroleh artefak resmi** (WAIVFVES/Breads Factory) → **klaim `SBT id0` (re-entry stamp)**, atau  
-     b) Masuk **The Market** (butuh `id1`) → beli **Onboarding SKUs** berbayar **$OiOi** (gunakan **Migration Desk** bila membawa $OiOi di Tezos).
-
-2. **Warga-Penduduk Lokal (Paspor Lokal)**
-
-   - Login → dompet terdeteksi punya **artefak resmi** → **re-entry `SBT id0`** (sekali seumur-hidup, melekat ke identitas SA).
-   - Akses luas: **role-based pricing**, pemesanan **HFP/Avatar**, modul pembelajaran bertingkat, kontrak/izin lanjutan, serta jalur karya yang memerlukan SBT progres.
-
-3. **Kreator/Mitra (Breads Factory)**
-
-- Ajukan/operasikan **mint pipeline** via **repo/protocol** (mengikuti lisensi, security, **PR:BEACON** telemetry).
-- Token lolos **registry/allowlist resmi** → dikenali lintas aula → dapat memicu **akses & utility** (Market/Works/Library).
-- Kreator memperoleh **SBT peran** (mis. `works.pr.minter`) setelah verifikasi.
-
----
 ---
 
 ## Perjalanan Warga: Peta Hidup di ENDHONESA
