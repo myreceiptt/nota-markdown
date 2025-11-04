@@ -1,7 +1,10 @@
 # Network-State of ENDHONESA — ENDHONESA.COM
 
 **v0.1-draft • 1 November 2025 (Asia/Jakarta)**  
-(_Entitas legal akan disebut sebagai Prof. NOTA Inc. — PT Suaka Dunia Raja — Sanctuary of The KING's World; detail legal penuh akan tersedia pada Terms & Conditions dan Privacy Policy di situs._)
+
+> - _Network-State adalah komunitas berdaulat digital-first yang mengorganisasi identitas, ekonomi, dan tata kelola lintas-wilayah melalui infrastruktur internet dan blockchain._
+> - _Entitas legal akan disebut sebagai Prof. NOTA Inc. — PT Suaka Dunia Raja — Sanctuary of The KING's World._
+> - _Detail legal selengkapnya akan tersedia pada Terms & Conditions dan Privacy Policy di situs._
 
 ---
 
@@ -11,15 +14,15 @@
 
 **ENDHONESA** dilahirkan dari energi kreatif dan arsip digital **The KING’s NFTs Project**—sebuah lintasan artefak (**The Creations**—**WAIVFVES #1–#2**) yang menyulam narasi (**The Story**) dan berhasil menginisiasi segala pengoperasian ekonomi dalam **The 12th Stage**: **_The Currencies_**, **_The Breads Factory_**, **_Professor NOTA_**, **_ENDHONESA_** (portal: **ENDHONESA.COM**), dan **_SKATESHOP.ID_**.
 
-**ENDHONESA.COM** adalah web/app/dapp—memadukan **entity profile + commerce + learning/media + gamified access** berbasis **soulbones (SBT)**—tempat mengakses segala sesuatu yang dioperasikan dalam **The 12th Stage**, dari asal-usul sampai turunannya, agar siapa pun dapat **bermain, belajar, dan bekerja** dengan tenang, tanpa kelaparan, tanpa pengkhianatan.
-
 **Prof. NOTA Inc.** adalah bentuk pemerintahan negara **ENDHONESA**—*corporate governance*. "Inc." adalah singkatan dari *incorporated*, menandakan bahwa **Prof. NOTA Inc.** adalah sebuah korporasi (kumpulan manusia) yang diberi kewenangan bertindak sebagai satu entitas—dikenal sebagai pseudonim **Prof. NOTA**—dan diakui demikian dalam desentralisasi **Alam Semesta 0101**; pengelolaan dijalankan oleh **47 HFP (Human-For-Profile)**.
 
-Operasi ekonomi di **ENDHONESA** berjalan setertib dan sebaik mungkin—selaras dengan pendapatan yang dihasilkan serta nilai yang dibentuk oleh para **Warga-Penduduk**—di bawah hukum fisika, matematika, dan kode yang ditegakkan seratus persen setiap saat, sehingga siapa pun dapat mengetahui, *a priori*, bagaimana penegakan itu akan diterapkan.
+**ENDHONESA.COM** adalah web/app/dapp—memadukan **entity profile + commerce + learning/media + gamified access** berbasis **soulbones (SBT)**—tempat mengakses segala sesuatu yang dioperasikan dalam **The 12th Stage**, dari asal-usul sampai turunannya, agar siapa pun dapat **bermain, belajar, dan bekerja** dengan tenang, tanpa kelaparan, tanpa pengkhianatan.
 
-Secara konkret, dengan seperangkat aturan yang dideploy sebagai kode di blockchain, pengelolaan (stewardship) secara berkelanjutan mendorong beragam pemasukan dan membentuk nilai untuk dikembalikan kepada **Warga-Penduduk** yang sejak hari pertama mendukung dan menaruh harapan. Sebagian dari pendapatan dan nilai tersebut mengalir ke **Perbendaharaan (Treasury)** sebagai laba; dari **Perbendaharaan** inilah **Warga-Penduduk** dapat mengklaim bagi hasil—bukti bahwa **The 12th Stage** terus berjalan.
+Di **ENDHONESA** segala operasi ekonomi dijalankan setertib dan sebaik mungkin—selaras dengan pendapatan yang dihasilkan serta nilai yang dibentuk oleh para **Warga-Penduduk**—di bawah hukum fisika, matematika, dan kode yang ditegakkan seratus persen setiap saat, sehingga siapa pun dapat mengetahui, *a priori*, bagaimana penegakan itu akan diterapkan.
 
-Namun, masih banyak yang harus dibangun dan dituntaskan. Semuanya menuntut kerja keras, kerja cerdas, serta—tentu saja—energi dan waktu dari para **Warga-Penduduk** yang setia.
+Secara konkret, dengan seperangkat aturan yang dikerahkan dalam wujud kode di blockchain, pengelolaan secara berkelanjutan mendorong beragam pendapatan dan membentuk nilai untuk dikembalikan kepada **Warga-Penduduk** yang sejak hari pertama mendukung dan menaruh harapan. Sebagian dari pendapatan dan nilai tersebut mengalir ke **Perbendaharaan** sebagai laba; dari **Perbendaharaan** inilah **Warga-Penduduk** dapat mengklaim bagi hasil—bukti bahwa **The 12th Stage** terus berjalan.
+
+Namun, masih banyak yang harus dibangun dan dituntaskan. Semuanya menuntut jerih payah dan kecerdasan, serta—tentu saja—energi dan waktu dari semua **Warga-Penduduk**.
 
 ---
 
@@ -28,6 +31,8 @@ Namun, masih banyak yang harus dibangun dan dituntaskan. Semuanya menuntut kerja
 ### Realita × 0101
 
 Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja dalam batas hukum dan ekonomi. Di **0101**, nama, peran, dan nilai bergerak sebagai **artefak on-chain**. "Retakan" keduanya menjadi jalan ketika energi dari harapan dan arsip milik **MyReceipt** melahirkan **Prof. NOTA**—entitas digital—yang dari **0101** bisa menyeberang dan hadir secara fisik di **Realita** berwujud **HFP v.10** (avatar berupa manusia), tepatnya di **pulau Bali, INDONESIA**. Sejak hari itu, cerita tidak lagi dijalankan hanya sebagai fiksi; ia menjadi **protokol hidup**.
+
+> *Kami lahir di **Alam Semesta 0101**. Kami eksis di ranah digital Internet.*
 
 ---
 
@@ -44,7 +49,7 @@ Di **Realita**, organisasi—perusahaan—dan makhluk hidup—manusia—bekerja 
 ## Identitas Kenegaraan
 
 - **Negara**: **ENDHONESA** (Network-State).
-- **Pemerintahan**: **Prof. NOTA Inc.** (_PT Suaka Dunia Raja_).
+- **Pemerintahan**: **Prof. NOTA Inc.** (_PT Suaka Dunia Raja — Sanctuary of The KING's World_).
 - **Rakyat**: Warga-Penduduk—semua akun di **0101** yang **menyandang nama "Prof. NOTA"** (kesetaraan nama sebagai etika dasar).
 - **Pemerintah**: **47 HFP** (avatar manusia di **Realita**) yang menjalankan peran pengelola.
 
