@@ -84,7 +84,7 @@ Di **Realita**, organisasi—perusahaan—dan manusia bekerja dalam batas hukum 
 - **Hak**: akses layanan portal, mengajukan/menanggapi proposal governance, menerima **disbursement** yang diotorisasi governance.
 - **Kewajiban**: mematuhi **Etika Dasar**, **T&C**, **Privacy Policy**, dan regulasi yurisdiksi masing‑masing; anti‑penyalahgunaan identitas.
 
-> _**Catatan Chain-of-Record SBT:** Seluruh SBT (termasuk `id0`/`id1`) **diterbitkan pada Base Mainnet**; verifikasi status SBT pada portal merujuk ke **Base Mainnet** sebagai sumber kebenaran._
+> _**Catatan Chain-of-Record SBT**: seluruh SBT (termasuk `id0`/`id1`) **diterbitkan pada Base Mainnet**; verifikasi status SBT pada portal merujuk ke **Base Mainnet** sebagai sumber kebenaran._
 
 ---
 
@@ -109,7 +109,7 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
 - Satu **SA** dapat memiliki **≥ 1 signer** (EOA eksternal, embedded/email, passkey).
 - Pengguna dapat menautkan metode tambahan (mis. menambahkan **Web3 Wallet** bila login awal via **Email**) — **menambahkan signer baru** ke **SA yang sama** (tanpa membuat **SA kedua**).
 
-> _**Catatan SBT:** Penambahan signer **tidak** mengubah lokasi SBT; **mint & verifikasi SBT tetap di Base Mainnet**._
+> _**Catatan SBT**: penambahan signer **tidak** mengubah lokasi SBT; **mint & verifikasi SBT tetap di Base Mainnet**._
 
 ---
 
@@ -121,7 +121,7 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
    • **ERC‑20 ($OiOi)**: `transfer`/`transferFrom` atau **Permit2** → **SA**.
 4. **Konfirmasi**: setelah migrasi berhasil (on‑chain sukses), sistem **re‑check** saldo **$OiOi** pada **SA** → tombol **"Klaim `id0`"** aktif, **klaim **`id0`** dapat dilakukan**.
 
-> _**Catatan:** **Migration Assistant** hanya memfasilitasi **$OiOi (ERC‑20)** → **SA**, **aset/artefak lain** (mis. Registry Artefak Sah) **tidak** dideteksi/dimigrasi._
+> _**Catatan**: **Migration Assistant** hanya memfasilitasi **$OiOi (ERC‑20)** → **SA**, **aset/artefak lain** (mis. **Registry Artefak Sah**) **tidak** dideteksi/dimigrasi._
 
 ---
 
@@ -144,7 +144,7 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
     • **Satu SBT `id1` per‑SA pada Chain‑of‑Record (Base Mainnet)**; Metadata/TokenURI menampilkan `visitCount` + tanggal kedaluwarsa.
     • Kalau kemudian SA memegang **≥ 1 $OiOi** pada jaringan yang didukung, pengguna dapat **klaim `id0`** (Lokal permanen); pada mekanisme gating, **`id0`** selalu mengalahkan **`id1`**.
 
-> _**Posisi Kebijakan:** `id0` adalah **kredensial permanent pengunjung**. `id1` adalah **kredensial default pengunjung** (terbarukan 47 menit). **VoA‑Session** dipakai untuk **akses sangat sementara** (tamu/demo) tanpa komitmen on‑chain._
+> _**Posisi Kebijakan**: `id0` adalah **kredensial permanent pengunjung**. `id1` adalah **kredensial default pengunjung** (terbarukan 47 menit). **VoA‑Session** dipakai untuk **akses sangat sementara** (tamu/demo) tanpa komitmen on‑chain._
 
 ---
 
@@ -158,7 +158,7 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
 - Akses lanjutan terbuka setelah **menuntaskan** konten/modul/**house rules** (bukan karena spekulasi).
 - Sebelum login, pengguna **bukan** Warga‑Penduduk; setelah login, mereka menjadi **Warga‑Penduduk** (Lokal/Asing) dan **di 0101 semua bernama "Prof. NOTA."**
 
-> - _**Chain‑of‑Record SBT:** `id0/id1` **selalu** diterbitkan & diverifikasi pada **Base Mainnet**._
+> - _**Chain‑of‑Record SBT**: `id0/id1` **selalu** diterbitkan & diverifikasi pada **Base Mainnet**._
 > - _Kepemilikan **$OiOi** untuk syarat `id0` dan boleh berada di **jaringan mana pun yang didukung** (lihat Currencies Registry), namun **SBT‑nya** tetap di **Base Mainnet**._
 > - _Di masa depan, **mirror SBT** di jaringan lain dapat dipertimbangkan tanpa mengubah **sumber kebenaran di Base Mainnet**._
 
@@ -172,7 +172,7 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
   • Tanpa **≥ 1 $OiOi** pada jaringan yang didukung → **tidak bisa** klaim **`id0`**; gunakan **`id1`/VoA**.
   • Setelah memperoleh **$OiOi** dan memindahkannya ke **SA**, lakukan **klaim `id0`** di portal.
 
-> _**Catatan Registry Artefak Sah:** Pengakuan "token yang sah" merujuk pada **allowlist kontrak + chainId**; verifikasi selalu memakai **alamat kontrak & chain** untuk mencegah **spoofing**._
+> _**Catatan Registry Artefak Sah**: pengakuan "token yang sah" merujuk pada **chainId + allowlist kontrak**; verifikasi selalu memakai **alamat kontrak & chain** untuk mencegah **spoofing**._
 
 ---
 
@@ -180,127 +180,111 @@ Login **ENDHONESA.COM** selalu dimulai dengan **Firewall Check** (imigrasi).
 
 ### 7.1. Prinsip Jaringan
 
-### Currencies Registry (per rilis ini)
-
-Jaringan yang didukung (alamat kontrak akan diisi kemudian):
-
-- **OP Mainnet**: `CONTRACT_ADDRESS_HERE`
-
-- **Base Mainnet**: `CONTRACT_ADDRESS_HERE`
-
-- **Base Sepolia (Testnet)**: `CONTRACT_ADDRESS_HERE`
-
-- **Shape Network**: `CONTRACT_ADDRESS_HERE`
-
-- **Monad Testnet**: `CONTRACT_ADDRESS_HERE`
-
-- **dan seterusnya** seiring kebutuhan & dukungan Warga-Penduduk.
-
-- **Alat tukar portal**: **$OiOi only**.
-
-- **Per-chain cap**: setiap jaringan memiliki **maks. suplai 47.474.747 $OiOi**.
-
-- **Gas policy**: biaya gas mengikuti native token chain; **dapat disponsori** bila syarat terpenuhi.
-
+- **Testnet/Mainnet Parity**: testnet didukung dengan perlakuan operasional setara (tanpa nilai uang riil) untuk onboarding & uji alur.
+- **Per-Chain Cap**: setiap jaringan memiliki **maks. suplai 47.474.747 $OiOi**.
+- **Gas Policy**: biaya gas mengikuti native token chain; **dapat disponsori** bila syarat terpenuhi.
 - **Deprecation**: hanya pasangan **chainId + address** yang tercantum di **Currencies Registry** yang diakui; kontrak lama/tidak terdaftar = **tidak berlaku** untuk transaksi, gating, atau utilitas.
-
-- **Testnet/Mainnet parity**: testnet didukung dengan perlakuan operasional setara (tanpa nilai uang riil) untuk onboarding & uji alur.
-
-**Currencies Registry (per rilis ini):**
-_(alamat akan diisi kemudian oleh Prof. NOTA; gunakan explorer link resmi)_
-
-- **OP Mainnet** — `0x______________`
-- **Base Mainnet** — `0x______________`
-- **Base Sepolia (Testnet)** — `0x______________`
-- **Shape Network** — `0x______________`
-- **Monad Testnet** — `0x______________`
-- _(akan bertambah sesuai kebutuhan & dukungan Warga‑Penduduk)_
 
 ---
 
-### The Currency (operasional portal)
+### 7.2. Currencies Registry (per rilis ini)
 
-$OiOi — Official Unit of Exchange (on‑site)
+| Chain (jaringan) + ID      | Alamat                                        |
+| -------------------------- | --------------------------------------------- |
+| **OP Mainnet**             | `CONTRACT_ADDRESS_HERE`                       |
+| **Base Mainnet**           | `CONTRACT_ADDRESS_HERE`                       |
+| **Base Sepolia (Testnet)** | `CONTRACT_ADDRESS_HERE`                       |
+| **Shape Network**          | `CONTRACT_ADDRESS_HERE`                       |
+| **Monad Testnet**          | `CONTRACT_ADDRESS_HERE`                       |
+| **dan seterusnya**         | `seiring kebutuhan & dukungan Warga-Penduduk` |
+
+> _Akan bertambah sesuai kebutuhan & dukungan Warga‑Penduduk dan alamat kontrak akan diisi kemudian oleh Prof. NOTA v.11.11_
+
+---
+
+### 7.3. The Currency (operasional portal)
+
+**$OiOi** — Official Unit of Exchange (on‑site)
 
 - **Peran**: _participation fuel_ dan **satu‑satunya** alat tukar di **ENDHONESA.COM** (pembelian produk/jasa, tiket aktivitas, fitur premium).
 - **Gating**: **tidak** memberikan status Warga‑Penduduk (bukan pengganti **SBT `id0/id1`**).
-- **Status kontrak lama**: kontrak Polygon terdahulu **DEPRECATED** (tidak diakui Registry).
-- **Perolehan $OiOi**: **klaim/atau beli via _Discord Server Prof. NOTA_** sesuai kebijakan kuratorial (**lihat: “Desk Klaim/Distribusi $OiOi via Discord”** di _Gerbang Imigrasi_).
-- **Catatan**: uraian bersifat **konseptual/iteratif**; angka/akurasi teknis mengikuti dokumen tokenomics & Registry. **Bukan ajakan investasi**.
+- **Status Kontrak Lama**: kontrak di Polygon terdahulu **DEPRECATED** (tidak diakui **Currencies Registry**).
+- **Perolehan $OiOi**: **klaim atau beli via _Discord Server Prof. NOTA_** sesuai kebijakan kuratorial (**lihat: “Desk Klaim/Distribusi $OiOi via Discord”** di _Gerbang Imigrasi_).
+- **Catatan**: uraian bersifat **konseptual/iteratif**; angka/akurasi teknis mengikuti dokumen tokenomics & **Currencies Registry**; dan **bukan ajakan investasi**.
 
 ---
 
-### Registry Artefak Sah (otoritatif)
+### 7.4. Registry Artefak Sah (otoritatif)
 
-Daftar artefak **FT/NFT/attestation** yang **diakui** — menjadi syarat kuratorial untuk **klaim $OiOi via Discord**.
+Daftar artefak **FT/NFT/attestation** yang **diakui** — menjadi syarat kuratorial untuk **klaim $OiOi via Discord Server Prof. NOTA**.
 
-| **Nama**      | **Jenis**              | **Address**        | **Chain**                                  | **Status**           |
+| **Nama (ID)** | **Jenis**              | **Address**        | **Chain**                                  | **Status**           |
 | ------------- | ---------------------- | ------------------ | ------------------------------------------ | -------------------- |
 | _(isi nanti)_ | _(FT/NFT/attestation)_ | `0x______________` | _(mis. Base / OP / Shape / Monad / Tezos)_ | _(aktif/deprecated)_ |
 
-> **Anti‑spoof**: verifikasi selalu memakai **alamat kontrak & chainId**.
+> _**Anti‑Spoof**: verifikasi selalu memakai **chainId + alamat kontrak**._
 
 ---
 
-### Ringkas Peran (untuk dibaca cepat)
+### 7.5. Ringkasan Peran (untuk dibaca cepat)
 
 - **$OiOi** = **alat tukar resmi** di ENDHONESA.COM (_participation fuel_, gas bisa disponsori).
 - **SBT `id0`/`id1`** = **status & progres** Warga‑Penduduk (**mint & verifikasi di Base Mainnet**).
-- **Registry Artefak Sah** = **daftar artefak yang diakui** sebagai dasar kuratorial **klaim $OiOi via Discord**.
-- **Currencies Registry** = **daftar jaringan & address $OiOi** yang diakui portal.
+- **Currencies Registry** = **daftar jaringan & address $OiOi** yang diakui ENDHONESA.
+- **Registry Artefak Sah** = **daftar artefak yang diakui** sebagai dasar kuratorial **klaim $OiOi via Discord Server Prof. NOTA**.
 
 ---
 
-## Pabrik Roti (The Breads Factory)
+## 8. Pabrik Roti (The Breads Factory)
 
-### Inti Gagasan
+### 8.1. Inti Gagasan
 
 Pabrik Roti adalah **protokol + repo rujukan** untuk memproduksi token (fungible & non‑fungible) secara **terbuka namun beretika**, siap multi‑rantai, dan terhubung dengan mekanisme **gating berbasis Soulbound Tokens (SBT)**. Ia memayungi alur pencetakan artefak (**WAIVFVES**), tiket akses, lisensi peran HFP, _learning rewards_, hingga utilitas ritel.
 
 ---
 
-### Apa yang Disajikan
+### 8.2. Apa yang Disajikan
 
-Implementasi referensi mencakup modul front‑end/dApp yang ditata per _protocol_—**Landing**, **Login**, **Digital ID**, **Wallet**, **Token**, dan seterusnya—dengan _checklist_ rilis yang transparan. Modul **Login Protocol** berstatus **Released** dan menggunakan **Thirdweb Connect** (Google/Apple/Email/Phone/Passkey/Connect a Wallet), selaras dengan strategi Smart‑Account‑first untuk **ENDHONESA.COM**.
+Implementasi referensi mencakup modul front‑end/dApp yang ditata per _protocol_—**Landing**, **Login**, **Digital ID**, **Wallet**, **Token**, dan seterusnya—dengan _checklist_ rilis yang transparan. Modul **Released** secara bertahap, mis. modul **Login Protocol**, yang menggunakan **Thirdweb Connect** (Google/Apple/Email/Phone/Passkey/Connect a Wallet), yang selaras dengan strategi Smart‑Account‑first untuk **ENDHONESA.COM**.
 
 ---
 
-### Teknologi & Kesiapan
+### 8.3. Teknologi & Kesiapan
 
 Repo menekankan **template kontrak open‑source** (audit **terpisah/terjadwal**; lihat **SECURITY.md**), integrasi **Thirdweb SDK v5** + **Next.js + TypeScript + Tailwind** (stack referensi), dan _pipeline_ yang kompatibel dengan **wallet/SBT‑gated content**.
 
-**Default chain SBT:** **Base Mainnet** (template kontrak/konfigurasi mengarah ke Base; mirror masa depan tanpa _double-mint_).
+> _**Chain‑of‑Record SBT**: **Base Mainnet** (template kontrak/konfigurasi mengarah ke Base Mainnet; mirror di masa depan di jaringan lain tanpa **double-mint**)._
 
 ---
 
-### Lisensi & Penggunaan
+### 8.4. Lisensi & Penggunaan
 
-Pabrik Roti menggunakan **Custom Limited License**: penggunaan komersial **memerlukan izin**, sedangkan inisiatif **kultural/edukasi/berpihak perempuan & anak** mendapat **pembebasan biaya** sesuai kebijakan repo. Detail harga/ketentuan komersial tersedia di **PRICING.md**. **Security policy** tersedia terpisah.
+Pabrik Roti menggunakan **Custom Limited License**; penggunaan komersial **memerlukan izin**, sedangkan inisiatif **kultural/edukasi/berpihak perempuan/anak** mendapat **pembebasan biaya** sesuai kebijakan repo. Detail harga/ketentuan komersial tersedia di **PRICING.md**. **Security policy** tersedia terpisah.
 
-> **Ketentuan**: **PRICING.md** dan **SECURITY.md** merupakan bagian dari kebijakan lisensi; setiap perubahan dicatat pada _changelog_ Pabrik Roti. **Pabrik Roti adalah referensi implementasi; pengguna bertanggung jawab atas audit/penyesuaian operasional sebelum produksi.**
+> _**Ketentuan**: **PRICING.md** dan **SECURITY.md** merupakan bagian dari kebijakan lisensi; setiap perubahan dicatat pada **changelog** Pabrik Roti. **Pabrik Roti adalah referensi implementasi; pengguna bertanggung jawab atas audit/penyesuaian operasional sebelum produksi.**_
 
 ---
 
-### Kesesuaian Naratif
+### 8.5. Kesesuaian Naratif
 
 Dalam kanon _The KING’s NFTs Project_, Pabrik Roti berperan sebagai **lengan produksi**: artefak **WAIVFVES #1–#2** lahir lewat _mint pipelines_ yang kemudian **dipakai & dikembangkan** di _The Story_, dan dioperasionalkan terus‑menerus di **The 12th Stage**. Dengan demikian, **alur nilai** (token → artefak → akses → aktivitas) menyatu dengan **SBT‑gating** yang mendefinisikan status Warga‑Penduduk.
 
 ---
 
-## Professor NOTA (IP & Timeline)
+## 9. Professor NOTA (IP & timeline)
 
-**Prof. NOTA** adalah **IP hidup**, lahir dari energi arsip & komunitas di **0101**, menjelma di **Realita** lewat **HFP (Human for Profile)**—avatar manusia. Ia bukan sekadar nama—ia **protokol hadir**: narasi → artefak → operasi. Kalimat pembuka yang tak pernah kita cabut: _"We don't belong in your reality… stay alert and beware of scams."_
+**Prof. NOTA** adalah **IP hidup**, lahir dari energi dan arsip serta diinkubasi oleh komunitas di **0101**, menjelma di **Realita** dalam wujud **HFP (Human for Profile)**—avatar berupa manusia. **Prof. NOTA** bukan sekadar nama—ia **protokol hadir**: narasi → artefak → operasi. Kalimat pembuka yang tak pernah dicabut: _"We don't belong in your reality... stay alert and beware of scams."_
 
-### Kanon Persona & HFP
+### 9.1. Kanon Persona & HFP
 
 - **Persona**: "Prof. NOTA v.xx.xx" (versi mengikuti HFP & peran).
-- **HFP**: avatar manusia‑pemeran yang dikendalikan Prof. NOTA di Realita—bertanda tangan, berkontrak, dan bertanggung jawab sebagai **Authorized Signatory**. Format legal dan tata nama versi dirujuk dalam **The Resume** (glossary).
-- **Verifikasi resmi** hanya melalui domain ekosistem (**endhonesa.com**, **skateshop.id**, **straight-line.org**).
-- **Authorized Signatory List** mengikuti **The Resume** dan diselaraskan dengan **Governance**.
+- **HFP**: avatar berupa manusia‑pemeran yang dikendalikan Prof. NOTA di Realita—bertanda tangan, berkontrak, dan bertanggung jawab sebagai **Authorized Signatory**; format legal dan tata nama versi dirujuk dalam **The Resume** (glossary).
+- **Verifikasi Resmi**: segala bentuk verifikasi hanya melalui domain ekosistem (**endhonesa.com**, **skateshop.id**, **straight-line.org**).
+- **Authorized Signatory List**: daftarnya mengikuti **The Resume** dan diselaraskan dengan **Governance**.
 
 ---
 
-### Garis Waktu (ringkas & kanonik)
+### 9.2. Garis Waktu (ringkas & kanonik)
 
 1. **MyReceipt → NOTA → Professor NOTA → Prof. NOTA**: evolusi persona berbasis arsip & artefak.
 2. **Inkarnasi pertama di Realita**: kemunculan **HFP v.10 di pulau Bali, INDONESIA**—penanda **retakan dua alam** (**0101 ↔ Realita**).
@@ -311,109 +295,119 @@ Dalam kanon _The KING’s NFTs Project_, Pabrik Roti berperan sebagai **lengan p
 
 ---
 
-### Peran Publik & Layanan
+### 9.3. Peran Publik & Layanan
 
-Prof. NOTA beroperasi sebagai **katalis**: merangkai visi → sistem yang bisa diuji → karya yang bisa didistribusikan. Spektrum nilai/layanan (strategi, IP/story, Web3 prototyping, arsitektur bisnis, hingga legacy ops ENDHONESA & SKATESHOP.ID) dirumuskan dalam **Playbook**.
+**Prof. NOTA** beroperasi sebagai **katalis**: merangkai visi → sistem yang bisa diuji → karya yang bisa didistribusikan. Spektrum nilai/layanan (strategi, IP/story, Web3 prototyping, arsitektur bisnis, hingga legacy ops ENDHONESA & SKATESHOP.ID) dirumuskan dalam **Playbook**.
 
 ---
 
-### Etika & Guardrails
+### 9.4. Etika & Guardrails
 
 Transparansi, **anti‑phishing**, **anti‑eksploitasi**, kontrak‑dulu‑baru‑akses, dan mekanisme **rollback/denylist** berjalan di bawah **Firewall Manager**—agar hanya yang **benar, adil, dan bernilai** yang lolos.
 
 ---
 
-### Bukti, Tanda, & Akses
+### 9.5. Bukti, Tanda, & Akses
 
-Akses terdokumentasi melalui **Soulbound Tokens (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga‑Penduduk ↔ HFP/partner). Semua rujukan identitas, versi, dan penandatangan mengikuti **The Resume**.
+Akses terdokumentasi melalui **Soulbound Tokens (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga‑Penduduk ↔ HFP/mitra). Semua rujukan identitas, versi, dan penandatangan mengikuti **The Resume**.
 
 ---
 
-## ENDHONESA.COM
+## 10. ENDHONESA.COM
 
-### Arsitektur Pengalaman
+### 10.1. Arsitektur Pengalaman
 
 **Satu domain, empat aula.** Semua ditenun dari **The Library** sebagai _source of truth_ yang "memberi makan" tiga aula lain: **The Chronicle**, **The Works**, dan **The Market**. Alur baku: **Login → Klaim `id0`/`id1` → Buka Starter Tracks → Tuntas → Klaim SBT lanjutan → Unlock konten berikutnya**. Akun bersifat **SA‑centric**; transaksi **$OiOi only** pada **jaringan yang didukung** (lihat **Currencies Registry**); gas **dapat disponsori** bila memenuhi syarat.
 
-1. **The Chronicle — Negara, Pemerintahan, Pemerintah (5W+1H)**
+#### 10.1.1. The Chronicle — Negara, Pemerintahan, Pemerintah (5W+1H)
 
-   Portal kanonik tentang **ENDHONESA (Network‑State)**, bentuk **pemerintahan Prof. NOTA Inc.**, dan **Pemerintah (47 HFP)** — lengkap house‑rules, etika, dan narasi resmi yang selalu merujuk ke **The Library**.
+Portal kanonik tentang **ENDHONESA (Network‑State)**, bentuk **pemerintahan Prof. NOTA Inc.**, dan **Pemerintah (47 HFP)** — lengkap house‑rules, etika, dan narasi resmi yang selalu merujuk ke **The Library**.
 
-   - **Isi inti**: Country page; Government (legal stance); Government (47 HFP & versi); **Pabrik Roti** (lengan produksi), **ENDHONESA.COM** (portal), **SKATESHOP.ID** (jembatan Realita).
-   - **Starter Tracks (butuh `id0`/`id1`)**
+- **Isi Inti**: Country page; Government (legal stance); Government (47 HFP & versi); **Pabrik Roti** (lengan produksi), **ENDHONESA.COM** (portal), **SKATESHOP.ID** (jembatan Realita).
+- **Starter Tracks (butuh `id0`/`id1`)**
 
-     - _Orientation: Welcome to ENDHONESA_ → **Award SBT** **(mint on Base Mainnet, to SA)**
-     - _Government & HFP Basics_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+  • _Orientation: Welcome to ENDHONESA_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+  • _Government & HFP Basics_ → **Award SBT** **(mint on Base Mainnet, to SA)**
 
-   - **Tujuan**: menamatkan orientasi untuk membuka bab struktur negara, registri resmi, dan rujukan hukum.
-
-2. **The Works — Services & Protocols (ekonomi operasional)**
-
-   Aula layanan & _protocol services_ di bawah **Firewall Manager**: cara bekerja yang adil, terukur, dan etis.
-
-   - **Isi inti**
-
-     - **The Currency** ($OiOi — alat tukar portal). **Artefak utilitas & stewardship** tercantum di **Registry Artefak Sah**.
-     - **Pabrik Roti**: lisensi, manifesto, security, pricing; **protocol services** (mint pipeline, **SBT‑aware** access).
-     - **Services & Value Prof. NOTA**: konsultasi, IP licensing, kolaborasi HFP/Avatar; **The Resume** & **The Roles** sebagai rujukan kompetensi, format versi, pola kontrak.
-     - **ENDHONESA sebagai platform**: peluang ekonomi & kemitraan bagi individu/organisasi.
-     - **SKATESHOP.ID**: ikhtisar operasional (ritel terperinci di Library/e‑commerce terpisah).
-
-   - **Starter Tracks (butuh `id0`/`id1`)**
-
-     - _Firewall Manager Orientation_ → **Award SBT** **(mint on Base Mainnet, to SA)**
-     - _Using Pabrik Roti Protocols (Overview)_ → **Award SBT** **(mint on Base Mainnet, to SA)**
-
-   - **Hasil**: membuka dokumen kontrak, lisensi standar, dan daftar layanan ber‑role.
-
-3. **The Market — Goods (fisik & digital) + Fixed Services**
-
-   Toko terkurasi untuk **produk fisik/digital** (brand Prof. NOTA, sub‑brand, mitra) dan **fixed services** (mis. jaket anti AI, topi pikiran, kaos penggoda, konsultasi 1 jam, lisensi IP standar, paket Pabrik Roti).
-
-   - **Pembayaran**: **$OiOi only** pada jaringan yang didukung (lihat **Currencies Registry**).
-   - **Gating harga & akses**: **Role Switcher + SBT** menentukan visibilitas, harga dinamis, atau diskon partisipasi.
-   - **Onboarding SKUs (butuh `id0`/`id1`)**: _Trial Pass_, _Starter Artifact_, atau _Voucher $OiOi_ → **Award SBT** **(mint on Base Mainnet, to SA)**
-     _Penegasan:_ setiap SKU onboarding **secara otomatis menerbitkan SBT progres** ke **SA** di **Base Mainnet**—berfungsi sebagai **bukti tuntas** dan **kunci progres** lintas aula.
-   - **Artefak**: item digital dapat menjadi **artefak** yang memicu jalur belajar/cerita berikutnya (dengan Award SBT spesifik).
-
-4. **The Library — Arsip & Sumber (GitHub/GitBook‑sync)**
-
-   Gudang **Markdown**: _The KING’s NFTs Project_, SOP, draft, materi kuliah, riset, rilis Pabrik Roti, _working docs_ mitra, dan lain‑lain. Inilah pusat rujukan; tiga aula lain selalu menaut kembali ke sini.
-
-   - **Starter Tracks (butuh `id0`/`id1`)**
-
-     - _Reading Pack: KING’s NFTs — Primer_ → **Award SBT** **(mint on Base Mainnet, to SA)**
-
-   - **Course‑like**: tuntas bab → klaim SBT → membuka bab lanjutan di aula lain.
+- **Tujuan**: menamatkan orientasi untuk membuka bab struktur negara, registri resmi, dan rujukan hukum.
 
 ---
 
-### Pola Navigasi & Progres
+#### 10.1.2. The Works — Services & Protocols (ekonomi operasional)
 
-- **Komponen UI**: Role Switcher · SBT Badge · Prereq/Award chips · Progress Meter · Claim Modal · Unlock Banner · Buy with $OiOi.
-- **State machine**: _Locked_ (butuh `id0`/`id1`) → _Readable_ → _Completed_ (verifikasi tuntas) → _Claim SBT_ (on‑chain ke SA).
-- **Transparansi**: setiap halaman menampilkan **Prereq SBT**, **Award SBT**, serta **chainId+address** untuk token terkait (tautan explorer/registry). **Catatan SBT:** semua **Award/Prereq SBT** diverifikasi di **Base Mainnet** (tautan explorer ke Base).
+Aula layanan & _protocol services_ di bawah **Firewall Manager**: cara bekerja yang adil, terukur, dan etis.
+
+- **Isi inti**
+
+  • **The Currency**: ($OiOi — alat tukar portal); **artefak utilitas & stewardship** tercantum di **Registry Artefak Sah**.
+  • **Pabrik Roti (The Breads Factory)**: lisensi, manifesto, security, pricing; **protocol services** (mint pipeline, **SBT‑aware** access).
+  • **Services & Value Prof. NOTA**: konsultasi, IP licensing, kolaborasi HFP/Avatar; **The Resume** & **The Roles** sebagai rujukan kompetensi, format versi, pola kontrak.
+  • **ENDHONESA as Platform**: peluang ekonomi dan kemitraan bagi individu atau organisasi.
+  • **SKATESHOP.ID**: ikhtisar operasional (ritel terperinci di Library/e‑commerce terpisah).
+
+- **Starter Tracks (butuh `id0`/`id1`)**
+
+  • _Firewall Manager Orientation_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+  • _Using Pabrik Roti Protocols (Overview)_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+
+- **Hasil**: membuka dokumen kontrak, lisensi standar, dan daftar layanan ber‑role.
 
 ---
 
-### Kebijakan Transaksi & Akun
+#### 10.1.3. The Market — Goods (fisik & digital) + Fixed Services
+
+Perdagangan terkurasi untuk **produk fisik/digital** (brand Prof. NOTA, sub‑brand, mitra) dan **fixed services** (mis. jaket anti AI, topi pikiran, kaos penggoda, konsultasi 1 jam, lisensi IP standar, paket Pabrik Roti).
+
+- **Pembayaran**: **$OiOi only** pada jaringan yang didukung (lihat **Currencies Registry**).
+- **Gating**: **Role Switcher + SBT** menentukan visibilitas (harga & akses), harga dinamis, atau diskon partisipasi.
+- **Onboarding SKUs (butuh `id0`/`id1`)**
+
+  • _Trial Pass_, _Starter Artifact_, atau _Voucher $OiOi_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+  • _Penegasan:_ setiap SKU onboarding **secara otomatis menerbitkan SBT progres** ke **SA** di **Base Mainnet**—berfungsi sebagai **bukti tuntas** dan **kunci progres** lintas aula.
+
+- **Artefak**: item digital dapat menjadi **artefak** yang memicu jalur belajar/cerita berikutnya (dengan Award SBT spesifik).
+
+---
+
+#### 10.1.4. The Library — Arsip & Sumber (GitHub/GitBook‑sync)
+
+Gudang **Markdown**: _The KING’s NFTs Project_, SOP, draft, materi edukasi, riset, rilis Pabrik Roti, _working docs_ mitra, dan lain‑lain. Inilah pusat rujukan; tiga aula lain selalu menaut kembali ke sini.
+
+- **Starter Tracks (butuh `id0`/`id1`)**
+
+  • _Reading Pack: KING’s NFTs — Primer_ → **Award SBT** **(mint on Base Mainnet, to SA)**
+
+- **Course‑Like**: tuntas bab → klaim SBT → membuka bab lanjutan di aula lain.
+
+---
+
+### 10.2. Pola Navigasi & Progres
+
+- **Komponen UI**: Role Switcher · SBT Badge · Prereq/Award Chips · Progress Meter · Claim Modal · Unlock Banner · Buy with $OiOi.
+- **State Machine**: _Locked_ (butuh `id0`/`id1`) → _Readable_ → _Completed_ (verifikasi tuntas) → _Claim SBT_ (on‑chain ke SA).
+- **Transparansi**: setiap halaman menampilkan **Prereq SBT**, **Award SBT**, serta **chainId + address** untuk token terkait (tautan explorer/registry).
+- **Catatan SBT**: semua **Prereq/Award SBT** diverifikasi di **Base Mainnet** (tautan explorer ke Base Mainnet).
+
+---
+
+### 10.3. Kebijakan Transaksi & Akun
 
 - **SA‑centric**: EOA dapat ditautkan; aset syarat Warga‑Penduduk sebaiknya dipindahkan ke SA.
 - **Checkout**: **$OiOi only**; gas dapat disponsori jika syarat terpenuhi.
 
 ---
 
-### Prinsip Pengalaman
+### 10.4. Prinsip Pengalaman
 
-- **Narrative‑first**: setiap aula membalut materi sebagai pengalaman "masuk negara".
-- **Measurable learning**: **SBT = "sertifikat hidup"** yang membuka jalur ekonomi/kolaborasi.
-- **Ethical ops**: kontrak‑dulu‑baru‑akses; anti‑phishing/eksploitasi; rollback/denylist jika perlu.
+- **Narrative‑First**: setiap aula membalut materi sebagai pengalaman "masuk negara".
+- **Measurable Learning**: **SBT = "sertifikat hidup"** yang membuka jalur ekonomi/kolaborasi.
+- **Ethical Ops**: kontrak‑dulu‑baru‑akses; anti‑phishing/eksploitasi; rollback/denylist jika perlu.
 
 ---
 
-## SKATESHOP.ID
+## 11. SKATESHOP.ID
 
-### Kendaraan di The Melting Land
+### 11.1. Kendaraan di The Melting Land
 
 Di _The Story_, **skateboard** adalah kendaraan terbaik menembus The Melting Land (0101). Di Realita, ia menjelma sebagai **SKATESHOP.ID**: rantai **produksi–distribusi–ritel** yang menjaga jembatan _karya ↔ tubuh_ dan _cerita ↔ jalanan_. Setiap item ritel dapat memuat **artefak/utility** yang dikenali oleh ENDHONESA (klaim SBT, akses konten, atau jalur cerita).
 
@@ -474,7 +468,7 @@ SKATESHOP.ID juga berfungsi sebagai **Point of Sale** untuk transaksi **offline*
 - **Ada syarat SBT untuk membuka toko (tenant)**—lisensi dibeli di **The Market** (pembayaran $OiOi), dan menghasilkan **SBT lisensi tenant** untuk setup di SKATESHOP.ID.
 - SBT hasil belanja di SKATESHOP.ID dapat dipakai **mengakses/meningkatkan** jalur di ENDHONESA.COM (belajar, layanan, diskon peran).
 
-> **Catatan implementasi singkat (non‑teknis):**
+> **Catatan implementasi singkat (non‑teknis)**:
 >
 > - SSO dengan **ENDHONESA Identity (SA‑centric)**.
 > - **Webhooks** dari payment gateway → "Order Paid" → **Issue SBT claim** ke SA pembeli.
@@ -568,14 +562,14 @@ Menjadi **Warga-Penduduk** berarti menempuh **ritme Play–Learn–Work** yang t
 
 ### Jalur Starter (contoh SBT)
 
-- _Orientation: Welcome to ENDHONESA_ → **Award SBT:** `chronicle.101` **(mint on Base, to SA)**
-- _Government & HFP Basics_ → **Award SBT:** `chronicle.201` **(mint on Base, to SA)**
-- _Firewall Manager Orientation_ → **Award SBT:** `works.fw.101` **(mint on Base, to SA)**
-- _Using Pabrik Roti Protocols (Overview)_ → **Award SBT:** `works.pr.101` **(mint on Base, to SA)**
-- _The Market Onboarding (Trial/Starter/Voucher)_ → **Award SBT:** `market.101` **(mint on Base, to SA)**
-- _Reading Pack: KING’s NFTs — Primer_ → **Award SBT:** `library.king.101` **(mint on Base, to SA)**
+- _Orientation: Welcome to ENDHONESA_ → **Award SBT**: `chronicle.101` **(mint on Base, to SA)**
+- _Government & HFP Basics_ → **Award SBT**: `chronicle.201` **(mint on Base, to SA)**
+- _Firewall Manager Orientation_ → **Award SBT**: `works.fw.101` **(mint on Base, to SA)**
+- _Using Pabrik Roti Protocols (Overview)_ → **Award SBT**: `works.pr.101` **(mint on Base, to SA)**
+- _The Market Onboarding (Trial/Starter/Voucher)_ → **Award SBT**: `market.101` **(mint on Base, to SA)**
+- _Reading Pack: KING’s NFTs — Primer_ → **Award SBT**: `library.king.101` **(mint on Base, to SA)**
 
-> **Catatan**: semua **Award/Prereq SBT** diverifikasi di **Base Mainnet**; progres lintas aula mengikuti **Role Switcher + SBT**.
+> **Catatan**: semua **Prereq/Award SBT** diverifikasi di **Base Mainnet**; progres lintas aula mengikuti **Role Switcher + SBT**.
 
 ---
 
@@ -610,9 +604,9 @@ Negara **ENDHONESA** dikelola oleh **Prof. NOTA Inc.** melalui **47 HFP** (avata
 
 ### Contoh SBT (governance-aware)
 
-- _Governance Primer_ → **Award SBT:** `gov.101` **(mint on Base, to SA)**
-- _Treasury Basics_ → **Award SBT:** `treasury.101` **(mint on Base, to SA)**
-- _Stewardship Guidelines (HFP)_ → **Award SBT:** `steward.101` **(mint on Base, to SA)**
+- _Governance Primer_ → **Award SBT**: `gov.101` **(mint on Base, to SA)**
+- _Treasury Basics_ → **Award SBT**: `treasury.101` **(mint on Base, to SA)**
+- _Stewardship Guidelines (HFP)_ → **Award SBT**: `steward.101` **(mint on Base, to SA)**
 
 ---
 
