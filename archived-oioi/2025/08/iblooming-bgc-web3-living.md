@@ -1,16 +1,12 @@
 ---
 description: >-
-  We don't belong in your reality, your real life. In your reality, your real
-  life, you can merely meet our avatars in any version. So, stay alert and
-  beware of scams!
+  This document serves as the strategic and operational reference for the Web3 Integration of BGC & iBLOOMING, derived from discussions with the founders on July 10–11, 2025.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
 # Living Document of Web3 Integration Guidance
-
-_This document serves as the strategic and operational reference for the Web3 Integration of BGC & iBLOOMING, derived from founder discussions on July 10–11, 2025._
 
 It compiles key insights from these discussions, confirms agreed decisions, and outlines the immediate next steps for execution.
 
