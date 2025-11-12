@@ -99,6 +99,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 - Tax burden↓ → KPI: penurunan kejadian pajak melalui internal settlement (taat aturan).
 - Affiliate↑ → KPI: #affiliate aktif, retention 30/90D.
 - Active users↑ → KPI: MAU/WAU lintas-app.
+- Fairness → KPI: Koefisien Gini Reward (ketimpangan distribusi); baseline & target diisi setelah sesi data 24 bulan.
 [Isi baseline & target setelah sesi data.]
 
 ### 4.2 Supply & Emission
