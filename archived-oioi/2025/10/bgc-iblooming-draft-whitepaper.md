@@ -57,13 +57,15 @@ Ekosistem iBLOOMING × BGC sudah berjalan, namun terdapat 6 gap alur nilai: (1) 
 - language: ID  
 - single_language_rule: true  
 - sources_of_truth:  
-  - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) (model bisnis/marketing)  
-  - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed) (Strategic Objectives & guardrails)  
+  - [UNDERSTANDING Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) (model bisnis/marketing)  
+  - [LIVING Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed) (Strategic Objectives & guardrails)  
 
 {% endhint %}
 
 ## 1. Ringkasan Eksekutif
-[PLACEHOLDER — 150 kata]
+
+BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base melalui **EventHub** (append-only) yang menyimpan peristiwa kunci beserta **hash** bukti off-chain. Hak/loyalti ditata dengan **ALPHA**—berantarmuka ERC-20 namun **non-transferable**; **mint/burn** hanya melalui **AlphaController**—sehingga nilai **default** diputar di dalam ekosistem (spend/access/stake). **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** sesuai [UNDERSTANDING Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), sedangkan **cash-out windows** mengatur penyaluran keluar secara terjadwal dan terkendali. Arsitektur **Web3 Login + Wallet Registry → Smart Account (AA)** menjaga UX rendah friksi dan auditabilitas tinggi. Setelah **validasi data 24 bulan** dan **legal sign-off (hard gate)**, fase publik **iBC/iBTC** diluncurkan untuk memperluas utilitas lintas aplikasi. Strategi tiga babak ini menargetkan **5 objektif** (Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑) dengan KPI terukur, termasuk **Koefisien Gini Reward** untuk fairness distribusi. Peluncuran diikat oleh **Single Founder Sign-Off (incl. Legal Gate)** sebelum deployment.
+
 - Masalah inti (6 gap alur nilai) → Solusi (ALPHA → iBC/iBTC) yang langsung memetakan ke 5 Strategic Objectives.
 
 ## 2. Problem Statement (singkat)
@@ -138,6 +140,61 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 
 ## Lampiran
 - Tabel istilah; tabel event; diagram arsitektur ringkas.
+
+### Daftar Parameter Awal (tanpa angka)
+
+**Konversi ke ALPHA**
+
+* `pc_to_alpha.mode` (linear/tiered/dynamic), `pc_to_alpha.ratio`, `pc_to_alpha.fee_bps`, `pc_to_alpha.cooldown_days`
+* `sp_to_alpha.mode`, `sp_to_alpha.ratio`, `sp_to_alpha.fee_bps`, `sp_to_alpha.cooldown_days`
+
+**Cash-out Windows**
+
+* `windows_per_year`, `window_length_days`, `min_payout_usd`, `payout_fee_bps`, `kyc_required`
+
+**Sponsor Gas & Batas**
+
+* `sponsor_gas.enabled`, `actions_covered[]`, `daily_cap_per_user`, `global_daily_budget`, `throttle_global`, `pausable`
+
+**Rate Limits / Caps**
+
+* `per_event_cap`, `per_day_alpha_spend_cap`, `per_user_weekly_cap`
+
+**Anti-Abuse / Sybil**
+
+* `referral_cooldown_days`, `unique_device_required`, `duplicate_device_limit`, `audit_sample_rate_pct`,
+  `wash_trade_zeroing`, `penalty_cooling_off_days`
+
+**Settlement Cycles**
+
+* `accrual_frequency` (event), `points_settlement_frequency`,
+* `pool_distribution.gps`, `pool_distribution.wec_global_pool`, `pool_distribution.mc`, `pool_distribution.gmp`, `pool_distribution.gec`
+
+**Observability & KPI**
+
+* `metrics`: MAU/WAU, ARPU/GMV, biaya gas/1000 aksi, **Reward Gini Coefficient**, affiliate activation/retention
+* `dataset_manifest` + checksum, `data_privacy.policy` (anonimisasi/PII)
+
+**Identity & Registry**
+
+* `wallet_registry.source_of_truth`, `aa_provisioning.policy`, `allowed_system_flows` (transfer-like internal)
+
+**Compliance & Gates**
+
+* `legal_sign_off_gate` (wajib sebelum iBC/iBTC), `membership_purchase=fiat_only`, `pc_as_evidence=true`
+
+**Treasury & Payout Ops**
+
+* `multisig.env`, `sponsor_gas_topup_sop`, `payout_schedule`, `settlement_currency`
+
+### Event Model (final minimal)
+
+**Daftar event (audit trail):**
+`JoinAffiliate`, `MintPC`, `SpendPC`, `EarnSP`/`AccrueLTS`, `CPContribution`, `PoolAccrual` (GPS/GMP/WEC/MC/GEC),
+`ConvertToALPHA`, `SpendAccess`/`Stake`/`Vote`, `CashoutWindowOpened`, `CashoutWindowClosed`, `PayoutUSD`.
+
+**Field minimal per event:**
+`actor`, `what`, `amount`, `unit`, `timestamp`, `refId`, `dataHash` (anchor ke bukti off-chain).
 
 ---
 
