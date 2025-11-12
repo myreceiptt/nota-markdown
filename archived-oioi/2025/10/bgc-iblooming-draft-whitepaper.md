@@ -87,6 +87,8 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 
 ### 3.3 Build (Implementasi Tingkat Tinggi)
 - Settlement Layer (ALPHA): aturan konversi, event model, rate-limit, audit trail.
+  * **ALPHA** berantarmuka ERC-20, **non-transferable**, **mint/burn hanya via AlphaController**; transfer bebas dinonaktifkan (kecuali *system-governed flows*).
+  * **EventHub** sebagai *append-only ledger* dengan **hashed proofs** ke dokumen off-chain.
 - Utility Map: spend (produk/layanan), access (fitur/kelas), stake (komitmen).
 - Dashboard transparan (append-only ledger) untuk klaim/entitlement.
 
@@ -111,7 +113,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 - Sinks: biaya pemakaian, burn event-based, biaya premium.
 
 ### 4.5 Conversion Policy (PC/SP → ALPHA → iBC/iBTC)
-- Jalur default: internal utility.
+- Jalur default: internal utility. **Payout USD** pada komponen BGC yang telah ada **tetap berjalan sesuai UNDERSTANDING Doc.**; **cash-out windows** mengatur *externalization* nilai secara terjadwal & terkendali.
 - Cash-out windows: terjadwal, berkuota, anti-abuse, cooling-off.
 
 ### 4.6 Governance & Risk
@@ -119,11 +121,13 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 - Peta risiko: operasional, pasar, kepatuhan, reputasi.
 
 ### 4.7 Compliance Note
-- Placeholder ringkasan legal (akan dilengkapi memo terpisah).
+* **PC** adalah bukti transaksi produk fisik (MLM legal requirement).
+* **Affiliate membership hanya bisa dibeli dengan fiat** (tidak dengan PC maupun token).
+* **Legal sign-off** diperlukan sebelum peluncuran publik iBC/iBTC.
 
 ## 5. Roadmap (tingkat tinggi)
-- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → Sign-off → Pilot utility iBC/iBTC → Perluasan lintas-app.
-- Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → Sign-off → Pilot utility iBC/iBTC → Perluasan lintas-app.
+- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utility iBC/iBTC → Perluasan lintas-app.
+- Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utility iBC/iBTC → Perluasan lintas-app.
 
 ## 6. Data & Metodologi
 - Sumber data 24 bulan; definisi metrik; aturan cleaning; reproducibility.
