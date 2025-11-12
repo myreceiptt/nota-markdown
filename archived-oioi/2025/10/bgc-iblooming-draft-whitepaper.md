@@ -113,7 +113,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 - Sinks: biaya pemakaian, burn event-based, biaya premium.
 
 ### 4.5 Conversion Policy (PC/SP → ALPHA → iBC/iBTC)
-- Jalur default: internal utility. **Payout USD** pada komponen BGC yang telah ada **tetap berjalan sesuai UNDERSTANDING Doc.**; **cash-out windows** mengatur *externalization* nilai secara terjadwal & terkendali.
+- Jalur default: internal utility. **Payout USD** pada komponen BGC yang telah ada **tetap berjalan sesuai [UNDERSTANDING.Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)**; **cash-out windows** mengatur *externalization* nilai secara terjadwal & terkendali.
 - Cash-out windows: terjadwal, berkuota, anti-abuse, cooling-off.
 
 ### 4.6 Governance & Risk
