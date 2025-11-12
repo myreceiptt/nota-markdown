@@ -55,7 +55,7 @@ Bloo Global Company (BGC) utilizes an **Affiliate Membership** system with five 
 
 ## 2. Purchase Credit (PC)
 
-- Definition: **Purchase Credit** is not only the counterpart of the fiat paid, but also proof of **Affiliate Membership** as well as a credit balance to buy physical products at BGC. It functions like an internal currency for purchasing physical products at BGC.
+- Definition: **Purchase Credit** is not only the counterpart of the fiat paid, but also proof of **Affiliate Membership** as well as a credit balance to buy physical products at BGC. **It functions as an internal credit for purchasing physical products at BGC.**
 - Ratio: **100 PC = $1.00 USD** (fixed, non-volatile).
 - Functions:
   - Serves as evidence that BGC sells physical products (MLM legal requirement).
