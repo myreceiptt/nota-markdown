@@ -41,7 +41,7 @@ ties_to:
 ## 2.1 Unified Conversion
 - PC/SP → **ALPHA rights** → default: spend / access / stake (internal).
 - Cash-out jadi opsi sekunder (window terjadwal, limit, anti-abuse).
-- **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** (lihat [UNDERSTANDING.Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
+- **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** (lihat [UNDERSTANDING.Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
 
 ## 2.2 Partner Loop (bertahap)
 - Akses belanja eksternal kurasi/terbatas → menjaga nilai tetap berputar.
@@ -52,7 +52,7 @@ ties_to:
 # 3. Event Model (auditability)
 Definisi event pokok + field minimal:
 - `JoinAffiliate`, `MintPC`, `SpendPC`, `EarnSP(LTS/RR/GR/...)`,
-  `PayoutUSD`, `ConvertToALPHA`, `MintRights`, `Spend/Stake/Access`,
+  `PayoutUSD`, `ConvertToALPHA`, `Spend/Stake/Access`,
   `CashoutWindowOpened/Closed`.
 Field: `actor`, `timestamp`, `delta`, `new_state`, `proofs|refs`.
 
@@ -68,6 +68,7 @@ Field: `actor`, `timestamp`, `delta`, `new_state`, `proofs|refs`.
 | Append-only ledger (events) | Gap-4 | Cost↓ | MTTR ops, error rate | [isi] |
 | Rate-limit + anti-abuse | Gap-3 | Cost↓, Affiliate↑ | Ops cost, Retention | [isi] |
 | Sinks (kelas/fitur/boost) | Gap-6 | Revenue↑ | GMV on-platform | [isi] |
+| **Fairness metric** | Gap-(ops) | Affiliate↑, Active users↑ | **Reward Gini Coefficient** | [isi]
 
 # 6. Open Questions
 - Ambang & frekuensi cash-out? Sinks prioritas Q1? Parameter rate-limit awal?
