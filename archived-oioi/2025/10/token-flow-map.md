@@ -22,7 +22,7 @@ ties_to:
 # 0. Glossary (sinkron UNDERSTANDING)
 - **PC**: 100 PC = 1 USD (utility utama: produk fisik BGC).
 - **SP**: meter hak reward; basis payout USD periodik.
-- **ALPHA**: settlement layer konversi PC/SP → rights (pra iBC/iBTC).
+- **ALPHA**: *settlement layer* konversi PC/SP → rights; **ERC-20 interface, non-transferable; mint/burn hanya via AlphaController** (pra iBC/iBTC).
 - **iBC/iBTC**: token on-chain pasca simulasi/validasi.
 
 # 1. AS-IS (ringkas)
@@ -41,6 +41,7 @@ ties_to:
 ## 2.1 Unified Conversion
 - PC/SP → **ALPHA rights** → default: spend / access / stake (internal).
 - Cash-out jadi opsi sekunder (window terjadwal, limit, anti-abuse).
+- **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** (lihat [UNDERSTANDING.Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
 
 ## 2.2 Partner Loop (bertahap)
 - Akses belanja eksternal kurasi/terbatas → menjaga nilai tetap berputar.
