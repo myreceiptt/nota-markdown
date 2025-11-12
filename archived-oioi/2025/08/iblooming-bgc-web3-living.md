@@ -24,7 +24,7 @@ This living document is to be read, updated, and agreed upon by all founders, se
 > * **ALPHA Coin** = *loyalty/rights ledger*; **ERC-20 interface, non-transferable**; **mint/burn only via AlphaController**; formalizes BGC & iBLOOMING’s 2023–2025 reward logic.
 > * **iBC/iBTC** = public token layer derived from ALPHA behavior; **launches only after data validation & legal sign-off**.
 > * **EventHub** = *append-only* event log for key business events; stores minimal fields plus a **hash** to off-chain proofs.
-> - _Simulation_ = Business/operational analysis of existing system data, without building new components unless explicitly stated.
+> * **Simulation** = Business/operational analysis of existing system data, without building new components unless explicitly stated.
 
 ---
 
