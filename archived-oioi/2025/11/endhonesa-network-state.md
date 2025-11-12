@@ -302,15 +302,15 @@ Dalam kanon _The KING’s NFTs Project_, Pabrik Roti berperan sebagai **lengan p
 
 ---
 
-### 9.4. Etika & Guardrails
+### 9.4. Bukti, Tanda, & Akses
 
-Transparansi, **anti‑phishing**, **anti‑eksploitasi**, kontrak‑dulu‑baru‑akses, dan mekanisme **rollback/denylist** berjalan di bawah **Firewall Manager**—agar hanya yang **benar, adil, dan bernilai** yang lolos.
+Akses terdokumentasi melalui **Soulbound Tokens (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga‑Penduduk ↔ HFP/mitra). Semua rujukan identitas, versi, dan penandatangan mengikuti **The Resume**.
 
 ---
 
-### 9.5. Bukti, Tanda, & Akses
+### 9.5. Etika & Guardrails
 
-Akses terdokumentasi melalui **Soulbound Tokens (SBT)** & artefak; klaim, progres, dan izin dipetakan ke lapisan peran (publik ↔ Warga‑Penduduk ↔ HFP/mitra). Semua rujukan identitas, versi, dan penandatangan mengikuti **The Resume**.
+Transparansi, **anti‑phishing**, **anti‑eksploitasi**, kontrak‑dulu‑baru‑akses, dan mekanisme **rollback/denylist** berjalan di bawah **Firewall Manager**—agar hanya yang **benar, adil, dan bernilai** yang lolos.
 
 ---
 
