@@ -10,6 +10,8 @@ coverY: 0
 
 # iBLOOMING × BGC — Whitepaper
 
+_Integrasi Loyalti, Nilai, dan Transparansi On-Chain_
+
 ---
 
 {% hint style="success" %}
@@ -32,7 +34,7 @@ coverY: 0
 
 ## Tokenomics (sekilas)
 - **Prinsip**: berbasis perilaku (hasil simulasi **ALPHA**), bukan spekulasi.
-- **Utilitas & Serapan Nilai (Sinks)**: belanja produk/kelas/fitur, akses premium, staking/boost; serapan nilai melalui biaya pemakaian & burn berbasis peristiwa.
+- **Utilitas & Serapan Nilai (Sinks)**: belanja produk/kelas/fitur, akses premium, staking untuk peningkatan (boost); serapan nilai melalui biaya pemakaian & burn berbasis peristiwa.
 - **Kebijakan Konversi**: PC/SP → **hak ALPHA** (default: belanja/akses/stake); **cash-out windows** terjadwal, berkuota, anti-penyalahgunaan.
 - **Governance & Compliance**: tata kelola bertahap; catatan kepatuhan per yurisdiksi (memo terpisah).
 
@@ -60,7 +62,7 @@ coverY: 0
 
 ## 1. Ringkasan Eksekutif
 
-BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base melalui **EventHub** (append-only) yang menyimpan peristiwa kunci beserta **hash** bukti off-chain. Hak/loyalti ditata dengan **ALPHA**—berantarmuka ERC-20 namun **non-transferable**; **mint/burn** hanya melalui **AlphaController**—sehingga nilai **default** diputar di dalam ekosistem (belanja/akses/stake). **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** sesuai [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), sedangkan **cash-out windows** mengatur penyaluran keluar secara terjadwal dan terkendali. Arsitektur **Web3 Login + Wallet Registry → Smart Account (AA)** menjaga UX rendah friksi dan auditabilitas tinggi. Setelah **validasi data 24 bulan** dan **legal sign-off (hard gate)**, fase publik **iBC/iBTC** diluncurkan untuk memperluas utilitas lintas aplikasi. Strategi tiga babak ini menargetkan **5 Sasaran Strategis** (Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑) dengan KPI terukur, termasuk **Koefisien Gini Reward** untuk fairness distribusi. Peluncuran diikat oleh **Single Founder Sign-Off (incl. Legal Gate)** sebelum deployment.
+BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base melalui **EventHub** (append-only) yang menyimpan peristiwa kunci beserta **hash** bukti off-chain. Hak/loyalti ditata dengan **ALPHA**—berantarmuka ERC-20 yang **non-transferable**; **mint/burn** hanya melalui **AlphaController**—sehingga nilai **default** diputar di dalam ekosistem (belanja/akses/stake). **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** sesuai [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), sedangkan **cash-out windows** mengatur penyaluran keluar secara terjadwal dan terkendali. Arsitektur **Web3 Login + Wallet Registry → Smart Account (AA)** menjaga UX rendah friksi dan auditabilitas tinggi. Setelah **validasi data 24 bulan** dan **legal sign-off (hard gate)**, fase publik **iBC/iBTC** diluncurkan untuk memperluas utilitas lintas aplikasi. Strategi tiga babak ini menargetkan **5 Sasaran Strategis** (Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑) dengan KPI terukur, termasuk **Koefisien Gini Reward** untuk fairness distribusi. Peluncuran diikat oleh **Single Founder Sign-Off (incl. Legal Gate)** sebelum deployment.
 
 - Masalah inti (6 gap alur nilai) → Solusi (ALPHA → iBC/iBTC) yang langsung memetakan ke **5 Sasaran Strategis**.
 
@@ -118,7 +120,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 
 ### 4.6 Tata Kelola & Risiko
 - Tata kelola bertahap; rate-limit; orkestrasi kebijakan.
-- Peta risiko: operasional, pasar, kepatuhan, reputasi.
+- Peta risiko; operasional; pasar; kepatuhan; reputasi.
 
 ### 4.7 Catatan Kepatuhan
 * **PC** adalah bukti transaksi produk fisik (MLM legal requirement).
@@ -158,7 +160,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 
 * `per_event_cap`, `per_day_alpha_spend_cap`, `per_user_weekly_cap`.
 
-**Anti-Penyalahgunaan / Sybil**
+**Anti-Penyalahgunaan & Sybil**
 
 * `referral_cooldown_days`, `unique_device_required`, `duplicate_device_limit`, `audit_sample_rate_pct`, `wash_trade_zeroing`, `penalty_cooling_off_days`.
 
