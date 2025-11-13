@@ -24,8 +24,8 @@ coverY: 0
 ---
 
 ## Dampak pada 5 Sasaran Strategis ([LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed))
-- **Revenue ↑**: utility on-platform mendorong GMV & ARPU.
-- **Cost ↓**: otomasi event ledger & rate-limit menekan biaya ops/tx.
+- **Revenue ↑**: utilitas di dalam platform mendorong GMV & ARPU.
+- **Cost ↓**: otomasi event ledger & pembatasan laju (*rate limit*) menekan biaya operasional/transaksi.
 - **Tax burden ↓**: settlement internal yang compliant menurunkan kejadian pajak.
 - **Affiliate ↑**: insentif & utility yang jelas meningkatkan aktivasi/retensi.
 - **Active users ↑**: utilitas terpadu + Web3 Login mempermudah adopsi.
@@ -60,7 +60,7 @@ coverY: 0
 
 ## 1. Ringkasan Eksekutif
 
-BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base melalui **EventHub** (append-only) yang menyimpan peristiwa kunci beserta **hash** bukti off-chain. Hak/loyalti ditata dengan **ALPHA**—berantarmuka ERC-20 namun **non-transferable**; **mint/burn** hanya melalui **AlphaController**—sehingga nilai **default** diputar di dalam ekosistem (spend/access/stake). **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** sesuai [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), sedangkan **cash-out windows** mengatur penyaluran keluar secara terjadwal dan terkendali. Arsitektur **Web3 Login + Wallet Registry → Smart Account (AA)** menjaga UX rendah friksi dan auditabilitas tinggi. Setelah **validasi data 24 bulan** dan **legal sign-off (hard gate)**, fase publik **iBC/iBTC** diluncurkan untuk memperluas utilitas lintas aplikasi. Strategi tiga babak ini menargetkan **5 Sasaran Strategis** (Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑) dengan KPI terukur, termasuk **Koefisien Gini Reward** untuk fairness distribusi. Peluncuran diikat oleh **Single Founder Sign-Off (incl. Legal Gate)** sebelum deployment.
+BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base melalui **EventHub** (append-only) yang menyimpan peristiwa kunci beserta **hash** bukti off-chain. Hak/loyalti ditata dengan **ALPHA**—berantarmuka ERC-20 namun **non-transferable**; **mint/burn** hanya melalui **AlphaController**—sehingga nilai **default** diputar di dalam ekosistem (belanja/akses/stake). **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** sesuai [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), sedangkan **cash-out windows** mengatur penyaluran keluar secara terjadwal dan terkendali. Arsitektur **Web3 Login + Wallet Registry → Smart Account (AA)** menjaga UX rendah friksi dan auditabilitas tinggi. Setelah **validasi data 24 bulan** dan **legal sign-off (hard gate)**, fase publik **iBC/iBTC** diluncurkan untuk memperluas utilitas lintas aplikasi. Strategi tiga babak ini menargetkan **5 Sasaran Strategis** (Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑) dengan KPI terukur, termasuk **Koefisien Gini Reward** untuk fairness distribusi. Peluncuran diikat oleh **Single Founder Sign-Off (incl. Legal Gate)** sebelum deployment.
 
 - Masalah inti (6 gap alur nilai) → Solusi (ALPHA → iBC/iBTC) yang langsung memetakan ke **5 Sasaran Strategis**.
 
@@ -72,7 +72,7 @@ BGC × iBLOOMING memirror alur nilai yang telah berjalan sejak 2023 ke Base mela
 - Gap-5: Beban pajak tinggi akibat proses fiat-first.
 - Gap-6: Pertumbuhan BGC > iBLOOMING (ketimpangan).
 
-Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) + [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed); rinciannya dipadatkan di [TOKENFLOW Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100).
+Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) + [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100#pdf-page-ijQlNvGkp9UTE2LR2Tjm-strategic-objectives-reaffirmed); rinciannya dipadatkan di [TOKENFLOW Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100).
 
 ## 3. Ikhtisar Solusi (C → A → B)
 ### 3.1 Konsep
@@ -81,11 +81,11 @@ Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-mar
 
 ### 3.2 Analogi
 - “Jembatan konversi” internal: PC/SP → **hak ALPHA** → belanja/akses/stake lintas aplikasi.
-- Nilai berputar: lebih sedikit bocor ke luar.
+- Nilai berputar lebih lama di dalam; kebocoran ke luar menurun.
 
 ### 3.3 Rancangan (Implementasi Tingkat Tinggi)
-- Settlement Layer (ALPHA): aturan konversi, event model, rate-limit, audit trail.
-  * **ALPHA** berantarmuka ERC-20, **non-transferable**, **mint/burn hanya via AlphaController**; transfer bebas dinonaktifkan (kecuali *system-governed flows*).
+- Settlement Layer (ALPHA): aturan konversi, model peristiwa, pembatasan laju (*rate limit*), dan jejak audit.
+  * **ALPHA** berantarmuka ERC-20, **non-transferable**, **mint/burn hanya via AlphaController**; transfer bebas dinonaktifkan (kecuali *system-governed flows* — alur yang diatur sistem).
   * **EventHub** sebagai *append-only ledger* dengan **hashed proofs** ke dokumen off-chain.
 - Peta utilitas: belanja (produk/layanan), akses (fitur/kelas), stake (komitmen).
 - Dasbor transparan (*append-only ledger*) untuk klaim/hak (entitlement).
@@ -97,7 +97,7 @@ Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-mar
 - Tax burden↓ → KPI: penurunan kejadian pajak melalui internal settlement (taat aturan).
 - Affiliate↑ → KPI: jumlah afiliasi aktif; retensi 30/90 hari.
 - Active users↑ → KPI: MAU/WAU lintas aplikasi.
-- Fairness → KPI: Koefisien Gini Reward (ketimpangan distribusi); baseline & target diisi setelah sesi data 24 bulan.
+- Fairness → KPI: Koefisien Gini Reward (ketimpangan distribusi).
 
 *Catatan: baseline & target diisi setelah sesi data 24 bulan.*
 
@@ -105,7 +105,7 @@ Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-mar
 - Prinsip: berbasis perilaku (hasil simulasi ALPHA), bukan spekulasi.
 - Parameter: [PLACEHOLDER angka awal + metode penyesuaian berkala].
 
-### 4.3 Distribution
+### 4.3 Distribusi
 - Pool utilitas (spend/access/stake), insentif afiliasi, cadangan ekosistem.
 
 ### 4.4 Utilitas & Serapan Nilai (Sinks)
@@ -126,12 +126,12 @@ Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-mar
 * **Legal sign-off** diperlukan sebelum peluncuran publik iBC/iBTC.
 
 ## 5. Roadmap (Tingkat Tinggi)
-- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utility iBC/iBTC → Perluasan lintas aplikasi.
-- Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utility iBC/iBTC → Perluasan lintas aplikasi.
+- Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utilitas iBC/iBTC → Perluasan lintas aplikasi.
+- Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utilitas iBC/iBTC → Perluasan lintas aplikasi.
 
 ## 6. Data & Metodologi
 - Sumber data 24 bulan; definisi metrik; aturan cleaning; reprodusibilitas.
-- Standar privasi: anonimisasi PII dan manifest dataset untuk reprodusibilitas.
+- Standar privasi: anonimisasi PII dan *manifest* dataset untuk reprodusibilitas.
 
 ## 7. Pertanyaan Terbuka
 - Ambang cash-out, rasio konversi awal, prioritas sinks Q1, daftar use case prioritas.
@@ -164,17 +164,17 @@ Catatan: daftar gap mengacu pada [ Doc](https://baca.endhonesa.com/all-notas-mar
 
 **Siklus Penyelesaian**
 
-* `accrual_frequency` (event), `points_settlement_frequency`,
+* `accrual_frequency` (event), `points_settlement_frequency`.
 * `pool_distribution.gps`, `pool_distribution.wec_global_pool`, `pool_distribution.mc`, `pool_distribution.gmp`, `pool_distribution.gec`.
 
 **Observabilitas & KPI**
 
-* `metrics`: MAU/WAU, ARPU/GMV, biaya gas/1000 aksi, **Reward Gini Coefficient**, affiliate activation/retention.
+* `metrics`: MAU/WAU, ARPU/GMV, biaya gas per 1.000 aksi, **Reward Gini Coefficient**, affiliate activation/retention.
 * `dataset_manifest` + checksum, `data_privacy.policy` (anonimisasi/PII).
 
 **Identitas & Registry**
 
-* `wallet_registry.source_of_truth`, `aa_provisioning.policy`, `allowed_system_flows` (aliran internal mirip transfer).
+* `wallet_registry.source_of_truth`, `aa_provisioning.policy`, `allowed_system_flows` (alur internal mirip transfer).
 
 **Kepatuhan & Gerbang**
 
