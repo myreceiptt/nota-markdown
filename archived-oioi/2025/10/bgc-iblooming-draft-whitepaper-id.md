@@ -181,6 +181,88 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 `actor`, `what`, `amount`, `unit`, `timestamp`, `refId`, `dataHash` (jangkar ke bukti off-chain).
 
 ---
+## Glosarium
+
+Berikut **glosarium singkatan & istilah** yang muncul/terkait di WHITEPAPER ini—ringkas dan jelas.
+
+### A–C
+
+* **AA (Smart Account / Account Abstraction)**: tipe dompet kontrak dengan fitur otomatis (sponsor gas, policy), dipetakan lewat Wallet Registry.
+* **Actor ID**: pengenal internal untuk pengguna/entitas di event.
+* **ALPHA**: hak/loyalti berantarmuka ERC-20 yang **non-transferable**; hanya **mint/burn** via AlphaController; dipakai untuk belanja/akses/stake.
+* **AlphaController**: kontrak/gerbang kebijakan ALPHA (rasio konversi, caps, cooldown, cash-out window, pause).
+* **Append-only (ledger)**: buku besar yang hanya menambah catatan (tidak menghapus/mengedit); cocok untuk audit.
+* **ARPU (Average Revenue per User)**: rata-rata pendapatan per pengguna dalam periode tertentu.
+* **AS-IS**: apa adanya; proses payout USD BGC tertentu tetap berjalan seperti sekarang.
+* **Audit trail**: jejak pemeriksaan; rangkaian bukti/rekaman event untuk pembuktian.
+
+### B–D
+
+* **Baseline/Target**: nilai awal & sasaran KPI yang diisi setelah sesi data 24 bulan.
+* **bps (basis points)**: satuan 1/100 persen (1% = 100 bps).
+* **Cash-out windows**: jendela terjadwal untuk penyaluran nilai keluar ekosistem (triwulanan 7 hari; min $50; fee 1%; KYC).
+* **Cooling-off**: masa tunggu/‘dibekukan sementara’ setelah pelanggaran.
+* **Cooldown**: jeda waktu sebelum aksi berikutnya diizinkan (v1 = 0 hari).
+* **ConvertToALPHA**: event konversi PC/SP menjadi ALPHA sesuai rasio.
+* **CSV/Parquet**: format berkas data untuk dump/analisis.
+
+### E–H
+
+* **Entitlement (hak)**: hak pengguna (akses/klaim) yang didukung catatan ledger.
+* **Event**: kejadian yang dicatat ke EventHub (mis. MintPC, EarnSP, SpendAccess).
+* **EventHub**: kontrak/komponen pencatat event **append-only** dengan **hashed proof** ke bukti off-chain.
+* **GEC/GMP/GPS/MC/WEC (pool)**: kategori **pool distribusi** (GPS=semesteran; WEC=triwulanan; MC/GMP/GEC=bulanan) sesuai UNDERSTANDING Doc.
+* **Gini (Koefisien Gini Reward)**: metrik ketimpangan distribusi reward (0=merata; makin tinggi=makin timpang).
+* **GMV (Gross Merchandise Value)**: total nilai transaksi barang/jasa di platform (kotor, sebelum biaya).
+
+### I–L
+
+* **iBC / iBTC**: fase lanjut utilitas on-chain (placeholder yang diaktifkan pasca legal sign-off) untuk perluasan lintas aplikasi.
+* **KPI (Key Performance Indicator)**: indikator kinerja utama (ARPU/GMV, biaya/1.000 aksi, MAU/WAU, retensi, Gini).
+* **KYC (Know Your Customer)**: verifikasi identitas wajib untuk payout pada cash-out windows.
+* **Ledger**: buku besar transaksi/peristiwa (di sini: append-only).
+* **LTS**: akrual/rekap **SP jangka panjang** (lifetime tally) untuk kebutuhan level/analitik afiliasi.
+
+### M–P
+
+* **MAU/WAU (Monthly/Weekly Active Users)**: pengguna aktif bulanan/mingguan (distinct).
+* **MC/GMP/GEC/GPS/WEC**: lihat entri “GEC/GMP/GPS/MC/WEC (pool)”.
+* **Mint/Burn**: pembuatan/pemusnahan ALPHA via AlphaController.
+* **MintPC / SpendPC**: event penerbitan/ pengeluaran **PC** (produk fisik).
+* **Non-transferable**: tidak dapat dipindahkan bebas antar akun (hanya alur yang diatur sistem).
+* **Pausable / Pause/Unpause**: sakelar henti/jalan untuk kontrak/fitur ketika darurat.
+* **PC**: **bukti transaksi produk fisik**; 100 PC = $1 (basis konversi ke ALPHA).
+* **Pilot v1**: konfigurasi awal yang dipakai pada tahap percontohan.
+
+### Q–T
+
+* **Q1**: kuartal pertama (prioritas sinks awal).
+* **Rate limit (pembatasan laju)**: batas frekuensi/volume aksi per akun/sistem.
+* **Ref ID**: pengenal rujukan (nota/invoice/rekap) yang dikaitkan ke event.
+* **Settlement**: penyelesaian/pencatatan nilai (ritme: harian/mingguan/bulanan/dst).
+* **SP**: **poin afiliasi** berbasis pendapatan (mis. $1 SP = 1 ALPHA pada v1).
+* **Spend/Access/Stake**: tiga bentuk utilitas ALPHA (belanja, membuka akses fitur/kelas, atau mengunci untuk komitmen/partisipasi).
+* **Stake-to-vote**: pola partisipasi (voting/penilaian) bagi yang melakukan stake (opsional fase berikut).
+* **Sybil**: penyalahgunaan dengan banyak akun palsu untuk keuntungan tidak sah.
+
+### U–Z
+
+* **UNDERSTANDING Doc**: sumber kebenaran model usaha/marketing & aturan payout AS-IS.
+* **USD payout (AS-IS)**: penyaluran USD yang sudah berjalan pada komponen BGC tertentu; tidak terkait ALPHA.
+* **Wallet Registry**: peta pengguna ↔ dompet/AA pasca Web3 Login.
+* **Web3 Login**: mekanisme masuk terintegrasi yang menyiapkan dompet/AA pengguna.
+* **WEC/GPS/MC/GMP/GEC**: lihat entri “GEC/GMP/GPS/MC/WEC (pool)”.
+
+### Istilah teknis tambahan (operasional)
+
+* **Audit sampling 5%**: pengambilan contoh acak 5% event/akun untuk pemeriksaan.
+* **Daily cap per user ≈ $0.10; global ≈ $20**: batas sponsor gas harian per akun & sistem.
+* **Duplicate device limit**: batas jumlah akun yang boleh berbagi identitas perangkat.
+* **Require unique device**: syarat minimal keterunikan perangkat untuk mencegah Sybil.
+* **Throttle**: penurunan throughput otomatis ketika beban/biaya melewati ambang.
+* **Triwulanan/Semesteran/Bulanan**: ritme distribusi pool & rekonsiliasi sesuai jenis pool.
+
+---
 
 P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
