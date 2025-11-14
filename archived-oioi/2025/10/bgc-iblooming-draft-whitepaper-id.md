@@ -1,6 +1,6 @@
 ---
 description: >-
-  Arsitektur BGC × iBLOOMING di Base: EventHub (append-only, hashed proof), ALPHA non-transferable via AlphaController, cash-out windows terjadwal (KYC), serta Web3 Login + Smart Account (AA) — menuju 5 Sasaran Strategis: Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑.
+  Bagaimana BGC × iBLOOMING memirror alur nilai ke Base blockchain dengan EventHub (append-only, bukti ter-hash) dan menata hak/loyalti dengan ALPHA (non-transferable, via AlphaController).
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
