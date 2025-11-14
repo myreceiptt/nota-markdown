@@ -1,6 +1,6 @@
 ---
 description: >-
-  How BGC × iBLOOMING mirrors value flows to Base with an EventHub (append-only, hashed proofs) and structures rights/loyalty with ALPHA (non‑transferable, via AlphaController), accompanied by scheduled cash‑out windows (KYC) and Web3 Login + Smart Account (AA) — all aligned to 5 Strategic Objectives: Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑.
+  How BGC × iBLOOMING mirrors value flows to Base blockchain with an EventHub (append-only, hashed proofs) and structures rights/loyalty with ALPHA (non‑transferable, via AlphaController).
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
