@@ -1,8 +1,6 @@
 ---
 description: >-
-  We don't belong in your reality, your real life. In your reality, your real
-  life, you can merely meet our avatars in any version. So, stay alert and
-  beware of scams!
+  Arsitektur BGC × iBLOOMING di Base: EventHub (append-only, hashed proof), ALPHA non-transferable via AlphaController, cash-out windows terjadwal (KYC), serta Web3 Login + Smart Account (AA) — menuju 5 Sasaran Strategis: Revenue↑, Cost↓, Tax↓, Affiliate↑, Active Users↑.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
@@ -91,6 +89,7 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
   * **EventHub** sebagai *append-only ledger* dengan **hashed proofs** ke dokumen off-chain.
 - Peta utilitas: belanja (produk/layanan), akses (fitur/kelas), stake (komitmen).
 - Dasbor transparan (*append-only ledger*) untuk klaim/hak (entitlement).
+- Sponsor gas (aktif – Pilot v1): onboarding, convert_to_alpha, spend/access; batas per akun per hari ≈ $0,10; batas global per hari ≈ $20; throttle/pause aktif.
 
 ## 4. Tokenomics (Kerangka)
 ### 4.1 Tujuan ↔ KPI
@@ -115,18 +114,29 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 - Serapan nilai (sinks): biaya pemakaian, burn berbasis peristiwa, biaya premium.
 
 ### 4.5 Conversion Policy (PC/SP → ALPHA → iBC/iBTC)
-- Jalur default: internal utility. **Payout USD** pada komponen BGC yang telah ada **tetap berjalan sesuai [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)**; **cash-out windows** mengatur *penyaluran keluar* nilai secara terjadwal & terkendali.
-- Cash-out windows: terjadwal, berkuota, anti-abuse, cooling-off.
+- PC → ALPHA: 100 PC (= $1) → 1 ALPHA; fee 0 bps; cooldown 0 hari.
+- SP → ALPHA: $1 SP → 1 ALPHA; fee 0 bps; cooldown 0 hari.
+- Default pemanfaatan ALPHA: belanja / akses / stake di dalam ekosistem.
+- Payout USD pada komponen BGC tertentu tetap AS-IS (lihat UNDERSTANDING Doc).
+
+#### 4.5.1 Cash-Out Windows (Pilot v1)
+- Frekuensi: 4× per tahun (triwulanan).
+- Durasi jendela: 7 hari per jendela.
+- Minimum payout: $50.
+- Biaya payout: 100 bps (1%).
+- KYC: wajib untuk setiap payout.
+- Catatan: cash-out window adalah jalur sekunder & terjadwal untuk penyaluran nilai ke luar ekosistem.
 
 ### 4.6 Tata Kelola & Risiko
 - Tata kelola bertahap; rate-limit; orkestrasi kebijakan.
 - Peta risiko; operasional; pasar; kepatuhan; reputasi.
+- Anti-Penyalahgunaan & Sybil (Pilot v1): referral cooldown 1 hari; maksimum 10 pendaftaran Tier-1 per aktor per hari; require_unique_device = true; duplicate_device_limit = 2; audit sampling 5%; penalti: wash_trade_zeroing = true, cooling_off = 7 hari.
 
 ### 4.7 Catatan Kepatuhan
 * **PC** adalah bukti transaksi produk fisik (MLM legal requirement).
 * **Keanggotaan afiliasi hanya bisa dibeli dengan fiat** (tidak dengan PC maupun token).
 * **Legal sign-off** diperlukan sebelum peluncuran publik iBC/iBTC.
-
+- KYC diberlakukan untuk pelaksanaan payout melalui cash-out windows (Pilot v1).
 ## 5. Roadmap (Tingkat Tinggi)
 - Simulasi ALPHA → Whitepaper v1 → Tokenflow Map v1 → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utilitas iBC/iBTC → Perluasan lintas aplikasi.
 - Web3 Login Plan → Web3 Login Implementation → Launch Web3 Login → **Single Founder Sign-Off (incl. Legal Gate)** → Pilot utilitas iBC/iBTC → Perluasan lintas aplikasi.
@@ -141,50 +151,26 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 ## Lampiran
 - Tabel istilah; tabel event; diagram arsitektur ringkas.
 
-### Daftar Parameter Awal (tanpa angka)
+### Daftar Parameter Awal (v1 Pilot)
+**Konversi ke ALPHA (v1)**
+- pc_to_alpha.ratio = 100 PC : 1 ALPHA; fee = 0 bps; cooldown = 0 hari.
+- sp_to_alpha.ratio = $1 : 1 ALPHA; fee = 0 bps; cooldown = 0 hari.
 
-**Konversi ke ALPHA**
+**Cash-Out Windows (v1)**
+- windows_per_year = 4; window_length_days = 7; min_payout_usd = 50; payout_fee_bps = 100; kyc_required = true.
 
-* `pc_to_alpha.mode` (linear/tiered/dynamic), `pc_to_alpha.ratio`, `pc_to_alpha.fee_bps`, `pc_to_alpha.cooldown_days`.
-* `sp_to_alpha.mode`, `sp_to_alpha.ratio`, `sp_to_alpha.fee_bps`, `sp_to_alpha.cooldown_days`.
+**Sponsor Gas & Batas (v1)**
+- sponsor_gas.enabled = true; actions_covered = [onboarding, convert_to_alpha, spend/access];
+- daily_cap_per_user ≈ $0.10; global_daily_budget ≈ $20; throttle_global = true; pausable = true.
 
-**Cash-Out Windows**
+**Anti-Penyalahgunaan & Sybil (v1)**
+- referral_cooldown_days = 1; max_tier1_joins_per_actor_per_day = 10;
+- require_unique_device = true; duplicate_device_limit = 2;
+- audit_sample_rate_pct = 5; wash_trade_zeroing = true; penalty_cooling_off_days = 7.
 
-* `windows_per_year`, `window_length_days`, `min_payout_usd`, `payout_fee_bps`, `kyc_required`.
-
-**Sponsor Gas & Batas**
-
-* `sponsor_gas.enabled`, `actions_covered[]`, `daily_cap_per_user`, `global_daily_budget`, `throttle_global`, `pausable`.
-
-**Batasan Laju/Kuota (Caps)**
-
-* `per_event_cap`, `per_day_alpha_spend_cap`, `per_user_weekly_cap`.
-
-**Anti-Penyalahgunaan & Sybil**
-
-* `referral_cooldown_days`, `unique_device_required`, `duplicate_device_limit`, `audit_sample_rate_pct`, `wash_trade_zeroing`, `penalty_cooling_off_days`.
-
-**Siklus Penyelesaian**
-
-* `accrual_frequency` (event), `points_settlement_frequency`.
-* `pool_distribution.gps`, `pool_distribution.wec_global_pool`, `pool_distribution.mc`, `pool_distribution.gmp`, `pool_distribution.gec`.
-
-**Observabilitas & KPI**
-
-* `metrics`: MAU/WAU, ARPU/GMV, biaya gas per 1.000 aksi, **Reward Gini Coefficient**, affiliate activation/retention.
-* `dataset_manifest` + checksum, `data_privacy.policy` (anonimisasi/PII).
-
-**Identitas & Registry**
-
-* `wallet_registry.source_of_truth`, `aa_provisioning.policy`, `allowed_system_flows` (alur internal mirip transfer).
-
-**Kepatuhan & Gerbang**
-
-* `legal_sign_off_gate` (wajib sebelum iBC/iBTC), `membership_purchase=fiat_only`, `pc_as_evidence=true`.
-
-**Perbendaharaan & Operasi Payout**
-
-* `multisig.env`, `sponsor_gas_topup_sop`, `payout_schedule`, `settlement_currency`.
+**Siklus Penyelesaian (v1)**
+- accrual_frequency = harian; points_settlement_frequency = mingguan;
+- pool_distribution: GPS = semesteran; WEC = triwulanan; MC = bulanan; GMP = bulanan; GEC = bulanan.
 
 ### Model Peristiwa (Minimal Final)
 
@@ -199,4 +185,3 @@ Catatan: daftar gap mengacu pada [UNDERSTANDING Doc](https://baca.endhonesa.com/
 P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ---
-
