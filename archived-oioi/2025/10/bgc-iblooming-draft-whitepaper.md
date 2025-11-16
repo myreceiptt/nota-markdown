@@ -183,6 +183,89 @@ Note: gap list refers to [UNDERSTANDING Doc](https://baca.endhonesa.com/all-nota
 
 ---
 
+## Glossary
+
+Here's a glossary of abbreviations and terms that appear/are related in this WHITEPAPER—concise and clear.
+
+### A–C
+
+* **AA (Smart Account / Account Abstraction)**: Contract-based wallet with programmable policies (e.g., sponsored gas, rate limits), mapped via the Wallet Registry.
+* **Actor ID**: Internal identifier for a user/entity in events.
+* **ALPHA**: Non-transferable ERC-20–interface loyalty/rights unit; **mint/burn** only via **AlphaController**; used for spend/access/stake.
+* **AlphaController**: Policy gateway for ALPHA (conversion ratios, caps, cooldowns, cash-out windows, pause).
+* **Append-only (ledger)**: Record system that only appends entries (no edits/deletes); audit-friendly.
+* **ARPU (Average Revenue per User)**: Average revenue per user in a period.
+* **AS-IS**: Existing process kept unchanged (e.g., specific BGC USD payouts).
+* **Audit trail**: Verifiable chain of evidence/events for review.
+
+### B–D
+
+* **Baseline/Target**: Initial KPI value and future goal (filled after 24-month data session).
+* **bps (basis points)**: 1/100 of a percent (1% = 100 bps).
+* **Cash-out windows**: Scheduled periods to move value out of the ecosystem (quarterly 7 days; $50 min; 1% fee; KYC).
+* **Cooling-off**: Temporary lock after violations.
+* **Cooldown**: Required wait time before re-attempting an action (v1 = 0).
+* **ConvertToALPHA**: Event converting PC/SP into ALPHA under policy.
+* **CSV/Parquet**: Data file formats for exports/analysis.
+
+### E–H
+
+* **Entitlement (rights)**: User claims/permissions backed by ledger records.
+* **Event**: Logged action in EventHub (e.g., `MintPC`, `EarnSP`, `SpendAccess`).
+* **EventHub**: Append-only event sink with **hashed proofs** anchoring off-chain documents.
+* **GEC/GMP/GPS/MC/WEC (pools)**: Distribution pools (GPS=semiannual; WEC=quarterly; MC/GMP/GEC=monthly) per UNDERSTANDING Doc.
+* **Gini (Reward Gini Coefficient)**: Inequality metric for reward distribution (0 = equal, higher = more unequal).
+* **GMV (Gross Merchandise Value)**: Gross value of transactions on the platform.
+
+### I–L
+
+* **iBC / iBTC**: Post–legal sign-off on-chain utility phase (for cross-app expansion).
+* **KPI (Key Performance Indicator)**: Core metrics (ARPU/GMV, cost per 1k actions, MAU/WAU, retention, Gini).
+* **KYC (Know Your Customer)**: Identity verification required for cash-out payouts.
+* **Ledger**: System of record (here: append-only).
+* **LTS**: Long-term tally of SP for affiliate levels/analytics.
+
+### M–P
+
+* **MAU/WAU (Monthly/Weekly Active Users)**: Distinct active users per month/week.
+* **MC/GMP/GEC/GPS/WEC**: See “GEC/GMP/GPS/MC/WEC (pools).”
+* **Mint/Burn**: Create/destroy ALPHA (controller-only).
+* **MintPC / SpendPC**: Events for issuing/using **PC** (physical-product proof).
+* **Non-transferable**: Not freely transferable between accounts (only system-governed flows).
+* **Pausable / Pause–Unpause**: Emergency switch to stop/start contract features.
+* **PC**: **Proof of physical-product transaction**; **100 PC = $1** baseline for ALPHA conversion.
+* **Pilot v1**: Initial operating configuration for the pilot phase.
+
+### Q–T
+
+* **Q1**: First quarter (initial sinks priority).
+* **Rate limit**: Per-user/system frequency/volume caps.
+* **Ref ID**: Reference identifier linking events to invoices/docs.
+* **Settlement**: Periodic rollups/clearing (daily/weekly/monthly/… rhythms).
+* **SP**: **Affiliate points** based on revenue (v1: **$1 SP → 1 ALPHA**).
+* **Spend/Access/Stake**: Three ALPHA utilities (purchase, feature/class access, commitment/participation).
+* **Stake-to-vote**: Participation/voting gated by stake (optional later phase).
+* **Sybil**: Abuse via multiple fake accounts to gain unfair advantage.
+
+### U–Z
+
+* **UNDERSTANDING Doc**: Source of truth for business/marketing model & USD payout rules (AS-IS).
+* **USD payout (AS-IS)**: Existing USD disbursements for specific BGC components; separate from ALPHA.
+* **Wallet Registry**: Mapping of users ↔ wallets/AA after Web3 Login.
+* **Web3 Login**: Unified sign-in that provisions a wallet/AA and ties identity to on-chain actions.
+* **WEC/GPS/MC/GMP/GEC**: See “GEC/GMP/GPS/MC/WEC (pools).”
+
+### Operational terms
+
+* **Audit sampling 5%**: Randomly reviewing ~5% of events/accounts.
+* **Daily cap per user ≈ $0.10; global ≈ $20**: Sponsored-gas daily limits (per account and system-wide).
+* **Duplicate device limit**: Max accounts allowed to share one device signature.
+* **Require unique device**: Enforce minimum device uniqueness to deter Sybil attacks.
+* **Throttle**: Automatic throughput reduction when thresholds are exceeded.
+* **Quarterly/Semiannual/Monthly**: Pool distribution and reconciliation cadence.
+
+---
+
 P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re‑tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ---
