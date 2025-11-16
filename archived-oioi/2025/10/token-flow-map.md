@@ -1,78 +1,78 @@
 ---
 description: >-
-  Peta alur nilai BGC × iBLOOMING dari AS-IS ke TO-BE di Base blockchain—menetapkan konversi PC/SP→ALPHA, model peristiwa append-only (hashed proofs), cash-out windows (KYC), serta parameter Pilot yang selaras dengan 5 Sasaran Strategis.
+  Value-flow map of BGC × iBLOOMING from AS-IS to TO-BE on Base blockchain—defining PC/SP→ALPHA conversion, an append-only event model (hashed proofs), cash-out windows (KYC), and Pilot v1 parameters aligned with the 5 Strategic Objectives.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
 ---
-title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"  
-version: "v1.0.0-draft"  
-date: "2025-10-28"  
-language: "ID"  
-ties_to:  
-  - [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (Outline)  
-  - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)) (definisi PC/SP)  
-  - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100) (Strategic Objectives)  
+title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"
+version: "v1.0.0-draft"
+date: "2025-10-28"
+language: "EN"
+ties_to:
+  - [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (Outline)
+  - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) (PC/SP definitions)
+  - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100) (Strategic Objectives)
 ---
 
-# 0. Glossary (sinkron UNDERSTANDING)
-- **PC**: 100 PC = 1 USD (utility utama: produk fisik BGC).
-- **SP**: meter hak reward; basis payout USD periodik.
-- **ALPHA**: *settlement layer* konversi PC/SP → rights; **ERC-20 interface, non-transferable; mint/burn hanya via AlphaController** (pra iBC/iBTC).
-- **iBC/iBTC**: token on-chain pasca simulasi/validasi.
+# 0. Glossary (aligned with UNDERSTANDING)
+- **PC**: 100 PC = 1 USD (primary utility: BGC physical products).
+- **SP**: meter of reward rights; basis for periodic USD payout.
+- **ALPHA**: *settlement layer* converting PC/SP → rights; **ERC-20 interface, non-transferable; mint/burn only via AlphaController** (pre-iBC/iBTC).
+- **iBC/iBTC**: on-chain tokens activated post simulation/validation.
 
-# 1. AS-IS (ringkas)
+# 1. AS-IS (brief)
 ## 1.1 BGC On-Ramp & PC
-- Fiat in → PC naik → belanja produk fisik → PC turun.
-- Pain: PC idle; utility terbatas.
+- Fiat in → PC increases → spend on physical products → PC decreases.
+- Pain points: idle PC; limited utility.
 
 ## 1.2 BGC SP & Payout
-- SP terbentuk dari aktivitas (LTS/RR/GR/...) → payout USD.
-- Pain: value keluar ekosistem; admin-dependency.
+- SP accrues from activities (LTS/RR/GR/…) → USD payout.
+- Pain points: value leaks out of ecosystem; admin dependency.
 
 ## 1.3 iBLOOMING Revenue & Rewards
-- Penerimaan & distribusi fiat periodik; transparansi real-time terbatas.
+- Periodic fiat intake & distribution; limited real-time transparency.
 
-# 2. TO-BE (konversi via ALPHA) 
+# 2. TO-BE (conversion via ALPHA)
 ## 2.1 Unified Conversion
-- PC→ALPHA: 100 PC : 1 ALPHA; fee 0; cooldown 0.
-- SP→ALPHA: $1 : 1 ALPHA; fee 0; cooldown 0.
-- Default: ALPHA dipakai untuk spend / access / stake (internal).
-- Payout USD untuk komponen BGC tertentu tetap AS-IS (lihat [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
+- PC→ALPHA: **100 PC : 1 ALPHA**; fee **0**; cooldown **0**.
+- SP→ALPHA: **$1 : 1 ALPHA**; fee **0**; cooldown **0**.
+- Default: ALPHA is used to **spend / access / stake** (internal).
+- USD payout for specific BGC components remains **AS-IS** (see [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
 
 ### 2.1.1 Cash-Out Windows (Pilot v1)
-- Frekuensi: 4× per tahun (triwulanan).
-- Durasi jendela: 7 hari per jendela.
-- Minimum payout: $50.
-- Biaya payout: 100 bps (1%).
-- KYC: wajib.
-- Catatan: jalur sekunder & terjadwal untuk nilai keluar ekosistem.
+- Frequency: **4× per year** (quarterly).
+- Window duration: **7 days** per window.
+- Minimum payout: **$50**.
+- Payout fee: **100 bps (1%)**.
+- **KYC required**.
+- Note: secondary, scheduled path for value to exit the ecosystem.
 
-## 2.2 Partner Loop (bertahap)
-- Akses belanja eksternal kurasi/terbatas → menjaga nilai tetap berputar.
+## 2.2 Partner Loop (phased)
+- Curated/limited external spending access → keeps value circulating.
 
 ## 2.3 Demand Engine (iBLOOMING)
-- Sinks & multiplier (kelas, fitur premium, boost) untuk serap nilai.
+- Sinks & multipliers (classes, premium features, boosts) to absorb value.
 
 # 3. Event Model (auditability)
-Definisi event pokok + field minimal:
+Key event definitions + minimal fields:
 - `JoinAffiliate`, `MintPC`, `SpendPC`, `EarnSP/AccrueLTS`, `CPContribution`, `PoolAccrual`, `ConvertToALPHA`, `Spend/Stake/Access`, `CashoutWindowOpened/Closed`, `PayoutUSD`.
 
-# 4. Policy Placeholders (diisi Tokenomics)
-- Rasio PC/SP → ALPHA, fee konversi, kuota mingguan, cooling-off.
-- Anti-wash & anti-self-dealing rules; dispute & rollback policy terbatas.
+# 4. Policy Placeholders (filled by Tokenomics)
+- PC/SP → ALPHA ratios, conversion fees, weekly quotas, cooling-off.
+- Anti-wash & anti-self-dealing rules; limited dispute & rollback policy.
 
-# 5. Alignment Table (Solusi ↔ GAP ↔ Objective ↔ KPI)
-| Solusi/Aturan | GAP yang Ditutup | Objective | KPI Utama | Catatan |
+# 5. Alignment Table (Solution ↔ GAP ↔ Objective ↔ KPI)
+| Solution/Policy                 | GAP Closed | Objective                         | Primary KPI                 | Notes |
 |---|---|---|---|---|
-| Jembatan PC/SP→ALPHA | Gap-1 | Revenue↑, Active users↑ | ARPU, MAU/WAU | [isi] |
-| Cash-out window terjadwal | Gap-2 | Cost↓, Tax↓ | Biaya/tx, Tax incidents | [isi] |
-| Append-only ledger (events) | Gap-4 | Cost↓ | MTTR ops, error rate | [isi] |
-| Rate-limit + anti-abuse | Gap-3 | Cost↓, Affiliate↑ | Ops cost, Retention | [isi] |
-| Sinks (kelas/fitur/boost) | Gap-6 | Revenue↑ | GMV on-platform | [isi] |
-| **Fairness metric** | Gap-(ops) | Affiliate↑, Active users↑ | **Reward Gini Coefficient** | [isi]
+| PC/SP→ALPHA bridge             | Gap-1      | Revenue↑, Active users↑           | ARPU, MAU/WAU               | [fill] |
+| Scheduled cash-out windows     | Gap-2      | Cost↓, Tax↓                       | Cost/tx, Tax incidents      | [fill] |
+| Append-only ledger (events)    | Gap-4      | Cost↓                             | Ops MTTR, error rate        | [fill] |
+| Rate-limit + anti-abuse        | Gap-3      | Cost↓, Affiliate↑                 | Ops cost, Retention         | [fill] |
+| Sinks (classes/features/boost) | Gap-6      | Revenue↑                           | On-platform GMV             | [fill] |
+| **Fairness metric**            | Gap-(ops)  | Affiliate↑, Active users↑         | **Reward Gini Coefficient** | [fill] |
 
 # 6. Open Questions
-- Ambang & frekuensi cash-out? Sinks prioritas Q1? Parameter rate-limit awal?
+- Cash-out thresholds & frequency? Q1 priority sinks? Initial rate-limit parameters?
