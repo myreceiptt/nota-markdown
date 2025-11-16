@@ -17,7 +17,7 @@ ties_to:
   - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100) (Strategic Objectives)  
 ---
 
-# 0. Glossary (sinkron UNDERSTANDING)
+# 0. Glosarium
 - **PC**: 100 PC = 1 USD (utility utama: produk fisik BGC).
 - **SP**: meter hak reward; basis payout USD periodik.
 - **ALPHA**: *settlement layer* konversi PC/SP → rights; **ERC-20 interface, non-transferable; mint/burn hanya via AlphaController** (pra iBC/iBTC).
