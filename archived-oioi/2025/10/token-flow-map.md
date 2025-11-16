@@ -1,8 +1,6 @@
 ---
 description: >-
-  We don't belong in your reality, your real life. In your reality, your real
-  life, you can merely meet our avatars in any version. So, stay alert and
-  beware of scams!
+  Peta alur nilai BGC × iBLOOMING dari AS-IS ke TO-BE di Base blockchain—menetapkan konversi PC/SP→ALPHA, model peristiwa append-only (hashed proofs), cash-out windows (KYC), serta parameter Pilot yang selaras dengan 5 Sasaran Strategis.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
