@@ -14,9 +14,9 @@ version: "v1.0.0-draft"
 date: "2025-10-28"  
 language: "ID"  
 ties_to:  
-  - WHITEPAPER v1 (Outline)  
-  - UNDERSTANDING Doc (definisi PC/SP)  
-  - LIVING Doc (Strategic Objectives)  
+  - [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (Outline)  
+  - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)) (definisi PC/SP)  
+  - [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100) (Strategic Objectives)  
 ---
 
 # 0. Glossary (sinkron UNDERSTANDING)
@@ -37,11 +37,20 @@ ties_to:
 ## 1.3 iBLOOMING Revenue & Rewards
 - Penerimaan & distribusi fiat periodik; transparansi real-time terbatas.
 
-# 2. TO-BE (konversi via ALPHA)
+# 2. TO-BE (konversi via ALPHA) 
 ## 2.1 Unified Conversion
-- PC/SP → **ALPHA rights** → default: spend / access / stake (internal).
-- Cash-out jadi opsi sekunder (window terjadwal, limit, anti-abuse).
-- **Payout USD** untuk komponen BGC tertentu **tetap AS-IS** (lihat [UNDERSTANDING.Doc.](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
+- PC→ALPHA: 100 PC : 1 ALPHA; fee 0; cooldown 0.
+- SP→ALPHA: $1 : 1 ALPHA; fee 0; cooldown 0.
+- Default: ALPHA dipakai untuk spend / access / stake (internal).
+- Payout USD untuk komponen BGC tertentu tetap AS-IS (lihat [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)).
+
+### 2.1.1 Cash-Out Windows (Pilot v1)
+- Frekuensi: 4× per tahun (triwulanan).
+- Durasi jendela: 7 hari per jendela.
+- Minimum payout: $50.
+- Biaya payout: 100 bps (1%).
+- KYC: wajib.
+- Catatan: jalur sekunder & terjadwal untuk nilai keluar ekosistem.
 
 ## 2.2 Partner Loop (bertahap)
 - Akses belanja eksternal kurasi/terbatas → menjaga nilai tetap berputar.
@@ -51,10 +60,7 @@ ties_to:
 
 # 3. Event Model (auditability)
 Definisi event pokok + field minimal:
-- `JoinAffiliate`, `MintPC`, `SpendPC`, `EarnSP(LTS/RR/GR/...)`,
-  `PayoutUSD`, `ConvertToALPHA`, `Spend/Stake/Access`,
-  `CashoutWindowOpened/Closed`.
-Field: `actor`, `timestamp`, `delta`, `new_state`, `proofs|refs`.
+- `JoinAffiliate`, `MintPC`, `SpendPC`, `EarnSP/AccrueLTS`, `CPContribution`, `PoolAccrual`, `ConvertToALPHA`, `Spend/Stake/Access`, `CashoutWindowOpened/Closed`, `PayoutUSD`.
 
 # 4. Policy Placeholders (diisi Tokenomics)
 - Rasio PC/SP → ALPHA, fee konversi, kuota mingguan, cooling-off.
