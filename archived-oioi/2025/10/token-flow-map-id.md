@@ -7,10 +7,10 @@ coverY: 0
 ---
 
 ---
-title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"
-version: "v1.0.0-draft"
-date: "2025-10-28"
-language: "ID"
+title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"  
+version: "v1.0.0-draft"  
+date: "2025-10-28"  
+language: "ID"  
 ties_to:
   - [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (Outline)
   - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) (definisi PC/SP)
