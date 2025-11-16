@@ -1,6 +1,6 @@
 ---
 description: >-
-  Value-flow map of BGC × iBLOOMING from AS-IS to TO-BE on Base blockchain—defining PC/SP→ALPHA conversion, an append-only event model (hashed proofs), cash-out windows (KYC), and Pilot v1 parameters aligned with the 5 Strategic Objectives.
+  Value-flow map of BGC × iBLOOMING from AS-IS to TO-BE on Base blockchain—defining PC/SP→ALPHA conversion, an append-only event model (hashed proofs), cash-out windows (KYC), and Pilot parameters aligned with the 5 Strategic Objectives.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
