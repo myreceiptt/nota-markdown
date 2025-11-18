@@ -22,7 +22,7 @@ ties_to:
 - **SP** — meter/hak reward; basis payout USD periodik.
 - **ALPHA** — *settlement layer* konversi PC/SP → hak (rights); **antarmuka ERC-20, non-transferable; mint/burn hanya via AlphaController** (pra iBC/iBTC).
 - **iBC / iBTC** — token on-chain yang diaktifkan pasca simulasi/validasi & legal sign-off.
-- **AA (Smart Account / Account Abstraction)** — dompet berbasis kontrak yang dipetakan via Wallet Registry (setelah Web3 Login).
+- **AA (Smart Account / Account Abstraction)** — dompet kontrak yang dipetakan via Wallet Registry (setelah Web3 Login).
 - **EventHub** — pencatat peristiwa *append-only* dengan **bukti ter-hash** ke dokumen/bukti off-chain.
 
 # 1. AS-IS (ringkas)
@@ -42,7 +42,7 @@ ties_to:
 - **PC→ALPHA:** 100 PC : 1 ALPHA; biaya **0**; cooldown **0**.  
 - **SP→ALPHA:** $1 : 1 ALPHA; biaya **0**; cooldown **0**.  
 - **Default:** ALPHA dipakai untuk **belanja / akses / stake** (internal).  
-- **Payout USD** pada komponen BGC tertentu tetap **AS-IS** (rujuk UNDERSTANDING Doc).
+- **USD payout** pada komponen BGC tertentu tetap **AS-IS** (rujuk UNDERSTANDING Doc).
 
 ### 2.1.1 Cash-Out Windows (v1 Pilot)
 - **Frekuensi:** 4× per tahun (triwulanan).  
@@ -125,4 +125,43 @@ Akses belanja eksternal yang terkurasi/terbatas → menjaga nilai tetap berputar
 
 # 8. Pertanyaan Terbuka
 - Ambang & frekuensi cash-out pasca pilot; prioritas sink Q1/Q2; parameter rate-limit awal/penyesuaian; *gates* ekspansi partner loop.
+
+---
+
+## Lampiran A — Skema CSV (opsional untuk tim data)
+**transaksi_pc.csv**  
+`actor_id,timestamp,amount_pc,channel,ref_id,data_url`
+
+**afiliasi_level.csv**  
+`actor_id,timestamp,level,channel,ref_id`
+
+**sp_lts_accrual.csv**  
+`actor_id,timestamp,amount_sp,reason,ref_id`
+
+**pool_distribution.csv**  
+`pool_type,timestamp,amount_usd,period_start,period_end,ref_id`  
+_Nilai `pool_type`: GPS|GMP|WEC|MC|GEC._
+
+**payout_usd.csv**  
+`actor_id,timestamp,amount_usd,method,ref_id,status`
+
+---
+
+## Lampiran B — iBC/iBTC (Blueprint Beta — sinkron WHITEPAPER §5.1)
+**Definisi singkat**: iBC/iBTC = utilitas likuid (transferable) dengan **cadangan USD+BTC**; diluncurkan **setelah** legal sign-off & simulasi 24 bulan.
+
+**Rumus inti**  
+- **NAV** = `U + p_BTC · B`  
+- **CR (Coverage Ratio)** = `NAV / S`  
+  - Target dipilih founder: konservatif **1.10**, netral **1.00**, atau agresif **0.90–0.95** (butuh guardrail).
+
+**Kebijakan mint/redeem (garis besar)**  
+- **Mint**: burn **ALPHA** pada rasio kebijakan **k** *atau* setor **USD/BTC** (CR ≥ target).  
+- **Redeem**: pada **cash-out windows**; haircut jika `CR < target`.
+
+**Rasio (k) ALPHA→iBC (uji beta)**  
+- Rentang kandidat: **10–25 ALPHA → 1 iBC**; dinamis mengikuti metrik ALPHA (retensi, MAU/WAU, Gini).
+
+**Guardrails Treasury**  
+- Band `w_BTC` **40–70%**; **USD floor** ≥ kebutuhan redeem 6 bulan; **mint pause** jika `CR < target` selama *N* hari.
 
