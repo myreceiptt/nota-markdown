@@ -33,7 +33,7 @@
   * [2025](archived-oioi/2025/README.md)
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
-      * [ALLIGMENT CALL WITH KK](archived-oioi/2025/11/alignment-call.md)
+      * [ALIGNMENT CALL WITH KK](archived-oioi/2025/11/alignment-call.md)
     * [202510](archived-oioi/2025/10/README.md)
       * [BGC X IBLOOMING TOKEN FLOW DRAFT](archived-oioi/2025/10/token-flow-map.md)
       * [BGC X IBLOOMING WHITE PAPER](archived-oioi/2025/10/bgc-iblooming-draft-whitepaper.md)
