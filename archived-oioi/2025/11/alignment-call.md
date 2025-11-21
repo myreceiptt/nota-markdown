@@ -1,6 +1,6 @@
 ---
 description: >-
-  Peta alur nilai BGC × iBLOOMING dari AS-IS ke TO-BE di Base—menetapkan konversi PC/SP→ALPHA, model peristiwa append-only (bukti ter-hash), cash-out windows (KYC), serta parameter Pilot v1 yang selaras dengan 5 Sasaran Strategis.
+  Just a small note before our call on Monday: The 2 years of raw data you sent me last month will be very useful. I haven’t fully cleaned or mapped it yet because I think we need to look at it together and agree on the “target structure” for the simulation (which fields we treat as source of truth, how to classify events, etc.). One of my goals for this call is to align on that mapping so I can move forward with the first simulation right after.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
