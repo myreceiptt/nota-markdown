@@ -1,6 +1,6 @@
 ---
 description: >-
-  Peta alur nilai BGC × iBLOOMING dari AS-IS ke TO-BE di Base—menetapkan konversi PC/SP→ALPHA, model peristiwa append-only (bukti ter-hash), cash-out windows (KYC), serta parameter Pilot v1 yang selaras dengan 5 Sasaran Strategis.
+  Peta alur nilai BGC × iBLOOMING dari AS-IS ke TO-BE di Base blockchain—menetapkan konversi PC/SP→ALPHA, model peristiwa append-only (bukti ter-hash), cash-out windows (KYC), serta parameter Pilot v1 yang selaras dengan 5 Sasaran Strategis.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
