@@ -17,7 +17,7 @@ coverY: 0
 > From reading your docs on Users, Accounts, Profiles, and Data Points (especially Primary ENS Domain and Basename under Base data points), it’s clear that ENS/Basenames are part of the identity model and can be queried via the API. What’s not totally clear is which of those identities are meant to be stable URL aliases (e.g., /name, /name.eth, /name.base.eth) and which ones are intentionally unsupported — and that’s exactly what our issue tries to map out with concrete examples.
 > 
 > Here’s a detailed write-up with all the addresses, URLs, and references to your docs:  
-> ➡️ [link to full issue](#1-context)
+> ➡️ [link to full issue](#id-1.-context)
 > 
 > If this kind of QA is useful, we’d be very happy to keep testing multi-identity / multi-brand scenarios and even contribute to docs or pre-release testing going forward.
 
