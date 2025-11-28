@@ -33,6 +33,7 @@
   * [2025](archived-oioi/2025/README.md)
     * [202512](archived-oioi/2025/12/README.md)
     * [202511](archived-oioi/2025/11/README.md)
+      * [TALENT PROTOCOL PROFILE RESOLUTION](archived-oioi/2025/11/talent-profile-resolution-inconsistent.md)
       * [ALIGNMENT CALL WITH KK](archived-oioi/2025/11/alignment-call.md)
     * [202510](archived-oioi/2025/10/README.md)
       * [BGC X IBLOOMING TOKEN FLOW DRAFT](archived-oioi/2025/10/token-flow-map.md)
