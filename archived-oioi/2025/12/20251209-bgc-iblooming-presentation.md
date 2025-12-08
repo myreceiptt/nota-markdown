@@ -1,10 +1,18 @@
+---
+description: >-
+  The goal of this session is to give a clear and structured picture of where the BGC × iBLOOMING integration currently stands — not in terms of document completeness, but in terms of system architecture, alignment, and decision readiness for Phase 1.
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # BGC x iBLOOMING Presentation by Prof. NOTA - 20251209
 
 ---
 
 ## ✅ I. FULL SLIDE DECK
 
-Here we provide the SLIDE PRESENTATION, 6–8 MINUTE SCRIPT, CHEAT SHEET, and CLOSING that is very concrete and not floating, all of which have been integrated with:
+Here we provide the SLIDE PRESENTATION, 6–8 MINUTE SCRIPT, and CLOSING that is very concrete and not floating, all of which have been integrated with:
 
 - [UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100) ✔️
 - [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) ✔️
@@ -427,7 +435,7 @@ Phase-1 implementation can proceed quickly and cleanly.”
 
 ---
 
-## ✅ III. FOUNDER Q&A CHEAT SHEET (SUPER SINGKAT)
+## ✅ III. Q & A
 
 ### **Q: Why are documents not final?**
 
@@ -470,5 +478,9 @@ so implementation can proceed without rework.”
 **Option 3:**
 “I coordinated cross-document consistency so that any provider
 — internal or external — can implement without ambiguity.”
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
 
 ---
