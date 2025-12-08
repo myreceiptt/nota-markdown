@@ -229,126 +229,199 @@ Whitepaper v1 + Tokenflow v1 + Simulation v1.
 
 ## ✅ II. FULL SCRIPT (6–8 MINUTES)
 
-### **Opening**
+### **🟦 Slide 1 — Title**
 
-“Thank you, everyone, for your time.
-Today’s goal is to give a clear picture of where the integration stands —
-not from the perspective of document completeness,
-but from the perspective of _system architecture and alignment_.”
+**BGC × iBLOOMING Integration Progress & Alignment (Phase 1)**
 
-“All the work so far has been grounded in five documents:
-the UNDERSTANDING Doc, the Whitepaper draft, the Tokenflow draft,
-the Web3 Login plan, and the Living Doc.
-Together, they establish a consistent foundation for Phase-1.”
+“Thank you, everyone, for your time today.
+The goal of this session is to give a clear and structured picture of where the BGC × iBLOOMING integration currently stands —
+not in terms of document completeness,
+but in terms of **system architecture, alignment, and decision readiness** for Phase 1.”
+
+“We will look at four things today:
+(1) the progress across all documents and flows;
+(2) the architecture and simulation plan;
+(3) the vendor quotation review;
+and (4) the specific decisions needed from founders.”
 
 ---
 
-### **UNDERSTANDING Doc (Source of Truth)**
+### **🟦 Slide 2 — Foundations: Documents Overview**
 
-“The UNDERSTANDING Doc defines the reality of BGC & iBLOOMING today:
+“All the work so far is grounded in **five core documents** that together form the foundation of Phase 1.”
+
+“The first is the **UNDERSTANDING Doc**, which defines the operational reality of BGC and iBLOOMING today —
 how PC is created and consumed, how SP functions,
 how USD payouts are calculated,
-the roles of LTS, RR, GR, GPSP, WEC, Miracle Cash, CP, and so on.”
+and the roles of LTS, RR, GR, GPSP, WEC, Miracle Cash, and CP.
+These AS-IS rules are essential, because they must remain unchanged.”
 
-“This document is essential because these AS-IS rules
-cannot be changed by tokenomics — they must be respected.”
+“The second is the **Whitepaper draft**, which establishes the conceptual and compliance framework —
+including ALPHA as a non-transferable rights unit
+and the value-flow principles.”
 
----
+“The third is the **Tokenflow draft**, which defines the PC/SP → ALPHA conversion logic,
+the event model, the append-only flow, and policy parameters.”
 
-### **The Completed Work: Architecture & Structure**
+“The fourth is the **Web3 Login document**,
+which defines how identity, wallet provisioning, and Smart Account mapping must work.”
 
-“From this, I have consolidated the flows into a three-layer architecture:
+“And lastly, the **Living Doc**, which contains the strategic objectives and constraints guiding the entire system.”
 
-1. BGC Core Business Layer
-2. iBLOOMING Identity & Demand Engine
-3. On-Chain Settlement Layer for ALPHA
-   with EventHub, append-only logs, and controlled Smart Accounts.”
-
-“The Whitepaper establishes the conceptual and compliance frame —
-ALPHA as a non-transferable rights unit,
-cash-out windows as a controlled exit,
-and KPIs tied to the five Strategic Objectives.”
-
-“The Tokenflow draft defines the conversion rules,
-the event model, and the operational parameters such as rate-limits,
-gas sponsorship caps, anti-Sybil policies, and settlement frequency.”
-
-“The simulation plan is ready to test the 24-month data
-to validate fairness, sustainability, and parameter selection.”
+“These five documents collectively define the architecture for Phase 1.”
 
 ---
 
-### **Web3 Login Integration**
+### **🟦 Slide 3 — What Has Been Completed (High-Level Progress)**
 
-“The Web3 Login design integrates smoothly with this architecture:
-user signs in → wallet provisioned → identity anchored →
-events recorded → ALPHA actions permitted with safeguards.”
+“Here is the work that has already been completed.”
 
-“This allows us to keep UX simple
-while still retaining auditability and control.”
+“First, the **UNDERSTANDING Doc** has been fully consolidated.
+All structural logic for PC, SP, LTS, RR/GR, GPSP, WEC, and CP flows have been clarified,
+and the AS-IS rules that cannot be changed are now clearly identified.”
+
+“Second, the system has been organized into a **three-layer architecture**:
+(1) the BGC Core Business Layer,
+(2) the iBLOOMING Identity and Demand Engine,
+and (3) the On-Chain Layer with ALPHA settlement, EventHub, and Smart Accounts.”
+
+“Third, the **Whitepaper** has a complete structural foundation —
+including its executive summary, problem–solution framing, KPIs, compliance narratives,
+and fairness metrics such as Reward Gini.
+Its core principle remains: PC/SP converts into ALPHA rights,
+which are non-transferable and tied to spend/access/stake actions.”
+
+“Fourth, the **Tokenflow skeleton** is established:
+conversion rules, cash-out windows, KYC requirements, quarterly schedules,
+and an append-only event model.”
+
+“And fifth, the **simulation plan** is ready.
+It will use 24 months of historical data to test parameter ranges, validate fairness,
+and ensure sustainability.”
 
 ---
 
-### **Vendor Quotation Review**
+### **🟦 Slide 4 — Architecture Overview**
 
-“We also reviewed Bullnium’s quotation of USD 52K.”
+“This is the architecture that emerges from the documents.”
+
+“**Layer 1** is the BGC Core —
+PC as proof of physical product and compliance for multi-level selling,
+and SP as the base for USD payouts through RR, GR, GPSP, and related mechanics.”
+
+“**Layer 2** is the iBLOOMING Demand Engine —
+which includes classes, features, boosts as ALPHA sinks,
+digital CP products,
+and reward multipliers that generate ecosystem utility.”
+
+“**Layer 3** is the On-Chain Layer, in a minimal Phase-1 form —
+a controlled ALPHA settlement contract,
+non-transferable ERC-20 behavior,
+an EventHub that records hashed proofs in an append-only format,
+a Wallet Registry mapping users to EOA or Smart Accounts,
+and sponsored gas limits that allow smooth UX without over-exposing the system.”
+
+“This combination provides **auditability** without adding unnecessary friction.”
+
+---
+
+### **🟦 Slide 5 — Web3 Login (Implementation View)**
+
+“Next is Web3 Login, which ties the system together at the identity level.”
+
+“The goals are simple:
+a unified login that works for all users,
+automatic wallet provisioning using either EOA or optional Smart Accounts,
+binding user identity to EventHub records,
+and enabling ALPHA actions with minimal friction.”
+
+“Technically, the design uses modern providers such as Thirdweb, Privy, or Reown.
+This reduces the need for custom contracts,
+keeps onboarding simple,
+and allows gas sponsorship for key ALPHA actions.”
+
+“We also enforce rate-limits and device rules —
+including anti-Sybil protections such as referral cooldowns
+and maximum Tier-1 joins per day.”
+
+“This design is fully aligned with the Whitepaper and Tokenflow documents.”
+
+---
+
+### **🟦 Slide 6 — Vendor Quotation Review: Bullnium (USD 52K)**
+
+“We also reviewed the quotation from Bullnium for USD 52,000.”
+
+“They propose a full custom build —
+custom Web2/Web3 login,
+custom Smart Accounts with Paymaster,
+a Smart Contract factory,
+identity services,
+and telemetry,
+with a six-month timeline and optional audit.”
 
 “The price is reasonable for a full custom build,
-but the scope is significantly larger than what Phase-1 requires.
-Many of the components — Smart Accounts, Paymaster, identity layers —
-are already available via modern providers
-and do not need to be developed from scratch.”
+but the **scope is far larger than what Phase 1 requires**.
+Many components overlap with what provider-based solutions already offer.
+And a six-month delivery is too slow for our roadmap.”
 
-“The custom approach would take six months;
-the modular approach would take four to six weeks.”
-
-“So for Phase-1, the modular approach is safer, faster, and fully compatible
-with all our documents.”
+“So for Phase 1, the modular provider-based approach is **faster** (four to six weeks),
+**safer**, and more aligned with the documents we have.”
 
 ---
 
-### **What Is Not Final Yet**
+### **🟦 Slide 7 — What Is NOT Final Yet**
 
-“What remains open is not the structure —
-that is already consistent across all documents —
-but the decisions needed from founders
-to move the documents into final form.”
+“At this point, the structure across all documents is complete.
+What is not final are the **parameters and decisions** that must come from founders.”
 
-“Whitepaper v1, Tokenflow v1, and Simulation v1
-depend on explicit parameter approval,
-provider choice for Web3 Login,
-and policy decisions such as cash-out rules,
-sinks priorities, and governance of the AlphaController.”
+“These include:
+the detailed PC/SP → ALPHA parameters,
+cash-out frequency and thresholds after pilot,
+governance for the AlphaController,
+provider selection for Web3 Login,
+simulation parameter acceptance,
+the decision between Bullnium or the modular approach,
+and the order of deliverables.”
+
+“What is already defined are the flows, the models, the scaffolding,
+and the guardrails.
+What remains is alignment on the choices.”
 
 ---
 
-### **Closing — What We Need From Founders (Very Concrete)**
+### **🟦 Slide 8 — Founder Decisions Required (Very Concrete)**
 
-“To proceed efficiently, we need six concrete decisions from founders:”
+“To move forward efficiently, there are six concrete decisions that founders need to make now for Phase 1.”
 
-1. **Choose the development approach for Web3 Login:**
-   modular provider vs custom build.
+“**First**, choose the development approach for Web3 Login:
+a modular provider approach — which is faster and recommended —
+or the Bullnium custom build, which will take six months.”
 
-2. **Fix the priority order of deliverables:**
-   Whitepaper first, Tokenflow first, or Simulation first.
+“**Second**, set the priority order of deliverables:
+Whitepaper v1 first,
+Tokenflow v1 first,
+or Simulation results first.
+These three depend on each other, so the sequence must be fixed.”
 
-3. **Approve the cash-out window policy for Pilot v1:**
-   quarterly windows, 7-day duration, minimum $50, 1% fee, KYC.
+“**Third**, approve the Pilot v1 cash-out policy —
+quarterly windows, seven-day duration, minimum fifty dollars,
+one percent fee, and mandatory KYC —
+or adjust it.”
 
-4. **Choose the provider for Web3 Login:**
-   Thirdweb, Privy, or Reown.
+“**Fourth**, select the provider for Web3 Login:
+Thirdweb, Privy, or Reown.”
 
-5. **Decide governance for the AlphaController:**
-   who holds authority (company, technical founder, multisig).
+“**Fifth**, assign governance of the AlphaController:
+the company, a technical founder, a multisig, or a hybrid model.”
 
-6. **Give approval to finalize Whitepaper v1 + Tokenflow v1 + Simulation v1
-   after alignment on these parameters.**
+“And **sixth**, give approval to finalize Whitepaper v1, Tokenflow v1, and Simulation v1
+after these parameters are aligned.”
 
-“These decisions will allow the documents to move from structured drafts
-into final versions ready for implementation.”
+“These decisions will allow the drafts to evolve into final documents ready for execution.”
 
-“Once alignment is complete,
-execution for Phase-1 can proceed quickly and cleanly.”
+“Once alignment is reached,
+Phase-1 implementation can proceed quickly and cleanly.”
 
 “Thank you.”
 
