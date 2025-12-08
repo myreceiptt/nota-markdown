@@ -1,4 +1,4 @@
-# BGC x iBLOOMING Prentation by Prof. NOTA - 20251209
+# BGC x iBLOOMING Presentation by Prof. NOTA - 20251209
 
 ---
 
@@ -159,7 +159,7 @@ Use **modular provider-based integration** → faster (4–6 weeks), safer, lowe
 
 ## **Slide 7 — What Is NOT Final Yet**
 
-### ❗Not final (needs founder decisions):
+### Not final (needs founder decisions):
 
 1. PC/SP → ALPHA detailed parameters (beyond v1 defaults)
 2. Cash-out frequency & thresholds post-pilot
@@ -362,7 +362,7 @@ Because parameters require explicit founder decisions.
 
 ### **Q: Does Bullnium make sense?**
 
-Price yes; scope no. Scope is too big for Phase-1.
+Price yes; scope no. The scope is too big for Phase 1.
 
 ### **Q: Why modular login?**
 
@@ -370,7 +370,7 @@ Price yes; scope no. Scope is too big for Phase-1.
 
 ### **Q: Is ALPHA a token?**
 
-ALPHA is non-transferable rights unit; not for trading.
+ALPHA is a non-transferable rights unit; not for trading.
 
 ### **Q: Does this change BGC’s USD payouts?**
 
