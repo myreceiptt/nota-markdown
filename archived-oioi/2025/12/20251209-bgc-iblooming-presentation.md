@@ -61,7 +61,7 @@ Here we provide the SLIDE PRESENTATION, 6–8 MINUTE SCRIPT, and CLOSING that is
 
 2. **[WHITEPAPER Doc v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100)** — Value-flow principles & ALPHA settlement layer
 
-3. **[TOKENFLOW Doc v1 (draf)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100)** — PC/SP → ALPHA conversion, event model, policy parameters
+3. **[TOKENFLOW Doc v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100)** — PC/SP → ALPHA conversion, event model, policy parameters
 
 4. **[WEB3LOGIN Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=wQewHM8gWWhQ0OPtUe6u&only=yes&limit=100)** — Unified identity, wallet provisioning, AA (Smart Account) mapping
 
@@ -399,9 +399,9 @@ This matches the WHITEPAPER and TOKENFLOW documents.
 
 ---
 
-## ✅ **APPENDIX**
+## ✅ **APPENDICES**
 
-### APPENDIX A — POST-MEETING DEBRIEF (Founder Zoom — Jan 2025)**
+### **APPENDIX A — POST-MEETING DEBRIEF (Founder Zoom — Jan 2025)**
 
 #### **A. Alignment Achieved**
 
