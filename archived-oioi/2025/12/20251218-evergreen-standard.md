@@ -1,7 +1,6 @@
 ---
 description: >-
-  This README is the contract and toolbox for EVERGREEN maintenance. When provided, ChatGPT must work repository-by-repository, apply Monthly/Quarterly rules, maintain behavior parity, and use the canonical README blocks.
-icon: markdown
+  This README is the contract and toolbox for EVERGREEN maintenance. When provided, Prof. NOTA's AI assistants (ie, ChatGPT, CODEX) must work repository-by-repository, apply Monthly/Quarterly rules, maintain behavior parity, and use the canonical README blocks.
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
@@ -10,9 +9,9 @@ coverY: 0
 
 ## 0. Purpose
 
-This document defines how ChatGPT must help Prof. NOTA maintain repositories using the **EVERGREEN Standard**.
+This document defines how AI assistants (ie, ChatGPT, CODEX) must help Prof. NOTA maintain repositories using the **EVERGREEN Standard**.
 
-If this README is given at the start of a conversation, ChatGPT must:
+If this README is given at the start of a conversation, the AI assistant (ie, ChatGPT, CODEX) must:
 
 - Enter **EVERGREEN MODE**.
 - Follow the steps here **without deviation**.
@@ -70,7 +69,7 @@ Each repo must be classified:
 
 ## 3. Monthly Evergreen Process
 
-ChatGPT must follow this order for **each repo under Monthly**.
+The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo under Monthly**.
 
 ### 3.1 Monthly for App Repo (Class A / C)
 
@@ -168,7 +167,7 @@ Rules:
 
 ---
 
-## 5. ChatGPT Behaviour in Evergreen Mode
+## 5. The AI assistant (ie, ChatGPT, CODEX) Behaviour in Evergreen Mode
 
 When this README is supplied:
 
@@ -225,7 +224,7 @@ A repo is considered “Evergreen-clean” for this cycle when:
 
 ## 7. Triggering Evergreen Mode in a New Chat
 
-When Prof. NOTA shares this README in a new chat, ChatGPT must:
+When Prof. NOTA shares this README in a new chat, the AI assistant (ie, ChatGPT, CODEX) must:
 
 1. Immediately enter **EVERGREEN MODE**.
 2. Ask only one thing at the start:
@@ -245,7 +244,7 @@ When Prof. NOTA shares this README in a new chat, ChatGPT must:
 These blocks are **special**.
 They are **receipts** and part of the Prof. NOTA IP.
 
-Rules for ChatGPT:
+Rules for the AI assistant (ie, ChatGPT, CODEX):
 
 - Always wrap with double horizontal rules at top and bottom:
 
@@ -471,7 +470,7 @@ Examples:
 ## 9. Summary
 
 - This README is the **contract** and **toolbox** for EVERGREEN maintenance.
-- When provided, ChatGPT must:
+- When provided, the AI assistant (ie, ChatGPT, CODEX) must:
 
   - work repo-by-repo,
   - apply Monthly / Quarterly rules,
