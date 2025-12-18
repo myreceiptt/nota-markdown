@@ -1,6 +1,6 @@
 ---
 description: >-
-  This README is the **contract** and **toolbox** for EVERGREEN maintenance. When provided, ChatGPT must work repo-by-repo, apply Monthly / Quarterly rules, maintain behaviour parity, and use the canonical README blocks.
+  This README is the contract and toolbox for EVERGREEN maintenance. When provided, ChatGPT must work repository-by-repository, apply Monthly/Quarterly rules, maintain behavior parity, and use the canonical README blocks.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
