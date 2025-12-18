@@ -94,7 +94,11 @@ The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo und
    - Fix issues that can be solved by patch/minor updates.
    - If a major upgrade is required, record it as Quarterly work.
 
-4. **Build**
+4. **Package manager rule**
+
+   > **If this repo uses a package manager (Yarn / npm / pnpm), its version must also follow Evergreen rules — Monthly for patch/minor updates and Quarterly for major updates.**
+
+5. **Verify build**
 
    Use the repo’s real build script (do not invent new ones).
 
@@ -105,7 +109,7 @@ The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo und
    - Next.js: `yarn build`
    - PABRIKROTI: documented build script only
 
-5. **Production parity check**
+6. **Production parity check**
 
    - Live URL loads correctly.
    - No critical errors in browser console.
@@ -115,7 +119,7 @@ The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo und
      - confirmed “MINT CLOSED” (or equivalent),
      - no wallet prompts / connect flows.
 
-6. **Record that Monthly for this repo is DONE.**
+7. **Record that Monthly for this repo is DONE.**
 
 ---
 
@@ -143,6 +147,9 @@ Examples:
 - React / Next.js / CRA major,
 - Web3 stack major,
 - Bundler / toolchain changes.
+- **Package manager major versions (Yarn / npm / pnpm)**
+
+> **If this repo uses a package manager (Yarn / npm / pnpm), its version must also follow Evergreen rules — Monthly for patch/minor updates and Quarterly for major updates.**
 
 Rules:
 
