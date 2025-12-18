@@ -35,6 +35,7 @@
 * [ARCHIVED, OiOi!](archived-oioi/README.md)
   * [2025](archived-oioi/2025/README.md)
     * [202512](archived-oioi/2025/12/README.md)
+      * [THE EVERGREEN STANDARD - README](archived-oioi/2025/12/20251218-evergreen-standard.md)
       * [BGC X IBLOOMING WORKING PRESENTATION](archived-oioi/2025/12/20251209-bgc-iblooming-presentation.md)
       * [TALENT PROTOCOL EMAIL VERIFICATION](archived-oioi/2025/12/talent-email-verification-redirects.md)
     * [202511](archived-oioi/2025/11/README.md)
