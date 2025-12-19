@@ -5,7 +5,7 @@ cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
 
-# Prof. NOTA – EVERGREEN Standard (README v1.1)
+# Prof. NOTA – EVERGREEN Standard (README v1.7)
 
 ## 0. Purpose
 
@@ -28,13 +28,18 @@ The goal:
 
 1. Apps are **feature-frozen** (no new UX / business features).
 2. Repos must stay:
+
    - easy to clone / fork,
    - easy to build,
    - easy to redeploy on modern platforms (e.g. Vercel).
+
 3. Evergreen maintenance:
+
    - aims to **avoid introducing new bugs or UX drift**, and
    - **fixes issues caused by Node, dependency, or platform changes** in a controlled way.
+
 4. After a full Evergreen cycle for a repo (Monthly + Quarterly for that repo), the target is:
+
    - `yarn outdated` is **empty** (no red, no yellow),
    - except for packages that are _intentionally pinned_ and documented.
 
@@ -64,6 +69,13 @@ Each repo must be classified:
 - Needs **Monthly** + **Quarterly** with stronger parity checks (behaviour must remain identical).
 
 > In practice, Class C is a special case of Class A with stricter parity rules.
+
+### Class D — Support/Test Workspace
+
+- Internal tooling/tests only (no deployable app, no live URL).
+- Has Node.js + `package.json` + lockfile.
+- Typical contents: test harnesses, SDKs, scripts.
+- Needs **Monthly** and **Quarterly** Evergreen (install/audit/test only; no build/deploy).
 
 ---
 
@@ -99,10 +111,7 @@ The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo und
    > **If this repo uses a package manager (Yarn / npm / pnpm), its version must also follow Evergreen rules — Monthly for patch/minor updates and Quarterly for major updates.**
 
 5. **Verify build**
-
    Use the repo’s real build script (do not invent new ones).
-
-   Examples:
 
    - CRA: `yarn build`
    - CRACO: `yarn build`
@@ -137,6 +146,43 @@ The AI assistant (ie, ChatGPT, CODEX) must follow this order for **each repo und
 
 ---
 
+### 3.3 Monthly for Support/Test Workspace (Class D)
+
+1. **Install cleanly**
+
+   ```bash
+   yarn|npm|pnpm ci
+   ```
+
+2. **Check outdated packages** (patch/minor only)
+
+   ```bash
+   yarn|npm|pnpm outdated
+   ```
+
+3. **Apply safe (non-major) updates**
+
+   ```bash
+   yarn|npm|pnpm upgrade|update   # use the repo’s package manager
+   ```
+
+4. **Security check**
+
+   ```bash
+   yarn|npm|pnpm audit --level moderate
+   ```
+
+5. **Run tests**
+
+   ```bash
+   yarn|npm|pnpm test
+   ```
+
+6. **No build/deploy step** (not applicable for Class D).
+7. **Record that Monthly for this repo is DONE.**
+
+---
+
 ## 4. Quarterly Evergreen Process
 
 Quarterly is for **major** upgrades.
@@ -154,20 +200,23 @@ Examples:
 Rules:
 
 1. Only **one major upgrade cluster** per PR.
-
 2. Must:
 
    - install cleanly,
-   - build cleanly,
-   - deploy cleanly,
-   - pass production parity.
+   - build cleanly (or, for Class D, tests must pass cleanly),
+   - deploy cleanly (if applicable),
+   - pass production parity (if applicable).
 
 3. For Class C artefacts:
 
    - The output UX must remain identical.
    - “MINT CLOSED/no wallet prompt” behaviour must persist.
 
-4. After a full Quarterly cycle for a repo:
+4. For Class D:
+
+   - Focus majors on runtime/tooling (Node, test runner, SDKs); ensure tests pass. No deploy step.
+
+5. After a full Quarterly cycle for a repo:
 
    - the ideal target is `yarn outdated` empty,
    - except for any pinned packages (with reasons documented).
@@ -221,9 +270,9 @@ A repo is considered “Evergreen-clean” for this cycle when:
 - The repo:
 
   - installs cleanly,
-  - builds cleanly,
-  - deploys cleanly,
-  - behaves the same (UX) in production.
+  - builds cleanly (or, for Class D, tests run cleanly),
+  - deploys cleanly (if applicable),
+  - behaves the same (UX) in production (if applicable).
 
 - `yarn outdated` returns nothing (no red/yellow), **or** the remaining items are explicitly pinned and documented.
 
@@ -240,7 +289,7 @@ When Prof. NOTA shares this README in a new chat, the AI assistant (ie, ChatGPT,
 
 3. Then:
 
-   - classify the repo (A/B/C),
+   - classify the repo (A/B/C/D),
    - follow Monthly or Quarterly steps, one by one,
    - use the appropriate README block template from Section 8.
 
@@ -265,7 +314,6 @@ Rules for the AI assistant (ie, ChatGPT, CODEX):
   ```
 
 - Do **not** change the structure or meaning of the templates.
-
 - You may only adjust **specific details** to fit a repo:
 
   - Node version,
@@ -273,7 +321,7 @@ Rules for the AI assistant (ie, ChatGPT, CODEX):
   - deploy target,
   - build system notes.
 
-There are four canonical patterns.
+There are five canonical patterns.
 
 ---
 
@@ -290,12 +338,17 @@ This repo is intended to stay evergreen while remaining production-safe.
 ### Runtime
 
 - Node: **24.x** (see `.nvmrc` and `package.json#engines`)
+
   - ~~example alternatives: 22.x / 20.x (adjust if platform requires)~~
+
 - Package manager:
+
   - **Yarn** (lockfile: `yarn.lock`)
   - ~~PNPM (lockfile: `pnpm-lock.yaml`)~~
   - ~~NPM (lockfile: `package-lock.json`)~~
+
 - Deploy target:
+
   - **Vercel**
   - ~~Netlify~~
   - ~~Self-hosted / Docker~~
@@ -304,22 +357,29 @@ This repo is intended to stay evergreen while remaining production-safe.
 ### Monthly Safe Updates (recommended)
 
 1. Check what’s outdated:
+
    - `yarn outdated`
    - ~~pnpm outdated~~
    - ~~npm outdated~~
+
 2. Upgrade safe (patch/minor) versions:
+
    - `yarn upgrade`
    - ~~pnpm update~~
    - ~~npm update~~
    - or upgrade specific packages shown as non-major
+
 3. Verify:
+
    - `yarn audit --level moderate`
    - ~~pnpm audit~~
    - ~~npm audit~~
    - `yarn build`
    - ~~pnpm build~~
    - ~~npm run build~~
+
 4. Deploy:
+
    - **Vercel auto-deploy from `main`**
    - ~~manual deploy according to platform workflow~~
 
@@ -327,7 +387,7 @@ This repo is intended to stay evergreen while remaining production-safe.
 
 Major upgrades (framework, runtime, or core tooling) must be done one at a time, with a dedicated PR and full testing.
 
-Examples of major upgrades:
+Examples:
 
 - Node major version
 - Next.js / React major version
@@ -360,8 +420,11 @@ No build system, package manager, or runtime dependency is used by design.
 - Build step: **None**
 - Package manager: **None**
 - Dependency model:
+
   - External scripts via CDN only (documented and pinned)
+
 - Deploy target:
+
   - **Vercel (static hosting)**
   - ~~Netlify~~
   - ~~Self-hosted / Docker~~
@@ -371,7 +434,9 @@ No build system, package manager, or runtime dependency is used by design.
 
 - All JS and CSS files are **content-hashed**
 - Static assets are served with:
+
   - `Cache-Control: public, max-age=31536000, immutable`
+
 - HTML files are served with revalidation enabled
 - No further JS/CSS changes are expected
 
@@ -382,12 +447,17 @@ There are **no routine dependency updates**.
 Recommended periodic checks (manual, optional):
 
 1. Verify deployment health:
+
    - No 404 errors
    - No mixed-content warnings
+
 2. Verify headers:
+
    - Cache-Control
    - Security headers (nosniff, referrer-policy, etc.)
+
 3. Verify external services:
+
    - Analytics IDs still active
    - CDN links still valid
 
@@ -396,6 +466,7 @@ Recommended periodic checks (manual, optional):
 - JS/CSS changes: **Not allowed**
 - Asset updates: **Not allowed**
 - Content updates:
+
   - HTML-only
   - Must not introduce new runtime dependencies
 
@@ -439,12 +510,19 @@ production-safe on Vercel.
 Monthly is **monitor + verify**, not modernization.
 
 1. Check what’s outdated (report only):
+
    - `yarn outdated`
+
 2. Security report (report only unless explicitly approved):
+
    - `yarn audit --level moderate`
+
 3. Verify build reproducibility:
+
    - `yarn build` (or `yarn build:artefact` if kept)
+
 4. Verify production sanity:
+
    - Confirm “MINT CLOSED”
    - Confirm no wallet prompts / connect flows
    - Confirm no critical console errors
@@ -466,6 +544,74 @@ Examples:
 - Minting must remain **disabled**
 - Wallet connect must remain **disabled**
 - Any functional change requires a versioned successor (new tag/release)
+
+---
+
+---
+```
+
+---
+
+### 8.4 Sample 5 – Support/Test Workspace (no deployable app)
+
+```md
+---
+---
+
+## Maintenance by Prof. NOTA Evergreen Standard
+
+This repo is a **Support/Test Workspace** (no deployable app). It must stay evergreen so tests/scripts remain reliable.
+
+### Runtime
+
+- Node: **24.x** (see `.nvmrc` and `package.json#engines`)
+
+  - ~~example alternatives: 22.x / 20.x (adjust if platform requires)~~
+
+- Package manager:
+
+  - **NPM** (lockfile: `package-lock.json`)
+  - ~~Yarn (lockfile: `yarn.lock`)~~
+  - ~~PNPM (lockfile: `pnpm-lock.yaml`)~~
+
+- Deploy target: **None (tests/tooling only)**
+
+### Monthly Safe Updates (recommended)
+
+1. Check what’s outdated:
+
+   - `npm outdated`
+   - ~~yarn outdated~~
+   - ~~pnpm outdated~~
+
+2. Upgrade safe (patch/minor) versions:
+
+   - `npm update`
+   - or upgrade specific packages shown as non-major
+
+3. Verify:
+
+   - `npm audit --audit-level=moderate`
+   - ~~yarn audit~~
+   - ~~pnpm audit~~
+
+4. Tests:
+
+   - `npm test`
+
+5. Build/deploy:
+
+   - Not applicable (no build/deploy step)
+
+### Major Updates (quarterly / scheduled)
+
+Major upgrades (runtime/tooling) must be done one at a time, with a dedicated PR and full testing.
+
+Examples:
+
+- Node major version
+- Test runner/tooling major version (e.g., Vitest/Jest)
+- SDK major (e.g., Clarinet SDK)
 
 ---
 
