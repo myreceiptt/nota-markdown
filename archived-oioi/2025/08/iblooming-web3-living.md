@@ -10,7 +10,7 @@ coverY: 0
 
 # iBLOOMING Web3 Strategic Execution Plan (Living Document)
 
-This document serves as the **living strategic execution guide** for iBLOOMING's transition into Web3, combining insights from the meetings on **July 10** and **July 11, 2025**. Unlike narrative meeting notes, this document summarizes what must be done, by whom, and why — and evolves over time.
+This document serves as the **living strategic execution guide** for iBLOOMING's transition into Web3, combining insights from the meetings on **July 10** and **July 11, 2025**. Unlike narrative meeting notes, this document summarizes what must be done, by whom, and why — and evolves.
 
 ---
 
