@@ -143,7 +143,7 @@ This matrix is a **living strategy map**, not a finalized execution plan, and wi
 >    Wallet Registry, governance model) for execution by the engineering team.
 >
 > The original Next Steps table below remains valid as a structural map, but the
-> short-term priority sequence is:
+> short-term priority sequence is:  
 > **SIMULATION → WHITEPAPER v1 → TOKENFLOW v1 → ALPHA Blueprint.**
 
 (Original Source – 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota))
