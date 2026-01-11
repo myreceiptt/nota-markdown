@@ -1,6 +1,6 @@
 ---
 description: >-
-  This document serves as the strategic and operational reference for the Web3 Integration of BGC & iBLOOMING, derived from discussions with the founders on July 10–11, 2025.
+  OiOi, this document serves as the strategic and operational reference for the Web3 Integration of BGC & iBLOOMING, derived from discussions with the founders on July 10–11, 2025.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
