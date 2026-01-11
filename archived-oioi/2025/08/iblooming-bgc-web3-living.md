@@ -103,7 +103,14 @@ These are the four validated **core execution pillars** agreed upon by all found
 
 ## 📊 EXECUTION MATRIX – CYCLE
 
-(Original Strategy – 10 July 2025: [Day 1: Simulated Execution Matrix Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-simulated-execution-matrix))
+> 🧭 **Note – Original Strategy Map (10 July 2025: [Day 1: Simulated Execution Matrix Section](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-simulated-execution-matrix))**
+>
+> This matrix captures the original execution cycle and long-term structure
+> (ALPHA layer, tokenomics, Web3 Login, iBC/iBTC, cross-app utility, legal).
+> It is kept as a strategic reference. For current Phase-1 priorities and
+> updated focus, see:
+> - “[✅ FOUNDER ZOOM ALIGNMENT — DECEMBER 2025](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?limit=100&only=yes&page=ijQlNvGkp9UTE2LR2Tjm#pdf-page-ijQlNvGkp9UTE2LR2Tjm-founder-zoom-alignment-december-2025)” above, and
+> - “[🔜 NEXT STEPS (Our Focus)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?limit=100&only=yes&page=ijQlNvGkp9UTE2LR2Tjm#pdf-page-ijQlNvGkp9UTE2LR2Tjm-next-steps-our-focus)” below.
 
 **How to Read:**
 
@@ -146,7 +153,7 @@ This matrix is a **living strategy map**, not a finalized execution plan, and wi
 > short-term priority sequence is:  
 > **SIMULATION → WHITEPAPER v1 → TOKENFLOW v1 → ALPHA Blueprint.**
 
-(Original Source – 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota))
+The table below is kept as the original step breakdown from 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota). The Simulation-first update above overrides the immediate priority order, but the structural steps here remain valid as a reference checklist.
 
 **Status Legend**: ✅ Done | 🛠 In Progress | 🧪 Planned | 🧭 TBD
 
