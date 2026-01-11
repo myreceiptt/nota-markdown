@@ -19,6 +19,15 @@ It compiles key insights from these discussions, confirms agreed decisions, and 
 
 This living document is to be read, updated, and agreed upon by all founders, serving as a unified point of reference to keep the integration process synchronized and on track.
 
+> 🔄 **Update Note — Post-Founder Zoom (10 December 2025)**
+>
+> This Living Doc should now be read together with the
+> **BGC × iBLOOMING Working Presentation (Founder Alignment & Phase-1 Roadmap)**,
+> which captures the founder Zoom alignment, full slide deck, and the
+> Phase-1 Simulation-first roadmap.
+>
+> Link: [BGC × iBLOOMING Working Presentation](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=LTttfKln1a7ak66MMNUA&only=yes&limit=100)
+> 
 > ℹ️ **Definition Note**:
 >
 > * **ALPHA Coin** = *loyalty/rights ledger*; **ERC-20 interface, non-transferable**; **mint/burn only via AlphaController**; formalizes BGC & iBLOOMING’s 2023–2025 reward logic.
@@ -56,6 +65,22 @@ As reaffirmed during the founder discussions, the **iBC/iBTC token architecture*
 5. **Expand Active User Base** – Increase total active users engaging with BGC & iBLOOMING products and services.
 
 Each objective will be simulated, measured, and validated through actual token behavior and tangible utility, ensuring that all execution pillars (see Section 4) are aligned with these targets.
+
+---
+
+## ✅ FOUNDER ZOOM ALIGNMENT — DECEMBER 2025
+
+- Founders accepted the current three-layer architecture and the document stack
+  ([UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100), [WHITEPAPER Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100), [TOKENFLOW Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100), [WEB3LOGIN Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=wQewHM8gWWhQ0OPtUe6u&only=yes&limit=100), and this
+  [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?limit=100&only=yes&page=ijQlNvGkp9UTE2LR2Tjm)) as the **baseline for Phase 1**.
+- Simulation work is acknowledged as a **mandatory first step** before
+  finalising any numeric parameters (conversion rates, windows, caps, etc.).
+- ALPHA is reaffirmed as an **internal rights/simulation unit**, not a public
+  or tradeable token; any public token (e.g. iBC/iBTC) will be handled on a
+  separate track, after data validation and legal sign-off.
+- Cash-out logic for members may **follow the existing BGC model** unless
+  founders explicitly choose a different policy.
+- Weekly coordination was requested to keep momentum and prevent drift.
 
 ---
 
@@ -106,6 +131,21 @@ This matrix is a **living strategy map**, not a finalized execution plan, and wi
 
 ## 🔜 NEXT STEPS (Our Focus)
 
+> 🔁 **Update – Simulation-First Priority (Post Founder Zoom, Dec 2025)**
+>
+> The immediate execution focus is now:
+>
+> 1. Complete **[SIMULATION Doc v0.1](/#)** and run simulations on the 24-month
+>    dataset.
+> 2. Use simulation outputs to finalise **[WHITEPAPER v1](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100)** and **[TOKENFLOW v1](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100)**
+>    (parameters, formulas, and guardrails).
+> 3. Prepare the **ALPHA Implementation Blueprint** (smart contracts, EventHub,
+>    Wallet Registry, governance model) for execution by the engineering team.
+>
+> The original Next Steps table below remains valid as a structural map, but the
+> short-term priority sequence is:
+> **SIMULATION → WHITEPAPER v1 → TOKENFLOW v1 → ALPHA Blueprint.**
+
 (Original Source – 10 July 2025: [Day 1: Next Steps](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100#pdf-page-u7cWvEAZRNFOnaeRQrvk-next-step-suggested-by-prof.-nota))
 
 **Status Legend**: ✅ Done | 🛠 In Progress | 🧪 Planned | 🧭 TBD
@@ -130,7 +170,7 @@ This matrix is a **living strategy map**, not a finalized execution plan, and wi
 
 **Document Status: Living**  
 ✍️ Authored by Prof. NOTA v.11.11  
-🗓️ Last Updated: 29 October 2025  
+🗓️ Last Updated: 11 December 2025  
 📌 For coordination across BGC & iBLOOMING Founders  
 🔁 To be updated as dependencies shift or new constraints appear.
 
