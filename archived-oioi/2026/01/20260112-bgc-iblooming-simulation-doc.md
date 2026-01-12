@@ -28,8 +28,8 @@ Its main purposes are:
   - cash-out windows and thresholds,
   - treasury protection and risk limits.
 - To provide **data-backed input** for:
-  - [WHITEPAPER v1](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (final wording and numbers),
-  - [TOKENFLOW v1](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100) (final formulas and guards),
+  - [WHITEPAPER v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (final wording and numbers),
+  - [TOKENFLOW v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100) (final formulas and guards),
   - ALPHA Implementation Blueprint (contract-level rules).
 
 This Simulation Doc reads together with:
@@ -89,7 +89,7 @@ This Simulation Doc reads together with:
 ### 3.2 Key Assumptions
 
 - Data is sufficiently clean to support scenario modeling (minor anomalies will be noted).
-- AS-IS reward rules from **UNDERSTANDING Doc** are taken as **baseline behaviour**.
+- AS-IS reward rules from **[UNDERSTANDING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=4Eh8GomcmSGx85uX6sBg&only=yes&limit=100)** are taken as **baseline behaviour**.
 - No new external shocks (e.g. regulation bans) are assumed in v0.1 scenarios.
 - Public token (iBC/iBTC) will be derived **after** ALPHA layer validation.
 
@@ -176,7 +176,7 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 - Sponsored gas ceilings:
   - max sponsorship per user per day,
   - global sponsorship cap per day.
-- Anti-Sybil parameters (from TOKENFLOW draft):
+- Anti-Sybil parameters (from [TOKENFLOW draft](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100)):
   - referral cooldown,
   - max Tier-1 joins/day per actor,
   - device-uniqueness limits.
@@ -281,8 +281,8 @@ From this Simulation v0.1, we expect:
   - proposed caps and guardrails.
 
 - **Inputs for:**
-  - WHITEPAPER v1 (final numbers and narrative),
-  - TOKENFLOW v1 (final formulas and policy tables),
+  - [WHITEPAPER v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=307NXv8YeYMxsWTZaV5z&only=yes&limit=100) (final numbers and narrative),
+  - [TOKENFLOW v1 (draft)](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=USH0cBRq7yGXLwTmmFDJ&only=yes&limit=100) (final formulas and policy tables),
   - ALPHA Implementation Blueprint (contract-variable defaults).
 
 ***
@@ -318,3 +318,8 @@ Next immediate task:
   - parameter tables,
   - scenario configuration.
 
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
