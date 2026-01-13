@@ -233,6 +233,13 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 
 We will define multiple simulation scenarios.
 
+Each scenario will produce metrics for:
+
+- sustainability,
+- fairness,
+- liquidity,
+- member experience.
+
 ### 6.1 Baseline Scenario
 
 - Mirrors AS-IS behaviour as closely as possible.
@@ -256,13 +263,6 @@ We will define multiple simulation scenarios.
 - Rapid membership growth (e.g. 2× active members in 12 months).
 - High cash-out demand (spike in withdrawals).
 - Changes in behaviour due to new ALPHA sinks.
-
-Each scenario will produce metrics for:
-
-- sustainability,
-- fairness,
-- liquidity,
-- member experience.
 
 ### 6.5 Scenario Parameter Sets (v0.1)
 
