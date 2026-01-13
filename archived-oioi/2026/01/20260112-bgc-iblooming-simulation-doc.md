@@ -264,6 +264,90 @@ Each scenario will produce metrics for:
 - liquidity,
 - member experience.
 
+### 6.5 Scenario Parameter Sets (v0.1)
+
+For v0.1, not all parameters will be varied across scenarios.  
+We will focus on a **subset of primary “knobs”**:
+
+- Reward intensity & pools: `R_global`, `R_pool`
+- ALPHA caps & sinks: `cap_u`, `cap_g`, `S_target`
+- Treasury safety: `T_runway`, `T_payoutMax`
+- Cash-out behaviour: `C_mode`, `C_min_usd`, `C_fee_bps`, `C_win_year`, `C_win_days`
+- Web3 ops: `G_user_daily_usd`, `G_global_daily_usd`
+
+All other parameters will **remain at their default values** for v0.1, unless explicitly stated.
+
+#### 6.5.1 Core Scenario Grid
+
+| Parameter                  | Baseline (AS-IS-ish)            | Conservative (“Safety-First”)             | Growth (“Expansion”)                         | Notes                                               |
+| -------------------------- | -------------------------------- | ------------------------------------------ | -------------------------------------------- | --------------------------------------------------- |
+| `R_global`                | 1.0                              | 0.85                                       | 1.15                                         | Scale all rewards vs AS-IS.                        |
+| `R_pool`                  | 1.0                              | 0.9                                        | 1.1                                          | Pool share intensity.                              |
+| `cap_u` (user ALPHA cap)  | 5× P95                           | 3× P95                                     | 7× P95                                       | Relative to 95th percentile user-month.            |
+| `cap_g` (group ALPHA cap) | 3× P99                           | 2× P99                                     | 4× P99                                       | Relative to 99th percentile group-month.           |
+| `S_target` (sink target)  | 0.60                             | 0.50                                       | 0.70                                         | % of minted ALPHA expected to be consumed.         |
+| `T_runway` (min months)   | 6                                | 9                                          | 6                                            | Treasury runway safety threshold.                  |
+| `T_payoutMax`             | 0.90                             | 0.80                                       | 1.00                                         | Max payout/inflow ratio per month.                 |
+| `C_mode`                  | `ALWAYS_OPEN`                    | `WINDOWS`                                  | `ALWAYS_OPEN`                                | Behavioural change to test user vs treasury tradeoff. |
+| `C_min_usd`               | 100 USD                          | 100 USD                                    | 50 USD                                       | Minimum cash-out amount.                           |
+| `C_fee_bps`               | 100 bps (1%)                     | 150 bps (1.5%)                             | 50 bps (0.5%)                                | Cash-out fee.                                      |
+| `C_win_year`              | – (unused if ALWAYS_OPEN)        | 4 (quarterly)                              | –                                            | Pilot window count.                                |
+| `C_win_days`              | –                                | 7                                          | –                                            | Pilot window duration.                             |
+| `G_user_daily_usd`        | 0.10 USD                         | 0.07 USD                                   | 0.15 USD                                     | Per-user gas sponsorship cap.                      |
+| `G_global_daily_usd`      | 20 USD                           | 20 USD                                     | 40 USD                                       | Global daily gas sponsorship cap.                  |
+
+**Interpretation (for later discussions):**
+
+- **Baseline**: very close to existing BGC behaviour, with modest guardrails.  
+- **Conservative**: rewards are dialed down slightly, treasury thresholds are stricter,
+  and cash-out is run under a quarterly window model for stress comparison.
+- **Growth**: reward intensity is higher, sinks are more active, cash-out is more user-friendly,
+  and gas sponsorship is more generous.
+
+These parameter sets are **starting points**.  
+They can be refined after the first simulation runs.
+
+### 6.6 External Shocks for Stress-Test Scenarios
+
+Stress-test scenarios focus less on changing parameters and more on applying
+*external shocks* to the Baseline or Conservative parameter sets.
+
+For v0.1, we will use the following external shocks:
+
+1. **Revenue Shock (Downturn)**
+   - Overall PC/SP inflow reduced by **30%** over a 6–12 month period.
+   - Goal: observe how quickly treasury runway degrades and whether safety
+     thresholds (`T_runway`, `T_payoutMax`) are violated.
+
+2. **Membership Growth Shock (Expansion)**
+   - Active member count increased by **50%** over 12 months.
+   - PC/SP per member remains the same.
+   - Goal: test whether caps (`cap_u`, `cap_g`) and sponsorship limits
+     (`G_user_daily_usd`, `G_global_daily_usd`) still hold under higher load.
+
+3. **Cash-Out Demand Shock**
+   - Cash-out requests spike by **50–100%** for several consecutive months
+     (e.g. due to external events or campaigns).
+   - Goal: see how payout/inflow ratio and treasury buffers behave when members
+     try to realise rewards more aggressively.
+
+4. **Behavioural Shift Shock (Increased Utility Usage)**
+   - ALPHA sinks become more attractive (e.g. more classes, boosts, CP products).
+   - Sink usage moves from **60% to 80%** of ALPHA minted.
+   - Goal: test whether higher utility consumption improves sustainability or
+     introduces other imbalances.
+
+These shocks can be applied on top of:
+
+- **Baseline parameters**, to mimic “realistic but stressed” conditions, and
+- **Conservative parameters**, to see if safety-first settings are sufficient.
+
+The results will inform:
+
+- how robust the chosen parameter ranges are,
+- whether additional guardrails are needed,
+- and what “worst-case” founder decisions should prepare for.
+
 ***
 
 ## 7. Metrics & Evaluation Criteria
