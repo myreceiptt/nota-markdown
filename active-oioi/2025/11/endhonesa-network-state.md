@@ -410,7 +410,7 @@ Gudang **Markdown**: _The KING’s NFTs Project_, SOP, draft, materi edukasi, ri
 
 ### 11.1. Kendaraan Tanpa Batas
 
-Di _The Story_, **skateboard** adalah kendaraan tanpa batas di permukaan The Melting Land (0101). Di Realita, tanpa batas itu menjelma sebagai **SKATESHOP in ENDHONESA (SKATESHOP.ID(**: rantai **produksi–distribusi–ritel** yang menjaga jembatan _karya ↔ tubuh_ dan _cerita ↔ jalanan_. Setiap item produknya dapat memuat **artefak/utility** yang dikenali oleh **ENDHONESA.COM** (klaim SBT, akses konten, atau jalur cerita).
+Di _The Story_, **skateboard** adalah kendaraan tanpa batas di permukaan The Melting Land (0101). Di Realita, tanpa batas itu menjelma sebagai **SKATESHOP in ENDHONESA (SKATESHOP.ID)**: rantai **produksi–distribusi–ritel** yang menjaga jembatan _karya ↔ tubuh_ dan _cerita ↔ jalanan_. Setiap item produknya dapat memuat **artefak/utility** yang dikenali oleh **ENDHONESA.COM** (klaim SBT, akses konten, atau jalur cerita).
 
 ---
 
