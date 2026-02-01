@@ -156,9 +156,9 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
   - product type,
   - campaign.
 - Caps per period:
-  - `cap_u` and `cap_g` use percentile data, so they don't need absolute numbers first.
   - max ALPHA per user per month,
   - max ALPHA per group per month.
+  - `cap_u` and `cap_g` use percentile data, so they don't need absolute numbers first.
 
 ### 5.2 Reward & Treasury Parameters
 
@@ -166,12 +166,12 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 
 | Name                                   | Symbol        | Description                                                                                           | Range (for simulation)                  | Default | Decision Owner              |
 | -------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- | --------------------------- |
-| Global reward intensity factor         | `R_global`    | Faktor skala global untuk semua reward share (RR/GR/GPSP/WEC, dll.) relatif terhadap AS-IS.          | 0.7 – 1.3 (70% – 130% of AS-IS)         | 1.0      | Founders + Tokenomics       |
-| Pool reward intensity factor           | `R_pool`      | Faktor khusus untuk pool (GPSP, WEC, GMP, GEC) vs reward langsung.                                   | 0.7 – 1.3                               | 1.0      | Founders + Tokenomics       |
-| Target ALPHA sink utilisation          | `S_target`    | Persentase ALPHA yang diharapkan **dikonsumsi** (classes, features, boosts, CP products, dll.).      | 0.40 – 0.80 (40% – 80% of minted)       | 0.60     | Tokenomics + Product        |
-| Minimum treasury runway (months)       | `T_runway`    | Minimum bulan kewajiban reward yang harus bisa ditanggung treasury sebelum dianggap “tidak aman”.    | 3 – 12 months                           | 6        | Founders + Finance          |
-| Emergency throttle runway (months)     | `T_emerg`     | Level runway di mana mekanisme throttle / penghematan mulai aktif.                                   | 1 – 3 months                            | 2        | Founders + Finance          |
-| Max monthly payout vs inflow ratio     | `T_payoutMax` | Rasio maksimum (payout / inflow) sebelum throttle (mis. hold sebagian payout ke window berikutnya).  | 0.70 – 1.10 (70% – 110% of inflow)      | 0.90     | Tokenomics + Finance        |
+| Global reward intensity factor         | `R_global`    | Global scaling factor for all reward shares (RR/GR/GPSP/WEC, etc.) relative to AS-IS.                | 0.7 – 1.3 (70% – 130% of AS-IS)         | 1.0      | Founders + Tokenomics       |
+| Pool reward intensity factor           | `R_pool`      | Specific factors for pools (GPSP, WEC, GMP, GEC) vs direct rewards.                                  | 0.7 – 1.3                               | 1.0      | Founders + Tokenomics       |
+| Target ALPHA sink utilisation          | `S_target`    | Expected percentage of ALPHA **consumed** (classes, features, boosts, CP products, etc.).            | 0.40 – 0.80 (40% – 80% of minted)       | 0.60     | Tokenomics + Product        |
+| Minimum treasury runway (months)       | `T_runway`    | The minimum number of months of reward obligations that a treasury must be able to cover before being considered “unsafe.”    | 3 – 12 months                           | 6        | Founders + Finance          |
+| Emergency throttle runway (months)     | `T_emerg`     | The runway level at which the throttle/economy mechanism begins to engage                            | 1 – 3 months                            | 2        | Founders + Finance          |
+| Max monthly payout vs inflow ratio     | `T_payoutMax` | Maximum ratio (payout/inflow) before throttle (i.e. hold part of payout to the next window).         | 0.70 – 1.10 (70% – 110% of inflow)      | 0.90     | Tokenomics + Finance        |
 
 - Reward share splits (RR/GR/GPSP/etc., as represented in ALPHA).
 - ALPHA sinks:
@@ -182,6 +182,7 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 - Treasury buffers:
   - minimum reserve ratio,
   - emergency throttle rules.
+- The main idea: we can see the runway & payout ratio graph for each scenario, then the Founders can say, “we are comfortable with 6 months runway and payout ≤ 90% inflow” or ask for a change.
 
 ### 5.3 Cash-Out Parameters
 
@@ -189,13 +190,13 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 
 | Name                                  | Symbol          | Description                                                                                          | Range (for simulation)                          | Default          | Decision Owner          |
 | ------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------- | ----------------------- |
-| Minimum cash-out amount (USD)         | `C_min_usd`     | Minimum saldo yang boleh dicairkan dalam satu request.                                              | 50 – 150 USD                                     | 100 USD           | Founders + Finance      |
-| Cash-out fee (basis points)           | `C_fee_bps`     | Fee % untuk setiap cash-out (1% = 100 bps).                                                          | 0 – 300 bps (0% – 3%)                            | 100 bps (1%)      | Founders + Finance      |
-| Cash-out mode                         | `C_mode`        | Mode utama: **ALWAYS_OPEN** (seperti model existing) atau **WINDOWS** (pilot-style).                | {`ALWAYS_OPEN`, `WINDOWS`}                      | `ALWAYS_OPEN`     | Founders               |
-| Number of cash-out windows per year   | `C_win_year`    | Jika `C_mode = WINDOWS`: jumlah window dalam setahun.                                               | 4 – 52 (e.g. 4, 12, 24, 52)                     | 4 (quarterly)     | Founders + Tokenomics   |
-| Window length (days)                  | `C_win_days`    | Jika `C_mode = WINDOWS`: durasi tiap window.                                                         | 1 – 30 days                                      | 7 days            | Founders + Tokenomics   |
-| Processing lag (days)                 | `C_lag_days`    | Jeda dari request disetujui sampai dana benar-benar sampai ke rekening user.                        | 1 – 14 days                                     | 7 days            | Ops + Finance           |
-| Cooling-off after large cash-out      | `C_cooloff`     | Jumlah hari sebelum user boleh melakukan cash-out besar berikutnya (anti-abuse / liquidity shock). | 0 – 30 days                                     | 7 days            | Founders + Tokenomics   |
+| Minimum cash-out amount (USD)         | `C_min_usd`     | Minimum balance that can be cashed out in one request.                                              | 50 – 150 USD                                     | 100 USD           | Founders + Finance      |
+| Cash-out fee (basis points)           | `C_fee_bps`     | Fee % for each cash-out (1% = 100 bps).                                                          | 0 – 300 bps (0% – 3%)                            | 100 bps (1%)      | Founders + Finance      |
+| Cash-out mode                         | `C_mode`        | Main mode: **ALWAYS_OPEN** (like the existing model) or **WINDOWS** (pilot-style).                | {`ALWAYS_OPEN`, `WINDOWS`}                      | `ALWAYS_OPEN`     | Founders               |
+| Number of cash-out windows per year   | `C_win_year`    | If `C_mode = WINDOWS`: number of windows in a year.                                               | 4 – 52 (e.g. 4, 12, 24, 52)                     | 4 (quarterly)     | Founders + Tokenomics   |
+| Window length (days)                  | `C_win_days`    | If `C_mode = WINDOWS`: duration of each window.                                                         | 1 – 30 days                                      | 7 days            | Founders + Tokenomics   |
+| Processing lag (days)                 | `C_lag_days`    | The time from when the cash-out request is approved until the funds actually reach the user's bank account.   | 1 – 14 days                                     | 7 days            | Ops + Finance           |
+| Cooling-off after large cash-out      | `C_cooloff`     | The number of days before a user can make their next large cash-out (anti-abuse / liquidity shock). | 0 – 30 days                                     | 7 days            | Founders + Tokenomics   |
 
 - Minimum cash-out amount (e.g. 50–100 USD equivalent).
 - Cash-out frequency:
@@ -205,6 +206,9 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
   - percentage fee range,
   - fixed fee (if any).
 - Cooling-off rules (anti-abuse).
+- How to use in simulation:
+  - AS-IS scenario: `C_mode = ALWAYS_OPEN`, `C_min_usd = 100`, `C_fee_bps ≈ 0–100`, `C_win_year` & `C_win_days` ignored.
+  - Windows Pilot Scenario: `C_mode = WINDOWS`, `C_win_year = 4`, `C_win_days = 7`, `C_min_usd = 50`, `C_fee_bps = 100`.
 
 ### 5.4 Web3-Related Operational Parameters (Phase-1 Touchpoints)
 
@@ -212,13 +216,13 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
 
 | Name                                         | Symbol              | Description                                                                                           | Range (for simulation)                       | Default                 | Decision Owner           |
 | -------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------ | ------------------------ |
-| Per-user daily gas sponsorship cap (USD)     | `G_user_daily_usd`  | Batas maksimum estimasi biaya gas yang disponsori per user per hari.                                 | 0.05 – 0.25 USD                               | 0.10 USD                 | Founders + Tech + Finance |
-| Global daily gas sponsorship cap (USD)       | `G_global_daily_usd`| Batas maksimum sponsorship gas untuk seluruh sistem per hari.                                        | 20 – 100 USD                                  | 20 USD                  | Founders + Tech + Finance |
-| Referral cooldown (days)                     | `S_ref_cooldown`    | Jarak minimum hari antara event referral besar agar tidak ada burst tak wajar.                       | 0 – 7 days                                    | 1 day                   | Tokenomics + Ops         |
-| Max Tier-1 joins per actor per day           | `S_max_t1_per_day`  | Batas Tier-1 joins / hari per aktor sebelum flag review/manual check.                                | 5 – 30                                        | 10                      | Tokenomics + Ops         |
-| Duplicate device limit                       | `S_device_dupe`     | Berapa banyak akun berbeda boleh share 1 device sebelum dianggap mencurigakan.                       | 1 – 5                                         | 2                       | Tech + Risk              |
-| Audit sample rate (%)                        | `S_audit_pct`       | Persentase transaksi/akun yang diambil sampel untuk audit manual/otomatis.                           | 1% – 10%                                      | 5%                      | Risk + Compliance        |
-| Penalty cooling-off (days)                   | `S_penalty_days`    | Lama waktu suspend/cooling-off ketika kasus abuse terdeteksi dan reward/ALPHA di-zero-kan sementara. | 3 – 30 days                                   | 7 days                  | Risk + Founders          |
+| Per-user daily gas sponsorship cap (USD)     | `G_user_daily_usd`  | Maximum limit of estimated sponsored gas costs per user per day.                                 | 0.05 – 0.25 USD                               | 0.10 USD                 | Founders + Tech + Finance |
+| Global daily gas sponsorship cap (USD)       | `G_global_daily_usd`| Maximum gas sponsorship limit for the entire system per day.                                        | 20 – 100 USD                                  | 20 USD                  | Founders + Tech + Finance |
+| Referral cooldown (days)                     | `S_ref_cooldown`    | Minimum distance of days between large referral events to avoid unnatural bursts.                       | 0 – 7 days                                    | 1 day                   | Tokenomics + Ops         |
+| Max Tier-1 joins per actor per day           | `S_max_t1_per_day`  | Limit Tier-1 joins / day per actor before flag review/manual check.                                | 5 – 30                                        | 10                      | Tokenomics + Ops         |
+| Duplicate device limit                       | `S_device_dupe`     | How many different accounts can share 1 device before it is considered suspicious.                       | 1 – 5                                         | 2                       | Tech + Risk              |
+| Audit sample rate (%)                        | `S_audit_pct`       | Percentage of transactions/accounts sampled for manual/automated audit.                           | 1% – 10%                                      | 5%                      | Risk + Compliance        |
+| Penalty cooling-off (days)                   | `S_penalty_days`    | The length of the suspension/cooling-off period when an abuse case is detected and the reward/ALPHA is temporarily zeroed. | 3 – 30 days                                   | 7 days                  | Risk + Founders          |
 
 - Sponsored gas ceilings:
   - max sponsorship per user per day,
