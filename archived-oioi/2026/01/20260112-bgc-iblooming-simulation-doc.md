@@ -156,6 +156,7 @@ Each parameter will have: **Name, Symbol, Description, Range, Default, Decision 
   - product type,
   - campaign.
 - Caps per period:
+  - `cap_u` and `cap_g` use percentile data, so they don't need absolute numbers first.
   - max ALPHA per user per month,
   - max ALPHA per group per month.
 
