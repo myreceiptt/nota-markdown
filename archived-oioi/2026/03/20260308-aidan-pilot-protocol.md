@@ -518,3 +518,20 @@ The pilot is successful not when AI looks impressive,
 but when physicians remain confident, careful, and more present with patients.
 
 That is the standard.
+
+---
+
+P.S. Other documents related to this document:
+
+- Document 1 – [Presentation Narrative](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=E5VzjKUF9uWiZLSm2ccU&only=yes&limit=100)
+- Document 2 – [Strategic Notes and References](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=0GGXb2ee133EHMKlaAEL&only=yes&limit=100)
+- Document 3 – [Product Blueprint](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=FnTBSmfcfs4C6L0bUx6q&only=yes&limit=100)
+- Document 4 – [Pilot Protocol](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=5asyed0eGqa2OH8eL8w3&only=yes&limit=100) (this document)
+- Document 5 – [Discussion Log](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=vdfi50XnCdFLwdCRkk06&only=yes&limit=100)
+  
+---
+
+P.S.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
+
