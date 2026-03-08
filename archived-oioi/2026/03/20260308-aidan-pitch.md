@@ -1,6 +1,6 @@
 ---
 description: >-
-  Defines the simulation plan for the BGC × iBLOOMING integration. For internal use by BGC × iBLOOMING founders & core team. Scope: Phase-1 Simulation for ALPHA Layer & Reward Sustainability
+  Its purpose is simple: Reduce administrative friction so physicians can focus on clinical reasoning and meaningful patient interaction.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
