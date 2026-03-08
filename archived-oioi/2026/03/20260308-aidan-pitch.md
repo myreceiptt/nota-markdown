@@ -1,3 +1,11 @@
+---
+description: >-
+  Defines the simulation plan for the BGC × iBLOOMING integration. For internal use by BGC × iBLOOMING founders & core team. Scope: Phase-1 Simulation for ALPHA Layer & Reward Sustainability
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # AI& (AIDAN)
 
 ## Steps Toward Better and More Effective Patient Interactions
