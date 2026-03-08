@@ -1,15 +1,19 @@
-# AI&  
-### Steps Toward Better and More Effective Patient Interactions  
-Pilot Project for Physician-Centered Clinical Assistance  
-March 2026
+# AI& (AIDAN)
+
+## Steps Toward Better and More Effective Patient Interactions
+
+Pilot Project for Physician-Centered Clinical Assistance
+
+- March 2026
 
 ---
 
-# The Reality of Modern Clinical Practice
+## The Reality of Modern Clinical Practice
 
 In a busy clinical day, physicians are often pulled toward screens.
 
 They repeatedly:
+
 - rewrite similar information
 - adjust documentation formats
 - search for guidelines
@@ -34,7 +38,7 @@ Physicians need more space to think clearly.
 
 ---
 
-# Introducing AI&
+## Introducing AI&
 
 AI& is designed to support physicians by handling structured and repetitive work behind the scenes.
 
@@ -52,12 +56,12 @@ AI& functions as a **physician-controlled clinical assistant**, not an autonomou
 
 ---
 
-# Scope of AI& Assistance
+## Scope of AI& Assistance
 
 AI& is designed to operate in areas that frequently consume physician time:
 
-1. Documentation structuring  
-2. Evidence navigation  
+1. Documentation structuring
+2. Evidence navigation
 3. Communication preparation
 
 The principle is straightforward:
@@ -66,9 +70,9 @@ The principle is straightforward:
 
 ---
 
-# Core Functional Areas
+## Core Functional Areas
 
-## 1. Documentation Support
+### 1. Documentation Support
 
 AI& helps convert structured clinical points into organized draft documents.
 
@@ -90,7 +94,7 @@ The goal is **consistency and clarity**, not automation of medical judgment.
 
 ---
 
-## 2. Evidence Navigation
+### 2. Evidence Navigation
 
 Physicians often need quick orientation in clinical literature.
 
@@ -107,7 +111,7 @@ Instead, it helps physicians reach the **right clinical question faster**.
 
 ---
 
-## 3. Communication and Follow-up Preparation
+### 3. Communication and Follow-up Preparation
 
 AI& assists physicians in preparing structured communication drafts.
 
@@ -131,26 +135,32 @@ The goal is **consistent and safe communication**.
 
 ---
 
-# Structured Clinical Draft Workflow
+## Structured Clinical Draft Workflow
 
 AI& works as a structure-building engine.
 
 ### Step 1 – Input
+
 Clinical points entered by the physician (non-identifiable where possible)
 
 ### Step 2 – Draft Generation
+
 Structured SOAP draft generated.
 
 ### Step 3 – Problem List
+
 Organized clinical issues and possible considerations.
 
 ### Step 4 – Checklist Layer
+
 Reminder prompts for missing documentation elements.
 
 ### Step 5 – Physician Review
+
 Physician edits, contextualizes, and approves.
 
 ### Step 6 – Audit Log
+
 System records when the draft was generated, edited, and finalized.
 
 Key design principle:
@@ -159,17 +169,20 @@ Key design principle:
 
 ---
 
-# Evidence → Education → Follow-Up Flow
+## Evidence → Education → Follow-Up Flow
 
 AI& helps create a continuous flow between clinical knowledge and patient communication.
 
 ### Evidence Layer
+
 Summarize guideline points with references.
 
 ### Education Builder
+
 Transform evidence into simple, empathetic explanations.
 
 ### Follow-Up Planner
+
 Generate structured follow-up plans.
 
 Examples:
@@ -182,15 +195,16 @@ All messages require physician approval before delivery.
 
 ---
 
-# Implementation Roadmap (2–4 Week Pilot)
+## Implementation Roadmap (2–4 Week Pilot)
 
 AI& is most effective when introduced as a small, controlled pilot.
 
-## Week 0 – Define Boundaries
+### Week 0 – Define Boundaries
 
 Select one use case.
 
 Example:
+
 - SOAP documentation draft
 
 Define clear restrictions:
@@ -203,7 +217,7 @@ Prepare templates and review checklists.
 
 ---
 
-## Week 1 – First 10 Cases
+### Week 1 – First 10 Cases
 
 Apply AI& to the first ten clinical cases.
 
@@ -216,7 +230,7 @@ Observe:
 
 ---
 
-## Week 2 – Template Refinement
+### Week 2 – Template Refinement
 
 Improve:
 
@@ -229,7 +243,7 @@ Align wording with clinical policies.
 
 ---
 
-## Week 3–4 – Evaluation
+### Week 3–4 – Evaluation
 
 Review pilot metrics:
 
@@ -242,7 +256,7 @@ Decide whether to expand use cases gradually.
 
 ---
 
-# Cross-Agent Learning (Physician Discussion Space)
+## Cross-Agent Learning (Physician Discussion Space)
 
 AI& may facilitate structured discussion between physicians.
 
@@ -261,7 +275,7 @@ AI& acts only as a **discussion facilitator**, not a decision authority.
 
 ---
 
-# The Core Principle
+## The Core Principle
 
 AI& works behind the screen  
 so physicians can remain fully present with patients.
@@ -278,4 +292,4 @@ It should **protect the physician’s ability to think clearly and care deeply.*
 
 ---
 
-# Let's Discuss
+## Let's Discuss
