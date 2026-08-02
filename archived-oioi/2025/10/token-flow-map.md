@@ -7,6 +7,14 @@ coverY: 0
 ---
 
 ---
+
+**Status:** Archived Future-State Tokenization Hypothesis  
+**Implementation Authority:** None  
+**Superseded For Decision-Making By:** [Master Document v1.0 and Founder Resolutions](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=nkqI27xSITeVjZ5gXKRu&only=yes&limit=100)  
+
+---
+
+---
 title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"  
 version: "v1.0.0-draft"  
 date: "2025-10-28"  
