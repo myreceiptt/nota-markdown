@@ -7,6 +7,14 @@ coverY: 0
 ---
 
 ---
+
+**Status:** Hipotesis Tokenisasi Keadaan Masa Depan yang Diarsipkan  
+**Otoritas Implementasi:** Tidak Ada  
+**Digantikan untuk Pengambilan Keputusan oleh:** [Dokumen Utama v1.0 dan Resolusi Pendiri](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=nkqI27xSITeVjZ5gXKRu&only=yes&limit=100)  
+
+---
+
+---
 title: "iBLOOMING × BGC — TOKENFLOW v1 (AS-IS → TO-BE)"  
 version: "v1.0.0-draft"  
 date: "2025-10-28"  
