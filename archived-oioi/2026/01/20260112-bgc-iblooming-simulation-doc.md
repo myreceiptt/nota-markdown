@@ -8,7 +8,7 @@ coverY: 0
 
 # BGC × iBLOOMING SIMULATION DOC v0.1 (Draft)
 
-> Status: Draft v0.1 — For internal use by BGC × iBLOOMING founders & core team.  
+> Status: Archived Phase-1 Token Policy Simulation Specification — For internal use by BGC × iBLOOMING founders & core team.  
 > Author: Prof. NOTA v.11.11  
 > Scope: Phase-1 Simulation for ALPHA Layer & Reward Sustainability
 
