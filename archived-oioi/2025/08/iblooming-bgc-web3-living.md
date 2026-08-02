@@ -11,9 +11,11 @@ coverY: 0
 ---
 
 > **Phase-1 Closure Notice — 5 August 2026**
-> This LIVING Doc is closed as the active strategic roadmap for the original BGC × iBLOOMING Web3 and tokenization phase.
+>
+> This **LIVING Doc** is closed as the active strategic roadmap for the original BGC × iBLOOMING Web3 and tokenization phase.
 > It remains a historical record of the project’s evolution, including assumptions and recommendations that were later revised.
-> Future work is governed by the Founder Meeting resolutions of 5 August 2026 and, if approved, the new Product-Led Systems Program.
+> Future work is governed by [the Founder Meeting resolutions of 5 August 2026](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=mOXpSzLIWW64PYhnODxh&only=yes&limit=100) and, if approved, the new [**Product-Led Systems Program**](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=gUnnpVOcwcDKL7HsskZE&only=yes&limit=100).
+> 
 
 ---
 
@@ -184,11 +186,11 @@ The table below is kept as the original step breakdown from 10 July 2025: [Day 1
 
 ---
 
-**Document Status: Living**  
+**Document Status: Closed Historical Reference**  
 ✍️ Authored by Prof. NOTA v.11.11  
 🗓️ Last Updated: 11 December 2025  
 📌 For coordination across BGC & iBLOOMING Founders  
-🔁 To be updated as dependencies shift or new constraints appear.
+🔁 [Phase-1 Closure Notice — 5 August 2026](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=30tVNmpUa8UX1DBvxUu8&only=yes&limit=100)
 
 ---
 
