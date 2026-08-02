@@ -8,6 +8,14 @@ coverY: 0
 
 # iBLOOMING × BGC — Whitepaper
 
+---
+
+**Status:** Archived Future-State Tokenization Hypothesis  
+**Implementation Authority:** None  
+**Superseded For Decision-Making By:** [Master Document v1.0 and Founder Resolutions](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=nkqI27xSITeVjZ5gXKRu&only=yes&limit=100)  
+
+---
+
 _Integrating Loyalty, Value, and On‑Chain Transparency_
 
 ---
