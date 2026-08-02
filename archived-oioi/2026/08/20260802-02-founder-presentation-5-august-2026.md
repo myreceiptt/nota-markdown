@@ -435,3 +435,9 @@ More targeted evidence is needed only if founders want to approve financial or t
 ### “Why Product-Led?”
 
 Because the present ecosystem needs stronger independent product demand, not a new mechanism for attracting money.
+
+---
+
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+---
