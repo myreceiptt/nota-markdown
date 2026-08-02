@@ -10,6 +10,14 @@ coverY: 0
 
 # Understanding Affiliate & Rewards (BGC & iBLOOMING)
 
+---
+
+**Status:** Final AS-IS Business and Reward Rules Reference
+**Scope:** Descriptive reference for existing BGC × iBLOOMING rules
+**Important:** This document is not a legal opinion, accounting certification, economic-health assessment, or tokenization approval.
+
+---
+
 ## 0. Users in BGC & iBLOOMING
 
 In the BGC & iBLOOMING ecosystem, a **user** is anyone who transacts—whether a one-time purchase, a subscription, or simply a sign-up—and uses or benefits from the ongoing operations of BGC & iBLOOMING. A **user** can be an individual or an organization.
