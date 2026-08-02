@@ -35,6 +35,7 @@
 * [ARCHIVED, OiOi!](archived-oioi/README.md)
   * [2026](archived-oioi/2026/README.md)
     * [202608](archived-oioi/2026/08/README.md)
+      * [README FOUNDER MEETING PACKAGE](archived-oioi/2026/08/20260802-bgc-iblooming-readme-founder-meeting-package.md)
     * [202607](archived-oioi/2026/07/README.md)
       * [SIMALPHA BUILD PROCESS](archived-oioi/2026/07/20260717-simulator-build-process-and-contributions.md)
     * [202603](archived-oioi/2026/03/README.md)
