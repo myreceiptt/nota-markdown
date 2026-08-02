@@ -1,6 +1,6 @@
 ---
 description: >-
-  Phase-1 Closure and Product-Led Strategic Transition
+  A document is complete when its purpose, authority, version, evidence level, and future status are clear.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
