@@ -8,6 +8,15 @@ coverY: 0
 
 # Living Document of Web3 Integration Guidance
 
+---
+
+> **Phase-1 Closure Notice — 5 August 2026**
+> This LIVING Doc is closed as the active strategic roadmap for the original BGC × iBLOOMING Web3 and tokenization phase.
+> It remains a historical record of the project’s evolution, including assumptions and recommendations that were later revised.
+> Future work is governed by the Founder Meeting resolutions of 5 August 2026 and, if approved, the new Product-Led Systems Program.
+
+---
+
 It compiles key insights from these discussions, confirms agreed decisions, and outlines the immediate next steps for execution.
 
 - [📄 Day 1: 10 July 2025](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=u7cWvEAZRNFOnaeRQrvk&only=yes&limit=100)
