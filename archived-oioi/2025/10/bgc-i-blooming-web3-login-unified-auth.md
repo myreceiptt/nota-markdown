@@ -12,8 +12,10 @@ coverY: 0
 
 **Revision D — October 13, 2025**  
 **First Version**: [Web3 Login Implementation Draft](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=UuIVClWGsW8J9R2NdfWZ&only=yes&limit=100)  
-**Status:** Draft for sign-off (clean, single-source)  
-**Owners:** Prof. NOTA (Product/Architecture), Yuku (Tech Owner), BGC × iBLOOMING Eng/DevOps
+**Status:** Final Architecture Baseline — Implementation Pending
+**Founder Confirmation:** [To be formally recorded on 5 August 2026](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=EwNRLbz99iI8OfTA4p8N&only=yes&limit=100)
+**Product / Architecture Owner:** Prof. NOTA
+**Technical Implementation Owner:** Yuku (Tech Owner), BGC × iBLOOMING Eng/DevOps
 
 ---
 
