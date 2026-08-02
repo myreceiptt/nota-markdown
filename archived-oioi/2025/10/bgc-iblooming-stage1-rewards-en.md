@@ -12,9 +12,9 @@ coverY: 0
 
 ---
 
-**Status:** Final AS-IS Business and Reward Rules Reference
-**Scope:** Descriptive reference for existing BGC × iBLOOMING rules
-**Important:** This document is not a legal opinion, accounting certification, economic-health assessment, or tokenization approval.
+**Status:** Final AS-IS Business and Reward Rules Reference  
+**Scope:** Descriptive reference for existing BGC × iBLOOMING rules  
+**Important:** This document is not a legal opinion, accounting certification, economic-health assessment, or tokenization approval.  
 
 ---
 
