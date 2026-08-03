@@ -45,6 +45,7 @@
       * [FOUNDER MEETING AGENDA](archived-oioi/2026/08/20260802-07-founder-meeting-agenda-and-resolution-template.md)
       * [LIVING DOC PHASE 1 CLOSURE](archived-oioi/2026/08/20260802-08-living-doc-phase-1-closure-update.md)
       * [PRODUCT LED TRANSITION](archived-oioi/2026/08/20260802-09-product-led-systems-transition-concept-note.md)
+      * [DECISIONS OWNERS NEXT ACTIONS](archived-oioi/2026/08/20260803-10-bgc-iblooming-founder-meeting-decisions-owners-next-actions.md)
     * [202607](archived-oioi/2026/07/README.md)
       * [SIMALPHA BUILD PROCESS](archived-oioi/2026/07/20260717-simulator-build-process-and-contributions.md)
     * [202603](archived-oioi/2026/03/README.md)
