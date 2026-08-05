@@ -1,11 +1,11 @@
 ---
 
 description: >-
-This package closes the first BGC × iBLOOMING Web3 exploration phase and provides a controlled transition into founder decision-making.
+  This package closes the first BGC × iBLOOMING Web3 exploration phase and provides a controlled transition into founder decision-making.
 icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
----------
+---
 
 # BGC × iBLOOMING Founder Meeting Package
 
