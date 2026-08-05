@@ -24,7 +24,7 @@ This package closes the first BGC × iBLOOMING Web3 exploration phase and provid
 It answers five questions:
 
 1. What was completed during Phase 1?
-2. What did the work and SIMALPHA reveal?
+2. What did the work and [SIMALPHA](https://simalpha.endhonesa.com/sign-in) reveal?
 3. What has not yet been proven?
 4. What should stop and what should continue?
 5. What must the founders explicitly decide?
@@ -50,7 +50,7 @@ The primary recommendation is:
    Final status of the Phase-1 artifacts.
 
 5. [`05-SIMALPHA-Findings-Evidence-Limits-and-Decision-Framework-v1.0.md`](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=wDzCDFU48wXeTpPPErf5&only=yes&limit=100)
-   Correct interpretation of SIMALPHA, its data, reports, and decision use.
+   Correct interpretation of [SIMALPHA](https://simalpha.endhonesa.com/sign-in), its data, reports, and decision use.
 
 6. [`06-Web3-Login-Implementation-Handover-Note-v1.0.md`](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=znUjedZpWBze9yBLSxzo&only=yes&limit=100)
    Handover from approved specification to implementation.
@@ -59,7 +59,7 @@ The primary recommendation is:
    Meeting agenda, resolution, and action register.
 
 8. [`08-LIVING-Doc-Phase-1-Closure-Update.md`](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=30tVNmpUa8UX1DBvxUu8&only=yes&limit=100)
-   Final update for closing the old LIVING Doc.
+   Final update for closing the old [LIVING Doc](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=ijQlNvGkp9UTE2LR2Tjm&only=yes&limit=100).
 
 9. [`09-Product-Led-Systems-Transition-Concept-Note.md`](https://baca.endhonesa.com/all-notas-markdowns/~gitbook/pdf?page=gUnnpVOcwcDKL7HsskZE&only=yes&limit=100)
    Proposed Phase-2 direction, subject to founder approval.
