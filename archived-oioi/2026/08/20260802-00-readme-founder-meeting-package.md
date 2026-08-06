@@ -9,7 +9,7 @@ coverY: 0
 
 # BGC × iBLOOMING Founder Meeting Package
 
-**Meeting date:** 5 August 2026  
+**Meeting:** On August 2026  
 **Prepared by:** Prof. NOTA  
 **Review period:** December 2024 – August 2026  
 **Package status:** Pre-meeting working package  
