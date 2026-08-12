@@ -486,97 +486,294 @@ If founders want to proceed into those areas, accountable and qualified owners m
 
 ## 6. SIMALPHA Findings
 
-### 6.1 What SIMALPHA Successfully Demonstrates
+### 6.1 What SIMALPHA Was Designed to Test
 
-SIMALPHA demonstrates that:
+SIMALPHA was designed as an internal economic and policy simulator for the BGC × iBLOOMING ecosystem.
 
-- the available data can be imported;
-- policy scenarios can be stored;
-- the model can run deterministically;
-- changes in multipliers and cash-release rules change model outputs;
-- reports can be compared and exported;
-- assumptions can be made visible for founder discussion.
+Its primary purpose is to take an operating profile derived from available historical or forecast business data and test how different policy configurations affect the circulation, issuance, use, retention, and release of value inside the ecosystem.
 
-### 6.2 Dataset Profile
+The simulation process is:
 
-The compiled dataset contains:
+```text
+Business data
+→ simulation-ready operating profile
+→ policy parameters
+→ scenario execution
+→ economic and treasury metrics
+→ Ready / review / risk result
+→ founder decision
+```
 
-- 236 rows;
-- 25 monthly periods;
-- April 2024–April 2026;
-- BGC and iBLOOMING monthly-tier records.
+The parameters tested may include, depending on the scenario:
 
-The `member_key` values are synthetic monthly-tier identifiers, not persistent individual member identities.
+* ALPHA issuance multipliers;
+* reward intensity;
+* user and group caps;
+* internal-use or sink assumptions;
+* cash-release thresholds;
+* cash-release frequency;
+* fees;
+* treasury guardrails;
+* other operational controls represented in the model.
 
-Therefore, the dataset is an aggregate compatibility dataset, not a member-level ledger.
+SIMALPHA therefore does more than demonstrate that data can be imported or that reports can be generated.
 
-### 6.3 Aggregate Data
+It demonstrates how alternative policy configurations behave when applied to a defined BGC × iBLOOMING operating profile.
 
-| Metric | BGC | iBLOOMING | Combined |
-|---|---:|---:|---:|
-| Cash in | $4,034,038.00 | $21,117.00 | $4,055,155.00 |
-| Recognized-revenue field | $4,034,038.00 | $6,335.10 | $4,040,373.10 |
-| Gross-margin field | $4,034,038.00 | $6,335.10 | $4,040,373.10 |
-| Internal credit or sink spend | $567,234.00 | $0.00 | $567,234.00 |
-| PC volume | 403,403,617 | 0 | 403,403,617 |
-| SP reward basis | 2,823,835 | 0 | 2,823,835 |
-| Global/direct reward | $411,385.60 | $1,429.46 | $412,815.06 |
-| Pool reward | $508,288.57 | $950.52 | $509,239.09 |
-| Historical cash-out | $546,506.11 | $25,715.08 | $572,221.19 |
+---
 
-### 6.4 What the Data Clearly Shows
+### 6.2 Historical Data, Forecast Data, and Simulation Meaning
 
-- Recorded BGC cash-in is approximately 191 times recorded iBLOOMING cash-in.
-- The present ecosystem is economically dominated by BGC affiliate-entry transactions.
-- iBLOOMING direct product revenue is very small by comparison.
-- Existing reward formulas are connected to new-join LTS.
-- Changing issuance and cash-release rules changes simulated balances.
+SIMALPHA can conceptually operate with two different data modes.
 
-### 6.5 What the Data Does Not Prove
+#### Historical Operating Profile
 
-It does not prove:
+Historical data answers:
 
-- profit;
-- free cash;
-- reserve;
-- sustainability;
-- product cost;
-- PC liability;
-- pool funding;
-- member-level fairness;
-- member retention;
-- motivation;
-- tax optimization;
-- legal feasibility;
-- token readiness.
+> **If these policy and ALPHA rules had been applied to an economic pattern that actually occurred, how would the modeled system have behaved?**
 
-### 6.6 Scenario Interpretation
+This is a historical policy backtest.
 
-The report called “Stress” is not a true external stress test.
+A scenario that receives a `Ready` result means that the tested parameter configuration remains within the simulator's defined thresholds when applied to that historical operating profile.
 
-It uses the same imported historical business data as the other scenarios and changes mainly:
+#### Forecast Operating Profile
 
-- issuance multipliers;
-- caps;
-- cash-out frequency;
-- cash-out window;
-- fee.
+Forecast data would answer:
 
-It should be interpreted as:
+> **If the business achieves this future operating profile, how would the proposed policy configuration behave?**
+
+In this mode, the forecast assumptions become operating targets or control assumptions that must later be compared with actual business performance.
+
+The current four selected SIMALPHA reports use imported data rather than an activated Growth Forecast.
+
+---
+
+### 6.3 Meaning of a `Ready` Result
+
+A SIMALPHA `Ready` result should be interpreted as:
+
+> **The tested policy configuration is compatible with the tested operating profile under the thresholds and rules represented in the current simulation model.**
+
+It does not mean that future business conditions are guaranteed to remain identical.
+
+If an approved configuration is later implemented, the operating profile used in the simulation should become a reference benchmark or operating envelope.
+
+Actual performance should then be monitored against material variables such as:
+
+* cash inflow;
+* reward generation;
+* PC and SP activity;
+* internal value usage;
+* cash-release behaviour;
+* reward concentration;
+* other model inputs and guardrails.
+
+Material deviation from the tested operating envelope should trigger review and, where appropriate, a new SIMALPHA run.
+
+In this way, SIMALPHA can function not only as a pre-implementation simulator but also as an ongoing policy-control and decision-support tool.
+
+---
+
+### 6.4 Scope of the Current Compiled Dataset
+
+The current SIMALPHA compiled dataset contains:
+
+* 236 simulation-ready records;
+* 25 monthly periods;
+* April 2024–April 2026;
+* BGC and iBLOOMING monthly-tier records.
+
+The `member_key` values in this compiled dataset are synthetic monthly-tier identifiers rather than persistent individual-member identities.
+
+This describes the structure of the **compiled SIMALPHA input**.
+
+It should not be interpreted as meaning that more granular raw business or member-level source data does not exist.
+
+The raw source material available during the project included multiple datasets and more granular records. The current SIMALPHA dataset represents the portion that was interpreted, transformed, structured, and prepared into a consistent format for the present simulation scope.
+
+Further use of additional raw source tables for institutional accounting, member-level reconstruction, or other purposes would require confirmed data semantics, table relationships, source ownership, and cross-functional validation.
+
+---
+
+### 6.5 Aggregate Data Used in the Current Simulation Scope
+
+| Metric                        |           BGC |  iBLOOMING |      Combined |
+| ----------------------------- | ------------: | ---------: | ------------: |
+| Cash in                       | $4,034,038.00 | $21,117.00 | $4,055,155.00 |
+| Recognized-revenue field      | $4,034,038.00 |  $6,335.10 | $4,040,373.10 |
+| Gross-margin field            | $4,034,038.00 |  $6,335.10 | $4,040,373.10 |
+| Internal credit or sink spend |   $567,234.00 |      $0.00 |   $567,234.00 |
+| PC volume                     |   403,403,617 |          0 |   403,403,617 |
+| SP reward basis               |     2,823,835 |          0 |     2,823,835 |
+| Global/direct reward          |   $411,385.60 |  $1,429.46 |   $412,815.06 |
+| Pool reward                   |   $508,288.57 |    $950.52 |   $509,239.09 |
+| Historical cash-out           |   $546,506.11 | $25,715.08 |   $572,221.19 |
+
+These fields form part of the operating profile used by the current simulation model.
+
+They should be read according to their SIMALPHA data definitions and should not automatically be treated as audited accounting classifications.
+
+---
+
+### 6.6 What the Current Data and Simulation Show
+
+The current SIMALPHA work shows that:
+
+* the available business data can be transformed into a consistent simulation-ready operating profile;
+* historical BGC and iBLOOMING economic activity can be used as the basis for policy testing;
+* policy parameters materially change ALPHA issuance, use, held balances, and modeled cash release;
+* different scenario configurations can be evaluated against defined treasury and policy thresholds;
+* the current Baseline, Conservative, Growth, and Stress-labelled configurations all return `Ready` within the present model thresholds;
+* recorded BGC cash-in is approximately 191 times recorded iBLOOMING cash-in;
+* the tested historical operating profile is economically dominated by BGC affiliate-entry transactions;
+* iBLOOMING direct product cash-in is very small by comparison;
+* existing BGC reward formulas are materially connected to new-join LTS.
+
+These are valid outputs of the current simulation scope.
+
+---
+
+### 6.7 What the Current Results Should Not Be Interpreted As
+
+A `Ready` simulation result is not the same as an automatic company-wide implementation approval.
+
+The current results should not, by themselves, be interpreted as:
+
+* an audited financial statement;
+* a certification of company-wide profitability;
+* a legal opinion;
+* a tax opinion;
+* a guarantee that future operating conditions will match historical conditions;
+* approval of a freely tradable or publicly listed token;
+* proof of a public token's future market price;
+* approval of economic behaviours that were not represented in the tested data and model.
+
+SIMALPHA can evaluate model-level sustainability and policy compatibility under the tested conditions.
+
+It should not be described as a standalone certification of every accounting, legal, operational, product, or market dimension of BGC × iBLOOMING.
+
+Where a final implementation decision depends on those additional dimensions, the relevant internal owners and professional functions must validate them.
+
+---
+
+### 6.8 On-Chain Interpretation
+
+The current simulation is most directly relevant to an on-chain system that represents substantially the same value flows and economic rights that were included in the simulation.
+
+If ALPHA or another on-chain mechanism is implemented as an internal representation of existing economic activity, its rules should remain within the tested policy boundaries unless a new simulation is performed.
+
+The simulation should not be interpreted as having tested economic behaviours that were not included in the source operating profile.
+
+For example, if the tested business data does not contain:
+
+* open-market trading;
+* speculative price discovery;
+* public liquidity;
+* governance markets;
+* unrestricted token transfer;
+
+then the current SIMALPHA results should not be treated as validation of those behaviours.
+
+Any materially different economic function requires a separate model, dataset, scenario, and decision process.
+
+---
+
+### 6.9 Current Scenario Interpretation
+
+#### Baseline
+
+The Baseline scenario is intended to stay close to the existing operating behaviour and provide a reference configuration.
+
+#### Conservative
+
+The Conservative scenario applies tighter policy controls and lower value-release intensity.
+
+#### Growth
+
+The Growth scenario applies more permissive or expansion-oriented policy parameters.
+
+The current report should not be interpreted as a forecast of actual future business growth because the selected results use imported data with Growth Forecast disabled.
+
+#### Stress
+
+The original SIMULATION Doc defined Stress testing around external shocks such as:
+
+* revenue decline;
+* rapid membership growth;
+* cash-out spikes;
+* changes in internal-use behaviour.
+
+The current selected `Stress` report does not apply that full external-shock design.
+
+It primarily applies a more restrictive policy configuration to the same imported operating data.
+
+For the current report set, it is therefore more accurately interpreted as:
 
 > **Treasury Preservation / Restrictive Policy Scenario**
 
-The fact that it retains the most modeled cash means only that it issues less ALPHA and restricts cash release more strongly.
+This does not invalidate the result.
 
-It does not prove that it is fair, legal, sustainable, product-led, or acceptable to users.
+It clarifies what the current result actually tests.
 
-### 6.7 Report Confidence
+A future true stress run may separately apply external shocks to the operating data.
 
-The first reports label all scenarios “Ready,” while also reporting weak data quality and incomplete evidence.
+---
 
-The correct classification is:
+### 6.10 Report and Decision Status
 
-> **Preliminary model output — insufficient for implementation approval.**
+The current reports return `Ready` for all four selected scenarios within the present simulation thresholds.
+
+This simulator verdict should remain visible.
+
+The correct distinction is:
+
+#### Simulation Verdict
+
+> **Ready**
+
+Meaning:
+
+> The tested configuration passes the thresholds represented in the current model when applied to the tested operating profile.
+
+#### Implementation Decision
+
+> **Pending Founder Decision**
+
+Meaning:
+
+> A `Ready` simulator result does not automatically authorize implementation.
+
+Founders must still decide:
+
+* whether the existing economic system should be represented on-chain at all;
+* which rights or value flows, if any, should be represented;
+* which tested parameter configuration should be considered;
+* what operational conditions must be maintained;
+* what additional accounting, legal, tax, technical, or business validation is required for the selected implementation.
+
+---
+
+### 6.11 SIMALPHA Phase-1 Conclusion
+
+SIMALPHA has successfully completed its current Phase-1 purpose as an internal policy and economic simulation tool.
+
+It has:
+
+* transformed available business data into a simulation-ready operating profile;
+* enabled repeatable scenario execution;
+* tested alternative policy configurations;
+* produced measurable differences between configurations;
+* identified configurations that pass the current model thresholds;
+* exposed the economic characteristics of the operating data;
+* created a structured basis for founder decisions.
+
+The responsible conclusion is therefore not:
+
+> “SIMALPHA failed to prove sustainability.”
+
+The more accurate conclusion is:
+
+> **SIMALPHA demonstrates model-level policy compatibility and sustainability under the tested operating profile and defined thresholds. Any decision to implement an on-chain representation of those economic flows remains conditional on founder approval, institutional validation of the selected rights and operating conditions, and the scope of the implementation being materially consistent with what was actually simulated.**
 
 ---
 
