@@ -11,12 +11,12 @@ coverY: 0
 ## Project Review, Findings, Strategic Transition, and Founder Decisions
 
 **Prepared for:** BGC × iBLOOMING Founders  
-**Founder meeting:** 5 August 2026  
+**Founder meeting:** On August 2026  
 **Prepared by:** Prof. NOTA  
 **Technical and simulation contribution:** Fabio Kalandra (“Uncle Kal”)  
 **Business and operational input:** The BGC × iBLOOMING Founders  
 **Review period:** December 2024 – August 2026  
-**Version:** 1.0 — Pre-Meeting  
+**Version:** 1.11 — Pre-Meeting  
 **Confidentiality:** Internal — Founders and Core Team
 
 ---
