@@ -35,6 +35,7 @@
 * [ARCHIVED, OiOi!](archived-oioi/README.md)
   * [2026](archived-oioi/2026/README.md)
     * [202608](archived-oioi/2026/08/README.md)
+      * [SMART ACCOUNT TERMS](archived-oioi/2026/08/20260820-smart-account-terms-and-user-notice.md)
       * [README FOUNDER MEETING PACKAGE](archived-oioi/2026/08/20260802-00-readme-founder-meeting-package.md)
       * [BGC X IBLOOMING MASTER DOCUMENT](archived-oioi/2026/08/20260802-01-bgc-iblooming-master-document-v1.0.md)
       * [BGC X IBLOOMING FOUNDER PRESENTATION](archived-oioi/2026/08/20260802-02-founder-presentation-5-august-2026.md)
