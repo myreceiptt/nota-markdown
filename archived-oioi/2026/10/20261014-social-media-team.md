@@ -1,5 +1,13 @@
+---
 
-MEETING 01 · DISCOVERY & ALIGNMENT
+description: >-
+  Understand what the team is already doing and what we actually want to achieve.
+icon: markdown
+cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
+# SOCIAL MEDIA MEETING 01 · DISCOVERY & ALIGNMENT
 
 ## 14 Oktober 2026 · 14.00 WIB
 
