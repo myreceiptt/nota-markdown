@@ -1,6 +1,7 @@
 ---
 description: >-
   This README is the contract and toolbox for EVERGREEN maintenance. When provided, Prof. NOTA's AI Agent must work repository-by-repository, apply rules, maintain, and use the canonical README blocks.
+icon: markdown
 cover: ../../../.gitbook/assets/GnqSSpvagAAr5vT.jpeg
 coverY: 0
 ---
