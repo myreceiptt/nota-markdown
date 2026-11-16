@@ -31,7 +31,6 @@
       * [NOTA PEDOMAN HIDUP](active-oioi/2025/06/nota-pedoman-hidup.md)
       * [NFT FOR RETURNED SKATE](active-oioi/2025/06/nft-claim-skateboard.md)
       * [NOTA BOARD GAME](active-oioi/2025/06/nota-board-game.md)
-      * [NOTA DAIA, OiOi!](active-oioi/2025/06/nota-daia-oioi.md)
 * [ARCHIVED, OiOi!](archived-oioi/README.md)
   * [2026](archived-oioi/2026/README.md)
     * [202610](archived-oioi/2026/10/README.md)
@@ -142,6 +141,7 @@
       * [IBLOOMING WEB3 DRAFT](archived-oioi/2025/07/iblooming-web3-draft.md)
       * [DUMBCHAT ON CHAIN](archived-oioi/2025/07/integrating-blockchain-into-dumbchat.md)
     * [202506](archived-oioi/2025/06/README.md)
+      * [NOTA DAIA, OiOi!](archived-oioi/2025/06/nota-daia-oioi.md)* 
       * [VOYAGE X TILAKA](archived-oioi/2025/06/draft-voyage-tilaka-web3.md)
       * [GERAKAN GLOBAL DAMAI](archived-oioi/2025/06/gerakan-global-damai.md)
       * [WEB3 STACK PROTOCOL](archived-oioi/2025/06/web3-stack-protocol.md)
